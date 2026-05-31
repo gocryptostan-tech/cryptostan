@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>404 — Страница не найдена | Cryptostan</title>
+  <meta name="robots" content="noindex, nofollow" />
+
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><defs><filter id='s'><feDropShadow dx='0' dy='0' stdDeviation='2' flood-color='%23F7931A' flood-opacity='1'/></filter></defs><rect width='64' height='64' rx='12' fill='%23111'/><text x='32' y='48' font-family='Arial Black,Arial,sans-serif' font-size='40' font-weight='900' fill='%2349EACB' text-anchor='middle' filter='url(%23s)'>CS</text></svg>" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:     #ffffff;
+      --text:   #0a0a0a;
+      --text3:  #666666;
+      --border: #d8d8d4;
+      --orange: #F7931A;
+    }
+    body.dark-mode {
+      --bg:     #111111;
+      --text:   #f0ede8;
+      --text3:  #888480;
+      --border: #2e2e2e;
+      --orange: #F7931A;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', sans-serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      transition: background .2s, color .2s;
+    }
+
+    /* top rule */
+    .top-rule { height: 3px; background: var(--text); }
+
+    /* header */
+    .header {
+      text-align: center;
+      padding: 24px 24px 20px;
+      border-bottom: 3px solid var(--text);
+    }
+    .logo {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 42px;
+      font-weight: 900;
+      letter-spacing: -.02em;
+      color: var(--text);
+      text-decoration: none;
+    }
+    .logo span { color: var(--orange); }
+
+    /* main */
+    main {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 48px 24px;
+    }
+    .error-block { text-align: center; max-width: 480px; }
+
+    .error-code {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 96px;
+      font-weight: 900;
+      font-style: italic;
+      color: var(--orange);
+      line-height: 1;
+      margin-bottom: 16px;
+    }
+
+    .error-title {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 28px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 12px;
+    }
+
+    .error-desc {
+      font-size: 15px;
+      color: var(--text3);
+      line-height: 1.6;
+      margin-bottom: 32px;
+    }
+
+    .home-btn {
+      display: inline-block;
+      background: var(--text);
+      color: var(--bg);
+      font-family: 'Inter', sans-serif;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      padding: 13px 32px;
+      text-decoration: none;
+      transition: opacity .15s;
+    }
+    .home-btn:hover { opacity: .8; }
+
+    /* footer */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 16px 24px;
+      text-align: center;
+      font-size: 11px;
+      color: var(--text3);
+    }
+  </style>
+</head>
+<body>
+
+<div class="top-rule"></div>
+
+<div class="header">
+  <a href="/" class="logo">Crypto<span>stan</span></a>
+</div>
+
+<main>
+  <div class="error-block">
+    <div class="error-code">404</div>
+    <h1 class="error-title" id="title-ru">Страница не найдена</h1>
+    <h1 class="error-title" id="title-en" style="display:none">Page not found</h1>
+    <p class="error-desc" id="desc-ru">Такой страницы не существует или она была перемещена. Вернитесь на главную — там все актуальные новости.</p>
+    <p class="error-desc" id="desc-en" style="display:none">This page doesn't exist or has been moved. Go back to the homepage for the latest news.</p>
+    <a href="/" class="home-btn" id="btn-ru">← На главную</a>
+    <a href="/" class="home-btn" id="btn-en" style="display:none">← Back to home</a>
+  </div>
+</main>
+
+<footer>© 2026 Cryptostan</footer>
+
+<script>
+  // Подхватываем язык из localStorage
+  if (localStorage.getItem('fp-lang') === 'en') {
+    document.getElementById('title-ru').style.display = 'none';
+    document.getElementById('desc-ru').style.display  = 'none';
+    document.getElementById('btn-ru').style.display   = 'none';
+    document.getElementById('title-en').style.display = '';
+    document.getElementById('desc-en').style.display  = '';
+    document.getElementById('btn-en').style.display   = '';
+    document.documentElement.lang = 'en';
+  }
+  // Подхватываем тему
+  if (localStorage.getItem('fp-theme') === 'dark') {
+    document.body.classList.add('dark-mode');
+  }
+</script>
+
+</body>
+</html>

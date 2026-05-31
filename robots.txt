@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /draft/
+Disallow: /.env
+Disallow: /n8n/
+
+Sitemap: https://cryptostan.org/sitemap.xml
+Sitemap: https://cryptostan.org/sitemap-news.xml

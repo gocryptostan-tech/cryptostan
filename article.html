@@ -1,0 +1,865 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Заголовок статьи — Cryptostan</title>
+
+  <meta name="description" content="Описание статьи для SEO" />
+  <link rel="canonical" href="https://cryptostan.org/article.html" />
+  <meta property="og:type"        content="article" />
+  <meta property="og:url"         content="https://cryptostan.org/article.html" />
+  <meta property="og:title"       content="Заголовок статьи — Cryptostan" />
+  <meta property="og:description" content="Описание статьи для SEO" />
+  <meta property="og:image"       content="https://cryptostan.org/og-image.png" />
+  <meta name="twitter:card"       content="summary_large_image" />
+
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><defs><filter id='s'><feDropShadow dx='0' dy='0' stdDeviation='2' flood-color='%23F7931A' flood-opacity='1'/></filter></defs><rect width='64' height='64' rx='12' fill='%23111'/><text x='32' y='48' font-family='Arial Black,Arial,sans-serif' font-size='40' font-weight='900' fill='%2349EACB' text-anchor='middle' filter='url(%23s)'>CS</text></svg>" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,700&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+
+    /* ── LIGHT MODE (default) ── */
+    :root {
+      --bg:        #ffffff;
+      --bg2:       #f7f7f5;
+      --bg3:       #efefed;
+      --text:      #0a0a0a;
+      --text2:     #2a2a2a;
+      --text3:     #666666;
+      --border:    #d8d8d4;
+      --border2:   #c0c0bc;
+      --orange:    #F7931A;
+      --orange-dk: #d97c10;
+      --teal:      #49EACB;
+      --teal-dk:   #2ebbA0;
+      --up:        #1a7a3a;
+      --dn:        #c0392b;
+      --rule-heavy: 3px solid #0a0a0a;
+      --rule-mid:   2px solid #0a0a0a;
+      --rule-light: 1px solid #d8d8d4;
+    }
+
+    /* ── DARK MODE ── */
+    body.dark-mode {
+      --bg:        #111111;
+      --bg2:       #1a1a1a;
+      --bg3:       #222222;
+      --text:      #f0ede8;
+      --text2:     #c8c4be;
+      --text3:     #888480;
+      --border:    #2e2e2e;
+      --border2:   #3d3d3d;
+      --orange:    #F7931A;
+      --orange-dk: #ffaa44;
+      --teal:      #49EACB;
+      --teal-dk:   #6eeedd;
+      --up:        #4caf50;
+      --dn:        #ef5350;
+      --rule-heavy: 3px solid #f0ede8;
+      --rule-mid:   2px solid #f0ede8;
+      --rule-light: 1px solid #2e2e2e;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Source Serif 4', Georgia, serif;
+      font-size: 17px;
+      line-height: 1.55;
+      transition: background .2s, color .2s;
+    }
+
+    a { color: inherit; text-decoration: none; }
+    a:hover { color: var(--orange); }
+    img { max-width: 100%; display: block; }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+
+    /* ── UTILITY BAR ── */
+    .utility-bar {
+      border-bottom: var(--rule-light);
+      padding: 7px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-family: 'Inter', sans-serif;
+      font-size: 12px;
+      color: var(--text3);
+      background: var(--bg);
+    }
+    .utility-left { display: flex; align-items: center; gap: 16px; }
+    .utility-right { display: flex; align-items: center; gap: 8px; }
+
+    .ctrl-btn {
+      font-family: 'Inter', sans-serif;
+      background: none;
+      border: 1px solid var(--border2);
+      padding: 2px 9px;
+      font-size: 11px;
+      cursor: pointer;
+      color: var(--text3);
+      transition: all .15s;
+      font-weight: 500;
+    }
+    .ctrl-btn:hover { color: var(--text); border-color: var(--text3); }
+    .ctrl-btn.active {
+      background: var(--text);
+      border-color: var(--text);
+      color: var(--bg);
+      font-weight: 700;
+    }
+    .theme-btn {
+      background: none;
+      border: 1px solid var(--border2);
+      padding: 2px 8px;
+      font-size: 13px;
+      cursor: pointer;
+      color: var(--text3);
+      transition: all .15s;
+      line-height: 1.2;
+    }
+    .theme-btn:hover { color: var(--text); border-color: var(--text3); }
+
+    .tg-btn {
+      font-family: 'Inter', sans-serif;
+      background: #2AABEE;
+      color: #fff;
+      border: none;
+      padding: 4px 12px;
+      font-size: 11px;
+      font-weight: 700;
+      cursor: pointer;
+      letter-spacing: .03em;
+      text-transform: uppercase;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      transition: background .15s;
+    }
+    .tg-btn:hover { background: #1a96d4; color: #fff; }
+
+    /* ── MASTHEAD ── */
+    .masthead {
+      border-top: var(--rule-heavy);
+      border-bottom: var(--rule-heavy);
+      padding: 18px 24px 14px;
+      text-align: center;
+      background: var(--bg);
+    }
+    .masthead-logo {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 56px;
+      font-weight: 900;
+      letter-spacing: -.02em;
+      line-height: 1;
+      color: var(--text);
+      text-decoration: none;
+    }
+    .masthead-logo span { color: var(--orange); }
+    .masthead-tagline {
+      font-family: 'Inter', sans-serif;
+      font-size: 11px;
+      font-weight: 500;
+      letter-spacing: .18em;
+      text-transform: uppercase;
+      color: var(--text3);
+      margin-top: 6px;
+    }
+
+    /* ── NAV ── */
+    .main-nav-bar {
+      border-bottom: var(--rule-light);
+      background: var(--bg);
+    }
+    .main-nav-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 24px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0;
+    }
+    .main-nav-inner a {
+      font-family: 'Inter', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+      color: var(--text2);
+      padding: 11px 18px;
+      display: block;
+      border-bottom: 3px solid transparent;
+      transition: color .15s, border-color .15s;
+      white-space: nowrap;
+    }
+    .main-nav-inner a:hover { color: var(--text); border-bottom-color: var(--orange); }
+
+    /* ── BREADCRUMB ── */
+    .breadcrumb {
+      padding: 13px 0;
+      font-family: 'Inter', sans-serif;
+      font-size: 12px;
+      color: var(--text3);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      border-bottom: var(--rule-light);
+      margin-bottom: 28px;
+    }
+    .breadcrumb a { color: var(--text3); transition: color .15s; }
+    .breadcrumb a:hover { color: var(--orange); }
+
+    /* ── ARTICLE LAYOUT ── */
+    .article-layout {
+      display: grid;
+      grid-template-columns: 1fr 1px 300px;
+      gap: 0;
+      padding-bottom: 48px;
+    }
+    .article-col    { padding-right: 40px; }
+    .col-divider    { background: var(--border); }
+    .sidebar-col    { padding-left: 28px; padding-top: 0; }
+
+    /* ── ARTICLE ── */
+    .article-kicker {
+      font-family: 'Inter', sans-serif;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      color: var(--orange);
+      margin-bottom: 12px;
+    }
+
+    .article-title {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 40px;
+      font-weight: 700;
+      line-height: 1.15;
+      letter-spacing: -.01em;
+      color: var(--text);
+      margin-bottom: 16px;
+    }
+
+    .article-deck {
+      font-family: 'Source Serif 4', Georgia, serif;
+      font-size: 19px;
+      font-style: italic;
+      color: var(--text2);
+      line-height: 1.5;
+      margin-bottom: 18px;
+      border-left: 3px solid var(--orange);
+      padding-left: 16px;
+    }
+
+    .article-meta {
+      font-family: 'Inter', sans-serif;
+      font-size: 12px;
+      color: var(--text3);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      padding-bottom: 16px;
+      border-bottom: var(--rule-light);
+      margin-bottom: 20px;
+    }
+    .article-meta .author { color: var(--text2); font-weight: 600; }
+    .article-meta .dot    { color: var(--border2); }
+
+    .article-share {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 20px;
+    }
+    .share-label {
+      font-family: 'Inter', sans-serif;
+      font-size: 11px;
+      color: var(--text3);
+      text-transform: uppercase;
+      letter-spacing: .08em;
+    }
+    .share-btn {
+      font-family: 'Inter', sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      padding: 5px 12px;
+      border: 1px solid var(--border2);
+      cursor: pointer;
+      background: none;
+      color: var(--text2);
+      transition: all .15s;
+      text-decoration: none;
+      display: inline-block;
+    }
+    .share-btn:hover { border-color: var(--text3); color: var(--text); }
+    .share-btn.tg { background: #2AABEE; color: #fff; border-color: #2AABEE; }
+    .share-btn.tg:hover { background: #1a96d4; color: #fff; border-color: #1a96d4; }
+
+    .article-image {
+      width: 100%;
+      aspect-ratio: 16/9;
+      background: var(--bg3);
+      border: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 80px;
+      margin-bottom: 0;
+    }
+    .article-image img { width: 100%; height: 100%; object-fit: cover; }
+    .article-caption {
+      font-family: 'Inter', sans-serif;
+      font-size: 11px;
+      color: var(--text3);
+      padding: 7px 0 20px;
+      border-bottom: var(--rule-light);
+      margin-bottom: 24px;
+    }
+
+    /* ── ARTICLE BODY ── */
+    .article-body { font-size: 17px; line-height: 1.75; color: var(--text2); }
+    .article-body p { margin-bottom: 20px; }
+    .article-body h2 {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 26px;
+      font-weight: 700;
+      color: var(--text);
+      margin: 36px 0 14px;
+      padding-top: 4px;
+      border-top: var(--rule-mid);
+    }
+    .article-body h3 {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 21px;
+      font-weight: 700;
+      color: var(--text);
+      margin: 28px 0 10px;
+    }
+    .article-body blockquote {
+      border-left: 3px solid var(--orange);
+      padding: 12px 20px;
+      margin: 28px 0;
+      background: var(--bg2);
+      font-style: italic;
+      color: var(--text);
+      font-size: 18px;
+      line-height: 1.6;
+    }
+    .article-body ul, .article-body ol {
+      padding-left: 24px;
+      margin-bottom: 20px;
+    }
+    .article-body li { margin-bottom: 8px; }
+    .article-body a { color: var(--orange); text-decoration: underline; }
+    .article-body strong { color: var(--text); font-weight: 600; }
+
+    /* ── TAGS ── */
+    .article-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 32px 0;
+      padding-top: 20px;
+      border-top: var(--rule-light);
+    }
+    .tag {
+      font-family: 'Inter', sans-serif;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      color: var(--text3);
+      border: 1px solid var(--border2);
+      padding: 4px 10px;
+      transition: all .15s;
+    }
+    .tag:hover { color: var(--orange); border-color: var(--orange); }
+
+    /* ── RELATED ── */
+    .related-label {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 20px;
+      font-weight: 700;
+      font-style: italic;
+      color: var(--orange);
+      border-top: var(--rule-mid);
+      border-bottom: var(--rule-light);
+      padding: 10px 0 12px;
+      margin-bottom: 4px;
+    }
+    .related-item {
+      display: grid;
+      grid-template-columns: 72px 1fr;
+      gap: 14px;
+      padding: 14px 0;
+      border-bottom: var(--rule-light);
+      align-items: start;
+    }
+    .related-item:last-child { border-bottom: none; }
+    .related-thumb {
+      aspect-ratio: 1;
+      background: var(--bg3);
+      border: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 26px;
+    }
+    .related-kicker {
+      font-family: 'Inter', sans-serif;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      color: var(--orange);
+      margin-bottom: 4px;
+    }
+    .related-item h4 {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 16px;
+      font-weight: 700;
+      line-height: 1.3;
+      color: var(--text);
+    }
+    .related-item h4 a:hover { color: var(--orange); }
+    .related-meta {
+      font-family: 'Inter', sans-serif;
+      font-size: 11px;
+      color: var(--text3);
+      margin-top: 4px;
+    }
+
+    /* ── SIDEBAR ── */
+    .sidebar-block { margin-bottom: 28px; }
+    .sidebar-section-label {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 18px;
+      font-weight: 700;
+      font-style: italic;
+      color: var(--orange);
+      border-bottom: var(--rule-mid);
+      padding-bottom: 8px;
+      margin-bottom: 14px;
+    }
+
+    .tg-cta {
+      background: #2AABEE;
+      padding: 16px 18px;
+      text-align: center;
+      margin-bottom: 28px;
+    }
+    .tg-cta p {
+      font-family: 'Inter', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      color: #fff;
+      margin-bottom: 10px;
+    }
+    .tg-cta a {
+      display: inline-block;
+      background: #fff;
+      color: #2AABEE;
+      font-family: 'Inter', sans-serif;
+      font-size: 12px;
+      font-weight: 700;
+      padding: 7px 16px;
+      text-decoration: none;
+      transition: opacity .15s;
+    }
+    .tg-cta a:hover { opacity: .85; color: #2AABEE; }
+
+    .sidebar-brief { padding: 11px 0; border-bottom: var(--rule-light); }
+    .sidebar-brief:last-child { border-bottom: none; }
+    .sidebar-brief-kicker {
+      font-family: 'Inter', sans-serif;
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      color: var(--orange);
+      margin-bottom: 3px;
+    }
+    .sidebar-brief h4 {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 15px;
+      font-weight: 700;
+      line-height: 1.3;
+      color: var(--text);
+    }
+    .sidebar-brief h4 a:hover { color: var(--orange); }
+    .sidebar-brief-meta {
+      font-family: 'Inter', sans-serif;
+      font-size: 10px;
+      color: var(--text3);
+      margin-top: 3px;
+    }
+
+    .ref-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 0;
+      border-bottom: var(--rule-light);
+      text-decoration: none;
+      transition: opacity .15s;
+    }
+    .ref-item:last-child { border-bottom: none; }
+    .ref-item:hover { opacity: .8; }
+    .ref-icon { font-size: 22px; flex-shrink: 0; }
+    .ref-info { flex: 1; }
+    .ref-name { font-family: 'Inter', sans-serif; font-size: 13px; font-weight: 700; color: var(--text); }
+    .ref-desc { font-family: 'Inter', sans-serif; font-size: 11px; color: var(--text3); }
+    .ref-arrow { color: var(--text3); font-size: 16px; }
+
+    /* ── FOOTER ── */
+    footer {
+      border-top: var(--rule-heavy);
+      background: var(--bg);
+      padding: 28px 24px 36px;
+    }
+    .footer-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+    .footer-logo {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 28px;
+      font-weight: 900;
+      color: var(--text);
+      text-decoration: none;
+    }
+    .footer-logo span { color: var(--orange); }
+    .footer-copy {
+      font-family: 'Inter', sans-serif;
+      font-size: 11px;
+      color: var(--text3);
+    }
+
+    /* ── LANG HIDDEN ── */
+    [data-lang="en"] { display: none !important; }
+    body.lang-en [data-lang="ru"] { display: none !important; }
+    body.lang-en [data-lang="en"] { display: revert !important; }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 1024px) {
+      .article-layout { grid-template-columns: 1fr; }
+      .col-divider    { display: none; }
+      .article-col    { padding-right: 0; }
+      .sidebar-col    { padding-left: 0; border-top: var(--rule-light); padding-top: 24px; margin-top: 8px; }
+    }
+    @media (max-width: 680px) {
+      .masthead-logo  { font-size: 38px; }
+      .article-title  { font-size: 28px; }
+      .article-deck   { font-size: 16px; }
+      .article-body   { font-size: 15.5px; }
+      .main-nav-inner { justify-content: flex-start; overflow-x: auto; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- UTILITY BAR -->
+<div class="utility-bar">
+  <div class="utility-left">
+    <span id="date-display"></span>
+  </div>
+  <div class="utility-right">
+    <button class="ctrl-btn active" id="btn-ru" onclick="setLang('ru')">RU</button>
+    <button class="ctrl-btn"        id="btn-en" onclick="setLang('en')">EN</button>
+    <button class="theme-btn" id="theme-btn" onclick="toggleTheme()" title="Тема">🌙</button>
+    <a href="https://t.me/cryptostan_ru" target="_blank" rel="noopener" class="tg-btn" data-lang="ru">✈ Telegram</a>
+    <a href="https://t.me/cryptostan_en" target="_blank" rel="noopener" class="tg-btn" data-lang="en">✈ Telegram</a>
+  </div>
+</div>
+
+<!-- MASTHEAD -->
+<div class="masthead">
+  <a href="index.html" class="masthead-logo">Crypto<span>stan</span></a>
+  <div class="masthead-tagline" data-lang="ru">Финансы · Крипто · Законы · Политика</div>
+  <div class="masthead-tagline" data-lang="en">Finance · Crypto · Law · Politics</div>
+</div>
+
+<!-- MAIN NAV -->
+<nav class="main-nav-bar">
+  <div class="main-nav-inner">
+    <a href="index.html#finance" data-lang="ru">Финансы</a>
+    <a href="index.html#finance" data-lang="en">Finance</a>
+    <a href="index.html#crypto"  data-lang="ru">Крипто</a>
+    <a href="index.html#crypto"  data-lang="en">Crypto</a>
+    <a href="index.html#laws"    data-lang="ru">Законы</a>
+    <a href="index.html#laws"    data-lang="en">Laws</a>
+    <a href="index.html#markets" data-lang="ru">Рынки</a>
+    <a href="index.html#markets" data-lang="en">Markets</a>
+    <a href="index.html#politics" data-lang="ru">Политика</a>
+    <a href="index.html#politics" data-lang="en">Politics</a>
+  </div>
+</nav>
+
+<div class="container">
+
+  <!-- BREADCRUMB -->
+  <div class="breadcrumb">
+    <a href="index.html" data-lang="ru">Главная</a>
+    <a href="index.html" data-lang="en">Home</a>
+    <span>›</span>
+    <a href="index.html#crypto" data-lang="ru">Крипто</a>
+    <a href="index.html#crypto" data-lang="en">Crypto</a>
+    <span>›</span>
+    <span data-lang="ru">Bitcoin пробил $107 000</span>
+    <span data-lang="en">Bitcoin breaks $107K</span>
+  </div>
+
+  <!-- ARTICLE + SIDEBAR -->
+  <div class="article-layout">
+    <article class="article-col">
+
+      <div class="article-kicker" data-lang="ru">₿ Биткоин</div>
+      <div class="article-kicker" data-lang="en">₿ Bitcoin</div>
+
+      <h1 class="article-title" data-lang="ru">Bitcoin пробил $107 000 — аналитики называют три катализатора ралли</h1>
+      <h1 class="article-title" data-lang="en">Bitcoin breaks $107K — analysts name three rally catalysts</h1>
+
+      <p class="article-deck" data-lang="ru">Эфириум вырос на 3,1%. Рынок достиг капитализации $3,8 трлн — исторический рекорд. Возможна коррекция после технического пробоя.</p>
+      <p class="article-deck" data-lang="en">Ethereum up 3.1%. Market cap hits $3.8T — an all-time record. Correction possible after technical breakout.</p>
+
+      <div class="article-meta">
+        <span class="author">Алексей Краснов</span>
+        <span class="dot">·</span>
+        <span data-lang="ru">23 мая 2026</span>
+        <span data-lang="en">May 23, 2026</span>
+        <span class="dot">·</span>
+        <span data-lang="ru">5 мин чтения</span>
+        <span data-lang="en">5 min read</span>
+      </div>
+
+      <div class="article-share">
+        <span class="share-label" data-lang="ru">Поделиться:</span>
+        <span class="share-label" data-lang="en">Share:</span>
+        <a href="https://t.me/share/url?url=https://cryptostan.org/article.html" target="_blank" class="share-btn tg">✈ Telegram</a>
+        <a href="https://twitter.com/intent/tweet?url=https://cryptostan.org/article.html" target="_blank" class="share-btn">𝕏 Twitter</a>
+      </div>
+
+      <div class="article-image">₿</div>
+      <p class="article-caption" data-lang="ru">График Bitcoin на бирже, 23 мая 2026</p>
+      <p class="article-caption" data-lang="en">Bitcoin chart, May 23, 2026</p>
+
+      <div class="article-body">
+        <div data-lang="ru">
+          <p>Bitcoin впервые в истории преодолел отметку в <strong>$107 000</strong>, обновив исторический максимум в ходе торгов 23 мая 2026 года. За сутки монета прибавила 4,2%, капитализация всего крипторынка достигла $3,8 трлн.</p>
+
+          <h2>Три причины роста</h2>
+
+          <p>Аналитики выделяют три ключевых катализатора текущего ралли.</p>
+
+          <p><strong>Первый — институциональный спрос.</strong> Биткоин-ETF в США зафиксировали рекордный приток за неделю — $2,4 млрд. BlackRock и Fidelity суммарно управляют активами на $45 млрд.</p>
+
+          <p><strong>Второй — регуляторный позитив.</strong> Конгресс США принял рамочный закон о регулировании стейблкоинов, что рынок воспринял как сигнал легитимизации отрасли.</p>
+
+          <p><strong>Третий — макроэкономика.</strong> Инфляция в США снизилась до 2,9%, усилив ожидания снижения ставки ФРС осенью. Исторически Bitcoin хорошо реагирует на мягкую монетарную политику.</p>
+
+          <h2>Что говорят аналитики</h2>
+
+          <blockquote>«Пробой $107 000 открывает путь к $120 000 в течение квартала. Но коррекция до $95 000 вполне возможна — рынок перегрет по RSI.»</blockquote>
+
+          <p>Ethereum в свою очередь прибавил 3,1%, достигнув $3 850. Solana выросла на 5,7%. Альткоины в целом следуют за биткоином с лагом в 24–48 часов.</p>
+
+          <h2>Риски</h2>
+
+          <p>Несмотря на оптимизм, аналитики предупреждают о нескольких рисках: перегретость рынка по техническим индикаторам, возможная жёсткая риторика ФРС, а также регуляторная неопределённость в ЕС.</p>
+
+          <p>Россия, между тем, продолжает рассматривать легализацию крипто-расчётов в международной торговле — соответствующий законопроект прошёл второе чтение в Госдуме.</p>
+        </div>
+
+        <div data-lang="en">
+          <p>Bitcoin surpassed <strong>$107,000</strong> for the first time in history, setting a new all-time high during trading on May 23, 2026. The coin gained 4.2% in 24 hours, with the total crypto market cap reaching $3.8T.</p>
+
+          <h2>Three catalysts</h2>
+
+          <p>Analysts point to three key drivers behind the current rally.</p>
+
+          <p><strong>First — institutional demand.</strong> US Bitcoin ETFs recorded a record weekly inflow of $2.4B. BlackRock and Fidelity together manage $45B in assets.</p>
+
+          <p><strong>Second — regulatory clarity.</strong> The US Congress passed a stablecoin framework, which markets interpreted as a legitimization signal for the industry.</p>
+
+          <p><strong>Third — macro tailwinds.</strong> US inflation fell to 2.9%, strengthening expectations of a Fed rate cut this fall. Bitcoin historically performs well in soft monetary policy environments.</p>
+
+          <h2>What analysts say</h2>
+
+          <blockquote>"Breaking $107K opens the path to $120K within the quarter. But a correction to $95K is possible — RSI is overbought."</blockquote>
+
+          <p>Ethereum gained 3.1%, reaching $3,850. Solana rose 5.7%. Altcoins generally follow Bitcoin with a 24–48 hour lag.</p>
+
+          <h2>Risks</h2>
+
+          <p>Despite optimism, analysts warn of several risks: overbought technical indicators, possible hawkish Fed rhetoric, and regulatory uncertainty in the EU.</p>
+        </div>
+      </div>
+
+      <!-- Теги -->
+      <div class="article-tags">
+        <a href="#" class="tag">Bitcoin</a>
+        <a href="#" class="tag" data-lang="ru">Крипто</a>
+        <a href="#" class="tag" data-lang="en">Crypto</a>
+        <a href="#" class="tag">ETF</a>
+        <a href="#" class="tag" data-lang="ru">Рынки</a>
+        <a href="#" class="tag" data-lang="en">Markets</a>
+      </div>
+
+      <!-- Похожие статьи -->
+      <div class="related-label" data-lang="ru">Читайте также</div>
+      <div class="related-label" data-lang="en">Related articles</div>
+
+      <div class="related-item">
+        <div class="related-thumb">⚖️</div>
+        <div>
+          <div class="related-kicker" data-lang="ru">Законы</div>
+          <div class="related-kicker" data-lang="en">Laws</div>
+          <h4><a href="#" data-lang="ru">Россия легализует крипто-расчёты в международной торговле</a></h4>
+          <h4><a href="#" data-lang="en">Russia legalizes crypto for international trade</a></h4>
+          <div class="related-meta">21 мая 2026 · 4 мин</div>
+        </div>
+      </div>
+      <div class="related-item">
+        <div class="related-thumb">📋</div>
+        <div>
+          <div class="related-kicker" data-lang="ru">Налоги</div>
+          <div class="related-kicker" data-lang="en">Taxes</div>
+          <h4><a href="#" data-lang="ru">Налог на крипту: новые правила декларирования с 1 июля 2026</a></h4>
+          <h4><a href="#" data-lang="en">Crypto tax: new declaration rules from July 1, 2026</a></h4>
+          <div class="related-meta">22 мая 2026 · 3 мин</div>
+        </div>
+      </div>
+      <div class="related-item">
+        <div class="related-thumb">📈</div>
+        <div>
+          <div class="related-kicker" data-lang="ru">Рынки</div>
+          <div class="related-kicker" data-lang="en">Markets</div>
+          <h4><a href="#" data-lang="ru">МосБиржа прибавила 2,4% на фоне сигналов о переговорах</a></h4>
+          <h4><a href="#" data-lang="en">MOEX gains 2.4% on ceasefire signals</a></h4>
+          <div class="related-meta">23 мая 2026 · 4 мин</div>
+        </div>
+      </div>
+
+    </article>
+
+    <div class="col-divider"></div>
+
+    <!-- SIDEBAR -->
+    <aside class="sidebar-col">
+
+      <div class="tg-cta">
+        <p data-lang="ru">📢 Новости первыми — в Telegram</p>
+        <p data-lang="en">📢 Get news first — on Telegram</p>
+        <a href="https://t.me/cryptostan_ru" target="_blank" rel="noopener" data-lang="ru">✈ @cryptostan_ru</a>
+        <a href="https://t.me/cryptostan_en" target="_blank" rel="noopener" data-lang="en">✈ @cryptostan_en</a>
+      </div>
+
+      <div class="sidebar-block">
+        <div class="sidebar-section-label" data-lang="ru">Читают сейчас</div>
+        <div class="sidebar-section-label" data-lang="en">Most read</div>
+        <div class="sidebar-brief">
+          <div class="sidebar-brief-kicker" data-lang="ru">Финансы</div>
+          <div class="sidebar-brief-kicker" data-lang="en">Finance</div>
+          <h4><a href="#" data-lang="ru">МосБиржа +2,4% на фоне переговоров</a></h4>
+          <h4><a href="#" data-lang="en">MOEX +2.4% on talks</a></h4>
+          <div class="sidebar-brief-meta">23 мая 2026</div>
+        </div>
+        <div class="sidebar-brief">
+          <div class="sidebar-brief-kicker" data-lang="ru">Законы</div>
+          <div class="sidebar-brief-kicker" data-lang="en">Laws</div>
+          <h4><a href="#" data-lang="ru">Налог на крипту с 1 июля</a></h4>
+          <h4><a href="#" data-lang="en">Crypto tax from July 1</a></h4>
+          <div class="sidebar-brief-meta">22 мая 2026</div>
+        </div>
+        <div class="sidebar-brief">
+          <div class="sidebar-brief-kicker" data-lang="ru">Банки</div>
+          <div class="sidebar-brief-kicker" data-lang="en">Banks</div>
+          <h4><a href="#" data-lang="ru">Сбербанк поднял ставки до 18%</a></h4>
+          <h4><a href="#" data-lang="en">Sberbank raises rates to 18%</a></h4>
+          <div class="sidebar-brief-meta">22 мая 2026</div>
+        </div>
+      </div>
+
+      <div class="sidebar-block">
+        <div class="sidebar-section-label" data-lang="ru">Партнёры</div>
+        <div class="sidebar-section-label" data-lang="en">Partners</div>
+        <a href="https://www.bybit.com/invite?ref=O2GPL" target="_blank" rel="noopener" class="ref-item">
+          <div class="ref-icon">🔶</div>
+          <div class="ref-info">
+            <div class="ref-name">Bybit</div>
+            <div class="ref-desc" data-lang="ru">До $100 бонус</div>
+            <div class="ref-desc" data-lang="en">Up to $100 bonus</div>
+          </div>
+          <div class="ref-arrow">→</div>
+        </a>
+      </div>
+
+    </aside>
+  </div>
+
+</div><!-- /container -->
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-inner">
+    <a href="index.html" class="footer-logo">Crypto<span>stan</span></a>
+    <div class="footer-copy">
+      <span data-lang="ru">© 2026 Cryptostan. Не является инвестиционной рекомендацией.</span>
+      <span data-lang="en">© 2026 Cryptostan. Not investment advice.</span>
+    </div>
+  </div>
+</footer>
+
+<script>
+(function() {
+  const d = new Date();
+  const opts = { weekday:'long', year:'numeric', month:'long', day:'numeric' };
+  const el = document.getElementById('date-display');
+  if (el) el.textContent = d.toLocaleDateString('ru-RU', opts);
+})();
+
+function setLang(lang) {
+  document.body.classList.toggle('lang-en', lang === 'en');
+  document.getElementById('btn-ru').classList.toggle('active', lang === 'ru');
+  document.getElementById('btn-en').classList.toggle('active', lang === 'en');
+  document.documentElement.lang = lang;
+  localStorage.setItem('fp-lang', lang);
+}
+(function() {
+  if (localStorage.getItem('fp-lang') === 'en') setLang('en');
+})();
+
+function toggleTheme() {
+  const isDark = document.body.classList.toggle('dark-mode');
+  document.getElementById('theme-btn').textContent = isDark ? '☀️' : '🌙';
+  localStorage.setItem('fp-theme', isDark ? 'dark' : 'light');
+}
+(function() {
+  if (localStorage.getItem('fp-theme') === 'dark') {
+    document.body.classList.add('dark-mode');
+    document.getElementById('theme-btn').textContent = '☀️';
+  }
+})();
+</script>
+
+</body>
+</html>
