@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780609329-e9ho",
+    "timestamp": 1780609329,
+    "date": "2026-06-04",
+    "date_ru": "4 июня 2026",
+    "date_en": "June 4, 2026",
+    "category": "technology",
+    "kicker_ru": "Безопасность ИИ",
+    "kicker_en": "AI Security",
+    "title_ru": "Модель Mythos AI выявила сотни уязвимостей в Firefox",
+    "text_ru": "Технический директор Mozilla Рэффи Крикориан подчеркнул важность выявления и устранения критических уязвимостей в браузере Firefox по мере того, как растет внедрение ИИ. Он настаивал на том, что ИИ-системы должны работать в интересах пользователей, предупреждая об опасности зависимости потребителей от «чужого интеллекта». Открытие демонстрирует растущие киберугрозы в эпоху искусственного интеллекта.\n📰 Bloomberg\n✍️ Не указан",
+    "title_en": "Mythos AI Model Finds Hundreds of Vulnerabilities in Firefox",
+    "text_en": "Mozilla's CTO Raffi Krikorian emphasized the importance of identifying and patching critical vulnerabilities in Firefox as AI integration accelerates. He stressed that ensuring AI systems work in users' interests is crucial, warning against scenarios where consumers become dependent on \"someone else's intelligence.\" The discovery highlights growing cybersecurity challenges in the AI era.\n📰 Bloomberg\n✍️ Not specified",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1748908800-bitcoin-107k",
     "timestamp": 1748908800,
     "date": "2026-05-23",
