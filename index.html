@@ -1632,6 +1632,150 @@ window.addEventListener('scroll', () => {
     a.classList.toggle('active', a.getAttribute('href') === '#' + current);
   });
 });
+
+// ═══════════════════════════════════════
+// NEWS LOADING FROM news.json
+// ═══════════════════════════════════════
+const KICKER_CLASS = {
+  finance: 'kicker-finance',
+  crypto:  'kicker-crypto',
+  law:     'kicker-law',
+  politics:'kicker-politics',
+  markets: 'kicker-markets',
+};
+
+function he(s) {
+  if (!s) return '';
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function newsItemHTML(a) {
+  const cls = KICKER_CLASS[a.category] || 'kicker-finance';
+  return `<div class="news-item">
+  <div>
+    <div class="news-kicker ${cls}" data-lang="ru">${he(a.kicker_ru)}</div>
+    <div class="news-kicker ${cls}" data-lang="en">${he(a.kicker_en)}</div>
+    <h3>
+      <a href="${he(a.link||'#')}" target="_blank" rel="noopener" data-lang="ru">${he(a.title_ru)}</a>
+      <a href="${he(a.link||'#')}" target="_blank" rel="noopener" data-lang="en">${he(a.title_en)}</a>
+    </h3>
+    <p data-lang="ru">${he(a.text_ru)}</p>
+    <p data-lang="en">${he(a.text_en)}</p>
+    <div class="news-meta">${he(a.date_ru||a.date||'')}${a.source ? ' · ' + he(a.source) : ''}</div>
+  </div>
+  <div class="news-thumb">${a.thumb||'📰'}</div>
+</div>`;
+}
+
+function briefHTML(a) {
+  return `<div class="brief-story">
+  <div class="brief-kicker" data-lang="ru">${he(a.kicker_ru)}</div>
+  <div class="brief-kicker" data-lang="en">${he(a.kicker_en)}</div>
+  <h3>
+    <a href="${he(a.link||'#')}" target="_blank" rel="noopener" data-lang="ru">${he(a.title_ru)}</a>
+    <a href="${he(a.link||'#')}" target="_blank" rel="noopener" data-lang="en">${he(a.title_en)}</a>
+  </h3>
+  <p data-lang="ru">${he(a.text_ru)}</p>
+  <p data-lang="en">${he(a.text_en)}</p>
+  <div class="brief-meta">${he(a.date_ru||a.date||'')}</div>
+</div>`;
+}
+
+function secStoryHTML(a) {
+  return `<div class="sec-story">
+  <div class="sec-kicker" data-lang="ru">${he(a.kicker_ru)}</div>
+  <div class="sec-kicker" data-lang="en">${he(a.kicker_en)}</div>
+  <h3>
+    <a href="${he(a.link||'#')}" target="_blank" rel="noopener" data-lang="ru">${he(a.title_ru)}</a>
+    <a href="${he(a.link||'#')}" target="_blank" rel="noopener" data-lang="en">${he(a.title_en)}</a>
+  </h3>
+  <p data-lang="ru">${he(a.text_ru)}</p>
+  <p data-lang="en">${he(a.text_en)}</p>
+  <div class="sec-meta">${he(a.date_ru||a.date||'')}</div>
+</div>`;
+}
+
+async function loadNews() {
+  try {
+    const res = await fetch('news.json?_=' + Date.now());
+    if (!res.ok) return;
+    const articles = await res.json();
+    if (!Array.isArray(articles) || !articles.length) return;
+
+    // HERO — lead story
+    const lead = articles[0];
+    const leadEl = document.querySelector('.lead-story');
+    if (leadEl && lead) {
+      leadEl.innerHTML = `
+        <div class="lead-kicker" data-lang="ru">${he(lead.kicker_ru)}</div>
+        <div class="lead-kicker" data-lang="en">${he(lead.kicker_en)}</div>
+        <h1>
+          <a href="${he(lead.link||'#')}" target="_blank" rel="noopener" data-lang="ru">${he(lead.title_ru)}</a>
+          <a href="${he(lead.link||'#')}" target="_blank" rel="noopener" data-lang="en">${he(lead.title_en)}</a>
+        </h1>
+        <p class="lead-deck" data-lang="ru">${he(lead.text_ru)}</p>
+        <p class="lead-deck" data-lang="en">${he(lead.text_en)}</p>
+        <div class="lead-meta">
+          <span data-lang="ru">${he(lead.date_ru||lead.date||'')}</span>
+          <span data-lang="en">${he(lead.date_en||lead.date||'')}</span>
+          ${lead.source ? `&nbsp;·&nbsp; ${he(lead.source)}` : ''}
+        </div>`;
+    }
+
+    // HERO — brief stories (right column)
+    const heroSide = document.querySelector('.hero-side');
+    if (heroSide && articles.length > 1) {
+      heroSide.innerHTML = articles.slice(1, 5).map(briefHTML).join('');
+    }
+
+    // SECONDARY STRIP
+    const secStrip = document.querySelector('.secondary-strip');
+    if (secStrip && articles.length > 5) {
+      secStrip.innerHTML = articles.slice(5, 8).map(secStoryHTML).join('');
+    }
+
+    // SECTION BLOCKS
+    const SECTION_MAP = {
+      finance:  'finance',
+      crypto:   'crypto',
+      law:      'laws',
+      politics: 'politics',
+      markets:  'markets',
+    };
+    Object.entries(SECTION_MAP).forEach(([cat, sectionId]) => {
+      const section = document.getElementById(sectionId);
+      if (!section) return;
+      const filtered = articles.filter(a => a.category === cat).slice(0, 5);
+      if (!filtered.length) return;
+      section.querySelectorAll('.news-item').forEach(el => el.remove());
+      const head = section.querySelector('.section-head');
+      if (head) head.insertAdjacentHTML('afterend', filtered.map(newsItemHTML).join(''));
+    });
+
+    // SIDEBAR — Most Read (2nd sidebar-block)
+    const sidebarBlocks = document.querySelectorAll('.sidebar .sidebar-block');
+    if (sidebarBlocks[1]) {
+      sidebarBlocks[1].innerHTML = `
+        <div class="sidebar-section-label" data-lang="ru">Читают сейчас</div>
+        <div class="sidebar-section-label" data-lang="en">Most read</div>
+        ${articles.slice(0, 5).map(a => `
+          <div class="sidebar-brief">
+            <div class="sidebar-brief-kicker" data-lang="ru">${he(a.kicker_ru)}</div>
+            <div class="sidebar-brief-kicker" data-lang="en">${he(a.kicker_en)}</div>
+            <h4>
+              <a href="${he(a.link||'#')}" target="_blank" rel="noopener" data-lang="ru">${he(a.title_ru)}</a>
+              <a href="${he(a.link||'#')}" target="_blank" rel="noopener" data-lang="en">${he(a.title_en)}</a>
+            </h4>
+            <div class="sidebar-brief-meta">${he(a.date_ru||a.date||'')}</div>
+          </div>`).join('')}`;
+    }
+
+  } catch(e) {
+    console.warn('news.json load failed:', e);
+  }
+}
+
+loadNews();
 </script>
 
 </body>
