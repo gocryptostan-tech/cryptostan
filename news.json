@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780610449-qva4",
+    "timestamp": 1780610449,
+    "date": "2026-06-04",
+    "date_ru": "4 июня 2026",
+    "date_en": "June 4, 2026",
+    "category": "law",
+    "kicker_ru": "Регуляции",
+    "kicker_en": "Regulation",
+    "title_ru": "Хестер Пирс поставила под вопрос ответственность разработчиков DeFi перед законом",
+    "text_ru": "Комиссар SEC Хестер Пирс выступила против распространения требований федеральной регистрации ценных бумаг на разработчиков открытого кода только потому, что их код используют третьи лица. Выступая в Принстоне на конференции IC3 Blockchain Camp, Пирс подняла острый вопрос: как регуляторам следует относиться к программистам, которые выпускают ПО для децентрализованных финансов, не контролируя его применение и использование.\n📰 crypto.news\n✍️ Irene Mukiri",
+    "title_en": "Hester Peirce Questions DeFi Developer Liability Under Securities Law",
+    "text_en": "SEC Commissioner Hester Peirce argued that open-source blockchain developers should not be subject to federal securities registration requirements merely because their code is used by others. Speaking at Princeton's IC3 Blockchain Camp, Peirce raised a critical question about how regulators should treat developers who publish decentralized finance software without control over its deployment or use.\n📰 crypto.news\n✍️ Irene Mukiri",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780609329-e9ho",
     "timestamp": 1780609329,
     "date": "2026-06-04",
