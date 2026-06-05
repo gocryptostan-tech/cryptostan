@@ -4,6 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Cryptostan</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
   <style>
@@ -1052,18 +1053,20 @@ async function fetchFX() {
   try {
     const yDate = new Date(Date.now() - 86400000).toISOString().split('T')[0];
     const [latestRes, prevRes] = await Promise.all([
-      fetch('https://api.frankfurter.app/latest?from=USD&to=EUR,GBP,JPY,CHF,AUD'),
-      fetch(`https://api.frankfurter.app/${yDate}?from=USD&to=EUR,GBP,JPY,CHF,AUD`)
+      fetch('https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json'),
+      fetch(`https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@${yDate}/v1/currencies/usd.json`)
     ]);
     const latest = await latestRes.json();
     const prev   = await prevRes.json();
-    fxData = fxData.map(p => {
-      const rate     = p.from === 'USD' ? latest.rates[p.to] : 1 / latest.rates[p.from];
-      const prevRate = p.from === 'USD' ? prev.rates[p.to]   : 1 / prev.rates[p.from];
-      return { ...p, rate, prev: prevRate };
-    });
+    const getRate = (data, p) =>
+      p.from === 'USD' ? data.usd[p.to.toLowerCase()] : 1 / data.usd[p.from.toLowerCase()];
+    fxData = fxData.map(p => ({
+      ...p,
+      rate:     getRate(latest, p),
+      prev:     getRate(prev,   p)
+    }));
     renderFX();
-  } catch(e) {}
+  } catch(e) { console.error('FX error:', e); }
 }
 
 function renderFX() {
