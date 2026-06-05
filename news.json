@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780664455-9lpl",
+    "timestamp": 1780664455,
+    "date": "2026-06-05",
+    "date_ru": "5 июня 2026",
+    "date_en": "June 5, 2026",
+    "category": "crypto",
+    "kicker_ru": "Zcash, Безопасность",
+    "kicker_en": "Zcash, Security",
+    "title_ru": "Почему Zcash упал в цене даже после исправления уязвимости",
+    "text_ru": "В мае 2026 года разработчики Zcash обнаружили критическую уязвимость в пуле приватности Orchard, которая позволила бы злоумышленникам безследно создавать неограниченное количество поддельных токенов ZEC. Несмотря на оперативное исправление ошибки, цена ZEC значительно упала на рынке, что отражает беспокойство инвесторов по поводу защиты сети и последствий для криптовалют, ориентированных на приватность.\n📰 crypto.news\n✍️ Rony Roy",
+    "title_en": "Why Zcash Crashed Even After the Bug Was Fixed",
+    "text_en": "In May 2026, Zcash developers discovered a critical vulnerability in the Orchard privacy pool that could have allowed attackers to mint unlimited counterfeit ZEC tokens undetectably. Despite the swift bug fix, the ZEC token experienced a significant market crash, reflecting investor concerns about the network's security protocols and the broader implications for privacy-focused cryptocurrencies.\n📰 crypto.news\n✍️ Rony Roy",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780664441-i7wn",
     "timestamp": 1780664441,
     "date": "2026-06-05",
