@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780700152-lge6",
+    "timestamp": 1780700152,
+    "date": "2026-06-05",
+    "date_ru": "5 июня 2026",
+    "date_en": "June 5, 2026",
+    "category": "crypto",
+    "kicker_ru": "Интеграция AI",
+    "kicker_en": "AI Integration",
+    "title_ru": "Travala запустила бронирование отелей через AI-агентов в USDC на Base",
+    "text_ru": "Платформа Travala представила протокол, который позволяет AI-агентам автономно искать и бронировать отели с использованием стейблкоина USDC в сети Base. Искусственный интеллект берёт на себя поиск и организацию бронирования, но окончательное подтверждение платежа остаётся за пользователем. Это отражает растущий тренд внедрения AI в децентрализованные финансы и туристические сервисы.\n📰 Cointelegraph\n✍️ Bryan O'Shea",
+    "title_en": "Travala Enables AI Agents to Book Hotels with USDC on Base Network",
+    "text_en": "Travala has launched a new protocol allowing AI agents to autonomously search and book hotels using USDC stablecoin on the Base blockchain. While the AI handles search and booking logistics, users retain control by approving final payments, combining automation with security. The integration represents a growing trend of AI adoption in decentralized finance and travel services.\n📰 Cointelegraph\n✍️ Bryan O'Shea",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780697966-krsw",
     "timestamp": 1780697966,
     "date": "2026-06-05",
