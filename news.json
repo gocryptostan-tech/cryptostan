@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780666932-5lke",
+    "timestamp": 1780666932,
+    "date": "2026-06-05",
+    "date_ru": "5 июня 2026",
+    "date_en": "June 5, 2026",
+    "category": "markets",
+    "kicker_ru": "Обновление рынка",
+    "kicker_en": "Market Update",
+    "title_ru": "Индекс CoinDesk 20 снизился на фоне падения Bitcoin на 2,8%",
+    "text_ru": "Индекс CoinDesk 20 продемонстрировал массовое снижение: все двадцать активов, входящих в его состав, торговались ниже уровней предыдущего дня. Bitcoin возглавил потери со снижением на 2,8%, отражая общую слабость на крипторынке.\n📰 CoinDesk\n✍️ CoinDesk Indices",
+    "title_en": "CoinDesk 20 Index Falls as Bitcoin Drops 2.8%",
+    "text_en": "The CoinDesk 20 index experienced a broad decline, with all twenty constituent assets trading lower compared to the previous day. Bitcoin led the losses with a 2.8% price drop, reflecting broader market weakness across the cryptocurrency sector.\n📰 CoinDesk\n✍️ CoinDesk Indices",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780664455-9lpl",
     "timestamp": 1780664455,
     "date": "2026-06-05",
