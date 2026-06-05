@@ -1,0 +1,691 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Инвестиционный калькулятор — Cryptostan</title>
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg:      #ffffff;
+  --text:    #0a0a0a;
+  --text2:   #444444;
+  --text3:   #999999;
+  --border:  #e8e8e8;
+  --surface: #f6f6f4;
+  --orange:  #F7931A;
+  --teal:    #49EACB;
+}
+body.dark {
+  --bg:      #111111;
+  --text:    #f0ede8;
+  --text2:   #aaaaaa;
+  --text3:   #555555;
+  --border:  #252525;
+  --surface: #1a1a1a;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  transition: background .2s, color .2s;
+  min-height: 100vh;
+}
+
+/* ── HEADER ── */
+.header {
+  background: linear-gradient(to bottom, #49EACB 0%, #1a3a35 40%, #2a1a08 60%, #F7931A 100%);
+  padding: 22px 0 18px;
+}
+.header-inner {
+  max-width: 1060px; margin: 0 auto; padding: 0 24px;
+  display: flex; align-items: center; justify-content: space-between;
+}
+.logo {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 32px; font-weight: 900; letter-spacing: -.02em;
+  text-decoration: none; line-height: 1;
+}
+.logo-crypto { color: #F7931A; }
+.logo-stan   { color: #49EACB; }
+.dark-btn {
+  background: none; border: none; color: rgba(255,255,255,0.55);
+  font-size: 16px; cursor: pointer; padding: 4px 8px; border-radius: 4px; transition: color .15s;
+}
+.dark-btn:hover { color: #fff; }
+
+/* ── SEPARATOR ── */
+.sep { height: 2px; background: linear-gradient(to right, #49EACB, #F7931A); }
+
+/* ── PAGE TITLE ── */
+.page-title {
+  max-width: 1060px; margin: 0 auto; padding: 28px 24px 0;
+}
+.page-title h1 {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 28px; font-weight: 900; letter-spacing: -.02em;
+  color: var(--text);
+}
+.page-title p { font-size: 13px; color: var(--text3); margin-top: 4px; }
+
+/* ── LAYOUT ── */
+.container {
+  max-width: 1060px; margin: 0 auto; padding: 20px 24px 48px;
+  display: grid; grid-template-columns: 360px 1fr; gap: 20px;
+}
+@media (max-width: 820px) { .container { grid-template-columns: 1fr; } }
+
+/* ── CARD ── */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 22px;
+}
+
+/* ── MODE TABS ── */
+.mode-tabs {
+  display: flex; flex-wrap: wrap; gap: 0;
+  border: 1px solid var(--border); border-radius: 4px;
+  overflow: hidden; margin-bottom: 22px;
+}
+.mode-tab {
+  flex: 1; min-width: 80px;
+  padding: 8px 4px;
+  border: none; border-right: 1px solid var(--border);
+  background: var(--bg); color: var(--text3);
+  cursor: pointer; font-family: 'Roboto', sans-serif;
+  font-size: 11px; font-weight: 600; letter-spacing: .07em;
+  text-transform: uppercase; transition: .15s; text-align: center;
+}
+.mode-tab:last-child { border-right: none; }
+.mode-tab:hover { color: var(--text); background: var(--surface); }
+.mode-tab.active { background: var(--orange); color: #fff; border-color: var(--orange); }
+
+/* ── FIELDS ── */
+.field { margin-bottom: 14px; }
+.field label {
+  display: block; font-size: 11px; font-weight: 600;
+  letter-spacing: .07em; text-transform: uppercase;
+  color: var(--text3); margin-bottom: 5px;
+}
+.input-wrap { position: relative; }
+.input-wrap input, .field select {
+  width: 100%; padding: 9px 42px 9px 11px;
+  border: 1px solid var(--border); border-radius: 4px;
+  background: var(--bg); color: var(--text);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 14px; outline: none; transition: border .15s;
+}
+.field select { padding-right: 11px; font-family: 'Roboto', sans-serif; font-size: 13px; cursor: pointer; appearance: none; }
+.input-wrap input:focus { border-color: var(--orange); }
+.field select:focus { border-color: var(--orange); outline: none; }
+.input-unit {
+  position: absolute; right: 11px; top: 50%;
+  transform: translateY(-50%);
+  color: var(--text3); font-size: 12px; pointer-events: none;
+  font-family: 'Roboto', sans-serif;
+}
+.input-row { display: flex; gap: 8px; }
+.input-row .field { flex: 1; margin: 0; }
+
+/* ── PRESETS ── */
+.presets { display: flex; gap: 5px; flex-wrap: wrap; margin-top: 6px; }
+.preset-btn {
+  padding: 3px 9px; border: 1px solid var(--border);
+  border-radius: 20px; font-size: 11px; font-weight: 600;
+  background: none; color: var(--text3); cursor: pointer;
+  font-family: 'Roboto', sans-serif; transition: .15s;
+}
+.preset-btn:hover { border-color: var(--orange); color: var(--orange); }
+
+/* ── TOGGLE ── */
+.toggle-row { display: flex; align-items: center; justify-content: space-between; margin-bottom: 14px; }
+.toggle-row span { font-size: 12px; font-weight: 600; letter-spacing: .07em; text-transform: uppercase; color: var(--text3); }
+.toggle { position: relative; width: 38px; height: 20px; flex-shrink: 0; }
+.toggle input { opacity: 0; width: 0; height: 0; }
+.toggle-slider { position: absolute; inset: 0; background: var(--border); border-radius: 20px; cursor: pointer; transition: .25s; }
+.toggle-slider:before { content:''; position: absolute; width: 14px; height: 14px; left: 3px; top: 3px; background: #fff; border-radius: 50%; transition: .25s; }
+.toggle input:checked + .toggle-slider { background: var(--orange); }
+.toggle input:checked + .toggle-slider:before { transform: translateX(18px); }
+
+/* ── DIVIDER ── */
+.divider { height: 1px; background: var(--border); margin: 18px 0; }
+
+/* ── CALC BTN ── */
+.calc-btn {
+  width: 100%; padding: 13px;
+  background: linear-gradient(135deg, #F7931A, #f5a623);
+  border: none; border-radius: 4px;
+  color: #fff; font-family: 'Roboto', sans-serif;
+  font-size: 13px; font-weight: 700; letter-spacing: .08em;
+  text-transform: uppercase; cursor: pointer; transition: opacity .15s;
+}
+.calc-btn:hover { opacity: .88; }
+
+/* ── RESULTS ── */
+.results-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 22px; }
+@media (max-width: 480px) { .results-grid { grid-template-columns: 1fr; } }
+
+.result-item {
+  background: var(--bg); border: 1px solid var(--border);
+  border-radius: 4px; padding: 14px 16px;
+}
+.result-item.highlight { border-color: var(--orange); }
+.r-label {
+  font-size: 10px; font-weight: 600; letter-spacing: .09em;
+  text-transform: uppercase; color: var(--text3); margin-bottom: 4px;
+}
+.r-value {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 19px; font-weight: 500; color: var(--text);
+}
+.r-value.accent-orange { color: var(--orange); }
+.r-value.accent-teal   { color: var(--teal); }
+.r-sub { font-size: 11px; color: var(--text3); margin-top: 2px; }
+
+/* ── SECTION LABEL ── */
+.section-label {
+  font-size: 11px; font-weight: 700; letter-spacing: .1em;
+  text-transform: uppercase; color: var(--text3);
+  margin-bottom: 12px; padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+  display: flex; align-items: center; gap: 8px;
+}
+.section-label::before {
+  content: ''; display: inline-block;
+  width: 12px; height: 2px;
+  background: linear-gradient(to right, var(--orange), var(--teal));
+}
+
+/* ── CHART ── */
+.chart-wrap { position: relative; height: 280px; margin-bottom: 22px; }
+
+/* ── TABLE ── */
+.table-wrap { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; font-size: 12px; }
+th {
+  padding: 8px 12px; text-align: right;
+  font-size: 10px; font-weight: 700; letter-spacing: .08em;
+  text-transform: uppercase; color: var(--text3);
+  border-bottom: 2px solid var(--border);
+  background: var(--surface);
+}
+th:first-child { text-align: left; }
+td {
+  padding: 7px 12px; text-align: right;
+  border-bottom: 1px solid var(--border);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 12px; color: var(--text);
+}
+td:first-child { text-align: left; font-family: 'Roboto', sans-serif; color: var(--text2); font-size: 12px; }
+tr:hover td { background: var(--surface); }
+.pos { color: var(--teal); }
+td b { color: var(--text); }
+
+/* ── EMPTY ── */
+.empty {
+  display: flex; flex-direction: column; align-items: center;
+  justify-content: center; height: 280px;
+  color: var(--text3); gap: 12px;
+  font-size: 13px; text-align: center;
+}
+.empty svg { opacity: .25; }
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="header">
+  <div class="header-inner">
+    <a href="index.html" class="logo"><span class="logo-crypto">Crypto</span><span class="logo-stan">stan</span></a>
+    <button class="dark-btn" onclick="toggleTheme()" title="Тема">◐</button>
+  </div>
+</header>
+<div class="sep"></div>
+
+<!-- TITLE -->
+<div class="page-title">
+  <h1>Инвестиционный калькулятор</h1>
+  <p>Сложные проценты, реинвестирование, пополнения, налог и инфляция</p>
+</div>
+
+<!-- MAIN -->
+<div class="container">
+
+  <!-- LEFT: INPUTS -->
+  <div class="card">
+    <div class="mode-tabs">
+      <button class="mode-tab active" onclick="setMode('income',this)">Доход</button>
+      <button class="mode-tab" onclick="setMode('rate',this)">Ставка</button>
+      <button class="mode-tab" onclick="setMode('capital',this)">Капитал</button>
+      <button class="mode-tab" onclick="setMode('term',this)">Срок</button>
+      <button class="mode-tab" onclick="setMode('deposit',this)">Пополн.</button>
+    </div>
+
+    <div class="field" id="field-goal">
+      <label>Цель</label>
+      <div class="input-wrap"><input type="number" id="inp-goal" value="10000000" min="0"><span class="input-unit">₽</span></div>
+    </div>
+
+    <div class="field" id="field-sum">
+      <label>Стартовый капитал</label>
+      <div class="input-wrap"><input type="number" id="inp-sum" value="5000000" min="0"><span class="input-unit">₽</span></div>
+    </div>
+
+    <div id="field-term">
+      <div class="input-row" style="margin-bottom:14px">
+        <div class="field">
+          <label>Лет</label>
+          <div class="input-wrap"><input type="number" id="inp-years" value="5" min="0" max="100"><span class="input-unit">л</span></div>
+        </div>
+        <div class="field">
+          <label>Месяцев</label>
+          <div class="input-wrap"><input type="number" id="inp-months" value="0" min="0" max="11"><span class="input-unit">м</span></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="field" id="field-rate">
+      <label>Ставка</label>
+      <div class="input-wrap"><input type="number" id="inp-rate" value="15" min="0" max="1000" step="0.1"><span class="input-unit">% год</span></div>
+      <div class="presets">
+        <button class="preset-btn" onclick="setRate(5)">5%</button>
+        <button class="preset-btn" onclick="setRate(10)">10%</button>
+        <button class="preset-btn" onclick="setRate(15)">15%</button>
+        <button class="preset-btn" onclick="setRate(20)">20%</button>
+        <button class="preset-btn" onclick="setRate(50)">50%</button>
+        <button class="preset-btn" onclick="setRate(100)">100%</button>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="toggle-row">
+      <span>Реинвестировать доход</span>
+      <label class="toggle"><input type="checkbox" id="inp-reinvest" checked onchange="toggleReinvest()"><span class="toggle-slider"></span></label>
+    </div>
+    <div class="field" id="field-reinvest-period">
+      <label>Период реинвестирования</label>
+      <div class="input-wrap" style="padding-right:0">
+        <select id="inp-reinvest-period" style="padding:9px 11px">
+          <option value="365">Каждый день</option>
+          <option value="12" selected>Раз в месяц</option>
+          <option value="4">Раз в квартал</option>
+          <option value="2">Раз в полгода</option>
+          <option value="1">Раз в год</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="field">
+      <label>Доп. вложения / изъятия</label>
+      <div class="input-wrap"><input type="number" id="inp-add" value="150000" placeholder="0"><span class="input-unit">₽</span></div>
+    </div>
+    <div class="field">
+      <label>Периодичность</label>
+      <div class="input-wrap" style="padding-right:0">
+        <select id="inp-add-period" style="padding:9px 11px">
+          <option value="12" selected>Раз в месяц</option>
+          <option value="4">Раз в квартал</option>
+          <option value="2">Раз в полгода</option>
+          <option value="1">Раз в год</option>
+        </select>
+      </div>
+    </div>
+    <div class="field">
+      <label>Индексация пополнений</label>
+      <div class="input-wrap"><input type="number" id="inp-add-index" value="5" min="0" max="100" step="0.1"><span class="input-unit">% год</span></div>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="input-row" style="margin-bottom:18px">
+      <div class="field" style="margin:0">
+        <label>Налог</label>
+        <div class="input-wrap"><input type="number" id="inp-tax" value="0" min="0" max="100"><span class="input-unit">%</span></div>
+        <div class="presets"><button class="preset-btn" onclick="setTax(13)">13%</button><button class="preset-btn" onclick="setTax(15)">15%</button></div>
+      </div>
+      <div class="field" style="margin:0">
+        <label>Инфляция</label>
+        <div class="input-wrap"><input type="number" id="inp-inflation" value="0" min="0" max="100"><span class="input-unit">%</span></div>
+        <div class="presets"><button class="preset-btn" onclick="setInflation(5.91)">5.91%</button></div>
+      </div>
+    </div>
+
+    <button class="calc-btn" onclick="calculate()">Рассчитать</button>
+  </div>
+
+  <!-- RIGHT: RESULTS -->
+  <div>
+    <div class="card">
+      <div class="empty" id="empty-state">
+        <svg width="56" height="56" viewBox="0 0 56 56" fill="none">
+          <rect x="4" y="36" width="9" height="14" rx="2" fill="currentColor"/>
+          <rect x="17" y="26" width="9" height="24" rx="2" fill="currentColor"/>
+          <rect x="30" y="14" width="9" height="36" rx="2" fill="currentColor"/>
+          <rect x="43" y="6"  width="9" height="44" rx="2" fill="currentColor"/>
+        </svg>
+        <p>Введите параметры и нажмите Рассчитать</p>
+      </div>
+
+      <div id="results-content" style="display:none">
+        <div class="section-label">Результаты</div>
+        <div class="results-grid" id="results-grid"></div>
+        <div class="section-label">График роста капитала</div>
+        <div class="chart-wrap"><canvas id="chart"></canvas></div>
+        <div class="section-label">По годам</div>
+        <div class="table-wrap"><table id="result-table"></table></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+let currentMode = 'income';
+let chartInstance = null;
+
+// Theme
+const saved = localStorage.getItem('cs-theme');
+if (saved === 'dark') document.body.classList.add('dark');
+function toggleTheme() {
+  document.body.classList.toggle('dark');
+  localStorage.setItem('cs-theme', document.body.classList.contains('dark') ? 'dark' : 'light');
+}
+
+function setMode(mode, btn) {
+  currentMode = mode;
+  document.querySelectorAll('.mode-tab').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  document.getElementById('field-goal').style.display    = mode === 'income' ? 'none' : '';
+  document.getElementById('field-sum').style.display     = mode === 'capital' ? 'none' : '';
+  document.getElementById('field-term').style.display    = mode === 'term' ? 'none' : '';
+  document.getElementById('field-rate').style.display    = mode === 'rate' ? 'none' : '';
+}
+function toggleReinvest() {
+  document.getElementById('field-reinvest-period').style.display =
+    document.getElementById('inp-reinvest').checked ? '' : 'none';
+}
+function setRate(v)      { document.getElementById('inp-rate').value = v; }
+function setTax(v)       { document.getElementById('inp-tax').value = v; }
+function setInflation(v) { document.getElementById('inp-inflation').value = v; }
+
+// Init
+setMode('income', document.querySelector('.mode-tab'));
+
+// ── SIMULATION ──────────────────────────────────────────────────
+function simulate(P, r, t_years, reinvest, n, addPerYear, addPeriods, addIndex) {
+  const totalMonths = Math.max(1, Math.round(t_years * 12));
+  let balance = P, totalDeposits = 0;
+  const addMonthInterval = Math.round(12 / addPeriods);
+  const compoundMonthInterval = reinvest ? Math.round(12 / n) : 9999;
+  const yearData = [];
+  let yearDeposits = 0;
+
+  for (let m = 1; m <= totalMonths; m++) {
+    const yr = Math.ceil(m / 12);
+    const annualAdd = addPerYear * Math.pow(1 + addIndex / 100, yr - 1);
+    const addNow = annualAdd / addPeriods;
+
+    if (addMonthInterval > 0 && m % addMonthInterval === 0) {
+      balance += addNow; totalDeposits += addNow; yearDeposits += addNow;
+    }
+    if (reinvest && m % compoundMonthInterval === 0) {
+      balance *= (1 + r / n);
+    }
+    if (m % 12 === 0 || m === totalMonths) {
+      if (!reinvest) balance += balance * r * (m % 12 === 0 ? 1 : (m % 12) / 12);
+      if (m % 12 === 0 || m === totalMonths) {
+        yearData.push({ year: yr, balance: Math.round(balance), deposits: Math.round(yearDeposits) });
+        yearDeposits = 0;
+      }
+    }
+  }
+  return { balance, totalDeposits, yearData };
+}
+
+function search(fn, lo, hi, target, iters=60) {
+  let mid;
+  for (let i = 0; i < iters; i++) { mid=(lo+hi)/2; fn(mid)<target ? lo=mid : hi=mid; }
+  return mid;
+}
+
+function calculate() {
+  const v = {
+    goal:      +document.getElementById('inp-goal').value||0,
+    sum:       +document.getElementById('inp-sum').value||0,
+    years:     +document.getElementById('inp-years').value||0,
+    months:    +document.getElementById('inp-months').value||0,
+    rate:      +document.getElementById('inp-rate').value||0,
+    reinvest:  document.getElementById('inp-reinvest').checked,
+    n:         +document.getElementById('inp-reinvest-period').value||12,
+    add:       +document.getElementById('inp-add').value||0,
+    addP:      +document.getElementById('inp-add-period').value||12,
+    addIdx:    +document.getElementById('inp-add-index').value||0,
+    tax:       +document.getElementById('inp-tax').value||0,
+    inflation: +document.getElementById('inp-inflation').value||0,
+  };
+  const t = v.years + v.months / 12;
+  const addPerYear = v.add * v.addP;
+  const sim = (P, r, t2, add2) => simulate(P, r, t2, v.reinvest, v.n, add2||addPerYear, v.addP, v.addIdx);
+
+  let P = v.sum, r = v.rate/100, result, extra={};
+
+  if (currentMode==='income') {
+    result = sim(P, r, t);
+  } else if (currentMode==='rate') {
+    r = search(x => sim(P, x, t).balance, 0, 100, v.goal);
+    result = sim(P, r, t); extra.rate = r*100;
+  } else if (currentMode==='capital') {
+    P = search(x => sim(x, r, t).balance, 0, v.goal*100, v.goal);
+    result = sim(P, r, t); extra.capital = P;
+  } else if (currentMode==='term') {
+    let mo=1;
+    while(mo<1200){ const {balance}=sim(P,r,mo/12); if(balance>=v.goal) break; mo++; }
+    result = sim(P, r, mo/12); extra.months = mo;
+  } else if (currentMode==='deposit') {
+    const dep = search(x => sim(P, r, t, x*v.addP).balance, 0, v.goal, v.goal);
+    result = sim(P, r, t, dep*v.addP); extra.deposit = dep;
+  }
+
+  const income = result.balance - P - result.totalDeposits;
+  const tax = income>0 ? income*(v.tax/100) : 0;
+  const net = income - tax;
+  const final = P + result.totalDeposits + net;
+  const tActual = currentMode==='term' ? extra.months/12 : t;
+  const inflFactor = Math.pow(1+v.inflation/100, tActual||1);
+  const real = final / inflFactor;
+  const effRate = tActual>0 ? (Math.pow(final/Math.max(P,1), 1/tActual)-1)*100 : 0;
+  const realRate = ((1+effRate/100)/(1+v.inflation/100)-1)*100;
+  const growth = P>0 ? (final/P-1)*100 : 0;
+
+  renderResults({P, income, tax, net, final, real, effRate, realRate, growth, result, extra, v, tActual});
+}
+
+function fmt(n) {
+  if (Math.abs(n)>=1e9) return (n/1e9).toFixed(2)+' млрд ₽';
+  if (Math.abs(n)>=1e6) return (n/1e6).toFixed(3)+' млн ₽';
+  return Math.round(n).toLocaleString('ru-RU')+' ₽';
+}
+function fmtShort(n) {
+  if (Math.abs(n)>=1e9) return (n/1e9).toFixed(1)+' млрд';
+  if (Math.abs(n)>=1e6) return (n/1e6).toFixed(2)+' млн';
+  return Math.round(n).toLocaleString('ru-RU');
+}
+
+function card(label, value, sub='', highlight=false, cls='') {
+  return `<div class="result-item${highlight?' highlight':''}">
+    <div class="r-label">${label}</div>
+    <div class="r-value${cls?' '+cls:''}">${value}</div>
+    ${sub?`<div class="r-sub">${sub}</div>`:''}
+  </div>`;
+}
+function pLabel(n) { return {12:'/ мес',4:'/ квартал',2:'/ полгода',1:'/ год'}[n]||''; }
+
+function renderResults({P, income, tax, net, final, real, effRate, realRate, growth, result, extra, v, tActual}) {
+  document.getElementById('empty-state').style.display = 'none';
+  document.getElementById('results-content').style.display = '';
+
+  let cards = '';
+  if (extra.rate    !== undefined) cards += card('Необходимая ставка', extra.rate.toFixed(2)+'%', '', true, 'accent-orange');
+  if (extra.capital !== undefined) cards += card('Стартовый капитал',  fmt(extra.capital),         '', true, 'accent-orange');
+  if (extra.months  !== undefined) {
+    const fy=Math.floor(extra.months/12), fm=extra.months%12;
+    cards += card('Срок достижения цели', (fy?fy+' г ':'')+fm+' м', '', true, 'accent-orange');
+  }
+  if (extra.deposit !== undefined) cards += card('Размер пополнений', fmt(extra.deposit), pLabel(v.addP), true, 'accent-orange');
+
+  cards += card('Итоговая сумма',    fmt(final),  '',        true);
+  cards += card('Чистый доход',      fmt(net),    '',        false, 'accent-teal');
+  cards += card('Сумма пополнений',  fmt(result.totalDeposits));
+  if (tax>0) cards += card('Налог', fmt(tax), v.tax+'%');
+  cards += card('Прирост',           growth.toFixed(1)+'%');
+  cards += card('Эффективная ставка',effRate.toFixed(2)+'%');
+  if (v.inflation>0) {
+    cards += card('Реальная ставка', realRate.toFixed(2)+'%', 'с учётом инфляции');
+    cards += card('Реальная сумма',  fmt(real), 'в сегодняшних деньгах');
+  }
+  document.getElementById('results-grid').innerHTML = cards;
+
+  renderChart(result.yearData, P);
+  renderTable(result.yearData, P);
+}
+
+function renderChart(yearData, startP) {
+  let cumDeps = 0;
+  const labels  = yearData.map(d => d.year + ' г');
+  const depData = yearData.map(d => { cumDeps += d.deposits; return Math.round(cumDeps); });
+  const incData = yearData.map((d, i) => Math.max(0, d.balance - startP - depData[i]));
+  const capData = yearData.map(() => Math.round(startP));
+  const totalData = yearData.map(d => Math.round(d.balance));
+
+  if (chartInstance) chartInstance.destroy();
+  const isDark = document.body.classList.contains('dark');
+  const gridColor = isDark ? 'rgba(255,255,255,0.05)' : 'rgba(0,0,0,0.06)';
+  const tickColor = isDark ? '#666' : '#aaa';
+
+  const ctx = document.getElementById('chart').getContext('2d');
+
+  // Gradients
+  const gOrange = ctx.createLinearGradient(0, 0, 0, 280);
+  gOrange.addColorStop(0, 'rgba(247,147,26,0.35)');
+  gOrange.addColorStop(1, 'rgba(247,147,26,0.0)');
+
+  const gTeal = ctx.createLinearGradient(0, 0, 0, 280);
+  gTeal.addColorStop(0, 'rgba(73,234,203,0.35)');
+  gTeal.addColorStop(1, 'rgba(73,234,203,0.0)');
+
+  const gGray = ctx.createLinearGradient(0, 0, 0, 280);
+  gGray.addColorStop(0, isDark ? 'rgba(120,120,140,0.3)' : 'rgba(180,180,200,0.3)');
+  gGray.addColorStop(1, 'rgba(0,0,0,0)');
+
+  chartInstance = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels,
+      datasets: [
+        {
+          label: 'Итоговый капитал',
+          data: totalData,
+          borderColor: '#F7931A',
+          backgroundColor: gOrange,
+          borderWidth: 2.5,
+          pointRadius: 3,
+          pointBackgroundColor: '#F7931A',
+          fill: true,
+          tension: 0.35,
+          order: 1,
+        },
+        {
+          label: 'Вложено (капитал + пополнения)',
+          data: yearData.map((_, i) => Math.round(startP + depData[i])),
+          borderColor: isDark ? 'rgba(160,160,180,0.8)' : 'rgba(150,150,170,0.9)',
+          backgroundColor: gGray,
+          borderWidth: 1.5,
+          pointRadius: 2,
+          fill: true,
+          tension: 0.35,
+          order: 2,
+          borderDash: [4, 3],
+        },
+        {
+          label: 'Доход',
+          data: incData,
+          borderColor: '#49EACB',
+          backgroundColor: gTeal,
+          borderWidth: 2,
+          pointRadius: 2,
+          pointBackgroundColor: '#49EACB',
+          fill: true,
+          tension: 0.35,
+          order: 3,
+        },
+      ]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: {
+        legend: {
+          position: 'bottom',
+          labels: { boxWidth: 10, font: { size: 11, family: 'Roboto' }, color: tickColor, padding: 16 }
+        },
+        tooltip: {
+          backgroundColor: isDark ? '#1e1e1e' : '#fff',
+          borderColor: isDark ? '#333' : '#e0e0e0',
+          borderWidth: 1,
+          titleColor: isDark ? '#eee' : '#222',
+          bodyColor: isDark ? '#aaa' : '#555',
+          bodyFont: { family: 'Roboto', size: 12 },
+          callbacks: { label: ctx => '  ' + ctx.dataset.label + ': ' + fmtShort(ctx.raw) }
+        }
+      },
+      scales: {
+        x: {
+          grid: { display: false },
+          ticks: { color: tickColor, font: { size: 11, family: 'Roboto' } }
+        },
+        y: {
+          ticks: { callback: v => fmtShort(v), color: tickColor, font: { size: 11, family: 'Roboto' } },
+          grid: { color: gridColor }
+        }
+      }
+    }
+  });
+}
+
+function renderTable(yearData, startP) {
+  let cumDeps = 0;
+  let html = `<thead><tr>
+    <th>Год</th><th>Капитал</th><th>Пополнения</th><th>Доход</th><th>Итого</th>
+  </tr></thead><tbody>`;
+  yearData.forEach(d => {
+    cumDeps += d.deposits;
+    const inc = Math.max(0, d.balance - startP - cumDeps);
+    html += `<tr>
+      <td>${d.year}</td>
+      <td>${fmtShort(startP)}</td>
+      <td>${fmtShort(cumDeps)}</td>
+      <td class="pos">+${fmtShort(inc)}</td>
+      <td><b>${fmtShort(d.balance)}</b></td>
+    </tr>`;
+  });
+  html += '</tbody>';
+  document.getElementById('result-table').innerHTML = html;
+}
+
+// Auto-calc
+calculate();
+</script>
+</body>
+</html>
