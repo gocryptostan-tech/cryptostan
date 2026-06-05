@@ -1,0 +1,1108 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cryptostan</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+
+    /* ── TICKER ── */
+    .ticker-bar {
+      background: #05080f;
+      height: 36px;
+      display: flex;
+      align-items: center;
+      overflow: hidden;
+      border-bottom: 1px solid rgba(73,234,203,0.12);
+      position: relative;
+    }
+    .ticker-live {
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 0 14px 0 16px;
+      font-family: 'JetBrains Mono', 'Courier New', monospace;
+      font-size: 10px;
+      font-weight: 500;
+      letter-spacing: .14em;
+      color: #49EACB;
+      border-right: 1px solid rgba(73,234,203,0.15);
+      height: 100%;
+    }
+    .ticker-dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: #49EACB;
+      animation: blink 1.4s ease-in-out infinite;
+      flex-shrink: 0;
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.15; }
+    }
+    .ticker-wrap {
+      flex: 1;
+      overflow: hidden;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      /* fade edges */
+      mask-image: linear-gradient(to right, transparent 0%, black 3%, black 97%, transparent 100%);
+      -webkit-mask-image: linear-gradient(to right, transparent 0%, black 3%, black 97%, transparent 100%);
+    }
+    .ticker-track {
+      display: flex;
+      align-items: center;
+      width: max-content;
+      animation: tickerScroll 45s linear infinite;
+    }
+    .ticker-track:hover { animation-play-state: paused; }
+    @keyframes tickerScroll {
+      from { transform: translateX(0); }
+      to   { transform: translateX(-50%); }
+    }
+    .ticker-item {
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      padding: 0 22px;
+      border-right: 1px solid rgba(255,255,255,0.06);
+      font-family: 'JetBrains Mono', 'Courier New', monospace;
+      font-size: 11px;
+      white-space: nowrap;
+    }
+    .ticker-sym {
+      color: rgba(255,255,255,0.5);
+      font-weight: 500;
+      letter-spacing: .06em;
+    }
+    .ticker-price {
+      color: rgba(255,255,255,0.9);
+      font-weight: 400;
+      font-variant-numeric: tabular-nums;
+    }
+    .ticker-change {
+      font-size: 10px;
+      font-weight: 500;
+      letter-spacing: .02em;
+    }
+    .ticker-change.up   { color: #22d3a0; }
+    .ticker-change.down { color: #ff5a5a; }
+    .ticker-change.flat { color: rgba(255,255,255,0.35); }
+
+    :root {
+      --bg:       #ffffff;
+      --text:     #0a0a0a;
+      --text2:    #444444;
+      --text3:    #999999;
+      --border:   #e8e8e8;
+      --surface:  #f6f6f4;
+      --orange:   #F7931A;
+      --orange-d: #E07B00;
+      --teal:     #49EACB;
+      --teal-d:   #0D9B7F;
+    }
+
+    body.dark {
+      --bg:      #111111;
+      --text:    #f0ede8;
+      --text2:   #aaaaaa;
+      --text3:   #555555;
+      --border:  #252525;
+      --surface: #1a1a1a;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', sans-serif;
+      font-size: 16px;
+      line-height: 1.6;
+      transition: background .2s, color .2s;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* ── HEADER ── */
+    .header {
+      background: linear-gradient(to bottom,
+        #49EACB 0%,
+        #1a3a35 40%,
+        #2a1a08 60%,
+        #F7931A 100%);
+      padding: 26px 0 20px;
+    }
+    .header-inner {
+      max-width: 1060px;
+      margin: 0 auto;
+      padding: 0 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+    }
+    .logo {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 36px;
+      font-weight: 900;
+      letter-spacing: -.02em;
+      text-decoration: none;
+      line-height: 1;
+    }
+    .logo-crypto { color: #F7931A; }
+    .logo-stan   { color: #49EACB; }
+
+    /* Controls: language + dark */
+    .controls {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .lang-switch {
+      display: flex;
+      align-items: center;
+      gap: 2px;
+    }
+    .lang-btn {
+      font-family: 'Inter', sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: .08em;
+      background: none;
+      border: none;
+      color: rgba(255,255,255,0.45);
+      cursor: pointer;
+      padding: 4px 7px;
+      border-radius: 3px;
+      transition: all .15s;
+    }
+    .lang-btn:hover { color: rgba(255,255,255,0.8); }
+    .lang-btn.active {
+      color: #fff;
+      background: rgba(255,255,255,0.15);
+    }
+    .lang-sep {
+      color: rgba(255,255,255,0.2);
+      font-size: 12px;
+      user-select: none;
+    }
+    .dark-btn {
+      background: none;
+      border: none;
+      color: rgba(255,255,255,0.5);
+      font-size: 15px;
+      cursor: pointer;
+      padding: 4px 6px;
+      border-radius: 3px;
+      transition: color .15s;
+      line-height: 1;
+    }
+    .dark-btn:hover { color: rgba(255,255,255,0.9); }
+
+    /* ── HEADER SEPARATOR ── */
+    .header-sep {
+      height: 2px;
+      background: linear-gradient(to right, #49EACB, #F7931A);
+    }
+
+    /* ── TABS ── */
+    .tab-bar {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: var(--bg);
+      border-bottom: 1px solid var(--border);
+    }
+    .tab-inner {
+      max-width: 1060px;
+      margin: 0 auto;
+      padding: 0 24px;
+      display: flex;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    .tab-inner::-webkit-scrollbar { display: none; }
+
+    .tab {
+      font-family: 'Inter', sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      color: var(--text3);
+      background: none;
+      border: none;
+      border-bottom: 2px solid transparent;
+      padding: 13px 16px;
+      margin-bottom: -1px;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: color .15s, border-color .15s;
+    }
+    .tab:hover { color: var(--text); }
+    .tab.active { color: var(--orange); border-bottom-color: var(--orange); }
+
+    .tab-count {
+      display: inline-block;
+      font-size: 10px;
+      font-weight: 700;
+      background: var(--border);
+      color: var(--text3);
+      border-radius: 8px;
+      padding: 1px 6px;
+      margin-left: 5px;
+      vertical-align: middle;
+      transition: background .15s, color .15s;
+    }
+    .tab.active .tab-count {
+      background: var(--orange);
+      color: #fff;
+    }
+
+    /* ── PAGE LAYOUT ── */
+    .page-wrap {
+      max-width: 1060px;
+      margin: 0 auto;
+      padding: 0 24px;
+      display: grid;
+      grid-template-columns: 1fr 248px;
+      gap: 48px;
+      align-items: start;
+      flex: 1;
+    }
+
+    /* ── FEED ── */
+    .feed {
+      min-width: 0;
+      padding: 0;
+    }
+
+    /* ── SIDEBAR ── */
+    .sidebar {
+      padding-top: 28px;
+    }
+    .sidebar-sticky {
+      position: sticky;
+      top: 62px;
+    }
+
+    /* Partner card */
+    .partner-card {
+      border: 0.5px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
+      margin-bottom: 16px;
+    }
+    .partner-head {
+      background: linear-gradient(135deg, #0a0f1a 0%, #111827 100%);
+      padding: 10px 14px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .partner-brand {
+      font-family: 'Playfair Display', serif;
+      font-size: 15px;
+      font-weight: 900;
+      color: #fff;
+      letter-spacing: -.01em;
+    }
+    .partner-brand span { color: #F7931A; }
+    .partner-badge {
+      font-family: 'Inter', sans-serif;
+      font-size: 8px;
+      font-weight: 700;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      color: rgba(73,234,203,0.8);
+      border: 1px solid rgba(73,234,203,0.3);
+      padding: 2px 6px;
+      border-radius: 2px;
+    }
+    .partner-body {
+      background: var(--bg);
+      padding: 10px 14px 12px;
+    }
+    .partner-tagline {
+      font-size: 12px;
+      color: var(--text2);
+      line-height: 1.5;
+      margin-bottom: 10px;
+    }
+    .partner-tagline strong {
+      color: var(--text);
+      font-weight: 600;
+    }
+    .partner-btn {
+      display: block;
+      text-align: center;
+      background: var(--orange);
+      color: #fff;
+      font-family: 'Inter', sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+      text-decoration: none;
+      padding: 8px 12px;
+      border-radius: 4px;
+      transition: background .15s, transform .1s;
+    }
+    .partner-btn:hover {
+      background: var(--orange-d);
+      transform: translateY(-1px);
+    }
+    .partner-disclaimer {
+      font-size: 9px;
+      color: var(--text3);
+      text-align: center;
+      margin-top: 8px;
+      line-height: 1.4;
+    }
+
+    /* ── HERO ARTICLE ── */
+    .news-hero {
+      padding: 32px 0 28px 20px;
+      border-bottom: 2px solid var(--border);
+      border-left: 5px solid var(--orange);
+      background: linear-gradient(to right, rgba(247,147,26,0.06), transparent 70%);
+    }
+    body.dark .news-hero {
+      background: linear-gradient(to right, rgba(247,147,26,0.08), transparent 70%);
+    }
+    .hero-badge {
+      display: inline-block;
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: .14em;
+      text-transform: uppercase;
+      color: var(--orange);
+      border: 1px solid var(--orange);
+      padding: 2px 8px;
+      border-radius: 2px;
+      margin-bottom: 14px;
+    }
+    .hero-meta {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 12px;
+    }
+    .hero-title {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 34px;
+      font-weight: 900;
+      line-height: 1.15;
+      color: var(--text);
+      margin-bottom: 14px;
+      cursor: pointer;
+      transition: color .15s;
+      max-width: 680px;
+    }
+    .hero-title:hover { color: var(--orange); }
+    .hero-text {
+      font-size: 16px;
+      color: var(--text2);
+      line-height: 1.7;
+      max-width: 620px;
+      margin-bottom: 14px;
+    }
+
+    /* ── REGULAR ARTICLES ── */
+    .news-item {
+      padding: 26px 0 26px 16px;
+      border-bottom: 1px solid var(--border);
+      border-left: 3px solid transparent;
+      transition: border-color .2s;
+    }
+    .news-item:last-child { border-bottom: none; }
+    .news-item.accent-orange { border-left-color: var(--orange); }
+    .news-item.accent-teal   { border-left-color: var(--teal-d); }
+
+    .item-top {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 8px;
+    }
+
+    /* Category labels — 2-color brand system */
+    .item-cat {
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+    .cat-orange { color: var(--orange-d); }
+    .cat-teal   { color: var(--teal-d); }
+
+    .item-date {
+      font-size: 11px;
+      color: var(--text3);
+    }
+
+    .item-title {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 22px;
+      font-weight: 700;
+      line-height: 1.22;
+      color: var(--text);
+      margin-bottom: 10px;
+      cursor: pointer;
+      transition: color .15s;
+      max-width: 680px;
+    }
+    .item-title:hover { color: var(--orange); }
+
+    .item-text {
+      font-size: 15px;
+      color: var(--text2);
+      line-height: 1.7;
+      margin-bottom: 12px;
+      max-width: 620px;
+    }
+
+    /* Source badge */
+    .item-source {
+      display: inline-block;
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: .05em;
+      text-transform: uppercase;
+      color: var(--text3);
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 2px 10px;
+    }
+
+    /* ── EMPTY / LOADING ── */
+    .empty-state, .loading {
+      padding: 64px 0;
+      text-align: center;
+      color: var(--text3);
+      font-size: 14px;
+      letter-spacing: .05em;
+    }
+
+    /* ── FOOTER ── */
+    footer {
+      background: linear-gradient(to bottom,
+        #F7931A 0%,
+        #2a1a08 40%,
+        #1a3a35 60%,
+        #49EACB 100%);
+      margin-top: 56px;
+      padding: 24px 0 28px;
+    }
+    .footer-inner {
+      max-width: 1060px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+    .footer-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 14px;
+    }
+    .footer-logo {
+      font-family: 'Playfair Display', serif;
+      font-size: 22px;
+      font-weight: 900;
+      letter-spacing: -.02em;
+    }
+    .footer-links {
+      display: flex;
+      gap: 1.5rem;
+    }
+    .footer-links a {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: 0.9rem;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.7);
+      text-decoration: none;
+      transition: color .15s;
+    }
+    .footer-links a:hover { color: #fff; }
+    .footer-divider {
+      border: none;
+      border-top: 0.5px solid rgba(255,255,255,0.2);
+      margin-bottom: 12px;
+    }
+    .footer-disclaimer {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: 0.85rem;
+      color: rgba(255,255,255,0.5);
+      line-height: 1.7;
+    }
+
+    /* ── SIDEBAR SECTIONS ── */
+    .sidebar-section {
+      padding-bottom: 24px;
+      margin-bottom: 24px;
+      border-bottom: 1px solid var(--border);
+    }
+    .sidebar-section:last-child { border-bottom: none; margin-bottom: 0; }
+    .sidebar-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 15px;
+      font-weight: 700;
+      color: var(--orange);
+      margin-bottom: 14px;
+      padding-bottom: 8px;
+      border-bottom: 2px solid var(--orange);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .sidebar-updated {
+      font-family: 'Inter', sans-serif;
+      font-size: 9px;
+      font-weight: 400;
+      letter-spacing: .04em;
+      color: var(--text3);
+      text-transform: none;
+    }
+
+    /* FX Rates */
+    .fx-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 8px 0;
+      border-bottom: 0.5px solid var(--border);
+    }
+    .fx-row:last-child { border-bottom: none; }
+    .fx-pair {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--text);
+      letter-spacing: .04em;
+    }
+    .fx-right { display: flex; flex-direction: column; align-items: flex-end; gap: 1px; }
+    .fx-rate {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12px;
+      color: var(--text);
+      font-variant-numeric: tabular-nums;
+    }
+    .fx-change {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 10px;
+      font-variant-numeric: tabular-nums;
+    }
+    .fx-change.up   { color: #22d3a0; }
+    .fx-change.down { color: #ff5a5a; }
+    .fx-change.flat { color: var(--text3); }
+
+    /* Trending */
+    .trending-item {
+      display: flex;
+      gap: 10px;
+      padding: 9px 0;
+      border-bottom: 0.5px solid var(--border);
+      cursor: pointer;
+    }
+    .trending-item:last-child { border-bottom: none; }
+    .trending-num {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      color: var(--orange);
+      font-weight: 500;
+      flex-shrink: 0;
+      padding-top: 1px;
+    }
+    .trending-title {
+      font-family: 'Inter', sans-serif;
+      font-size: 12px;
+      color: var(--text2);
+      line-height: 1.5;
+      transition: color .15s;
+    }
+    .trending-item:hover .trending-title { color: var(--orange); }
+
+    /* ── MOBILE ── */
+    @media (max-width: 860px) {
+      .page-wrap {
+        grid-template-columns: 1fr;
+        gap: 0;
+      }
+      .sidebar { padding-top: 0; border-top: 1px solid var(--border); margin-top: 32px; padding-top: 28px; }
+      .sidebar-sticky { position: static; }
+    }
+    @media (max-width: 600px) {
+      .logo { font-size: 28px; }
+      .hero-title { font-size: 26px; }
+      .item-title { font-size: 19px; }
+      .footer-top { flex-direction: column; align-items: flex-start; gap: 12px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- TICKER -->
+  <div class="ticker-bar">
+    <div class="ticker-live">
+      <span class="ticker-dot"></span>LIVE
+    </div>
+    <div class="ticker-wrap">
+      <div class="ticker-track" id="ticker-track"></div>
+    </div>
+  </div>
+
+  <header class="header">
+    <div class="header-inner">
+      <a href="#" class="logo">
+        <span class="logo-crypto">Crypto</span><span class="logo-stan">stan</span>
+      </a>
+      <div class="controls">
+        <div class="lang-switch">
+          <button class="lang-btn active" id="btn-ru" onclick="setLang('ru')">RU</button>
+          <span class="lang-sep">/</span>
+          <button class="lang-btn" id="btn-en" onclick="setLang('en')">EN</button>
+        </div>
+        <button class="dark-btn" id="btn-dark" onclick="toggleDark()">☽</button>
+      </div>
+    </div>
+  </header>
+  <div class="header-sep"></div>
+
+  <nav class="tab-bar">
+    <div class="tab-inner" id="tabs">
+      <button class="tab active" data-cat="finance"  data-ru="Финансы"  data-en="Finance"  onclick="setTab('finance')">Финансы</button>
+      <button class="tab"        data-cat="markets"  data-ru="Рынки"    data-en="Markets"  onclick="setTab('markets')">Рынки</button>
+      <button class="tab"        data-cat="politics" data-ru="Политика" data-en="Politics" onclick="setTab('politics')">Политика</button>
+    </div>
+  </nav>
+
+  <div class="page-wrap">
+
+    <main class="feed" id="feed">
+      <div class="loading" id="loader">—</div>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-sticky">
+
+        <!-- 1. Рынки сейчас -->
+        <div class="sidebar-section">
+          <div class="sidebar-title">
+            Рынки сейчас
+            <span class="sidebar-updated" id="fx-updated"></span>
+          </div>
+          <div id="fx-rates">
+            <div class="fx-row"><span class="fx-pair">EUR/USD</span><div class="fx-right"><span class="fx-rate">—</span></div></div>
+            <div class="fx-row"><span class="fx-pair">GBP/USD</span><div class="fx-right"><span class="fx-rate">—</span></div></div>
+            <div class="fx-row"><span class="fx-pair">USD/JPY</span><div class="fx-right"><span class="fx-rate">—</span></div></div>
+            <div class="fx-row"><span class="fx-pair">USD/CHF</span><div class="fx-right"><span class="fx-rate">—</span></div></div>
+            <div class="fx-row"><span class="fx-pair">AUD/USD</span><div class="fx-right"><span class="fx-rate">—</span></div></div>
+          </div>
+        </div>
+
+        <!-- 2. Читают сейчас -->
+        <div class="sidebar-section">
+          <div class="sidebar-title">Читают сейчас</div>
+          <div id="trending-news"></div>
+        </div>
+
+        <!-- 3. Партнёры -->
+        <div class="sidebar-section">
+          <div class="sidebar-title">Партнёры</div>
+          <div class="partner-card">
+            <div class="partner-head">
+              <div class="partner-brand">By<span>bit</span></div>
+              <div class="partner-badge">Партнёр</div>
+            </div>
+            <div class="partner-body">
+              <p class="partner-tagline"><strong>До $30 000 USDT</strong> бонуса для новых пользователей на Bybit.</p>
+              <a class="partner-btn"
+                 href="https://www.bybit.com/ru-RU/invite/?ref=O2GPL"
+                 target="_blank" rel="noopener">
+                Открыть счёт →
+              </a>
+              <p class="partner-disclaimer">Торговля криптовалютой сопряжена с рисками</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </aside>
+
+  </div>
+
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-top">
+        <div class="footer-logo">
+          <span class="logo-crypto">Crypto</span><span class="logo-stan">stan</span>
+        </div>
+        <nav class="footer-links">
+          <a href="https://t.me/cryptostan_ru" target="_blank" id="tg-link"
+             data-ru="https://t.me/cryptostan_ru"
+             data-en="https://t.me/cryptostan_en">Telegram</a>
+          <a href="https://www.bybit.com/ru-RU/invite/?ref=O2GPL" target="_blank" id="bybit-link"
+             data-ru="https://www.bybit.com/ru-RU/invite/?ref=O2GPL"
+             data-en="https://www.bybit.com/invite/?ref=O2GPL">Bybit</a>
+          <a href="#">Контакт</a>
+        </nav>
+      </div>
+      <hr class="footer-divider">
+      <p class="footer-disclaimer">
+        © 2026 Cryptostan. Все материалы сайта носят исключительно информационный характер
+        и не являются инвестиционной рекомендацией. Криптовалюты сопряжены с высоким уровнем риска.
+        Инвестируйте только те средства, потерю которых вы можете себе позволить.
+      </p>
+    </div>
+  </footer>
+
+<script>
+// ── STATE ──
+let NEWS = [];
+let currentTab = 'finance';
+let currentLang = 'ru';
+
+// Brand-color category mapping
+const CAT_COLOR = {
+  crypto:   'orange',
+  markets:  'orange',
+  finance:  'teal',
+  law:      'teal',
+  politics: 'teal',
+};
+
+// ── RENDER HERO ──
+function renderHero(n) {
+  const kicker = currentLang === 'ru' ? (n.kicker_ru || '') : (n.kicker_en || '');
+  const title  = currentLang === 'ru' ? (n.title_ru  || '') : (n.title_en  || '');
+  const text   = currentLang === 'ru' ? (n.text_ru   || '') : (n.text_en   || '');
+  const date   = currentLang === 'ru' ? (n.date_ru   || n.date || '') : (n.date_en || n.date || '');
+  const href   = n.link && n.link !== '#' ? n.link : null;
+  const color  = CAT_COLOR[n.category] || 'orange';
+
+  return `<article class="news-hero">
+    <div class="hero-badge">${currentLang === 'ru' ? 'Главное' : 'Featured'}</div>
+    <div class="hero-meta">
+      <span class="item-cat cat-${color}">${he(kicker)}</span>
+      <span class="item-date">${he(date)}</span>
+    </div>
+    <div class="hero-title"${href ? ` onclick="window.open('${he(href)}','_blank')"` : ''}>
+      ${he(title)}
+    </div>
+    <div class="hero-text">${he(text)}</div>
+    ${n.source ? `<span class="item-source">${he(n.source)}</span>` : ''}
+  </article>`;
+}
+
+// ── RENDER REGULAR ITEM ──
+function renderItem(n) {
+  const kicker = currentLang === 'ru' ? (n.kicker_ru || '') : (n.kicker_en || '');
+  const title  = currentLang === 'ru' ? (n.title_ru  || '') : (n.title_en  || '');
+  const text   = currentLang === 'ru' ? (n.text_ru   || '') : (n.text_en   || '');
+  const date   = currentLang === 'ru' ? (n.date_ru   || n.date || '') : (n.date_en || n.date || '');
+  const href   = n.link && n.link !== '#' ? n.link : null;
+  const color  = CAT_COLOR[n.category] || 'teal';
+
+  return `<article class="news-item accent-${color}">
+    <div class="item-top">
+      <span class="item-cat cat-${color}">${he(kicker)}</span>
+      <span class="item-date">${he(date)}</span>
+    </div>
+    <div class="item-title"${href ? ` onclick="window.open('${he(href)}','_blank')"` : ''}>
+      ${he(title)}
+    </div>
+    <div class="item-text">${he(text)}</div>
+    ${n.source ? `<span class="item-source">${he(n.source)}</span>` : ''}
+  </article>`;
+}
+
+// ── RENDER ──
+function render() {
+  const feed = document.getElementById('feed');
+  const filtered = currentTab === 'all'
+    ? NEWS
+    : NEWS.filter(n => n.category === currentTab);
+
+  if (!filtered.length) {
+    feed.innerHTML = `<div class="empty-state">${currentLang === 'ru' ? 'Нет новостей' : 'No news'}</div>`;
+    return;
+  }
+
+  const [hero, ...rest] = filtered;
+  feed.innerHTML = renderHero(hero) + rest.map(renderItem).join('');
+}
+
+// ── TAB COUNTS ──
+function updateCounts() {
+  document.querySelectorAll('.tab').forEach(btn => {
+    const cat = btn.dataset.cat;
+    const count = cat === 'all' ? NEWS.length : NEWS.filter(n => n.category === cat).length;
+    const old = btn.querySelector('.tab-count');
+    if (old) old.remove();
+    if (count > 0) {
+      const badge = document.createElement('span');
+      badge.className = 'tab-count';
+      badge.textContent = count;
+      btn.appendChild(badge);
+    }
+  });
+}
+
+// ── CONTROLS ──
+function setTab(cat) {
+  currentTab = cat;
+  document.querySelectorAll('.tab').forEach(t => {
+    t.classList.toggle('active', t.dataset.cat === cat);
+  });
+  render();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function setLang(lang) {
+  currentLang = lang;
+  document.getElementById('btn-ru').classList.toggle('active', lang === 'ru');
+  document.getElementById('btn-en').classList.toggle('active', lang === 'en');
+  document.querySelectorAll('.tab').forEach(t => {
+    const badge = t.querySelector('.tab-count');
+    const text = lang === 'ru' ? t.dataset.ru : t.dataset.en;
+    t.childNodes[0].textContent = text;
+    if (badge) t.appendChild(badge);
+  });
+  const tgLink = document.getElementById('tg-link');
+  if (tgLink) tgLink.href = tgLink.dataset[lang] || tgLink.dataset.ru;
+  const bybitLink = document.getElementById('bybit-link');
+  if (bybitLink) bybitLink.href = bybitLink.dataset[lang] || bybitLink.dataset.ru;
+  render();
+}
+
+function toggleDark() {
+  document.body.classList.toggle('dark');
+}
+
+function he(s) {
+  return String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+// ── LOAD NEWS ──
+async function loadNews() {
+  try {
+    const res = await fetch('news.json?_=' + Date.now());
+    if (res.ok) {
+      const data = await res.json();
+      if (Array.isArray(data) && data.length) NEWS = data;
+    }
+  } catch(e) {}
+
+  if (!NEWS.length) {
+    NEWS = [
+      { category:'markets',  kicker_ru:'Рынки',      kicker_en:'Markets',       date_ru:'5 июня 2026',  date_en:'Jun 5, 2026',  title_ru:'Binance Research прогнозирует поток в $2 трлн с входом крипто-бирж на рынок акций', title_en:'Binance Research forecasts $2tn inflow as crypto exchanges enter equities', text_ru:'По прогнозу Binance Research, криптографические биржи смогут привлечь 300 миллионов инвесторов и направить $2 триллиона капитала на традиционный рынок акций к 2031 году.', text_en:'Crypto exchanges could attract 300M investors and direct $2 trillion into traditional equity markets by 2031.', source:'crypto.news', link:'#' },
+      { category:'politics', kicker_ru:'Регуляция',  kicker_en:'Regulation',    date_ru:'5 июня 2026',  date_en:'Jun 5, 2026',  title_ru:'Спор вокруг законопроекта CLARITY обостряется: советник Белого дома защищает новые правила', title_en:'CLARITY bill debate intensifies as White House advisor defends new rules', text_ru:'Советник Белого дома Патрик Витт отстаивает законопроект CLARITY на фоне ожесточённых дебатов по поводу регулирования криптовалют.', text_en:'White House advisor Patrick Witt defends the CLARITY bill amid fierce debate over crypto regulation.', source:'crypto.news', link:'#' },
+      { category:'crypto',   kicker_ru:'Bitcoin',    kicker_en:'Bitcoin',       date_ru:'23 мая 2026',  date_en:'May 23, 2026', title_ru:'Bitcoin достиг $107 000 — новый исторический максимум', title_en:'Bitcoin reaches $107K — new all-time high', text_ru:'За 24 часа монета выросла на 4,3%. Открытый интерес на фьючерсных рынках обновил рекорд.', text_en:'The coin gained 4.3% in 24 hours. Open interest in futures markets hit a new record.', source:'Cryptostan', link:'#' },
+      { category:'finance',  kicker_ru:'Рынки',      kicker_en:'Markets',       date_ru:'23 мая 2026',  date_en:'May 23, 2026', title_ru:'МосБиржа прибавила 2,4% на фоне сигналов о переговорах', title_en:'MOEX gains 2.4% on ceasefire signals', text_ru:'Рынок акций ответил уверенным ростом. Рубль укрепился до 86,8 за доллар.', text_en:'The equity market surged on reports of mediated talks. The ruble strengthened to 86.8 per dollar.', source:'Cryptostan', link:'#' },
+      { category:'finance',  kicker_ru:'Центробанк', kicker_en:'Central Bank',  date_ru:'23 мая 2026',  date_en:'May 23, 2026', title_ru:'ЦБ РФ сохранил ключевую ставку на уровне 21%', title_en:'Bank of Russia holds rate at 21%', text_ru:'Совет директоров сохранил ставку по итогам июньского заседания, сославшись на замедление инфляции.', text_en:'The board voted to hold at the June meeting, citing slowing inflation.', source:'Cryptostan', link:'#' },
+      { category:'politics', kicker_ru:'США',        kicker_en:'United States', date_ru:'22 мая 2026',  date_en:'May 22, 2026', title_ru:'Трамп подписал бюджет: дефицит вырастет до $2,1 трлн', title_en:'Trump signs the budget: deficit to grow to $2.1tn', text_ru:'Доходность трежерис немедленно подскочила после подписания. Аналитики предупреждают о рисках для доллара.', text_en:'Treasury yields spiked immediately. Analysts warn of risks to the dollar.', source:'Cryptostan', link:'#' },
+      { category:'law',      kicker_ru:'Регуляции',  kicker_en:'Regulation',    date_ru:'22 мая 2026',  date_en:'May 22, 2026', title_ru:'Налог на крипто в России: декларация обязательна с 1 июля', title_en:'Crypto tax in Russia: mandatory declaration from July 1', text_ru:'ФНС разъяснила порядок отчётности. Штрафы за непредоставление — до 500 000 ₽.', text_en:'The FTS clarified reporting rules. Fines for non-filing — up to ₽500,000.', source:'Cryptostan', link:'#' },
+      { category:'finance',  kicker_ru:'США · ФРС',  kicker_en:'USA · Fed',     date_ru:'21 мая 2026',  date_en:'May 21, 2026', title_ru:'Пауэлл: снижение ставки возможно не ранее осени', title_en:'Powell: rate cut possible no earlier than fall', text_ru:'ФРС сохраняет осторожный подход к денежно-кредитной политике на фоне устойчивой инфляции.', text_en:'The Fed maintains a cautious approach amid persistent inflation.', source:'Cryptostan', link:'#' },
+      { category:'markets',  kicker_ru:'Нефть',      kicker_en:'Oil',           date_ru:'23 мая 2026',  date_en:'May 23, 2026', title_ru:'Brent выше $82: ОПЕК+ рассматривает сокращение добычи', title_en:'Brent above $82 as OPEC+ mulls output cut', text_ru:'Goldman Sachs повысил прогноз до $90 к осени.', text_en:'Goldman raised target to $90/bbl by autumn.', source:'Cryptostan', link:'#' },
+      { category:'crypto',   kicker_ru:'Ethereum',   kicker_en:'Ethereum',      date_ru:'20 мая 2026',  date_en:'May 20, 2026', title_ru:'Ethereum Pectra upgrade: комиссии снизились на 30%', title_en:'Ethereum Pectra upgrade: fees cut by 30%', text_ru:'Обновление сети ускорило обработку транзакций. Эфир прибавил 3,1%.', text_en:'The network upgrade sped up transaction processing. ETH gained 3.1%.', source:'Cryptostan', link:'#' },
+      { category:'law',      kicker_ru:'Санкции',    kicker_en:'Sanctions',     date_ru:'21 мая 2026',  date_en:'May 21, 2026', title_ru:'Новый пакет санкций ЕС: что попало под ограничения', title_en:'New EU sanctions package: what\'s on the list', text_ru:'14-й пакет затрагивает финансовый сектор и технологические компании.', text_en:'The 14th package targets the financial sector and tech companies.', source:'Cryptostan', link:'#' },
+      { category:'markets',  kicker_ru:'Золото',     kicker_en:'Gold',          date_ru:'22 мая 2026',  date_en:'May 22, 2026', title_ru:'Пекин наращивает золотые резервы до 2 400 тонн', title_en:'Beijing boosts gold reserves to 2,400 tonnes', text_ru:'Доля доллара в китайских резервах упала до исторического минимума.', text_en:'Dollar\'s share in Chinese reserves fell to a record low.', source:'Cryptostan', link:'#' },
+      { category:'law',      kicker_ru:'Эмиграция',  kicker_en:'Emigration',    date_ru:'19 мая 2026',  date_en:'May 19, 2026', title_ru:'Дубай ужесточает требования к налоговому резидентству', title_en:'Dubai tightens tax residency requirements', text_ru:'ОАЭ вводят обязательную 183-дневную отметку для подтверждения резидентства.', text_en:'UAE introduces mandatory 183-day mark to confirm residency status.', source:'Cryptostan', link:'#' },
+    ];
+  }
+
+  document.getElementById('loader')?.remove();
+  updateCounts();
+  render();
+  renderTrending();
+}
+
+// ── TICKER ──────────────────────────────────────────────
+const COIN_IDS = [
+  { id: 'bitcoin',       sym: 'BTC'  },
+  { id: 'ethereum',      sym: 'ETH'  },
+  { id: 'kaspa',         sym: 'KAS'  },
+  { id: 'binancecoin',   sym: 'BNB'  },
+  { id: 'solana',        sym: 'SOL'  },
+  { id: 'ripple',        sym: 'XRP'  },
+  { id: 'toncoin',       sym: 'TON'  },
+  { id: 'dogecoin',      sym: 'DOGE' },
+  { id: 'avalanche-2',   sym: 'AVAX' },
+  { id: 'chainlink',     sym: 'LINK' },
+  { id: 'polkadot',      sym: 'DOT'  },
+  { id: 'matic-network', sym: 'POL'  },
+];
+
+let COINS = COIN_IDS.map(c => ({ ...c, price: null, change: null }));
+
+const GECKO_URL = 'https://api.coingecko.com/api/v3/simple/price?ids='
+  + COIN_IDS.map(c => c.id).join(',')
+  + '&vs_currencies=usd&include_24hr_change=true';
+
+function fmtPrice(p) {
+  if (p === null) return '…';
+  if (p >= 1000) return '$' + p.toLocaleString('en-US', { maximumFractionDigits: 0 });
+  if (p >= 1)    return '$' + p.toFixed(2);
+  if (p >= 0.01) return '$' + p.toFixed(4);
+  return '$' + p.toFixed(6);
+}
+function fmtChange(c) {
+  if (c === null) return '';
+  return (c >= 0 ? '+' : '') + c.toFixed(2) + '%';
+}
+function changeClass(c) {
+  if (c === null) return 'flat';
+  if (c > 0.05)  return 'up';
+  if (c < -0.05) return 'down';
+  return 'flat';
+}
+
+function renderTickerDOM() {
+  const html = COINS.map(coin => `
+    <div class="ticker-item" data-id="${coin.id}">
+      <span class="ticker-sym">${coin.sym}</span>
+      <span class="ticker-price">${fmtPrice(coin.price)}</span>
+      ${coin.change !== null
+        ? `<span class="ticker-change ${changeClass(coin.change)}">${fmtChange(coin.change)}</span>`
+        : ''}
+    </div>`).join('');
+  document.getElementById('ticker-track').innerHTML = html + html;
+}
+
+function refreshTickerDOM() {
+  const items = document.querySelectorAll('.ticker-item');
+  const half = items.length / 2;
+  COINS.forEach((coin, i) => {
+    [items[i], items[i + half]].forEach(el => {
+      if (!el) return;
+      el.querySelector('.ticker-price').textContent = fmtPrice(coin.price);
+      let chEl = el.querySelector('.ticker-change');
+      if (coin.change !== null) {
+        if (!chEl) {
+          chEl = document.createElement('span');
+          el.appendChild(chEl);
+        }
+        chEl.textContent = fmtChange(coin.change);
+        chEl.className = 'ticker-change ' + changeClass(coin.change);
+      }
+    });
+  });
+}
+
+async function fetchPrices() {
+  try {
+    const res = await fetch(GECKO_URL);
+    if (!res.ok) throw new Error('API error');
+    const data = await res.json();
+    COINS.forEach(coin => {
+      const d = data[coin.id];
+      if (d) {
+        coin.price  = d.usd;
+        coin.change = d.usd_24h_change ?? null;
+      }
+    });
+    if (document.querySelectorAll('.ticker-item').length === 0) {
+      renderTickerDOM();
+    } else {
+      refreshTickerDOM();
+    }
+  } catch(e) {
+    // API недоступна (например, file://) — показываем заглушку
+    if (document.querySelectorAll('.ticker-item').length === 0) {
+      renderTickerDOM();
+    }
+  }
+}
+
+// Мелкое случайное блуждание между реальными обновлениями (визуальный эффект)
+function microUpdate() {
+  COINS.forEach(coin => {
+    if (coin.price === null) return;
+    coin.price = Math.max(coin.price * (1 + (Math.random() - 0.5) * 0.0004), 0.000001);
+  });
+  refreshTickerDOM();
+}
+
+renderTickerDOM();
+fetchPrices();
+setInterval(fetchPrices, 60000);
+setInterval(microUpdate,  3000);
+
+// ── FX RATES (frankfurter.app) ───────────────────────────────────
+const FX_PAIRS = [
+  { label: 'EUR/USD', from: 'EUR', to: 'USD', dec: 4 },
+  { label: 'GBP/USD', from: 'GBP', to: 'USD', dec: 4 },
+  { label: 'USD/JPY', from: 'USD', to: 'JPY', dec: 2 },
+  { label: 'USD/CHF', from: 'USD', to: 'CHF', dec: 4 },
+  { label: 'AUD/USD', from: 'AUD', to: 'USD', dec: 4 },
+];
+let fxData = FX_PAIRS.map(p => ({ ...p, rate: null, prev: null }));
+
+async function fetchFX() {
+  try {
+    const yDate = new Date(Date.now() - 86400000).toISOString().split('T')[0];
+    const [latestRes, prevRes] = await Promise.all([
+      fetch('https://api.frankfurter.app/latest?from=USD&to=EUR,GBP,JPY,CHF,AUD'),
+      fetch(`https://api.frankfurter.app/${yDate}?from=USD&to=EUR,GBP,JPY,CHF,AUD`)
+    ]);
+    const latest = await latestRes.json();
+    const prev   = await prevRes.json();
+    fxData = fxData.map(p => {
+      const rate     = p.from === 'USD' ? latest.rates[p.to] : 1 / latest.rates[p.from];
+      const prevRate = p.from === 'USD' ? prev.rates[p.to]   : 1 / prev.rates[p.from];
+      return { ...p, rate, prev: prevRate };
+    });
+    renderFX();
+  } catch(e) {}
+}
+
+function renderFX() {
+  const container = document.getElementById('fx-rates');
+  if (!container) return;
+  container.innerHTML = fxData.map(p => {
+    if (p.rate === null) return `<div class="fx-row"><span class="fx-pair">${p.label}</span><div class="fx-right"><span class="fx-rate">—</span></div></div>`;
+    const chg = p.prev ? ((p.rate - p.prev) / p.prev * 100) : 0;
+    const cls = chg > 0.005 ? 'up' : chg < -0.005 ? 'down' : 'flat';
+    return `<div class="fx-row">
+      <span class="fx-pair">${p.label}</span>
+      <div class="fx-right">
+        <span class="fx-rate">${p.rate.toFixed(p.dec)}</span>
+        <span class="fx-change ${cls}">${chg >= 0 ? '+' : ''}${chg.toFixed(2)}%</span>
+      </div>
+    </div>`;
+  }).join('');
+  const upd = document.getElementById('fx-updated');
+  if (upd) upd.textContent = new Date().toLocaleTimeString('ru-RU', { hour: '2-digit', minute: '2-digit' });
+}
+
+fetchFX();
+setInterval(fetchFX, 300000);
+
+// ── TRENDING ─────────────────────────────────────────────────────
+function renderTrending() {
+  const el = document.getElementById('trending-news');
+  if (!el || !NEWS.length) return;
+  el.innerHTML = NEWS.slice(0, 5).map((n, i) => {
+    const title = currentLang === 'ru' ? (n.title_ru || '') : (n.title_en || '');
+    const href  = n.link && n.link !== '#' ? n.link : null;
+    return `<div class="trending-item" ${href ? `onclick="window.open('${he(href)}','_blank')"` : ''}>
+      <span class="trending-num">0${i + 1}</span>
+      <div class="trending-title">${he(title)}</div>
+    </div>`;
+  }).join('');
+}
+
+loadNews();
+</script>
+</body>
+</html>
