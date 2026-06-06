@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780742525-dtr4",
+    "timestamp": 1780742525,
+    "date": "2026-06-06",
+    "date_ru": "6 июня 2026",
+    "date_en": "June 6, 2026",
+    "category": "crypto",
+    "kicker_ru": "Безопасность",
+    "kicker_en": "Security",
+    "title_ru": "Исследователь, нашедший баг Zcash с помощью ИИ, добавил Monero в список аудитов",
+    "text_ru": "Специалист по безопасности Тейлор Хорнби, обнаруживший критическую уязвимость в протоколе Orchard платформы Zcash при помощи инструментов искусственного интеллекта и вызвавший падение цены на 38%, объявил о планах аудита других приватных криптовалют. Monero, по сообщениям, следующий в очереди на техническую проверку. Находка подчёркивает растущие риски в инфраструктуре privacy-монет и возрастающую роль ИИ в выявлении уязвимостей блокчейна до их возможной эксплуатации.\n📰 CoinDesk\n✍️ Shaurya Malwa",
+    "title_en": "Researcher who found Zcash's bug with AI adds Monero to his audit queue",
+    "text_en": "Security researcher Taylor Hornby, who discovered a critical vulnerability in Zcash's Orchard protocol using AI tools—triggering a 38% price drop—has announced plans to audit other privacy-focused cryptocurrencies. Monero is reportedly next on his list for technical examination. The discovery highlights growing risks in privacy coin infrastructure and the emerging role of artificial intelligence in identifying blockchain vulnerabilities before they can be exploited.\n📰 CoinDesk\n✍️ Shaurya Malwa",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780740049-j125",
     "timestamp": 1780740049,
     "date": "2026-06-06",
