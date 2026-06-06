@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780743652-w14z",
+    "timestamp": 1780743652,
+    "date": "2026-06-06",
+    "date_ru": "6 июня 2026",
+    "date_en": "June 6, 2026",
+    "category": "crypto",
+    "kicker_ru": "Приватные криптовалюты",
+    "kicker_en": "Privacy Coins",
+    "title_ru": "Dragonfly сохраняет позицию в ZEC на фоне дебатов об уязвимости Orchard",
+    "text_ru": "Монета приватности Zcash столкнулась с новым скепсисом после того, как исправленная уязвимость в Orchard Pool вызвала дискуссию о скрытых рисках для пользователей и инвесторов. Партнер Dragonfly Хасиб Кураиши полагает, что рынок недооценивает последствия этого бага, что указывает на более широкие проблемы с безопасностью приватных блокчейн-протоколов.\n📰 crypto.news\n✍️ Irene Mukiri",
+    "title_en": "Dragonfly Holds ZEC as Orchard Bug Debate Raises New Questions",
+    "text_en": "Zcash faces renewed scrutiny following a patched vulnerability in its Orchard Pool that has triggered discussions about potential hidden risks for users and investors. Dragonfly partner Haseeb Qureshi argues the market may be underestimating the implications of the bug, raising broader concerns about the security and reliability of privacy-focused blockchain protocols.\n📰 crypto.news\n✍️ Irene Mukiri",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780742525-dtr4",
     "timestamp": 1780742525,
     "date": "2026-06-06",
