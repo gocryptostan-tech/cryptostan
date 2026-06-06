@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780764125-1lrp",
+    "timestamp": 1780764125,
+    "date": "2026-06-06",
+    "date_ru": "6 июня 2026",
+    "date_en": "June 6, 2026",
+    "category": "crypto",
+    "kicker_ru": "Стейблкоины",
+    "kicker_en": "Stablecoins",
+    "title_ru": "Meta платит создателям контента стейблкойнами. Проблема траты — чья-то проблема",
+    "text_ru": "Решение Meta выплачивать авторов в USDC подтверждает, что стейблкоины становятся мейнстримным инструментом платежей, однако выявляет критический пробел в индустрии: отсутствие беспроблемного обмена цифровых долларов на реальные локальные валюты. Хотя такая адаптация валидирует роль стейблкойнов в экономике создателей контента, она обходит фундаментальную проблему практического использования и механизмов вывода средств, которые остаются слаборазвитыми на большинстве рынков.\n📰 CoinDesk\n✍️ Tim Joslyn",
+    "title_en": "Meta is Paying Creators in Stablecoins. Spending Them is Someone Else's Problem",
+    "text_en": "Meta's move to compensate creators with USDC demonstrates that stablecoins are becoming a mainstream payment tool, but reveals a critical industry gap: the lack of seamless conversion from digital dollars into usable local currencies. While the adoption validates stablecoins' role in creator economies, it sidesteps the fundamental challenge of practical spending and cash-out mechanisms that remain underdeveloped across most markets.\n📰 CoinDesk\n✍️ Tim Joslyn",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780762761-iwiv",
     "timestamp": 1780762761,
     "date": "2026-06-06",
