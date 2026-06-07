@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780849171-55un",
+    "timestamp": 1780849171,
+    "date": "2026-06-07",
+    "date_ru": "7 июня 2026",
+    "date_en": "June 7, 2026",
+    "category": "politics",
+    "kicker_ru": "Федеральная резервная система",
+    "kicker_en": "Federal Reserve",
+    "title_ru": "Трамп давит на Варша по вопросу снижения ставок",
+    "text_ru": "Президент США усиливает давление на своего кандидата в главу Федеральной резервной системы, требуя немедленного снижения процентных ставок, несмотря на рыночные прогнозы роста стоимости заимствований. Это указывает на потенциальный конфликт между экономической повесткой администрации и монетарной политикой ФРС и ставит под вопрос независимость центробанка.\n📰 Financial Times\n✍️ Не указан",
+    "title_en": "Trump Pressures Warsh on Interest Rates Ahead of Fed Chair Confirmation",
+    "text_en": "President Trump is intensifying pressure on his Federal Reserve nominee, calling for immediate rate cuts despite market expectations of rising borrowing costs. The move raises questions about the independence of the central bank and signals potential conflict between the administration's economic agenda and the Fed's monetary policy decisions.\n📰 Financial Times\n✍️ Not provided",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780848194-yjqu",
     "timestamp": 1780848194,
     "date": "2026-06-07",
@@ -1696,23 +1713,5 @@
     "author": "",
     "link": "#",
     "thumb": "🕊️"
-  },
-  {
-    "id": "1748822100-gold-3300",
-    "timestamp": 1748822100,
-    "date": "2026-05-22",
-    "date_ru": "22 мая 2026",
-    "date_en": "May 22, 2026",
-    "category": "markets",
-    "kicker_ru": "Золото",
-    "kicker_en": "Gold",
-    "title_ru": "Золото держится выше $3 300: центробанки продолжают скупать",
-    "title_en": "Gold holds above $3,300 as central banks keep buying",
-    "text_ru": "Спрос со стороны центральных банков развивающихся рынков достиг рекорда 2024 года.",
-    "text_en": "Demand from emerging-market central banks matched the 2024 record.",
-    "source": "Cryptostan",
-    "author": "",
-    "link": "#",
-    "thumb": "🥇"
   }
 ]
