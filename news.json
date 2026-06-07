@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780872117-cnnp",
+    "timestamp": 1780872117,
+    "date": "2026-06-07",
+    "date_ru": "7 июня 2026",
+    "date_en": "June 7, 2026",
+    "category": "law",
+    "kicker_ru": "Регуляция",
+    "kicker_en": "Regulation",
+    "title_ru": "Налоговые законопроекты комитета Ways and Means: влияние на крипто",
+    "text_ru": "Палата представителей США готовит серьёзные налоговые реформы, которые существенно повлияют на криптосектор. Предложения комитета касаются налогообложения цифровых активов, требований к соответствию и обязательного отчёта о крипто-операциях и обменах. Эти законопроекты станут переломным моментом для регулирования криптовалют в США и могут кардинально изменить подходы к налогообложению и отчётности цифровых активов перед федеральными органами.\n📰 CoinDesk\n✍️ Nikhilesh De",
+    "title_en": "A Quick Review of House Ways and Means Tax Bills: Crypto Impact",
+    "text_en": "The House Ways and Means Committee is preparing major tax legislation that will significantly impact the cryptocurrency sector. The committee's proposals address taxation of digital assets, regulatory compliance requirements, and reporting obligations for crypto transactions and exchanges. These bills represent a critical juncture for crypto regulation in the U.S., potentially reshaping how digital assets are taxed and reported to federal authorities.\n📰 CoinDesk\n✍️ Nikhilesh De",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780865749-9ad7",
     "timestamp": 1780865749,
     "date": "2026-06-07",
@@ -1691,23 +1708,5 @@
     "author": "",
     "link": "#",
     "thumb": "📈"
-  },
-  {
-    "id": "1748736000-ofz-85bn",
-    "timestamp": 1748736000,
-    "date": "2026-05-21",
-    "date_ru": "21 мая 2026",
-    "date_en": "May 21, 2026",
-    "category": "finance",
-    "kicker_ru": "ОФЗ",
-    "kicker_en": "Gov. Bonds",
-    "title_ru": "Минфин разместил ОФЗ на 85 млрд ₽ — спрос втрое превысил предложение",
-    "title_en": "MinFin places ₽85bn in OFZ — demand triples supply",
-    "text_ru": "Высокий спрос свидетельствует о росте доверия к рублёвым активам.",
-    "text_en": "Strong demand signals growing confidence in ruble assets.",
-    "source": "Cryptostan",
-    "author": "",
-    "link": "#",
-    "thumb": "📋"
   }
 ]
