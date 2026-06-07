@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780865749-9ad7",
+    "timestamp": 1780865749,
+    "date": "2026-06-07",
+    "date_ru": "7 июня 2026",
+    "date_en": "June 7, 2026",
+    "category": "crypto",
+    "kicker_ru": "Биткоин, Корпоративная стратегия",
+    "kicker_en": "Bitcoin, Corporate Strategy",
+    "title_ru": "Руководство MicroStrategy продвигает Биткоин-стратегию перед голосованием по дивидендам",
+    "text_ru": "Топ-менеджеры MicroStrategy активно пропагандируют на социальных сетях стратегию накопления Биткоина компанией, пока акционеры голосуют за предложение увеличить выплаты дивидендов по привилегированным акциям до двух раз в месяц. Инициатива подтверждает приверженность компании Биткоину как ключевому активу и одновременно демонстрирует готовность выплачивать дивиденды акционерам.\n📰 Cointelegraph\n✍️ Cointelegraph",
+    "title_en": "Strategy's Saylor signals BTC buy as preferred dividend pay date vote looms",
+    "text_en": "MicroStrategy's leadership is actively promoting the company's Bitcoin accumulation strategy on social media as shareholders prepare to vote on a proposal to increase preferred stock dividend payments to twice monthly. The initiative reflects the company's continued commitment to Bitcoin as a core asset while managing shareholder returns.\n📰 Cointelegraph\n✍️ Cointelegraph",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780861328-zeet",
     "timestamp": 1780861328,
     "date": "2026-06-07",
@@ -1692,23 +1709,5 @@
     "author": "",
     "link": "#",
     "thumb": "📋"
-  },
-  {
-    "id": "1748822200-iis3-tax",
-    "timestamp": 1748822200,
-    "date": "2026-05-22",
-    "date_ru": "22 мая 2026",
-    "date_en": "May 22, 2026",
-    "category": "law",
-    "kicker_ru": "Налоги",
-    "kicker_en": "Taxation",
-    "title_ru": "ИИС-3: налоговый вычет вырастет до 52 000 ₽ с июля",
-    "title_en": "IIS-3: tax deduction rises to ₽52,000 from July",
-    "text_ru": "Поправки в Налоговый кодекс расширили льготы для долгосрочных инвесторов.",
-    "text_en": "Tax code amendments expanded benefits for long-term investors.",
-    "source": "Cryptostan",
-    "author": "",
-    "link": "#",
-    "thumb": "📜"
   }
 ]
