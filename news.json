@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780848194-yjqu",
+    "timestamp": 1780848194,
+    "date": "2026-06-07",
+    "date_ru": "7 июня 2026",
+    "date_en": "June 7, 2026",
+    "category": "politics",
+    "kicker_ru": "Переговоры о мире на Украине",
+    "kicker_en": "Ukraine Peace Talks",
+    "title_ru": "Украина обращается к Европе, когда США отходят от роли посредника в мирных переговорах",
+    "text_ru": "Президент Зеленский переориентировался на европейскую дипломатию, встретившись в Лондоне с лидерами Британии, Германии и Франции, которые могут выступить посредниками в потенциальных переговорах с Россией на фоне снижения роли США в мирных инициативах.\n📰 nytimes.com\n✍️ Constant Méheut",
+    "title_en": "Ukraine Turns to Europe as U.S. Steps Back as Mediator in Peace Talks",
+    "text_en": "President Zelensky has shifted diplomatic focus toward Europe, traveling to London to engage with British, German, and French leaders who could serve as mediators in potential negotiations with Russia, as the U.S. reduces its role in peace efforts.\n📰 nytimes.com\n✍️ Constant Méheut",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780844446-8ryq",
     "timestamp": 1780844446,
     "date": "2026-06-07",
@@ -1697,23 +1714,5 @@
     "author": "",
     "link": "#",
     "thumb": "🥇"
-  },
-  {
-    "id": "1748649600-china-gold",
-    "timestamp": 1748649600,
-    "date": "2026-05-20",
-    "date_ru": "20 мая 2026",
-    "date_en": "May 20, 2026",
-    "category": "markets",
-    "kicker_ru": "Китай",
-    "kicker_en": "China",
-    "title_ru": "Пекин наращивает золотые резервы до 2 400 тонн",
-    "title_en": "Beijing boosts gold reserves to 2,400 tonnes",
-    "text_ru": "Доля доллара в китайских резервах упала до исторического минимума.",
-    "text_en": "Dollar's share in Chinese reserves fell to record low.",
-    "source": "Cryptostan",
-    "author": "",
-    "link": "#",
-    "thumb": "🇨🇳"
   }
 ]
