@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780851349-364r",
+    "timestamp": 1780851349,
+    "date": "2026-06-07",
+    "date_ru": "7 июня 2026",
+    "date_en": "June 7, 2026",
+    "category": "crypto",
+    "kicker_ru": "Биткоин, Рынки",
+    "kicker_en": "Bitcoin, Markets",
+    "title_ru": "Биткоину грозит новая «чистка»: убытки медведя на $35 млрд ниже показателей 2022 года",
+    "text_ru": "Реализованные потери биткоина остаются на $35 млрд ниже рекорда в $211 млрд, зафиксированного во время медвежьего рынка 2022 года. Аналитики предупреждают, что дальнейшее падение неизбежно, поскольку крипторынок продолжает проверять уровни поддержки. Это означает, что перед устойчивым восстановлением могут быть более глубокие убытки.\n📰 Cointelegraph\n✍️ William Suberg",
+    "title_en": "Bitcoin risks new 'purge' with bear-market losses still $35B below 2022 total",
+    "text_en": "Bitcoin's realized losses remain $35 billion below the $211 billion recorded during the 2022 bear market, suggesting the current downturn has not yet reached its bottom. Analysts warn that further capitulation could be coming as the cryptocurrency market continues to test support levels, with the possibility of deeper losses before a sustained recovery begins.\n📰 Cointelegraph\n✍️ William Suberg",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780850523-mlag",
     "timestamp": 1780850523,
     "date": "2026-06-07",
@@ -1694,23 +1711,5 @@
     "author": "",
     "link": "#",
     "thumb": "🇪🇺"
-  },
-  {
-    "id": "1748563200-dubai-residency",
-    "timestamp": 1748563200,
-    "date": "2026-05-19",
-    "date_ru": "19 мая 2026",
-    "date_en": "May 19, 2026",
-    "category": "law",
-    "kicker_ru": "Эмиграция",
-    "kicker_en": "Emigration",
-    "title_ru": "Дубай ужесточает требования к налоговому резидентству",
-    "title_en": "Dubai tightens tax residency requirements",
-    "text_ru": "ОАЭ вводят обязательную 183-дневную отметку для подтверждения резидентства.",
-    "text_en": "UAE introduces mandatory 183-day mark to confirm residency status.",
-    "source": "Cryptostan",
-    "author": "",
-    "link": "#",
-    "thumb": "🌍"
   }
 ]
