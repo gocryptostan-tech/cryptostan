@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780850523-mlag",
+    "timestamp": 1780850523,
+    "date": "2026-06-07",
+    "date_ru": "7 июня 2026",
+    "date_en": "June 7, 2026",
+    "category": "markets",
+    "kicker_ru": "Биткоин, Институциональные потоки",
+    "kicker_en": "Bitcoin, Institutional Flows",
+    "title_ru": "Биткоин вернулся к $60 000 на фоне разворота институциональных продаж",
+    "text_ru": "Восстановление Биткоина до отметки $60 000 сопровождается значительными оттоками из Bitcoin ETF, что резко контрастирует с февралем, когда крупные инвесторы активно скупали активы на спадах. Смена настроений говорит о развороте в поведении институциональных игроков — теперь они предпочитают избавляться от позиций вместо того, чтобы накапливать их по текущим ценам, что может свидетельствовать об опасениях по поводу краткосрочного направления рынка.\n📰 CoinDesk\n✍️ Omkar Godbole",
+    "title_en": "Bitcoin Returns to $60,000 Amid Institutional Selling Reversal",
+    "text_en": "Bitcoin's recovery to the $60,000 level is accompanied by significant ETF outflows, contrasting sharply with February's institutional buying during market dips. The shift signals a dramatic change in institutional sentiment, with large investors now choosing to exit positions rather than accumulate at current prices, potentially indicating concern about near-term market direction.\n📰 CoinDesk\n✍️ Omkar Godbole",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780849171-55un",
     "timestamp": 1780849171,
     "date": "2026-06-07",
@@ -1695,23 +1712,5 @@
     "author": "",
     "link": "#",
     "thumb": "🌍"
-  },
-  {
-    "id": "1748908300-peace-talks",
-    "timestamp": 1748908300,
-    "date": "2026-05-23",
-    "date_ru": "23 мая 2026",
-    "date_en": "May 23, 2026",
-    "category": "politics",
-    "kicker_ru": "Россия",
-    "kicker_en": "Russia",
-    "title_ru": "Переговоры при посредничестве: что известно об очередном раунде",
-    "title_en": "Mediated talks: what is known about the latest round",
-    "text_ru": "Третьи страны подтвердили факт контактов. Детали не раскрываются.",
-    "text_en": "Third parties confirmed the contacts. Details are not disclosed.",
-    "source": "Cryptostan",
-    "author": "",
-    "link": "#",
-    "thumb": "🕊️"
   }
 ]
