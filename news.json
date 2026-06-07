@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780872949-jgn2",
+    "timestamp": 1780872949,
+    "date": "2026-06-07",
+    "date_ru": "7 июня 2026",
+    "date_en": "June 7, 2026",
+    "category": "crypto",
+    "kicker_ru": "Биткоин, Рынки",
+    "kicker_en": "Bitcoin, Markets",
+    "title_ru": "Как падение Nasdaq повлияет на Биткоин?",
+    "text_ru": "Биткоин удерживает ключевые долгосрочные уровни поддержки, а аналитики прогнозируют возможный рост до $92,630. Цена криптовалюты всё больше привязана к движениям фондовых рынков, особенно Nasdaq, который показывает признаки глубокой коррекции. Эта корреляция демонстрирует чувствительность Биткоина к макроэкономическим условиям и волатильности технологического сектора.\n📰 Cointelegraph\n✍️ Yashu Gola",
+    "title_en": "What Happens to Bitcoin if the Nasdaq Falls Further?",
+    "text_en": "Bitcoin is consolidating near key long-term support levels while analysts predict a potential rally toward $92,630. The cryptocurrency's price action is increasingly tied to broader equity market movements, particularly the Nasdaq, which is showing signs of deeper correction risks. This correlation highlights Bitcoin's sensitivity to macro market conditions and tech sector volatility.\n📰 Cointelegraph\n✍️ Yashu Gola",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780872117-cnnp",
     "timestamp": 1780872117,
     "date": "2026-06-07",
@@ -1690,23 +1707,5 @@
     "author": "",
     "link": "#",
     "thumb": "🏦"
-  },
-  {
-    "id": "1748908400-moex-volume",
-    "timestamp": 1748908400,
-    "date": "2026-05-23",
-    "date_ru": "23 мая 2026",
-    "date_en": "May 23, 2026",
-    "category": "finance",
-    "kicker_ru": "Рынки",
-    "kicker_en": "Markets",
-    "title_ru": "Объём торгов на МосБирже вырос на 34%: аналитики называют три причины",
-    "title_en": "MOEX equity volume up 34%: analysts name three drivers",
-    "text_ru": "Индекс продолжает рост. Прогноз к концу квартала — 3 400 пунктов.",
-    "text_en": "The index extends gains. Quarter-end target: 3,400 points.",
-    "source": "Cryptostan",
-    "author": "",
-    "link": "#",
-    "thumb": "📈"
   }
 ]
