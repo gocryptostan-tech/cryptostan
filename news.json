@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780861328-zeet",
+    "timestamp": 1780861328,
+    "date": "2026-06-07",
+    "date_ru": "7 июня 2026",
+    "date_en": "June 7, 2026",
+    "category": "crypto",
+    "kicker_ru": "Биткоин, Корпоративная стратегия",
+    "kicker_en": "Bitcoin, Corporate Strategy",
+    "title_ru": "Майкл Сейлор намекает на новые покупки Bitcoin среди растущей критики стратегии MicroStrategy",
+    "text_ru": "Исполнительный председатель MicroStrategy опубликовал график, отражающий предыдущие покупки компанией Bitcoin, предполагая, что пришло время расширить портфель. Этот ход происходит на фоне усиливающегося внимания регуляторов и инвесторов к агрессивной стратегии накопления Bitcoin, ставшей основой деятельности компании.\n📰 CoinDesk\n✍️ Krisztian Sandor",
+    "title_en": "Michael Saylor Hints at More Bitcoin Purchases as MicroStrategy Faces Increased Scrutiny",
+    "text_en": "MicroStrategy's executive chairman Michael Saylor posted a chart showing the company's previous Bitcoin acquisitions, suggesting it may be time to expand holdings. The move comes amid growing regulatory and investor scrutiny over the firm's aggressive Bitcoin accumulation strategy, which has become central to its business model.\n📰 CoinDesk\n✍️ Krisztian Sandor",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780851349-364r",
     "timestamp": 1780851349,
     "date": "2026-06-07",
@@ -1693,23 +1710,5 @@
     "author": "",
     "link": "#",
     "thumb": "📜"
-  },
-  {
-    "id": "1748736100-eu-sanctions",
-    "timestamp": 1748736050,
-    "date": "2026-05-21",
-    "date_ru": "21 мая 2026",
-    "date_en": "May 21, 2026",
-    "category": "law",
-    "kicker_ru": "Санкции",
-    "kicker_en": "Sanctions",
-    "title_ru": "Новый пакет санкций ЕС: что попало под ограничения",
-    "title_en": "New EU sanctions package: what's on the list",
-    "text_ru": "14-й пакет затрагивает финансовый сектор и технологические компании.",
-    "text_en": "The 14th package targets the financial sector and tech companies.",
-    "source": "Cryptostan",
-    "author": "",
-    "link": "#",
-    "thumb": "🇪🇺"
   }
 ]
