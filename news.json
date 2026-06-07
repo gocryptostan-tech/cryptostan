@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780844446-8ryq",
+    "timestamp": 1780844446,
+    "date": "2026-06-07",
+    "date_ru": "7 июня 2026",
+    "date_en": "June 7, 2026",
+    "category": "crypto",
+    "kicker_ru": "Биткоин",
+    "kicker_en": "Bitcoin",
+    "title_ru": "Биткоин тестирует уровень $60k на фоне намеков Сейлора о новых покупках",
+    "text_ru": "Биткоин вырос до $61,739 после снижения к $60,420, при этом глава MicroStrategy Майкл Сейлор сигнализирует о продолжении накопления активов. Трейдеры одновременно отслеживают потенциальный отток капитала из традиционных акций в направлении активов искусственного интеллекта, что создает конкурирующее давление на оценки криптовалют.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "title_en": "Bitcoin Price Tests $60K as Saylor Signals Additional Purchases",
+    "text_en": "Bitcoin has climbed to $61,739, briefly dipping to $60,420 as MicroStrategy's Michael Saylor hints at continued accumulation. Market participants are simultaneously monitoring potential capital shifts from traditional stocks toward artificial intelligence assets, creating competing pressures on cryptocurrency valuations.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780839717-lkud",
     "timestamp": 1780839717,
     "date": "2026-06-07",
@@ -1698,23 +1715,5 @@
     "author": "",
     "link": "#",
     "thumb": "🇨🇳"
-  },
-  {
-    "id": "1748822050-g7-sanctions",
-    "timestamp": 1748822050,
-    "date": "2026-05-22",
-    "date_ru": "22 мая 2026",
-    "date_en": "May 22, 2026",
-    "category": "politics",
-    "kicker_ru": "G7",
-    "kicker_en": "G7",
-    "title_ru": "G7 обсуждает новый пакет санкций против России",
-    "title_en": "G7 discusses new Russia sanctions package",
-    "text_ru": "Перечень под согласованием, решение ожидается на саммите.",
-    "text_en": "List under review; decision expected at the summit.",
-    "source": "Cryptostan",
-    "author": "",
-    "link": "#",
-    "thumb": "🌐"
   }
 ]
