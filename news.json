@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780893718-0tt2",
+    "timestamp": 1780893718,
+    "date": "2026-06-08",
+    "date_ru": "8 июня 2026",
+    "date_en": "June 8, 2026",
+    "category": "crypto",
+    "kicker_ru": "Биткоин, Рынки",
+    "kicker_en": "Bitcoin, Markets",
+    "title_ru": "Биткоин упал ниже $63 тыс. на фоне геополитических потрясений",
+    "text_ru": "Биткоин отступил от ночных максимумов, упав ниже отметки $63 тыс., под давлением обострения конфликта между Ираном и Израилем и резкого падения южнокорейских акций. Геополитический кризис привёл к росту цен на нефть, что негативно отразилось на криптовалютных рынках, чувствительных к общеэкономической нестабильности.\n📰 CoinDesk\n✍️ Omkar Godbole",
+    "title_en": "Bitcoin Falls Below $63,000 Amid Geopolitical Tensions",
+    "text_en": "Bitcoin retreated from overnight highs to below $63,000 as escalating Iran-Israel tensions and a sharp decline in Korean stocks pressured risk sentiment. The geopolitical conflict has also driven oil prices higher, creating headwinds for cryptocurrency markets sensitive to broader economic uncertainty.\n📰 CoinDesk\n✍️ Omkar Godbole",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780872949-jgn2",
     "timestamp": 1780872949,
     "date": "2026-06-07",
@@ -1689,23 +1706,5 @@
     "author": "",
     "link": "#",
     "thumb": "Ξ"
-  },
-  {
-    "id": "1748822300-sberbank-18",
-    "timestamp": 1748822300,
-    "date": "2026-05-22",
-    "date_ru": "22 мая 2026",
-    "date_en": "May 22, 2026",
-    "category": "finance",
-    "kicker_ru": "Банки",
-    "kicker_en": "Banks",
-    "title_ru": "Сбербанк повысил ставки по вкладам до 18% годовых",
-    "title_en": "Sberbank raises deposit rates to 18%",
-    "text_ru": "Крупнейший банк скорректировал условия вслед за решением Центробанка. Аналитики ждут аналогичных шагов от ВТБ и Альфа-банка.",
-    "text_en": "Russia's largest bank adjusted conditions following the central bank decision. Analysts expect similar moves from VTB and Alfa-Bank.",
-    "source": "Cryptostan",
-    "author": "",
-    "link": "#",
-    "thumb": "🏦"
   }
 ]
