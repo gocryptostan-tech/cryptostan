@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780936929-ul67",
+    "timestamp": 1780936929,
+    "date": "2026-06-08",
+    "date_ru": "8 июня 2026",
+    "date_en": "June 8, 2026",
+    "category": "law",
+    "kicker_ru": "Уголовное право",
+    "kicker_en": "Criminal Justice",
+    "title_ru": "Сэм Бэнкман-Фрид просит Трампа о помиловании",
+    "text_ru": "Опальный основатель FTX, отбывающий 25-летний срок за мошенничество, официально подал петицию о помиловании президенту Трампу. Несмотря на предыдущие предупреждения Трампа не надеяться на снисхождение, Бэнкман-Фрид рассчитывает на известную готовность президента помиловать деятелей крипто-индустрии. Этот шаг свидетельствует об отчаянии, поскольку для бывшего видного криптовалютного магната заканчиваются юридические возможности.\n📰 CoinDesk\n✍️ Helene Braun",
+    "title_en": "Sam Bankman-Fried Petitions Trump for Presidential Pardon",
+    "text_en": "The disgraced FTX founder, currently serving a 25-year prison sentence for fraud, has formally submitted a clemency request to President Trump. Despite Trump's previous warnings against hoping for leniency, Bankman-Fried is betting on the president's known willingness to pardon figures from the crypto industry. The move signals desperation as legal options dwindle for the once-prominent cryptocurrency executive.\n📰 CoinDesk\n✍️ Helene Braun",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780934602-uvdw",
     "timestamp": 1780934602,
     "date": "2026-06-08",
@@ -1678,23 +1695,6 @@
     "text_ru": "Ethereum испытывает интенсивное давление продавцов четвёртый день подряд, при этом ликвидации позиций и отток из ETF-фондов толкают ETH на самый низкий уровень в этом году. Технический анализ указывает на возможный паттерн обратного Adam and Eve, который может сигнализировать о дальнейшем снижении котировок и проверке критической поддержки на уровне $1500.\n📰 crypto.news\n✍️ Rony Roy",
     "title_en": "Can Ethereum price hold $1,500 as inverse Adam and Eve breakout signals deeper losses?",
     "text_en": "Ethereum faced intense selling pressure for the fourth consecutive day, with liquidations and ETF outflows driving ETH to its lowest level of the year. Technical analysis suggests a potential inverse Adam and Eve pattern could signal further downside, testing critical support at the $1,500 level as traders assess whether the cryptocurrency can stabilize or face deeper losses.\n📰 crypto.news\n✍️ Rony Roy",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780656126-zqmv",
-    "timestamp": 1780656126,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "crypto",
-    "kicker_ru": "Рынки",
-    "kicker_en": "Markets",
-    "title_ru": "Самая сложная неделя для крипто с июля 2024: биткоин и эфир падают к критическим уровням",
-    "text_ru": "Криптовалютный рынок переживает самую тяжёлую неделю с июля 2024 года — биткоин и эфир приближаются к ключевым уровням поддержки. Падение котировок усугубляют уязвимость в Zcash и переток капитала из криптоактивов в AI-проекты, создавая дополнительное давление на крупные монеты.\n📰 CoinDesk\n✍️ Oliver Knight",
-    "title_en": "Crypto's worst week since July 2024 deepens as bitcoin, ether near critical price levels",
-    "text_en": "Cryptocurrency markets are experiencing their worst week since July 2024, with Bitcoin and Ethereum approaching key support levels. The downturn is intensified by a Zcash exploit and ongoing capital rotation away from digital assets toward AI investments, creating additional selling pressure across major coins.\n📰 CoinDesk\n✍️ Oliver Knight",
     "source": "",
     "link": "#",
     "thumb": "📰"
