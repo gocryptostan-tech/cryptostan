@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780952453-52pu",
+    "timestamp": 1780952453,
+    "date": "2026-06-08",
+    "date_ru": "8 июня 2026",
+    "date_en": "June 8, 2026",
+    "category": "crypto",
+    "kicker_ru": "Приватность и регуляция",
+    "kicker_en": "Privacy & Regulation",
+    "title_ru": "Sui представила функцию приватности, уравновешивающую защиту пользователей и соответствие регуляциям",
+    "text_ru": "Сеть Sui запустила уникальную систему конфиденциальности, которая скрывает балансы токенов и суммы транзакций от общественности, но предоставляет регуляторам и специалистам по соответствию доступ для аудита. Такой подход выделяет Sui среди традиционных приватных монет, поскольку пытается найти компромисс между анонимностью пользователей и государственным контролем.\n📰 crypto.news\n✍️ Lawrence Mondal",
+    "title_en": "Sui Launches Privacy Feature That Balances User Protection With Regulatory Compliance",
+    "text_en": "Sui has introduced a novel privacy system now in public testing that conceals token balances and transaction amounts from the public while granting regulators and compliance officers backdoor access for audits. This approach sets Sui apart from traditional privacy coins by attempting to reconcile anonymity with regulatory oversight, potentially offering a middle ground between financial secrecy and government control.\n📰 crypto.news\n✍️ Lawrence Mondal",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780952149-cn40",
     "timestamp": 1780952149,
     "date": "2026-06-08",
@@ -1678,23 +1695,6 @@
     "text_ru": "После обнаружения уязвимости в протоколе Orchard, позволившей потенциально создавать поддельные монеты, разработчики Zcash предпринимают серьёзные меры. Команда оценивает возможность внедрения нового экрана конфиденциальности и механизмов учёта оборота для предотвращения будущих эксплойтов и сохранения целостности криптовалюты.\n📰 Cointelegraph\n✍️ Ezra Reguerra",
     "title_en": "Zcash Developers Address Critical Orchard Bug, Consider New Shielded Pool",
     "text_en": "Zcash developers are implementing significant changes following the discovery of a counterfeiting vulnerability in the Orchard protocol. The flaw raised concerns about supply verification, prompting the team to evaluate a new shielded pool architecture and implement turnstile accounting mechanisms to prevent future exploits and maintain cryptocurrency integrity.\n📰 Cointelegraph\n✍️ Ezra Reguerra",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780666932-5lke",
-    "timestamp": 1780666932,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "markets",
-    "kicker_ru": "Обновление рынка",
-    "kicker_en": "Market Update",
-    "title_ru": "Индекс CoinDesk 20 снизился на фоне падения Bitcoin на 2,8%",
-    "text_ru": "Индекс CoinDesk 20 продемонстрировал массовое снижение: все двадцать активов, входящих в его состав, торговались ниже уровней предыдущего дня. Bitcoin возглавил потери со снижением на 2,8%, отражая общую слабость на крипторынке.\n📰 CoinDesk\n✍️ CoinDesk Indices",
-    "title_en": "CoinDesk 20 Index Falls as Bitcoin Drops 2.8%",
-    "text_en": "The CoinDesk 20 index experienced a broad decline, with all twenty constituent assets trading lower compared to the previous day. Bitcoin led the losses with a 2.8% price drop, reflecting broader market weakness across the cryptocurrency sector.\n📰 CoinDesk\n✍️ CoinDesk Indices",
     "source": "",
     "link": "#",
     "thumb": "📰"
