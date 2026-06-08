@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780894549-r1d6",
+    "timestamp": 1780894549,
+    "date": "2026-06-08",
+    "date_ru": "8 июня 2026",
+    "date_en": "June 8, 2026",
+    "category": "crypto",
+    "kicker_ru": "Конфликт на бирже",
+    "kicker_en": "Exchange Drama",
+    "title_ru": "Биржа HTX Джастина Сана делистит USD₁ семьи Трампа на фоне блокировки активов",
+    "text_ru": "Криптовалютная биржа HTX Джастина Сана делистила и приостановила торговлю стейблкойном USD₁, выпущенным финансовым проектом World Liberty из окружения семьи Трампа. Биржа ответила делистингом после того, как World Liberty заморозила адреса HTX — конфликт между сторонами обостряется и демонстрирует растущие напряженности в крипто-экосистеме.\n📰 Cointelegraph\n✍️ Jesse Coghlan",
+    "title_en": "Justin Sun's HTX Exchange Delists Trump Family's USD₁ Token Amid Asset Freeze",
+    "text_en": "Justin Sun's HTX cryptocurrency exchange has delisted and suspended the USD₁ stablecoin issued by the Trump family's World Liberty financial project, escalating tensions between the parties. The move came after World Liberty froze HTX's addresses, prompting the exchange to take retaliatory action by removing the token from its platform and halting trading.\n📰 Cointelegraph\n✍️ Jesse Coghlan",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780893718-0tt2",
     "timestamp": 1780893718,
     "date": "2026-06-08",
@@ -1688,23 +1705,5 @@
     "author": "",
     "link": "#",
     "thumb": "⚖️"
-  },
-  {
-    "id": "1748649700-ethereum-pectra",
-    "timestamp": 1748649700,
-    "date": "2026-05-20",
-    "date_ru": "20 мая 2026",
-    "date_en": "May 20, 2026",
-    "category": "crypto",
-    "kicker_ru": "Ethereum",
-    "kicker_en": "Ethereum",
-    "title_ru": "Ethereum Pectra upgrade: комиссии снизились на 30%",
-    "title_en": "Ethereum Pectra upgrade: fees cut by 30%",
-    "text_ru": "Обновление сети снизило комиссии на 30% и ускорило обработку транзакций. Эфир прибавил 3,1%.",
-    "text_en": "The network upgrade cut fees by 30% and sped up transaction processing. ETH gained 3.1%.",
-    "source": "Cryptostan",
-    "author": "",
-    "link": "#",
-    "thumb": "Ξ"
   }
 ]
