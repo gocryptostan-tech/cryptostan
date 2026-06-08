@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780923656-ss6v",
+    "timestamp": 1780923656,
+    "date": "2026-06-08",
+    "date_ru": "8 июня 2026",
+    "date_en": "June 8, 2026",
+    "category": "crypto",
+    "kicker_ru": "Ethereum, Холдинги",
+    "kicker_en": "Ethereum, Holdings",
+    "title_ru": "Bitmine приближается к цели владеть 5% предложения Ethereum",
+    "text_ru": "Bitmine увеличила свои запасы Ethereum до 5,54 млн ETH стоимостью около $9,04 млрд. Компания застейкила 4,72 млн токенов через платформу MAVAN, приближаясь к амбициозной цели захватить 5% от всего предложения Ethereum на рынке.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "title_en": "Bitmine's massive Ethereum accumulation brings 5% supply goal closer",
+    "text_en": "Bitmine has increased its Ethereum holdings to 5.54 million ETH, valued at approximately $9.04 billion. The company currently has 4.72 million tokens staked through the MAVAN platform, positioning itself closer to its ambitious goal of controlling 5% of Ethereum's total supply.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780923636-479w",
     "timestamp": 1780923636,
     "date": "2026-06-08",
@@ -1678,23 +1695,6 @@
     "text_ru": "Компания 7RCC Global представила BTCK — новый биржевой фонд, который инвестирует 80% в Биткойн и 20% в регулируемые фьючерсы на углеродные кредиты. Фонд является одним из первых ESG-ориентированных ETF-продуктов в криптосекторе и уже доступен для торговли на NYSE Arca. Этот гибридный подход объединяет цифровые активы с инициативами в области экологической устойчивости.\n📰 crypto.news\n✍️ Rony Roy",
     "title_en": "7RCC Global Launches Bitcoin-Carbon Credit ETF on NYSE Arca",
     "text_en": "7RCC Global has introduced BTCK, a new exchange-traded fund combining 80% Bitcoin allocation with 20% regulated carbon credit futures. The fund represents one of the earliest ESG-focused ETF products in the cryptocurrency sector, now available for public trading on NYSE Arca. This hybrid approach aims to bridge digital assets with environmental sustainability initiatives.\n📰 crypto.news\n✍️ Rony Roy",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780645323-dj2p",
-    "timestamp": 1780645323,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "crypto",
-    "kicker_ru": "Биткоин, Волатильность рынка",
-    "kicker_en": "Bitcoin, Market Volatility",
-    "title_ru": "Биткоин рискует упасть до $60 тысяч на волне распродажи в секторе ИИ",
-    "text_ru": "Разочаровывающий прогноз Broadcom по продажам чипов для искусственного интеллекта спровоцировал массовую распродажу активов. Инвесторы фиксируют прибыль от ставок на ИИ, что негативно сказывается на криптовалютах. На этом фоне держатели Zcash массово избавляются от своих позиций.\n📰 CoinDesk\n✍️ Shaurya Malwa",
-    "title_en": "Bitcoin risks falling to $60,000 as AI sector profit-taking intensifies",
-    "text_en": "Broadcom's disappointing AI chip sales guidance has triggered a broader market selloff, with investors cashing in on AI-related gains. The downturn is impacting cryptocurrencies across the board, while Zcash investors are abandoning their positions amid the market correction.\n📰 CoinDesk\n✍️ Shaurya Malwa",
     "source": "",
     "link": "#",
     "thumb": "📰"
