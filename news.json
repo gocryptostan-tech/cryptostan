@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780908953-ihzs",
+    "timestamp": 1780908953,
+    "date": "2026-06-08",
+    "date_ru": "8 июня 2026",
+    "date_en": "June 8, 2026",
+    "category": "crypto",
+    "kicker_ru": "Движения на рынке",
+    "kicker_en": "Market Movements",
+    "title_ru": "Артур Хейс избавляется от WLD вскоре после презентации Maelstrom о криптовалюте как AI-IPO",
+    "text_ru": "Основатель BitMEX Артур Хейс активно распродаёт криптовалютные активы, включая WLD, всего через несколько дней после того, как его инвестфонд Maelstrom позиционировал токен как инструмент для AI-ориентированного выхода на биржу. В ходе распродажи Хейс также избавляется от позиций в HYPE, ZEC и NEAR, что указывает на переориентацию его портфеля в условиях волатильного рынка.\n📰 Cointelegraph\n✍️ Martin Young",
+    "title_en": "Arthur Hayes Dumps WLD Token Days After Maelstrom's AI IPO Pitch",
+    "text_en": "BitMEX founder Arthur Hayes has been actively selling off cryptocurrency positions, including WLD, just days after his investment firm Maelstrom promoted the token as an AI-focused IPO play. The recent offloading also includes stakes in HYPE, ZEC, and NEAR tokens, signaling a shift in his portfolio strategy amid volatile market conditions.\n📰 Cointelegraph\n✍️ Martin Young",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780905653-fwo4",
     "timestamp": 1780905653,
     "date": "2026-06-08",
@@ -1678,23 +1695,6 @@
     "text_ru": "Комиссар SEC Хестер Пирс выступила против распространения требований федеральной регистрации ценных бумаг на разработчиков открытого кода только потому, что их код используют третьи лица. Выступая в Принстоне на конференции IC3 Blockchain Camp, Пирс подняла острый вопрос: как регуляторам следует относиться к программистам, которые выпускают ПО для децентрализованных финансов, не контролируя его применение и использование.\n📰 crypto.news\n✍️ Irene Mukiri",
     "title_en": "Hester Peirce Questions DeFi Developer Liability Under Securities Law",
     "text_en": "SEC Commissioner Hester Peirce argued that open-source blockchain developers should not be subject to federal securities registration requirements merely because their code is used by others. Speaking at Princeton's IC3 Blockchain Camp, Peirce raised a critical question about how regulators should treat developers who publish decentralized finance software without control over its deployment or use.\n📰 crypto.news\n✍️ Irene Mukiri",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780609329-e9ho",
-    "timestamp": 1780609329,
-    "date": "2026-06-04",
-    "date_ru": "4 июня 2026",
-    "date_en": "June 4, 2026",
-    "category": "technology",
-    "kicker_ru": "Безопасность ИИ",
-    "kicker_en": "AI Security",
-    "title_ru": "Модель Mythos AI выявила сотни уязвимостей в Firefox",
-    "text_ru": "Технический директор Mozilla Рэффи Крикориан подчеркнул важность выявления и устранения критических уязвимостей в браузере Firefox по мере того, как растет внедрение ИИ. Он настаивал на том, что ИИ-системы должны работать в интересах пользователей, предупреждая об опасности зависимости потребителей от «чужого интеллекта». Открытие демонстрирует растущие киберугрозы в эпоху искусственного интеллекта.\n📰 Bloomberg\n✍️ Не указан",
-    "title_en": "Mythos AI Model Finds Hundreds of Vulnerabilities in Firefox",
-    "text_en": "Mozilla's CTO Raffi Krikorian emphasized the importance of identifying and patching critical vulnerabilities in Firefox as AI integration accelerates. He stressed that ensuring AI systems work in users' interests is crucial, warning against scenarios where consumers become dependent on \"someone else's intelligence.\" The discovery highlights growing cybersecurity challenges in the AI era.\n📰 Bloomberg\n✍️ Not specified",
     "source": "",
     "link": "#",
     "thumb": "📰"
