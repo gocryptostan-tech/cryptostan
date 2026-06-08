@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780904524-2xb3",
+    "timestamp": 1780904524,
+    "date": "2026-06-08",
+    "date_ru": "8 июня 2026",
+    "date_en": "June 8, 2026",
+    "category": "crypto",
+    "kicker_ru": "XRP",
+    "kicker_en": "XRP",
+    "title_ru": "XRP восстанавливается выше $1.10 после падения на четырёхмесячный минимум",
+    "text_ru": "XRP отскочил от четырёхмесячных минимумов на фоне высоких объёмов торговли, однако токен остаётся ниже ключевых уровней сопротивления. Несмотря на продолжающиеся притоки средств в ETF и отток с бирж — сигналы институционального накопления — актив сталкивается с устойчивым медвежьим давлением, которое может ограничить рост в ближайшей перспективе.\n📰 CoinDesk\n✍️ Shaurya Malwa",
+    "title_en": "XRP Steadies Above $1.10 After Four-Month Low Bounce",
+    "text_en": "XRP has recovered from its four-month lows on strong trading volume, though the token remains below critical resistance levels. Despite ongoing ETF inflows and exchange outflows, which typically signal institutional accumulation, the token faces lingering bearish pressure that could limit further upside in the near term.\n📰 CoinDesk\n✍️ Shaurya Malwa",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780902058-ay3p",
     "timestamp": 1780902058,
     "date": "2026-06-08",
@@ -1682,23 +1699,5 @@
     "author": "",
     "link": "#",
     "thumb": "₿"
-  },
-  {
-    "id": "1748908700-moex-24",
-    "timestamp": 1748908700,
-    "date": "2026-05-23",
-    "date_ru": "23 мая 2026",
-    "date_en": "May 23, 2026",
-    "category": "finance",
-    "kicker_ru": "Рынки",
-    "kicker_en": "Markets",
-    "title_ru": "МосБиржа прибавила 2,4% на фоне сигналов о переговорах",
-    "title_en": "MOEX gains 2.4% on ceasefire signals — index returns to 3,280",
-    "text_ru": "Рынок акций ответил уверенным ростом на сообщения об очередном раунде консультаций. Рубль укрепился до 86,8 за доллар.",
-    "text_en": "The equity market surged on reports of another round of third-party mediated talks. The ruble strengthened to 86.8 per dollar.",
-    "source": "Cryptostan",
-    "author": "",
-    "link": "#",
-    "thumb": "📊"
   }
 ]
