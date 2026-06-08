@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780916461-35iw",
+    "timestamp": 1780916461,
+    "date": "2026-06-08",
+    "date_ru": "8 июня 2026",
+    "date_en": "June 8, 2026",
+    "category": "crypto",
+    "kicker_ru": "XRP Ledger",
+    "kicker_en": "XRP Ledger",
+    "title_ru": "XRP Ledger 3.2.0 запланирована на 15 июня — что изменится в сети",
+    "text_ru": "Сеть XRP Ledger готовится к крупному обновлению, которое состоится 15 июня и предусматривает переименование основного узлового ПО с rippled на xrpld. Апгрейд принесёт значительные изменения в инфраструктуру для операторов сети, в то время как токен XRP торгуется вблизи отметки $1,15. Ребрендинг должен лучше интегрировать технологию с экосистемой проекта.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "title_en": "XRP Ledger 3.2.0 targets June 15, what changes for XRPL?",
+    "text_en": "XRP Ledger is preparing a major update scheduled for June 15, which will rename the core node software from rippled to xrpld. The upgrade represents significant infrastructure changes for network operators as XRP token continues trading near the $1.15 level. The rebranding aims to better align the technology with its ecosystem identity.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780916148-gtns",
     "timestamp": 1780916148,
     "date": "2026-06-08",
@@ -1678,23 +1695,6 @@
     "text_ru": "По прогнозу Binance Research, криптографические биржи смогут привлечь 300 миллионов инвесторов и направить $2 триллиона капитала на традиционный рынок акций к 2031 году. Аналитики считают, что стейблкоины станут ключевым инструментом демократизации доступа к торговле акциями, что существенно изменит взаимодействие розничных инвесторов с финансовыми рынками через блокчейн-инфраструктуру.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "title_en": "Binance Research Predicts $2 Trillion Influx as Crypto Exchanges Enter Stock Trading",
     "text_en": "According to Binance Research, cryptocurrency exchanges could attract 300 million equity investors and bring $2 trillion in capital into traditional stock markets by 2031. The analysis suggests that stablecoins will play a crucial role in democratizing access to stock trading, potentially reshaping how retail investors interact with financial markets through blockchain infrastructure.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780635646-3qfp",
-    "timestamp": 1780635646,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "law",
-    "kicker_ru": "Регуляция",
-    "kicker_en": "Regulation",
-    "title_ru": "Спор вокруг законопроекта CLARITY обостряется: советник Белого дома защищает новые правила борьбы с крипто-преступностью",
-    "text_ru": "Советник Белого дома Патрик Витт отстаивает законопроект CLARITY на фоне ожесточенных дебатов по поводу регулирования криптовалют. Законодатели стремятся принять новые правила для крипто-рынка до промежуточных выборов, однако правоохранительные органы выражают обеспокоенность эффективностью предложенного закона в борьбе с финансовыми преступлениями в секторе цифровых активов.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "title_en": "CLARITY Act fight heats up as Witt defends crypto crime rules",
-    "text_en": "White House adviser Patrick Witt is defending the CLARITY Act amid heated debates over cryptocurrency regulation. Lawmakers are pushing to pass new crypto rules before the midterm elections, though law enforcement agencies have raised concerns about the proposed legislation's effectiveness in combating financial crimes in the digital asset space.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "source": "",
     "link": "#",
     "thumb": "📰"
