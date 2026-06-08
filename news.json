@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780894833-qvb2",
+    "timestamp": 1780894833,
+    "date": "2026-06-08",
+    "date_ru": "8 июня 2026",
+    "date_en": "June 8, 2026",
+    "category": "finance",
+    "kicker_ru": "Развивающиеся рынки",
+    "kicker_en": "Emerging Markets",
+    "title_ru": "Фонд благосостояния Индонезии начнёт презентацию долларовых облигаций в США на фоне кризиса на рынках",
+    "text_ru": "Государственный фонд благосостояния Danantara запускает дорожное шоу по размещению долларовых облигаций в США на этой неделе на фоне резкой распродажи на внутренних рынках страны. Это движение отражает попытки индонезийских политиков стабилизировать финансовые рынки и восстановить доверие инвесторов перед лицом растущего экономического давления и оттока капитала.\n📰 Bloomberg\n✍️ Megawati Wijaya, Harry Suhartono",
+    "title_en": "Danantara to Start US Bond Roadshow as Indonesia Rout Deepens",
+    "text_en": "Indonesia's sovereign wealth fund Danantara is launching a US dollar bond roadshow this week amid a sharp market selloff in the country. The move reflects efforts by Indonesian policymakers to stabilize financial markets and restore investor confidence as the nation faces mounting economic pressures and capital outflows.\n📰 Bloomberg\n✍️ Megawati Wijaya, Harry Suhartono",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780894549-r1d6",
     "timestamp": 1780894549,
     "date": "2026-06-08",
@@ -1687,23 +1704,5 @@
     "author": "",
     "link": "#",
     "thumb": "🛢️"
-  },
-  {
-    "id": "1748822400-crypto-tax",
-    "timestamp": 1748822400,
-    "date": "2026-05-22",
-    "date_ru": "22 мая 2026",
-    "date_en": "May 22, 2026",
-    "category": "law",
-    "kicker_ru": "Регуляции",
-    "kicker_en": "Regulation",
-    "title_ru": "Налог на крипто в России: декларация обязательна с 1 июля 2026",
-    "title_en": "Crypto tax in Russia: mandatory declaration from July 1, 2026",
-    "text_ru": "ФНС разъяснила порядок отчётности. Штрафы за непредоставление — до 500 000 ₽.",
-    "text_en": "The FTS clarified reporting rules. Fines for non-filing — up to ₽500,000.",
-    "source": "Cryptostan",
-    "author": "",
-    "link": "#",
-    "thumb": "⚖️"
   }
 ]
