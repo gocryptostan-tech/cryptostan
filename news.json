@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780934456-2z1f",
+    "timestamp": 1780934456,
+    "date": "2026-06-08",
+    "date_ru": "8 июня 2026",
+    "date_en": "June 8, 2026",
+    "category": "markets",
+    "kicker_ru": "Инфраструктура",
+    "kicker_en": "Infrastructure",
+    "title_ru": "Amazon заключила многолетнее соглашение с Corning о поставке оптоволокна для расширения центров обработки данных",
+    "text_ru": "Amazon подписала контракт с американским производителем Corning на поставку оптоволоконного кабеля для своей сети дата-центров в США. Партнёрство создаст примерно 1000 рабочих мест на производстве Corning в Северной Каролине, что поддержит развитие инфраструктуры технологического гиганта по всей стране.\n📰 crypto.news\n✍️ Irene Mukiri",
+    "title_en": "Amazon Signs Multi-Year Fiber Deal with Corning for Data Center Expansion",
+    "text_en": "Amazon has secured a multi-year agreement with Corning to supply optical fiber for its expanding U.S. data center network. The partnership will create approximately 1,000 jobs at Corning's North Carolina manufacturing facilities, supporting the tech giant's infrastructure growth across the country.\n📰 crypto.news\n✍️ Irene Mukiri",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780930851-s4mn",
     "timestamp": 1780930851,
     "date": "2026-06-08",
@@ -1678,23 +1695,6 @@
     "text_ru": "SpaceX остается приватной компанией и не может быть включена в индекс S&P 500, который состоит только из публичных акций. Статья напоминает инвесторам о важности внимательного выбора индексных фондов, так как критерии включения существенно влияют на структуру портфеля и его доходность.\n📰 Financial Times\n✍️ Не указан",
     "title_en": "SpaceX won't make the S&P 500",
     "text_en": "SpaceX remains private and therefore cannot join the S&P 500 index, which only includes publicly traded companies. The article discusses how investors should carefully select their index funds, as inclusion criteria matter significantly for portfolio composition and performance.\n📰 Financial Times\n✍️ Not available",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780653797-622w",
-    "timestamp": 1780653797,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "politics",
-    "kicker_ru": "Кризис здравоохранения",
-    "kicker_en": "Health Crisis",
-    "title_ru": "Добыча золота ускоряет распространение лихорадки Эбола в Конго",
-    "text_ru": "Золотодобывающие операции в отдаленном конголезском городе стали каналом передачи вируса Эбола, так как рабочие и их семьи постоянно перемещаются между шахтами и поселениями, распространяя инфекцию по всему региону. Экономическая зависимость населения от добычи золота затрудняет введение карантинных мер и контроль распространения болезни.\n📰 nytimes.com\n✍️ Declan Walsh, Arlette Bashizi",
-    "title_en": "How Gold Mining Is Accelerating Ebola's Spread in Congo",
-    "text_en": "Gold mining operations in a remote Congolese town have become a vector for Ebola transmission, as workers and their families move between mining sites and settlements, spreading the virus across the region. The economic dependence on mining makes it difficult for authorities to implement effective quarantine measures and disease containment protocols.\n📰 nytimes.com\n✍️ Declan Walsh, Arlette Bashizi",
     "source": "",
     "link": "#",
     "thumb": "📰"
