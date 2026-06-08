@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780948846-igcb",
+    "timestamp": 1780948846,
+    "date": "2026-06-08",
+    "date_ru": "8 июня 2026",
+    "date_en": "June 8, 2026",
+    "category": "crypto",
+    "kicker_ru": "Ethereum, Анализ рынка",
+    "kicker_en": "Ethereum, Market Analysis",
+    "title_ru": "Метрика прибыльности Ethereum упала на уровень 2017 года — грозит ли ETH новое падение?",
+    "text_ru": "Ethereum снизился до многолетних минимумов, так как ключевой он-чейн показатель прибыльности упал до самого низкого уровня с 2017 года. Это вызывает опасения, что рынок уже полностью учел текущий медвежий цикл. Падение этого показателя указывает на то, что пессимизм инвесторов может достичь критической точки, оставляя неясным, произойдет ли дальнейшее снижение или начнется восстановление.\n📰 crypto.news\n✍️ Lawrence Mondal",
+    "title_en": "Ethereum profit metric hits 2017 low, can ETH avoid another leg down?",
+    "text_en": "Ethereum has dropped to multi-year lows as a key on-chain profitability metric falls to its lowest level since 2017, raising concerns about whether the market has fully priced in the current bear cycle. The decline in this metric suggests investor pessimism may have reached critical levels, leaving questions about whether further downside pressure is imminent or if a recovery is possible.\n📰 crypto.news\n✍️ Lawrence Mondal",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780938049-6vb6",
     "timestamp": 1780938049,
     "date": "2026-06-08",
@@ -1678,23 +1695,6 @@
     "text_ru": "В мае 2026 года разработчики Zcash обнаружили критическую уязвимость в пуле приватности Orchard, которая позволила бы злоумышленникам безследно создавать неограниченное количество поддельных токенов ZEC. Несмотря на оперативное исправление ошибки, цена ZEC значительно упала на рынке, что отражает беспокойство инвесторов по поводу защиты сети и последствий для криптовалют, ориентированных на приватность.\n📰 crypto.news\n✍️ Rony Roy",
     "title_en": "Why Zcash Crashed Even After the Bug Was Fixed",
     "text_en": "In May 2026, Zcash developers discovered a critical vulnerability in the Orchard privacy pool that could have allowed attackers to mint unlimited counterfeit ZEC tokens undetectably. Despite the swift bug fix, the ZEC token experienced a significant market crash, reflecting investor concerns about the network's security protocols and the broader implications for privacy-focused cryptocurrencies.\n📰 crypto.news\n✍️ Rony Roy",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780664441-i7wn",
-    "timestamp": 1780664441,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "markets",
-    "kicker_ru": "Распродажа AI-акций",
-    "kicker_en": "AI Selloff",
-    "title_ru": "Рекордная серия побед S&P 500 под угрозой на фоне распродажи AI-акций",
-    "text_ru": "Историческая победная серия S&P 500 под давлением: инвесторы отворачиваются от акций искусственного интеллекта перед открытием торгов в пятницу. Переротация активов совпадает с анализом свежих данных по занятости, что указывает на возможный разворот настроений от AI-ориентированного ралли, подпитывавшего недавний рост индекса.\n📰 Bloomberg\n✍️ Joel Leon",
-    "title_en": "S&P 500's Record Win Streak in Danger as AI Selloff Continues",
-    "text_en": "The S&P 500's historic winning streak faces pressure as investors rotate away from artificial intelligence stocks ahead of Friday's opening bell. The shift comes as traders digest new employment data, signaling a potential shift in market sentiment away from the AI-dominated rally that has driven recent gains.\n📰 Bloomberg\n✍️ Joel Leon",
     "source": "",
     "link": "#",
     "thumb": "📰"
