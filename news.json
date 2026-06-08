@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780913969-1opp",
+    "timestamp": 1780913969,
+    "date": "2026-06-08",
+    "date_ru": "8 июня 2026",
+    "date_en": "June 8, 2026",
+    "category": "politics",
+    "kicker_ru": "Конфликт на Ближнем Востоке",
+    "kicker_en": "Middle East Conflict",
+    "title_ru": "Взрывы в Тегеране: Израиль и Иран обмениваются авиаударами",
+    "text_ru": "Израиль и Иран нанесли друг другу боевые удары, поставив под угрозу двухмесячное перемирие и усложнив попытки администрации Трампа договориться о более широком мирном соглашении на Ближнем Востоке. Эскалация значительно осложнила дипломатические инициативы по снижению региональной напряженности.\n📰 Financial Times\n✍️ Не указан",
+    "title_en": "Explosions in Tehran as Israel and Iran escalate military strikes",
+    "text_en": "Israel and Iran have exchanged military strikes, testing a fragile two-month ceasefire and complicating Trump administration efforts to broker a broader Middle East peace agreement. The escalation marks a significant setback to diplomatic initiatives aimed at reducing regional tensions.\n📰 Financial Times\n✍️ Not available",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780912997-nn96",
     "timestamp": 1780912997,
     "date": "2026-06-08",
@@ -1678,23 +1695,6 @@
     "text_ru": "Компания Илона Маска SpaceX готовится к исторической IPO стоимостью $75 млрд, выделив беспрецедентные 25% акций для частных инвесторов. Такой подход кардинально отличается от традиционной схемы размещения мегакапитализированных компаний и делает доступ к акциям одного из самых ценных частных предприятий в мире намного шире.\n📰 Financial Times\n✍️ Не указан",
     "title_en": "Elon Musk's SpaceX lines up retail investors for record IPO allocation",
     "text_en": "SpaceX is preparing for a landmark initial public offering valued at $75 billion, with an unprecedented allocation of up to 25% reserved for retail investors. The move represents a significant shift in how mega-cap companies approach public listings, potentially democratizing access to one of the world's most valuable private companies.\n📰 Financial Times\n✍️ Not specified",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780621231-fk03",
-    "timestamp": 1780621231,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "markets",
-    "kicker_ru": "Рынки",
-    "kicker_en": "Markets",
-    "title_ru": "Акции падают вместе с фьючерсами США на фоне замедления роста, вызванного AI",
-    "text_ru": "Азиатские фондовые рынки снижаются вслед за американскими фьючерсами, так как инвесторы теряют интерес к торговле искусственным интеллектом, которая весь год поднимала мировые индексы на рекордные уровни. Откат может свидетельствовать о развороте на рынке после месяцев AI-ориентированного роста.\n📰 Bloomberg\n✍️ Anand Krishnamoorthy",
-    "title_en": "Stocks Fall With US Futures as AI-Led Rally Stalls: Markets Wrap",
-    "text_en": "Asian stock markets declined alongside US equity futures as investor enthusiasm for artificial intelligence trades cooled after propelling global markets to record levels throughout 2026. The retreat signals a potential shift in market dynamics following months of AI-driven gains.\n📰 Bloomberg\n✍️ Anand Krishnamoorthy",
     "source": "",
     "link": "#",
     "thumb": "📰"
