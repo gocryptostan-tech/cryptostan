@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780901749-ynfe",
+    "timestamp": 1780901749,
+    "date": "2026-06-08",
+    "date_ru": "8 июня 2026",
+    "date_en": "June 8, 2026",
+    "category": "finance",
+    "kicker_ru": "Токенизация, Одобрение SEC",
+    "kicker_en": "Tokenization, SEC Approval",
+    "title_ru": "Платформа Securitize получила одобрение SEC для выхода на NYSE",
+    "text_ru": "Компания Securitize преодолела ключевое препятствие в виде одобрения SEC на регистрационное заявление S-4, что приближает её к завершению слияния со специальной компанией Cantor Equity Partners II и листингу на Нью-йоркской бирже. Это решение регулятора является важной вехой для платформы токенизации, которая переводит традиционные ценные бумаги и активы в блокчейн.\n📰 Cointelegraph\n✍️ Martin Young",
+    "title_en": "Tokenization firm Securitize clears key SEC hurdle for NYSE listing",
+    "text_en": "Securitize has received SEC approval for its S-4 registration statement, a critical step toward completing its SPAC merger with Cantor Equity Partners II and listing on the New York Stock Exchange. The regulatory clearance marks significant progress for the tokenization platform, which digitizes traditional securities and assets on blockchain networks.\n📰 Cointelegraph\n✍️ Martin Young",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780898451-w6qb",
     "timestamp": 1780898451,
     "date": "2026-06-08",
@@ -1684,23 +1701,5 @@
     "author": "",
     "link": "#",
     "thumb": "🇺🇸"
-  },
-  {
-    "id": "1748908600-cbr-rate",
-    "timestamp": 1748908600,
-    "date": "2026-05-23",
-    "date_ru": "23 мая 2026",
-    "date_en": "May 23, 2026",
-    "category": "finance",
-    "kicker_ru": "Центробанк",
-    "kicker_en": "Central Bank",
-    "title_ru": "ЦБ РФ сохранил ключевую ставку на уровне 21%",
-    "title_en": "Bank of Russia holds rate at 21%",
-    "text_ru": "Совет директоров сохранил ставку по итогам июньского заседания, сославшись на замедление инфляции.",
-    "text_en": "The board voted to hold at the June meeting, citing slowing inflation.",
-    "source": "Cryptostan",
-    "author": "",
-    "link": "#",
-    "thumb": "🏦"
   }
 ]
