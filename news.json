@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780912997-nn96",
+    "timestamp": 1780912997,
+    "date": "2026-06-08",
+    "date_ru": "8 июня 2026",
+    "date_en": "June 8, 2026",
+    "category": "politics",
+    "kicker_ru": "Конфликт на Ближнем Востоке",
+    "kicker_en": "Middle East Conflict",
+    "title_ru": "Трамп призывает Иран и Израиль прекратить обстрелы",
+    "text_ru": "Иран нанес массированный ракетный удар по Израилю, а израильские войска ответили ударами по военным объектам и нефтехимическому комплексу в Иране. Двухмесячное хрупкое перемирие фактически развалилось, что вызвало международные призывы к снижению напряженности и опасения дальнейшей эскалации конфликта в регионе.\n📰 nytimes.com\n✍️ The New York Times",
+    "title_en": "Live Updates: Trump Calls on Iran and Israel to Stop Strikes",
+    "text_en": "Iran launched waves of missiles at Israel in an escalation of regional tensions, while Israel responded with strikes on Iranian military targets and infrastructure. The exchange marks a breakdown of a fragile two-month ceasefire, prompting international calls for de-escalation as the conflict threatens wider regional instability.\n📰 nytimes.com\n✍️ The New York Times",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780912855-y5fd",
     "timestamp": 1780912855,
     "date": "2026-06-08",
@@ -1678,23 +1695,6 @@
     "text_ru": "Азиатские фондовые рынки снижаются вслед за американскими фьючерсами, так как инвесторы теряют интерес к торговле искусственным интеллектом, которая весь год поднимала мировые индексы на рекордные уровни. Откат может свидетельствовать о развороте на рынке после месяцев AI-ориентированного роста.\n📰 Bloomberg\n✍️ Anand Krishnamoorthy",
     "title_en": "Stocks Fall With US Futures as AI-Led Rally Stalls: Markets Wrap",
     "text_en": "Asian stock markets declined alongside US equity futures as investor enthusiasm for artificial intelligence trades cooled after propelling global markets to record levels throughout 2026. The retreat signals a potential shift in market dynamics following months of AI-driven gains.\n📰 Bloomberg\n✍️ Anand Krishnamoorthy",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780617654-r6a0",
-    "timestamp": 1780617654,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "crypto",
-    "kicker_ru": "Нелегальные рынки",
-    "kicker_en": "Illicit Markets",
-    "title_ru": "Отчёт Chainalysis: крипто-финансируемый рынок пептидов достиг $100 млн",
-    "text_ru": "Аналитическая компания Chainalysis выявила бурно растущий рынок пептидов стоимостью $100 млн в годовом исчислении, который финансируется криптовалютой. В первом квартале продажи подскочили на 159% по сравнению с предыдущим кварталом, достигнув $32 млн. Взрывной рост отражает растущий спрос на нерегулируемые пептиды и препараты для повышения производительности, торгуемые через цифровые активы, что вызывает опасения о роли крипто-инфраструктуры в развитии нелегального фармацевтического рынка.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "title_en": "Chainalysis Report: Cryptocurrency-Funded Peptide Market Hits $100 Million",
-    "text_en": "Blockchain analytics firm Chainalysis has identified a booming $100 million annual cryptocurrency-funded peptide market, with first-quarter sales surging 159% quarter-over-quarter to reach $32 million. The dramatic growth reflects expanding demand for unregulated peptides and performance-enhancing substances being traded through digital assets, raising concerns about how crypto infrastructure enables illicit pharmaceutical commerce.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "source": "",
     "link": "#",
     "thumb": "📰"
