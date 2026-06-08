@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780938042-w2u0",
+    "timestamp": 1780938042,
+    "date": "2026-06-08",
+    "date_ru": "8 июня 2026",
+    "date_en": "June 8, 2026",
+    "category": "finance",
+    "kicker_ru": "Корпоративные облигации",
+    "kicker_en": "Corporate Bonds",
+    "title_ru": "Amazon выпустит рекордные облигации на C$14 миллиардов в канадских долларах",
+    "text_ru": "Amazon привлекает C$14 миллиардов ($10 миллиардов) через инвестиционные облигации в канадских долларах, установив рекорд по величине такого выпуска. Это свидетельствует о том, что крупные американские технологические компании всё активнее обращаются к международным рынкам капитала для финансирования масштабных инвестиций в инфраструктуру искусственного интеллекта.\n📰 Bloomberg\n✍️ Brian W Smith, Chunzi Xu",
+    "title_en": "Amazon Launches Record C$14 Billion Canadian Dollar Bond Offering",
+    "text_en": "Amazon is raising C$14 billion ($10 billion) through investment-grade bonds denominated in Canadian dollars, setting a record for the largest such offering. The move reflects how major US tech companies are increasingly tapping international markets to fund their massive artificial intelligence infrastructure investments.\n📰 Bloomberg\n✍️ Brian W Smith, Chunzi Xu",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780937757-z3ee",
     "timestamp": 1780937757,
     "date": "2026-06-08",
@@ -1678,23 +1695,6 @@
     "text_ru": "Forward Industries перевела $31,9 млн токенов Solana на Coinbase Prime, так как её криптовалютные активы потеряли более 70% стоимости. Этот шаг свидетельствует о растущей финансовой нагрузке на компании с крупными позициями в крипто, а убытки Forward по инвестициям в SOL превысили $1 млрд, что ставит под сомнение целесообразность корпоративных стратегий накопления криптоактивов.\n📰 Cointelegraph\n✍️ Christina Comben",
     "title_en": "Forward Industries Moves $32M in SOL Amid Massive Paper Loss",
     "text_en": "Forward Industries transferred $31.9 million in Solana tokens to Coinbase Prime as its cryptocurrency holdings face over 70% depreciation. The move highlights increasing financial pressure on companies holding large crypto positions, with Forward's SOL investment now underwater by more than $1 billion, raising questions about the viability of corporate crypto treasury strategies.\n📰 Cointelegraph\n✍️ Christina Comben",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780660862-r3yn",
-    "timestamp": 1780660862,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "crypto",
-    "kicker_ru": "Технический анализ",
-    "kicker_en": "Technical Analysis",
-    "title_ru": "Hyperliquid демонстрирует медвежий сигнал MACD — упадёт ли до $50?",
-    "text_ru": "Hyperliquid (HYPE) рухнул с исторических максимумов после массового слива со стороны китов, спровоцировав волну ликвидаций и отправив технические индикаторы на минимальные уровни со времени начального взлёта токена. Индикатор MACD подаёт медвежьи сигналы, что указывает на возможное дальнейшее падение к отметке $50.\n📰 crypto.news\n✍️ Rony Roy",
-    "title_en": "Hyperliquid Price Flashes Bearish MACD Signal, Will It Drop to $50 Next?",
-    "text_en": "Hyperliquid (HYPE) has tumbled sharply from its all-time high following a major whale sell-off that triggered mass liquidations and pushed technical momentum indicators to their weakest levels since the token's initial rally. MACD signals are now flashing bearish, raising questions about potential further downside toward the $50 level.\n📰 crypto.news\n✍️ Rony Roy",
     "source": "",
     "link": "#",
     "thumb": "📰"
