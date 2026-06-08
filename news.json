@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780894852-w8kp",
+    "timestamp": 1780894852,
+    "date": "2026-06-08",
+    "date_ru": "8 июня 2026",
+    "date_en": "June 8, 2026",
+    "category": "crypto",
+    "kicker_ru": "Развязка рынков",
+    "kicker_en": "Market Decoupling",
+    "title_ru": "Почему крах крипто не связан со снижением фондовых рынков",
+    "text_ru": "Криптовалютный рынок потерял $250 миллиардов, в то время как американские акции достигли рекордных высот. Это свидетельствует об усилении независимости цифровых активов от традиционных финансовых рынков. Падение курсов было вызвано внутренними факторами крипто-экосистемы, а не общемировой рыночной динамикой.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "title_en": "Why the Crypto Crash Has Nothing to Do with the Stock Market",
+    "text_en": "The cryptocurrency market lost $250 billion in value while U.S. stock indices reached record highs, demonstrating a significant decoupling between the two asset classes. The crash was driven by internal crypto factors rather than traditional market dynamics, signaling that digital assets are increasingly operating independently from conventional financial markets.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780894833-qvb2",
     "timestamp": 1780894833,
     "date": "2026-06-08",
@@ -1686,23 +1703,5 @@
     "author": "",
     "link": "#",
     "thumb": "🇺🇸"
-  },
-  {
-    "id": "1748908500-brent-82",
-    "timestamp": 1748908500,
-    "date": "2026-05-23",
-    "date_ru": "23 мая 2026",
-    "date_en": "May 23, 2026",
-    "category": "markets",
-    "kicker_ru": "Нефть",
-    "kicker_en": "Oil",
-    "title_ru": "Brent выше $82: ОПЕК+ рассматривает сокращение добычи",
-    "title_en": "Brent above $82 as OPEC+ mulls output cut",
-    "text_ru": "Goldman Sachs повысил прогноз до $90 к осени. ОПЕК+ рассматривает дополнительное сокращение добычи на 500 тыс. барр./сут.",
-    "text_en": "Goldman raised target to $90/bbl by autumn. OPEC+ is considering an additional output cut of 500,000 bpd.",
-    "source": "Cryptostan",
-    "author": "",
-    "link": "#",
-    "thumb": "🛢️"
   }
 ]
