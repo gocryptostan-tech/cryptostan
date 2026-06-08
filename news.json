@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780926144-l72n",
+    "timestamp": 1780926144,
+    "date": "2026-06-08",
+    "date_ru": "8 июня 2026",
+    "date_en": "June 8, 2026",
+    "category": "crypto",
+    "kicker_ru": "Рынки",
+    "kicker_en": "Markets",
+    "title_ru": "Индекс CoinDesk 20 показывает рост — NEAR и TAO возглавляют восстание",
+    "text_ru": "Индекс CoinDesk 20 продемонстрировал широкий прирост, при этом NEAR Protocol выросла на 12,3%, а Bittensor (TAO) прибавила 12% с закрытия пятницы. Почти все активы в индексе торговались с положительным результатом, что свидетельствует о восстановлении уверенности инвесторов на рынке ведущих криптовалют.\n📰 CoinDesk\n✍️ CoinDesk Indices",
+    "title_en": "CoinDesk 20 Index Shows Strong Gains as NEAR and TAO Lead Rally",
+    "text_en": "The CoinDesk 20 index demonstrated broad-based strength with NEAR Protocol surging 12.3% and Bittensor (TAO) climbing 12% from Friday's close. Nearly all assets in the index traded in positive territory, signaling renewed investor confidence across major cryptocurrency holdings.\n📰 CoinDesk\n✍️ CoinDesk Indices",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780923656-ss6v",
     "timestamp": 1780923656,
     "date": "2026-06-08",
@@ -1678,23 +1695,6 @@
     "text_ru": "Криптопредприниматели Кристофер Харборн, связанный с Tether, и сооснователь BitMEX Бен Дело пожертвовали $9,4 млн партии Reform UK Найджела Фаража в первом квартале. Внушительный взнос демонстрирует растущее влияние крипто-индустрии на британскую политику и поддержку партии, занимающей про-криптовалютную позицию.\n📰 Cointelegraph\n✍️ Jesse Coghlan",
     "title_en": "Crypto Billionaires Fund Nigel Farage's Pro-Crypto Party",
     "text_en": "Cryptocurrency entrepreneurs Christopher Harborne, linked to Tether, and BitMEX co-founder Ben Delo have donated $9.4 million to Nigel Farage's Reform UK party in Q1 2024. The substantial donation highlights growing crypto industry influence in UK politics and signals support for a party with pro-cryptocurrency policies.\n📰 Cointelegraph\n✍️ Jesse Coghlan",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780646452-iehk",
-    "timestamp": 1780646452,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "crypto",
-    "kicker_ru": "Запуск ETF",
-    "kicker_en": "ETF Launch",
-    "title_ru": "7RCC Global запустила ETF с Биткойном и углеродными кредитами на NYSE Arca",
-    "text_ru": "Компания 7RCC Global представила BTCK — новый биржевой фонд, который инвестирует 80% в Биткойн и 20% в регулируемые фьючерсы на углеродные кредиты. Фонд является одним из первых ESG-ориентированных ETF-продуктов в криптосекторе и уже доступен для торговли на NYSE Arca. Этот гибридный подход объединяет цифровые активы с инициативами в области экологической устойчивости.\n📰 crypto.news\n✍️ Rony Roy",
-    "title_en": "7RCC Global Launches Bitcoin-Carbon Credit ETF on NYSE Arca",
-    "text_en": "7RCC Global has introduced BTCK, a new exchange-traded fund combining 80% Bitcoin allocation with 20% regulated carbon credit futures. The fund represents one of the earliest ESG-focused ETF products in the cryptocurrency sector, now available for public trading on NYSE Arca. This hybrid approach aims to bridge digital assets with environmental sustainability initiatives.\n📰 crypto.news\n✍️ Rony Roy",
     "source": "",
     "link": "#",
     "thumb": "📰"
