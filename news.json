@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780902058-ay3p",
+    "timestamp": 1780902058,
+    "date": "2026-06-08",
+    "date_ru": "8 июня 2026",
+    "date_en": "June 8, 2026",
+    "category": "crypto",
+    "kicker_ru": "Манипуляции на рынке",
+    "kicker_en": "Market Manipulation",
+    "title_ru": "Артур Хейс избавился от позиции Worldcoin вскоре после публичного одобрения проекта",
+    "text_ru": "Основатель BitMEX Артур Хейс столкнулся с критикой за продажу своих токенов Worldcoin (WLD) вскоре после того, как публично рекомендовал актив как перспективное AI-инвестирование. Выход из позиции совпал с резким падением цены WLD, что вызвало вопросы о синхронизации операции и согласованности его действий с публичными заявлениями. Инцидент спровоцировал обсуждение в крипто-сообществе относительно возможной манипуляции рынком и ответственности влиятельных фигур при выраженных инвестиционных рекомендациях.\n📰 crypto.news\n✍️ Rony Roy",
+    "title_en": "Arthur Hayes exits Worldcoin position after public endorsement, sparking backlash",
+    "text_en": "BitMEX founder Arthur Hayes has faced criticism for selling his Worldcoin (WLD) holdings shortly after publicly promoting the token as an AI investment opportunity. The exit coincided with a significant drop in WLD's price, raising questions about the timing and consistency of his position. The move has prompted discussions in the crypto community about potential market manipulation and the responsibilities of influential figures when making investment recommendations.\n📰 crypto.news\n✍️ Rony Roy",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780901749-ynfe",
     "timestamp": 1780901749,
     "date": "2026-06-08",
@@ -1683,23 +1700,5 @@
     "author": "",
     "link": "#",
     "thumb": "📊"
-  },
-  {
-    "id": "1748822500-trump-budget",
-    "timestamp": 1748822500,
-    "date": "2026-05-22",
-    "date_ru": "22 мая 2026",
-    "date_en": "May 22, 2026",
-    "category": "politics",
-    "kicker_ru": "США",
-    "kicker_en": "United States",
-    "title_ru": "Трамп подписал бюджет: дефицит вырастет до $2,1 трлн",
-    "title_en": "Trump signs the budget: deficit to grow to $2.1tn",
-    "text_ru": "Доходность трежерис немедленно подскочила после подписания. Аналитики предупреждают о рисках для доллара.",
-    "text_en": "Treasury yields spiked immediately on the news. Analysts warn of risks to the dollar.",
-    "source": "Cryptostan",
-    "author": "",
-    "link": "#",
-    "thumb": "🇺🇸"
   }
 ]
