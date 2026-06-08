@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780898451-w6qb",
+    "timestamp": 1780898451,
+    "date": "2026-06-08",
+    "date_ru": "8 июня 2026",
+    "date_en": "June 8, 2026",
+    "category": "crypto",
+    "kicker_ru": "Инцидент безопасности",
+    "kicker_en": "Security Incident",
+    "title_ru": "Мост Syscoin остановлен из-за уязвимости валидации, создавшей 5 млрд несанкционированных токенов",
+    "text_ru": "Syscoin приостановил работу своего моста после обнаружения критической ошибки валидации, которая привела к созданию примерно 5 миллиардов несанкционированных токенов SYS. Проект в настоящее время отслеживает эти токены по адресам UTXO для локализации последствий инцидента безопасности.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "title_en": "Syscoin Bridge Halted Due to Validation Vulnerability Creating 5 Billion Unauthorized Tokens",
+    "text_en": "Syscoin has suspended its bridge following the discovery of a critical validation flaw that generated approximately 5 billion unauthorized SYS tokens. The project is currently tracking these tokens across UTXO addresses to contain the impact of the security breach.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780894852-w8kp",
     "timestamp": 1780894852,
     "date": "2026-06-08",
@@ -1685,23 +1702,5 @@
     "author": "",
     "link": "#",
     "thumb": "🏦"
-  },
-  {
-    "id": "1748736100-powell-fed",
-    "timestamp": 1748736100,
-    "date": "2026-05-21",
-    "date_ru": "21 мая 2026",
-    "date_en": "May 21, 2026",
-    "category": "finance",
-    "kicker_ru": "США · ФРС",
-    "kicker_en": "USA · Fed",
-    "title_ru": "Пауэлл: снижение ставки возможно не ранее осени",
-    "title_en": "Powell: rate cut possible no earlier than fall",
-    "text_ru": "ФРС сохраняет осторожный подход к денежно-кредитной политике на фоне устойчивой инфляции.",
-    "text_en": "The Fed maintains a cautious monetary policy approach amid persistent inflation.",
-    "source": "Cryptostan",
-    "author": "",
-    "link": "#",
-    "thumb": "🇺🇸"
   }
 ]
