@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780938049-6vb6",
+    "timestamp": 1780938049,
+    "date": "2026-06-08",
+    "date_ru": "8 июня 2026",
+    "date_en": "June 8, 2026",
+    "category": "politics",
+    "kicker_ru": "Регулирование ИИ",
+    "kicker_en": "AI Regulation",
+    "title_ru": "Китай предупредил разработчиков об опасности зарубежных AI-сервисов трансляции",
+    "text_ru": "Министерство государственной безопасности Китая выступило с предупреждением к разработчикам о рисках использования сервисов трансляции ИИ, предоставляющих доступ к иностранным моделям искусственного интеллекта. Власти выразили обеспокоенность тем, что такие платформы могут привести к утечке данных пользователей и несанкционированной передаче информации за границу, призвав разработчиков проявить осторожность при работе с этими сервисами.\n📰 crypto.news\n✍️ Irene Mukiri",
+    "title_en": "China warns developers over overseas AI relay services",
+    "text_en": "China's Ministry of State Security has issued a warning to developers about the risks of using AI relay services that provide access to foreign AI models. The authorities expressed concern that such platforms could leak user data and facilitate unauthorized cross-border data transfers, urging developers to exercise caution when using these services.\n📰 crypto.news\n✍️ Irene Mukiri",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780938042-w2u0",
     "timestamp": 1780938042,
     "date": "2026-06-08",
@@ -1678,23 +1695,6 @@
     "text_ru": "Историческая победная серия S&P 500 под давлением: инвесторы отворачиваются от акций искусственного интеллекта перед открытием торгов в пятницу. Переротация активов совпадает с анализом свежих данных по занятости, что указывает на возможный разворот настроений от AI-ориентированного ралли, подпитывавшего недавний рост индекса.\n📰 Bloomberg\n✍️ Joel Leon",
     "title_en": "S&P 500's Record Win Streak in Danger as AI Selloff Continues",
     "text_en": "The S&P 500's historic winning streak faces pressure as investors rotate away from artificial intelligence stocks ahead of Friday's opening bell. The shift comes as traders digest new employment data, signaling a potential shift in market sentiment away from the AI-dominated rally that has driven recent gains.\n📰 Bloomberg\n✍️ Joel Leon",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780664154-e4ha",
-    "timestamp": 1780664154,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "crypto",
-    "kicker_ru": "Корпоративные казначейства",
-    "kicker_en": "Corporate Treasury",
-    "title_ru": "Forward Industries переводит $32M в SOL на фоне убытков более $1 млрд",
-    "text_ru": "Forward Industries перевела $31,9 млн токенов Solana на Coinbase Prime, так как её криптовалютные активы потеряли более 70% стоимости. Этот шаг свидетельствует о растущей финансовой нагрузке на компании с крупными позициями в крипто, а убытки Forward по инвестициям в SOL превысили $1 млрд, что ставит под сомнение целесообразность корпоративных стратегий накопления криптоактивов.\n📰 Cointelegraph\n✍️ Christina Comben",
-    "title_en": "Forward Industries Moves $32M in SOL Amid Massive Paper Loss",
-    "text_en": "Forward Industries transferred $31.9 million in Solana tokens to Coinbase Prime as its cryptocurrency holdings face over 70% depreciation. The move highlights increasing financial pressure on companies holding large crypto positions, with Forward's SOL investment now underwater by more than $1 billion, raising questions about the viability of corporate crypto treasury strategies.\n📰 Cointelegraph\n✍️ Christina Comben",
     "source": "",
     "link": "#",
     "thumb": "📰"
