@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780923636-479w",
+    "timestamp": 1780923636,
+    "date": "2026-06-08",
+    "date_ru": "8 июня 2026",
+    "date_en": "June 8, 2026",
+    "category": "law",
+    "kicker_ru": "Финансовые преступления",
+    "kicker_en": "Financial Crime",
+    "title_ru": "Банковская тайна в Чили под вопросом после расследования дела организации Tren de Aragua",
+    "text_ru": "Задержание сотрудников чилийских банков, причастных к венесуэльской преступной организации Tren de Aragua, возродило дебаты о реформе строгих правил банковской тайны в стране. Расследование показывает, что одни из самых жёстких в мире правила финансовой конфиденциальности Чили могут служить прикрытием для отмывания денег и других незаконных операций.\n📰 Bloomberg\n✍️ Carolina Gonzalez",
+    "title_en": "Chile's Bank Secrecy Laws Under Scrutiny After Tren de Aragua Investigation",
+    "text_en": "Recent arrests of Chilean bank employees linked to Venezuela's Tren de Aragua criminal gang have sparked renewed calls to reform the country's strict banking secrecy rules. The investigation highlights how Chile's financial privacy protections, among the world's most stringent, may inadvertently shield illicit activities and money laundering operations.\n📰 Bloomberg\n✍️ Carolina Gonzalez",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780923352-pfdb",
     "timestamp": 1780923352,
     "date": "2026-06-08",
@@ -1678,23 +1695,6 @@
     "text_ru": "Разочаровывающий прогноз Broadcom по продажам чипов для искусственного интеллекта спровоцировал массовую распродажу активов. Инвесторы фиксируют прибыль от ставок на ИИ, что негативно сказывается на криптовалютах. На этом фоне держатели Zcash массово избавляются от своих позиций.\n📰 CoinDesk\n✍️ Shaurya Malwa",
     "title_en": "Bitcoin risks falling to $60,000 as AI sector profit-taking intensifies",
     "text_en": "Broadcom's disappointing AI chip sales guidance has triggered a broader market selloff, with investors cashing in on AI-related gains. The downturn is impacting cryptocurrencies across the board, while Zcash investors are abandoning their positions amid the market correction.\n📰 CoinDesk\n✍️ Shaurya Malwa",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780642859-8m6r",
-    "timestamp": 1780642859,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "crypto",
-    "kicker_ru": "Движения китов",
-    "kicker_en": "Whale Movements",
-    "title_ru": "Стратегические покупки a16z в HYPE — сигнал крупного кита?",
-    "text_ru": "Кошельки, связанные с Andreessen Horowitz, накопили 224 118 токенов HYPE стоимостью $15,16 млн на фоне повышенной волатильности после недавнего выхода Артура Хейса из позиции. Крупная институциональная покупка может свидетельствовать о растущем доверии к токену несмотря на рыночные колебания.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "title_en": "Is a16z-linked HYPE buying the next big whale signal?",
-    "text_en": "Wallets connected to Andreessen Horowitz have accumulated 224,118 HYPE tokens worth $15.16 million amid increased price volatility following Arthur Hayes' recent exit from the position. The large institutional purchase could signal growing confidence in the token despite recent market turbulence.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "source": "",
     "link": "#",
     "thumb": "📰"
