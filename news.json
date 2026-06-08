@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780959349-80bv",
+    "timestamp": 1780959349,
+    "date": "2026-06-08",
+    "date_ru": "8 июня 2026",
+    "date_en": "June 8, 2026",
+    "category": "crypto",
+    "kicker_ru": "Принятие RWA",
+    "kicker_en": "RWA Adoption",
+    "title_ru": "Токенизированные активы подскочили на 600% среди спада крипторынка",
+    "text_ru": "Токенизированные акции, золото и недвижимость переживают взрывной рост: активные позиции в RWA выросли почти на 600% несмотря на ослабление общего крипторынка. Крупные банки и институциональные инвесторы стремительно внедряют блокчейн-представления традиционных активов, что указывает на смещение фокуса к практическому применению технологии вместо спекулятивной торговли.\n📰 Cointelegraph\n✍️ Sam Bourgi",
+    "title_en": "Tokenized Real-World Assets Surge 600% Amid Crypto Market Downturn",
+    "text_en": "Tokenized stocks, gold, and real estate are experiencing explosive growth, with active RWA positions increasing nearly 600% despite broader cryptocurrency market weakness. Major banks and institutional investors are rapidly adopting blockchain-based representations of traditional assets, signaling a shift toward practical blockchain applications beyond speculative trading.\n📰 Cointelegraph\n✍️ Sam Bourgi",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780957178-01yp",
     "timestamp": 1780957178,
     "date": "2026-06-08",
@@ -1678,23 +1695,6 @@
     "text_ru": "Американская экономика добавила 172 тысячи рабочих мест в мае, что свидетельствует об устойчивости рынка труда несмотря на недавние проблемы в банковском секторе. Крепкие данные занятости повысили рыночные ожидания дальнейшего повышения процентных ставок Федеральной резервной системой. Отчет о занятости указывает на стабилизацию крупнейшей экономики мира, что может переформатировать решения ФРС в ближайшие месяцы.\n📰 Financial Times\n✍️ Не указан",
     "title_en": "Investors boost bets for Fed rate rise after bumper US jobs report",
     "text_en": "The US economy added 172,000 jobs in May, signaling a resilient labour market despite recent banking sector concerns. Strong employment data has increased market expectations for further Federal Reserve interest rate hikes, as investors reassess the likelihood of additional tightening measures. The jobs report suggests the world's largest economy is stabilizing after earlier volatility, potentially reshaping Fed policy decisions in coming months.\n📰 Financial Times\n✍️ Not available",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780675258-637q",
-    "timestamp": 1780675258,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "crypto",
-    "kicker_ru": "Bitcoin ETF",
-    "kicker_en": "Bitcoin ETF",
-    "title_ru": "Morgan Stanley и Galaxy Digital запустили сервис конвертации крипто в Bitcoin ETF",
-    "text_ru": "Morgan Stanley Wealth Management заключила партнёрское соглашение с Galaxy Digital, позволяющее состоятельным клиентам конвертировать свои крипто-активы в спот Bitcoin ETF. Новая реферальная программа даёт инвесторам возможность трансформировать цифровые активы в регулируемые биржевые фонды, расширяя доступ институциональных игроков к инвестиционным продуктам на базе крипто.\n📰 crypto.news\n✍️ Rony Roy",
-    "title_en": "Morgan Stanley Partners with Galaxy Digital to Expand Bitcoin ETF Access",
-    "text_en": "Morgan Stanley Wealth Management has launched a new partnership with Galaxy Digital, allowing high-net-worth clients to convert their cryptocurrency holdings into spot Bitcoin ETFs. The referral arrangement enables eligible investors to seamlessly transition digital assets into regulated exchange-traded products, expanding institutional access to crypto-backed investment vehicles.\n📰 crypto.news\n✍️ Rony Roy",
     "source": "",
     "link": "#",
     "thumb": "📰"
