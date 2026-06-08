@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780934602-uvdw",
+    "timestamp": 1780934602,
+    "date": "2026-06-08",
+    "date_ru": "8 июня 2026",
+    "date_en": "June 8, 2026",
+    "category": "politics",
+    "kicker_ru": "Конфликт на Ближнем Востоке",
+    "kicker_en": "Middle East Conflict",
+    "title_ru": "Онлайн-трансляция: Иран и Израиль отступают после обмена ударами",
+    "text_ru": "Иран объявил об окончании своего военного удара по Израилю, в то время как премьер-министр Израиля Биньямин Нетаньяху отказался от дальнейших ответных действий под давлением президента США Дональда Трампа, сообщили американские и израильские официальные лица. Эскалация конфликта достигла временного перемирия на фоне сигналов обеих сторон о деэскалации напряженности.\n📰 The New York Times\n✍️ The New York Times",
+    "title_en": "Live Updates: Iran and Israel Pull Back After Exchange of Attacks",
+    "text_en": "Iran announced the completion of its military strikes against Israel, while Israeli Prime Minister Benjamin Netanyahu halted further retaliation under pressure from U.S. President Trump, according to American and Israeli officials. The escalation appears to have reached a temporary ceasefire as both sides signal de-escalation.\n📰 The New York Times\n✍️ The New York Times",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780934456-2z1f",
     "timestamp": 1780934456,
     "date": "2026-06-08",
@@ -1678,23 +1695,6 @@
     "text_ru": "Криптовалютный рынок переживает самую тяжёлую неделю с июля 2024 года — биткоин и эфир приближаются к ключевым уровням поддержки. Падение котировок усугубляют уязвимость в Zcash и переток капитала из криптоактивов в AI-проекты, создавая дополнительное давление на крупные монеты.\n📰 CoinDesk\n✍️ Oliver Knight",
     "title_en": "Crypto's worst week since July 2024 deepens as bitcoin, ether near critical price levels",
     "text_en": "Cryptocurrency markets are experiencing their worst week since July 2024, with Bitcoin and Ethereum approaching key support levels. The downturn is intensified by a Zcash exploit and ongoing capital rotation away from digital assets toward AI investments, creating additional selling pressure across major coins.\n📰 CoinDesk\n✍️ Oliver Knight",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780654759-5vtz",
-    "timestamp": 1780654759,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "finance",
-    "kicker_ru": "Рынки",
-    "kicker_en": "Markets",
-    "title_ru": "SpaceX не войдет в S&P 500",
-    "text_ru": "SpaceX остается приватной компанией и не может быть включена в индекс S&P 500, который состоит только из публичных акций. Статья напоминает инвесторам о важности внимательного выбора индексных фондов, так как критерии включения существенно влияют на структуру портфеля и его доходность.\n📰 Financial Times\n✍️ Не указан",
-    "title_en": "SpaceX won't make the S&P 500",
-    "text_en": "SpaceX remains private and therefore cannot join the S&P 500 index, which only includes publicly traded companies. The article discusses how investors should carefully select their index funds, as inclusion criteria matter significantly for portfolio composition and performance.\n📰 Financial Times\n✍️ Not available",
     "source": "",
     "link": "#",
     "thumb": "📰"
