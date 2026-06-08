@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780909249-7ama",
+    "timestamp": 1780909249,
+    "date": "2026-06-08",
+    "date_ru": "8 июня 2026",
+    "date_en": "June 8, 2026",
+    "category": "crypto",
+    "kicker_ru": "Безопасность",
+    "kicker_en": "Security",
+    "title_ru": "Основатель Zcash озвучил план экстренного реагирования на критическую уязвимость Orchard",
+    "text_ru": "Разработчики Zcash выявили серьёзную уязвимость в протоколе Orchard, которая теоретически могла позволить создавать неограниченное количество поддельных токенов ZEC. Джош Свихарт из Zcash Open Development Lab представил двухэтапный план устранения проблемы. Несмотря на критичность уязвимости, цена ZEC восстановилась более чем на 41% от минимальных значений после раскрытия информации, что указывает на стабильность рынка.\n📰 crypto.news\n✍️ Rony Roy",
+    "title_en": "Zcash Founder Outlines Emergency Response to Critical Orchard Vulnerability",
+    "text_en": "Zcash has disclosed a critical vulnerability in its Orchard protocol that could have allowed unlimited counterfeiting of ZEC tokens. Josh Swihart, founder of the Zcash Open Development Lab, revealed a two-step emergency response plan to address the flaw. Despite the serious nature of the exploit, ZEC has recovered over 41% from its lowest point following the vulnerability's public disclosure, demonstrating market resilience.\n📰 crypto.news\n✍️ Rony Roy",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780909244-cb40",
     "timestamp": 1780909244,
     "date": "2026-06-08",
@@ -1678,23 +1695,6 @@
     "text_ru": "Партия Reform UK Найджела Фаража получила $9,4 млн пожертвований от двух криптовалютных миллиардеров в первом квартале 2026 года, согласно недавно опубликованным записям о политических взносах в Британии. Эта сумма позволила Reform UK превзойти по объёму взносов как Лейбористскую, так и Консервативную партии, демонстрируя растущее влияние крипто-капитала на британскую избирательную кампанию.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "title_en": "Farage's Reform UK outpaces rivals with $9.4M from crypto billionaires",
     "text_en": "Nigel Farage's Reform UK party received $9.4 million in donations from two cryptocurrency billionaires in Q1 2026, according to newly released UK political donation records. This funding allowed Reform UK to surpass both Labour and Conservative parties in total donations for the period, marking a significant shift in British political finance as crypto wealth increasingly influences electoral campaigns.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780613749-upch",
-    "timestamp": 1780613749,
-    "date": "2026-06-04",
-    "date_ru": "4 июня 2026",
-    "date_en": "June 4, 2026",
-    "category": "law",
-    "kicker_ru": "Регуляции",
-    "kicker_en": "Regulation",
-    "title_ru": "Контролер валют США утверждает, что давление на крипто-чартеры идет только от демократов",
-    "text_ru": "На конгрессном слушании по надзору Контролер валют США Джонатан Гулд столкнулся с критикой от представителя Нью-Йорка Грегори Микса из-за давления на регуляторов по вопросу крипто-трастов. Гулд заявил, что только демократы оказывают давление на этот вопрос, в то время как Микс оспорил утверждения о влиянии Трампа на выдвигаемых регуляторов. Обмен мнениями отразил партийные разногласия по крипто-политике на фоне формирования новой администрацией финансового надзора.\n📰 Cointelegraph\n✍️ Turner Wright",
-    "title_en": "Comptroller Claims Democrats Alone Pressuring Over Crypto Trust Charter",
-    "text_en": "US Comptroller of the Currency Jonathan Gould faced criticism from New York Representative Gregory Meeks during a congressional oversight hearing, with tensions centered on regulatory pressure regarding crypto trust charters. Gould suggested that only Democrats were applying pressure on the issue, while Meeks challenged claims about Trump's influence over nominated regulators. The exchange highlighted partisan divisions in crypto policy as the incoming administration shapes financial oversight.\n📰 Cointelegraph\n✍️ Turner Wright",
     "source": "",
     "link": "#",
     "thumb": "📰"
