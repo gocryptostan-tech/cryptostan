@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780952149-cn40",
+    "timestamp": 1780952149,
+    "date": "2026-06-08",
+    "date_ru": "8 июня 2026",
+    "date_en": "June 8, 2026",
+    "category": "crypto",
+    "kicker_ru": "Биткоин, Рынки",
+    "kicker_en": "Bitcoin, Markets",
+    "title_ru": "Киты скупают Биткоин на исторических минимумах RSI — аналитики видят поколенческую возможность",
+    "text_ru": "Биткоин демонстрирует исторически низкие показатели индекса относительной силы (RSI), а крупные китовые инвесторы активно накапливают позиции. Аналитики называют это поколенческой возможностью для входа в позицию. Однако эксперты по-прежнему прогнозируют дальнейшее падение цены ниже $60 000 перед началом устойчивого восстановления.\n📰 Cointelegraph\n✍️ Biraajmaan Tamuly",
+    "title_en": "'Best thesis' for Bitcoin accumulation surfaces despite current downside risk: Analyst",
+    "text_en": "Bitcoin is showing historically low RSI (Relative Strength Index) readings while major whale investors are actively accumulating, creating what analysts describe as a generational buying opportunity. Despite these positive signals, market experts still anticipate further downside with potential BTC prices falling below $60,000 before any sustained recovery begins.\n📰 Cointelegraph\n✍️ Biraajmaan Tamuly",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780948846-igcb",
     "timestamp": 1780948846,
     "date": "2026-06-08",
@@ -1678,23 +1695,6 @@
     "text_ru": "Индекс CoinDesk 20 продемонстрировал массовое снижение: все двадцать активов, входящих в его состав, торговались ниже уровней предыдущего дня. Bitcoin возглавил потери со снижением на 2,8%, отражая общую слабость на крипторынке.\n📰 CoinDesk\n✍️ CoinDesk Indices",
     "title_en": "CoinDesk 20 Index Falls as Bitcoin Drops 2.8%",
     "text_en": "The CoinDesk 20 index experienced a broad decline, with all twenty constituent assets trading lower compared to the previous day. Bitcoin led the losses with a 2.8% price drop, reflecting broader market weakness across the cryptocurrency sector.\n📰 CoinDesk\n✍️ CoinDesk Indices",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780664455-9lpl",
-    "timestamp": 1780664455,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "crypto",
-    "kicker_ru": "Zcash, Безопасность",
-    "kicker_en": "Zcash, Security",
-    "title_ru": "Почему Zcash упал в цене даже после исправления уязвимости",
-    "text_ru": "В мае 2026 года разработчики Zcash обнаружили критическую уязвимость в пуле приватности Orchard, которая позволила бы злоумышленникам безследно создавать неограниченное количество поддельных токенов ZEC. Несмотря на оперативное исправление ошибки, цена ZEC значительно упала на рынке, что отражает беспокойство инвесторов по поводу защиты сети и последствий для криптовалют, ориентированных на приватность.\n📰 crypto.news\n✍️ Rony Roy",
-    "title_en": "Why Zcash Crashed Even After the Bug Was Fixed",
-    "text_en": "In May 2026, Zcash developers discovered a critical vulnerability in the Orchard privacy pool that could have allowed attackers to mint unlimited counterfeit ZEC tokens undetectably. Despite the swift bug fix, the ZEC token experienced a significant market crash, reflecting investor concerns about the network's security protocols and the broader implications for privacy-focused cryptocurrencies.\n📰 crypto.news\n✍️ Rony Roy",
     "source": "",
     "link": "#",
     "thumb": "📰"
