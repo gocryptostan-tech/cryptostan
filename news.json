@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781023336-fpwf",
+    "timestamp": 1781023336,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "finance",
+    "kicker_ru": "Регуляции",
+    "kicker_en": "Regulation",
+    "title_ru": "Британский регулятор разрешит паевым фондам инвестировать до 10% в крипто-ноты",
+    "text_ru": "Управление финансового поведения Великобритании предложило новые правила, позволяющие инвестиционным фондам выделять до 10% портфеля на криптографические биржевые ноты (ETN). Это изменение в подходе регулятора становится важным шагом к институциональному признанию цифровых активов, давая традиционным паевым фондам возможность получать криптовалютный экспозицию при одновременном управлении рисками через строгие лимиты размещения.\n📰 CoinDesk\n✍️ Jamie Crawley",
+    "title_en": "UK Financial Regulator Approves 10% Crypto Exposure for Mutual Funds",
+    "text_en": "The UK's Financial Conduct Authority has proposed new rules allowing investment funds to allocate up to 10% of their portfolios to crypto exchange-traded notes (ETNs). This regulatory shift marks a significant step toward mainstream institutional adoption of digital assets, enabling traditional mutual funds to gain cryptocurrency exposure while maintaining risk management protocols through strict allocation limits.\n📰 CoinDesk\n✍️ Jamie Crawley",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781020858-4cfm",
     "timestamp": 1781020858,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Спотовые Bitcoin ETF, торгуемые в США, столкнулись с самой длительной серией продаж за всю историю своего существования. За 13 торговых дней с 15 мая по 3 июня 2026 года из этих фондов оттекло около 4,37 миллиарда долларов. Такой беспрецедентный отток капитала указывает на смену настроений инвесторов и вызывает вопросы о жизнеспособности институционального спроса на биткоин через эти инструменты.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "title_en": "What 13 straight days of Bitcoin ETF outflows really means",
     "text_en": "US spot Bitcoin ETFs experienced their longest losing streak on record, with $4.37 billion in outflows over 13 consecutive trading days between May 15 and June 3, 2026. This unprecedented drain from the complex signals a shift in investor sentiment and raises questions about the sustainability of institutional Bitcoin adoption through these vehicles.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780764125-1lrp",
-    "timestamp": 1780764125,
-    "date": "2026-06-06",
-    "date_ru": "6 июня 2026",
-    "date_en": "June 6, 2026",
-    "category": "crypto",
-    "kicker_ru": "Стейблкоины",
-    "kicker_en": "Stablecoins",
-    "title_ru": "Meta платит создателям контента стейблкойнами. Проблема траты — чья-то проблема",
-    "text_ru": "Решение Meta выплачивать авторов в USDC подтверждает, что стейблкоины становятся мейнстримным инструментом платежей, однако выявляет критический пробел в индустрии: отсутствие беспроблемного обмена цифровых долларов на реальные локальные валюты. Хотя такая адаптация валидирует роль стейблкойнов в экономике создателей контента, она обходит фундаментальную проблему практического использования и механизмов вывода средств, которые остаются слаборазвитыми на большинстве рынков.\n📰 CoinDesk\n✍️ Tim Joslyn",
-    "title_en": "Meta is Paying Creators in Stablecoins. Spending Them is Someone Else's Problem",
-    "text_en": "Meta's move to compensate creators with USDC demonstrates that stablecoins are becoming a mainstream payment tool, but reveals a critical industry gap: the lack of seamless conversion from digital dollars into usable local currencies. While the adoption validates stablecoins' role in creator economies, it sidesteps the fundamental challenge of practical spending and cash-out mechanisms that remain underdeveloped across most markets.\n📰 CoinDesk\n✍️ Tim Joslyn",
     "source": "",
     "link": "#",
     "thumb": "📰"
