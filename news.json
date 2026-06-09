@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780977793-i6kj",
+    "timestamp": 1780977793,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "politics",
+    "kicker_ru": "Напряженность на Ближнем Востоке",
+    "kicker_en": "Middle East Tensions",
+    "title_ru": "Израиль приостановил удары по Ирану после заявлений Трампа о прогрессе в переговорах по ядерной программе",
+    "text_ru": "Премьер-министр Израиля Биньямин Нетаньяху объявил, что военные операции страны находятся в режиме ожидания после разговора с президентом Трампом, который утверждает о прогрессе в ядерных переговорах. Иран также согласился приостановить свои атаки, но обе страны остаются в боевой готовности и готовы возобновить боевые действия в случае срыва переговоров.\n📰 The New York Times\n✍️ The New York Times",
+    "title_en": "Israel Halts Iran Strikes After Trump Claims Progress Toward Nuclear Talks",
+    "text_en": "Prime Minister Benjamin Netanyahu announced that Israel is putting military operations \"on hold\" following a conversation with President Trump, who claims to be making headway in nuclear negotiations. Iran has also agreed to pause its attacks but both nations remain on high alert, ready to resume hostilities if talks deteriorate.\n📰 The New York Times\n✍️ The New York Times",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780973749-8sl2",
     "timestamp": 1780973749,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Британский регулятор Financial Conduct Authority выпустил официальное предупреждение в отношении Hyperliquid — одной из крупнейших платформ для торговли крипто-фьючерсами с кредитным плечом. Уведомление от 21 мая указывает на нарушения требований финансового надзора Великобритании. Одновременно выяснилось, что Intercontinental Exchange интересуется моделью Hyperliquid, что свидетельствует о растущем интересе институционального капитала к децентрализованной инфраструктуре деривативов несмотря на усиление регуляторного давления.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "title_en": "Hyperliquid draws FCA warning while ICE explores its model",
     "text_en": "The UK Financial Conduct Authority has issued a warning against Hyperliquid, one of the largest crypto perpetual futures platforms, flagging regulatory concerns. The notice, published on May 21, highlights compliance issues with British financial regulations. Meanwhile, the news reveals that Intercontinental Exchange (ICE) is exploring Hyperliquid's operational model, signaling potential mainstream institutional interest in decentralized derivatives infrastructure despite mounting regulatory pressure.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780685755-7kg2",
-    "timestamp": 1780685755,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "crypto",
-    "kicker_ru": "Стратегия Биткоина",
-    "kicker_en": "Bitcoin Strategy",
-    "title_ru": "В крипто-бизнесе: Сейлору никто не говорил \"никогда не продавай\"",
-    "text_ru": "Недавняя продажа биткоина компанией MicroStrategy бросает вызов популярной в крипто-сообществе философии \"держи и не продавай\". Одновременно JPMorgan раскритиковал закон CLARITY, а Capital B запустила масштабное募金 для накопления биткоина. Эти события демонстрируют изменение подходов крупных институциональных игроков к стратегиям накопления BTC.\n📰 Cointelegraph\n✍️ Sam Bourgi",
-    "title_en": "Crypto Biz: Nobody told Saylor 'never sell'",
-    "text_en": "MicroStrategy's recent Bitcoin sale challenges the popular \"never sell\" philosophy in crypto circles. Meanwhile, JPMorgan criticized the CLARITY Act, and Capital B launched an ambitious fundraising initiative focused on Bitcoin accumulation. These developments highlight shifting attitudes toward Bitcoin hodling strategies among major institutional players.\n📰 Cointelegraph\n✍️ Sam Bourgi",
     "source": "",
     "link": "#",
     "thumb": "📰"
