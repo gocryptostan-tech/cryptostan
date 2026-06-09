@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780995642-jcjq",
+    "timestamp": 1780995642,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "finance",
+    "kicker_ru": "Политика ФРС",
+    "kicker_en": "Federal Reserve Policy",
+    "title_ru": "Рынок казначейских облигаций требует повышения ставок — послание для Кевина Уорша",
+    "text_ru": "Рынок американских государственных облигаций объёмом в $31 трлн отправляет председателю ФРС Кевину Уоршу ясный сигнал: текущие процентные ставки остаются слишком низкими. Динамика облигационного рынка и кривая доходности указывают на ожидания инвесторов по поводу дальнейшего роста ставок, отражая опасения по поводу устойчивости инфляции. Сигналы рынка казначейских облигаций могут повлиять на решения ФРС в предстоящие месяцы, поскольку регуляторы взвешивают противоречивые экономические факторы.\n📰 Bloomberg\n✍️ Michael MacKenzie, Greg Ritchie",
+    "title_en": "Treasury Market Is Telling Kevin Warsh Rates Need to Be Higher",
+    "text_en": "The $31 trillion U.S. Treasury market is sending a clear signal to Federal Reserve Chair Kevin Warsh that current interest rates remain too low. Bond market dynamics and yield curves suggest investors expect higher rates ahead, reflecting concerns about inflation persistence and economic conditions. The Treasury market's message could influence the Fed's policy decisions in the coming months as officials weigh competing economic pressures.\n📰 Bloomberg\n✍️ Michael MacKenzie, Greg Ritchie",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780995356-hph7",
     "timestamp": 1780995356,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Ethereum рухнул ниже отметки $1600 после резкого падения Bitcoin ниже $60 000 — это минимум за 13 месяцев для ETH. Продажу спровоцировали критическая уязвимость в протоколе Zcash и общее ослабление рынка. Аналитики обсуждают, достигнет ли Ethereum уровня $1400 на поддержку, так как медвежий тренд сохраняется среди крупных криптовалют.\n📰 Cointelegraph\n✍️ Marcel Pechman",
     "title_en": "ETH Plummets to 13-Month Low Amid Bitcoin Collapse and Zcash Vulnerability",
     "text_en": "Ethereum crashed below $1,600 following Bitcoin's sharp decline to sub-$60,000 levels—marking a 13-month low for ETH. The selloff was triggered by a critical vulnerability discovered in the Zcash protocol and broad market weakness. Analysts are questioning whether Ethereum could test the $1,400 support level next as momentum remains bearish across major cryptocurrencies.\n📰 Cointelegraph\n✍️ Marcel Pechman",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780704053-3y9f",
-    "timestamp": 1780704053,
-    "date": "2026-06-06",
-    "date_ru": "6 июня 2026",
-    "date_en": "June 6, 2026",
-    "category": "crypto",
-    "kicker_ru": "Токенизация",
-    "kicker_en": "Tokenization",
-    "title_ru": "Kraken запустил токенизированные акции SpaceX, демократизируя доступ к инвестициям",
-    "text_ru": "Криптобиржа Kraken сделала токенизированные акции SpaceX доступными для розничных инвесторов более чем в 110 странах, обойдя традиционные механизмы Уолл-стрита. Это первое крупное IPO, предложенное через блокчейн-токены, позволяющее обычным инвесторам со всего мира участвовать в процессе, который ранее был закрыт для институциональных игроков. Такой подход значительно меняет модель выхода компаний на биржу и бросает вызов традиционному банковскому андеррайтингу.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "title_en": "Kraken Launches Tokenized SpaceX IPO Shares, Democratizing Wall Street Access",
-    "text_en": "Cryptocurrency exchange Kraken has made tokenized SpaceX shares available to retail investors across 110+ markets, bypassing traditional Wall Street gatekeeping. This marks the first major IPO offering through blockchain-based tokens, allowing ordinary investors worldwide to participate in what was previously an exclusive institutional process. The move represents a significant shift in how companies can go public, challenging conventional underwriting models and expanding access to early-stage investment opportunities.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "source": "",
     "link": "#",
     "thumb": "📰"
