@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781000363-87kh",
+    "timestamp": 1781000363,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "crypto",
+    "kicker_ru": "Стейблкоины",
+    "kicker_en": "Stablecoins",
+    "title_ru": "Мы попали в рай волатильности",
+    "text_ru": "Рынок криптовалют переживает период экстремальных колебаний цен на фоне переоценки стоимости цифровых активов. Альтернативные стейблкоины, не привязанные к доллару, набирают популярность среди трейдеров, стремящихся диверсифицировать портфель за счет токенов, привязанных к другим валютам и активам.\n📰 Financial Times\n✍️ Не указан",
+    "title_en": "We've Died and Gone to Volatility Heaven",
+    "text_en": "The cryptocurrency market is experiencing extreme price swings as investors reassess digital asset valuations. Non-dollar stablecoins are gaining traction as traders seek alternatives to traditional dollar-pegged tokens, reflecting growing interest in diversifying stablecoin ecosystems beyond USD dominance.\n📰 Financial Times\n✍️ Not available",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780999402-h914",
     "timestamp": 1780999402,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Несмотря на резкое падение Bitcoin на 25% за последний месяц, генеральный директор Coinbase Брайан Армстронг утверждает, что ключевые сегменты криптовалютной индустрии продолжают расширяться. В посте от 6 июня в X Армстронг отметил, что фундаментальные показатели роста крипто остаются позитивными, что свидетельствует о созревании экосистемы за пределами колебаний цены Bitcoin и привлечении институциональных инвесторов в различные блокчейн-сегменты.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "title_en": "Bitcoin's 25% Monthly Decline Masks Broader Crypto Growth, Says Coinbase CEO",
     "text_en": "Despite Bitcoin's sharp 25% drop over the past month, Coinbase CEO Brian Armstrong argues that key segments of the cryptocurrency industry continue expanding. In a June 6 X post, Armstrong highlighted that underlying growth metrics in crypto remain positive, suggesting the broader ecosystem is maturing beyond Bitcoin's price fluctuations and attracting institutional adoption across multiple blockchain sectors.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780721984-vqyf",
-    "timestamp": 1780721984,
-    "date": "2026-06-06",
-    "date_ru": "6 июня 2026",
-    "date_en": "June 6, 2026",
-    "category": "markets",
-    "kicker_ru": "Валютный кризис",
-    "kicker_en": "Currency Crisis",
-    "title_ru": "Индонезийские чиновники вновь обещают стабилизировать рупию и привлечь иностранные инвестиции",
-    "text_ru": "Министерство финансов и Центральный банк Индонезии объявили о намерении активизировать меры по поддержке национальной валюты после бурной недели, когда фондовый рынок страны упал быстрее, чем где-либо в мире, а рупия достигла исторических минимумов. Власти планируют стабилизировать курс и привлечь иностранный капитал для разворота негативного тренда.\n📰 Bloomberg\n✍️ Grace Sihombing, Prima Wirayani",
-    "title_en": "Indonesian Officials Vow Again to Stabilize Rupiah, Draw Inflows",
-    "text_en": "Indonesian finance and central bank officials pledged to intensify efforts to support the rupiah after a turbulent week saw the nation's stock market plummet at the fastest global pace and the currency hit historic lows. The authorities aim to stabilize the currency and attract foreign capital inflows to reverse the downward trend.\n📰 Bloomberg\n✍️ Grace Sihombing, Prima Wirayani",
     "source": "",
     "link": "#",
     "thumb": "📰"
