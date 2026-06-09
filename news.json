@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781010054-uykt",
+    "timestamp": 1781010054,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "markets",
+    "kicker_ru": "Акции",
+    "kicker_en": "Stocks",
+    "title_ru": "JPMorgan прогнозирует восстановление американских акций после коррекций",
+    "text_ru": "По мнению специалистов JPMorgan Asset Management во главе с Джеком Каффри, американские акции имеют значительный потенциал роста благодаря крепким корпоративным прибылям, несмотря на определённые опасения по поводу оценок. Аналитики банка остаются оптимистичны и ожидают, что любые краткосрочные рыночные коррекции будут временными, а фундаментальные факторы продолжат поддерживать восходящий тренд.\n📰 Bloomberg\n✍️ Jonathan Ferro, Scarlet Fu",
+    "title_en": "JPMorgan Expects US Stocks to Weather Market Pullbacks",
+    "text_en": "JPMorgan Asset Management's Jack Caffrey believes US equities have substantial growth potential ahead, supported by strong corporate earnings despite some valuation concerns. The bank's analysts remain optimistic that any short-term market corrections will be temporary, with fundamentals continuing to drive upward momentum in stocks.\n📰 Bloomberg\n✍️ Jonathan Ferro, Scarlet Fu",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781009753-zt7s",
     "timestamp": 1781009753,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Специалист по безопасности Тейлор Хорнби, обнаруживший критическую уязвимость в протоколе Orchard платформы Zcash при помощи инструментов искусственного интеллекта и вызвавший падение цены на 38%, объявил о планах аудита других приватных криптовалют. Monero, по сообщениям, следующий в очереди на техническую проверку. Находка подчёркивает растущие риски в инфраструктуре privacy-монет и возрастающую роль ИИ в выявлении уязвимостей блокчейна до их возможной эксплуатации.\n📰 CoinDesk\n✍️ Shaurya Malwa",
     "title_en": "Researcher who found Zcash's bug with AI adds Monero to his audit queue",
     "text_en": "Security researcher Taylor Hornby, who discovered a critical vulnerability in Zcash's Orchard protocol using AI tools—triggering a 38% price drop—has announced plans to audit other privacy-focused cryptocurrencies. Monero is reportedly next on his list for technical examination. The discovery highlights growing risks in privacy coin infrastructure and the emerging role of artificial intelligence in identifying blockchain vulnerabilities before they can be exploited.\n📰 CoinDesk\n✍️ Shaurya Malwa",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780740049-j125",
-    "timestamp": 1780740049,
-    "date": "2026-06-06",
-    "date_ru": "6 июня 2026",
-    "date_en": "June 6, 2026",
-    "category": "crypto",
-    "kicker_ru": "Биткоин-ETF",
-    "kicker_en": "Bitcoin ETFs",
-    "title_ru": "IBIT от BlackRock возглавляет отток средств из Биткоин-ETF на фоне падения BTC",
-    "text_ru": "В пятницу американские спот Биткоин-ETF вернулись к чистому оттоку капитала после короткого периода восстановления, при этом IBIT от BlackRock возглавил снижения, так как Биткоин упал ниже критического уровня $60 000 на фоне ухудшения настроений инвесторов. Отток активов указывает на возвращение осторожности на рынке, поскольку крупные институциональные инвесторы переоценивают свои позиции после падения цены.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "title_en": "BlackRock's IBIT leads Bitcoin ETFs back into outflows as BTC price slides",
-    "text_en": "U.S. spot Bitcoin ETFs returned to net outflows on Friday after briefly halting a record withdrawal streak, with BlackRock's IBIT leading the declines as Bitcoin fell below the critical $60,000 support level amid deteriorating investor sentiment. The outflows signal renewed caution in the market as major institutional investors reassess their positions following the price decline.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "source": "",
     "link": "#",
     "thumb": "📰"
