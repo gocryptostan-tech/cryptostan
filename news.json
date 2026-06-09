@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781012545-s8u0",
+    "timestamp": 1781012545,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "markets",
+    "kicker_ru": "Производительность рынка",
+    "kicker_en": "Market Performance",
+    "title_ru": "Индекс CoinDesk 20 показывает массовое падение на фоне снижения крупных DeFi-токенов",
+    "text_ru": "Индекс CoinDesk 20 столкнулся с широким падением цен со всеми составляющими токенами в красной зоне. Aave (AAVE) возглавил список потерь с падением на 2,6%, а Uniswap (UNI) упал на 2,9% по сравнению с понедельником, что отражает ослабление на рынке децентрализованных финансов.\n📰 CoinDesk\n✍️ CoinDesk Indices",
+    "title_en": "CoinDesk 20 Index Shows Broad Decline as Major DeFi Tokens Fall",
+    "text_en": "The CoinDesk 20 index experienced a widespread selloff with all constituent tokens trading in negative territory. Aave (AAVE) led the losses with a 2.6% decline, while Uniswap (UNI) fell 2.9% from Monday, highlighting weakness across major decentralized finance protocols.\n📰 CoinDesk\n✍️ CoinDesk Indices",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781010059-riqe",
     "timestamp": 1781010059,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Ethereum резко упал к отметке $1 500 из-за волны ликвидаций лонг-позиций, оттока средств из ETF и ухудшающихся макроэкономических условий, спровоцировавших один из самых острых падений крипто-рынка в 2026 году. Вторая по величине криптовалюта упала более чем на 10%, аналитики предупреждают о возможном дальнейшем падении к $1 000, если ключевые уровни поддержки не удержатся на фоне продолжающегося рыночного давления.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "title_en": "Ethereum price touches $1,500 as market crash deepens, analyst flags risk of $1,000",
     "text_en": "Ethereum plummeted toward $1,500 following a wave of long liquidations, ETF outflows, and deteriorating macroeconomic conditions that triggered one of 2026's sharpest crypto selloffs. The second-largest cryptocurrency fell over 10%, with analysts warning of potential further decline to $1,000 if support levels fail to hold amid ongoing market pressure.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780743652-w14z",
-    "timestamp": 1780743652,
-    "date": "2026-06-06",
-    "date_ru": "6 июня 2026",
-    "date_en": "June 6, 2026",
-    "category": "crypto",
-    "kicker_ru": "Приватные криптовалюты",
-    "kicker_en": "Privacy Coins",
-    "title_ru": "Dragonfly сохраняет позицию в ZEC на фоне дебатов об уязвимости Orchard",
-    "text_ru": "Монета приватности Zcash столкнулась с новым скепсисом после того, как исправленная уязвимость в Orchard Pool вызвала дискуссию о скрытых рисках для пользователей и инвесторов. Партнер Dragonfly Хасиб Кураиши полагает, что рынок недооценивает последствия этого бага, что указывает на более широкие проблемы с безопасностью приватных блокчейн-протоколов.\n📰 crypto.news\n✍️ Irene Mukiri",
-    "title_en": "Dragonfly Holds ZEC as Orchard Bug Debate Raises New Questions",
-    "text_en": "Zcash faces renewed scrutiny following a patched vulnerability in its Orchard Pool that has triggered discussions about potential hidden risks for users and investors. Dragonfly partner Haseeb Qureshi argues the market may be underestimating the implications of the bug, raising broader concerns about the security and reliability of privacy-focused blockchain protocols.\n📰 crypto.news\n✍️ Irene Mukiri",
     "source": "",
     "link": "#",
     "thumb": "📰"
