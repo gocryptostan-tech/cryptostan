@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780995648-9jjp",
+    "timestamp": 1780995648,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "crypto",
+    "kicker_ru": "Dogecoin",
+    "kicker_en": "Dogecoin",
+    "title_ru": "Dogecoin держится на уровне $0,081 — смогут ли киты предотвратить падение к $0,058?",
+    "text_ru": "Dogecoin торгуется около $0,086, перепроданный RSI и активность китов тестируют критическую поддержку на $0,081. При пробое этого уровня криптовалюта может упасть к $0,058, что будет означать образование значительного дна канала.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "title_en": "Dogecoin price holds $0.081, can whales prevent a fall to $0.058?",
+    "text_en": "Dogecoin is trading around $0.086 with oversold RSI indicators and whale accumulation testing the critical $0.081 support level. If this level breaks, the cryptocurrency could face a deeper decline toward $0.058, marking a significant channel floor.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780995642-jcjq",
     "timestamp": 1780995642,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Законодатели Иллинойса приняли бюджетный законопроект на 2027 финансовый год, вводящий налогообложение операций с криптовалютами для брокеров цифровых активов, работающих в штате. В законодательстве предусмотрены строгие штрафные санкции, включая уголовную ответственность за неповиновение. Это отражает растущие усилия американских штатов по регулированию и налогообложению крипто-сектора по мере его развития.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "title_en": "Illinois Lawmakers Approve Crypto Tax with Felony Penalties",
     "text_en": "Illinois has passed a fiscal year 2027 budget bill introducing a new tax on cryptocurrency transactions targeting digital asset brokers operating in the state. The legislation includes strict enforcement measures with felony penalties for non-compliance. This move reflects growing state efforts to regulate and tax crypto activities as digital assets become increasingly mainstream.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780707349-vmdx",
-    "timestamp": 1780707349,
-    "date": "2026-06-06",
-    "date_ru": "6 июня 2026",
-    "date_en": "June 6, 2026",
-    "category": "crypto",
-    "kicker_ru": "Волатильность рынка",
-    "kicker_en": "Market Volatility",
-    "title_ru": "Ethereum упал на 13-месячный минимум на фоне краха Bitcoin и уязвимости в Zcash",
-    "text_ru": "Ethereum рухнул ниже отметки $1600 после резкого падения Bitcoin ниже $60 000 — это минимум за 13 месяцев для ETH. Продажу спровоцировали критическая уязвимость в протоколе Zcash и общее ослабление рынка. Аналитики обсуждают, достигнет ли Ethereum уровня $1400 на поддержку, так как медвежий тренд сохраняется среди крупных криптовалют.\n📰 Cointelegraph\n✍️ Marcel Pechman",
-    "title_en": "ETH Plummets to 13-Month Low Amid Bitcoin Collapse and Zcash Vulnerability",
-    "text_en": "Ethereum crashed below $1,600 following Bitcoin's sharp decline to sub-$60,000 levels—marking a 13-month low for ETH. The selloff was triggered by a critical vulnerability discovered in the Zcash protocol and broad market weakness. Analysts are questioning whether Ethereum could test the $1,400 support level next as momentum remains bearish across major cryptocurrencies.\n📰 Cointelegraph\n✍️ Marcel Pechman",
     "source": "",
     "link": "#",
     "thumb": "📰"
