@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781024436-rhbz",
+    "timestamp": 1781024436,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "markets",
+    "kicker_ru": "Валютные рынки",
+    "kicker_en": "Currency Markets",
+    "title_ru": "Канадский доллар упал до минимума 2026 года на фоне ожидания «паузы» Центробанка",
+    "text_ru": "Канадский доллар ослабел до самого низкого уровня с декабря, так как трейдеры ставят на то, что Банк Канады будет более осторожным в повышении ставок по сравнению с другими центральными банками мира. Участники рынка ожидают, что BoC займёт более консервативную позицию в отличие от агрессивного ужесточения монетарной политики, которое ожидается от других крупных центробанков.\n📰 Bloomberg\n✍️ George Lei",
+    "title_en": "Canada Dollar Hits 2026 Low as Traders See Central Bank on Hold",
+    "text_en": "The Canadian dollar weakened to its lowest point since December as market participants bet the Bank of Canada will lag behind global central banks in raising interest rates. Currency traders are pricing in a more cautious approach from the BoC compared to the aggressive tightening expected from other major central banks.\n📰 Bloomberg\n✍️ George Lei",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781024157-owlh",
     "timestamp": 1781024157,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Компании, занимающиеся майнингом биткоина, переориентируют свой бизнес на инфраструктуру искусственного интеллекта. Пока биткоин упал на 17% в начале 2026 года, акции майнеров выросли более чем на 50%, а лидеры рынка прибавили свыше 70%. Это расхождение отражает принципиальный поворот: майнеры используют вычислительные мощности и энергетическую инфраструктуру для монетизации задач ИИ, создавая гибридную бизнес-модель, которая оказывается намного прибыльнее традиционного крипто-майнинга.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "title_en": "Why Bitcoin Miners Are Quietly Becoming AI Data Centers",
     "text_en": "Bitcoin mining companies are pivoting toward artificial intelligence infrastructure as their core business. Despite Bitcoin's 17% decline in early 2026, mining stocks surged over 50%, with top performers gaining 70%. This divergence signals a fundamental shift: miners are leveraging their existing computational power and energy infrastructure to monetize AI workloads, creating a hybrid business model that proves more profitable than pure cryptocurrency mining.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780772148-8ekq",
-    "timestamp": 1780772148,
-    "date": "2026-06-06",
-    "date_ru": "6 июня 2026",
-    "date_en": "June 6, 2026",
-    "category": "crypto",
-    "kicker_ru": "Биткоин",
-    "kicker_en": "Bitcoin",
-    "title_ru": "Биткоин достиг максимальной перепроданности со времён краха 2020 года: может ли BTC вернуться к $70K?",
-    "text_ru": "RSI (индекс относительной силы) Биткоина достиг самого низкого уровня со времён рыночного краха 2020 года, повторяя исторические паттерны из 2020 и февраля 2026 годов, которые предшествовали значительным восстановлениям на 50% и 30% соответственно. Технические аналитики полагают, что эти закономерности могут сигнализировать о потенциальном восстановлении цены Биткоина к отметке $70 000.\n📰 Cointelegraph\n✍️ Yashu Gola",
-    "title_en": "Bitcoin most oversold since 2020 crash: Can BTC rebound to $70K next?",
-    "text_en": "Bitcoin's RSI (Relative Strength Index) has reached its most oversold levels since the 2020 market crash, mirroring historical setups from 2020 and February 2026 that preceded substantial rebounds of 50% and 30% respectively. Technical analysts suggest these patterns could signal a potential recovery toward the $70,000 level.\n📰 Cointelegraph\n✍️ Yashu Gola",
     "source": "",
     "link": "#",
     "thumb": "📰"
