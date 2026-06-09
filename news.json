@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780981249-dnmk",
+    "timestamp": 1780981249,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "crypto",
+    "kicker_ru": "ИИ и блокчейн",
+    "kicker_en": "AI and Blockchain",
+    "title_ru": "Криптовалютные кошельки не обеспечивают автономность ИИ, предупреждает исследование IC3",
+    "text_ru": "Исследователи консорциума IC3 уточнили, что хотя криптокошельки могут автоматизировать платежи для систем ИИ и создавать неизменяемые записи о транзакциях, они не могут решить фундаментальные проблемы — подтверждение подлинности контента, устранение смещения алгоритмов или предоставление истинной автономности искусственному интеллекту. Исследование развеивает заблуждения о роли блокчейна в развитии ИИ, подчеркивая, что одна техническая инфраструктура не может решить эти глубокие проблемы.\n📰 Crypto.news\n✍️ Olivia Stephanie",
+    "title_en": "Crypto wallets do not make AI autonomous, IC3 study warns",
+    "text_en": "Researchers from the IC3 blockchain research consortium have clarified that while cryptocurrency wallets can automate payments for AI systems and create immutable transaction records, they cannot solve fundamental problems like verifying content authenticity, eliminating algorithmic bias, or granting true autonomy to AI. The study challenges misconceptions about blockchain's role in AI development, emphasizing that technical infrastructure alone cannot address these deeper challenges.\n📰 Crypto.news\n✍️ Olivia Stephanie",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780981245-2bza",
     "timestamp": 1780981245,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Комитет индекса S&P 500 отклонил предложение об ослаблении требований к прибыльности для крупных кандидатов на IPO, в том числе SpaceX. Это означает, что такие компании могут надолго остаться вне индекса. Комитет сохранил традиционные стандарты листинга, несмотря на давление со стороны крупных убыточных технологических компаний.\n📰 Bloomberg\n✍️ Bailey Lipschultz, Vildana Hajric",
     "title_en": "SpaceX and Other Mega IPOs May Wait Years to Join the S&P 500",
     "text_en": "The S&P 500 Index committee rejected a proposal to relax profitability requirements for major IPO candidates like SpaceX, meaning these mega-cap companies could face a lengthy wait before inclusion in the index. The decision maintains traditional listing standards despite pressure to accommodate large, unprofitable tech companies seeking index admission.\n📰 Bloomberg\n✍️ Bailey Lipschultz, Vildana Hajric",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780692954-tfja",
-    "timestamp": 1780692954,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "crypto",
-    "kicker_ru": "Биткоин, Рынки",
-    "kicker_en": "Bitcoin, Markets",
-    "title_ru": "Биткойн-медведи попались в ловушку на $2,6 млрд при падении ставок финансирования",
-    "text_ru": "Спекулянты открыли крупные шортовые позиции на Биткойне по мере падения котировок до $60 тыс., что создало предпосылки для коротких сжатий. С $2,6 млрд залога в шортах под угрозой трейдеры внимательно следят за снижением ставок финансирования — признаком потенциального роста, который может ликвидировать позиции медведей.\n📰 Cointelegraph\n✍️ Marcel Pechman",
-    "title_en": "Bitcoin Bears Face $2.6B Trap as Funding Rate Drops",
-    "text_en": "Bitcoin bears accumulated significant short positions as BTC fell to $60,000, creating potential conditions for a short squeeze. With $2.6 billion in short leverage now at risk, traders are watching whether falling funding rates signal an imminent upside reversal that could liquidate bearish positions.\n📰 Cointelegraph\n✍️ Marcel Pechman",
     "source": "",
     "link": "#",
     "thumb": "📰"
