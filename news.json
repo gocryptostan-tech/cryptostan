@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780973749-8sl2",
+    "timestamp": 1780973749,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "finance",
+    "kicker_ru": "IPO",
+    "kicker_en": "IPO",
+    "title_ru": "OpenAI подала конфиденциальную заявку на выход на IPO в США",
+    "text_ru": "OpenAI официально подала документы на проведение первичного размещения акций в американских регуляторов, однако не назвала сроки выхода на биржу. Этот шаг свидетельствует о намерении компании перейти на публичный рынок, хотя конкретная дата остаётся неопределённой. Решение принято на фоне продолжающегося расширения операций OpenAI и привлечения крупных инвестиций от ведущих инвесторов.\n📰 Cointelegraph\n✍️ Jesse Coghlan",
+    "title_en": "OpenAI Files Confidentially for US IPO",
+    "text_en": "OpenAI has submitted a confidential IPO filing with US regulators but hasn't announced a timeline for going public. The move signals the AI company's plans to transition to public markets, though the exact launch date remains uncertain. This development comes as OpenAI continues to expand its operations and secure significant funding from major investors.\n📰 Cointelegraph\n✍️ Jesse Coghlan",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780969320-ym1b",
     "timestamp": 1780969320,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Недавняя продажа биткоина компанией MicroStrategy бросает вызов популярной в крипто-сообществе философии \"держи и не продавай\". Одновременно JPMorgan раскритиковал закон CLARITY, а Capital B запустила масштабное募金 для накопления биткоина. Эти события демонстрируют изменение подходов крупных институциональных игроков к стратегиям накопления BTC.\n📰 Cointelegraph\n✍️ Sam Bourgi",
     "title_en": "Crypto Biz: Nobody told Saylor 'never sell'",
     "text_en": "MicroStrategy's recent Bitcoin sale challenges the popular \"never sell\" philosophy in crypto circles. Meanwhile, JPMorgan criticized the CLARITY Act, and Capital B launched an ambitious fundraising initiative focused on Bitcoin accumulation. These developments highlight shifting attitudes toward Bitcoin hodling strategies among major institutional players.\n📰 Cointelegraph\n✍️ Sam Bourgi",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780682449-pdax",
-    "timestamp": 1780682449,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "finance",
-    "kicker_ru": "IPO",
-    "kicker_en": "IPO",
-    "title_ru": "Поддерживаемый BlackRock стартап Securitize приближается к листингу на NYSE после одобрения SEC",
-    "text_ru": "Securitize, платформа блокчейн-инфраструктуры с поддержкой BlackRock, получила одобрение регуляторов на слияние через SPAC с Cantor и приближается к дебюту на Нью-йоркской фондовой бирже. SEC объявила о действительности регистрационного заявления S-4, что является ключевым этапом для компании перед выходом на публичный рынок и расширением присутствия в секторе токенизированных активов.\n📰 crypto.news\n✍️ Irene Mukiri",
-    "title_en": "BlackRock-backed Securitize moves closer to NYSE listing after SEC approval",
-    "text_en": "Securitize, a blockchain infrastructure company backed by BlackRock, has received SEC regulatory clearance for its SPAC merger with Cantor, moving it closer to a New York Stock Exchange debut. The S-4 registration statement has been declared effective, marking a significant milestone for the digital securities platform as it prepares to go public and expand its role in tokenized asset markets.\n📰 crypto.news\n✍️ Irene Mukiri",
     "source": "",
     "link": "#",
     "thumb": "📰"
