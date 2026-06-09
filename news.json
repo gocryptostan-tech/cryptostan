@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780992069-mke7",
+    "timestamp": 1780992069,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "crypto",
+    "kicker_ru": "Биткоин-компании",
+    "kicker_en": "Bitcoin Companies",
+    "title_ru": "Премия оценки Strategy на 31% находится под угрозой из-за растущих долговых обязательств",
+    "text_ru": "Акции MicroStrategy торгуются со значительной премией к чистой стоимости активов, однако растущие обязательства по привилегированным акциям и зависимость от финансирования под залог Биткоина создают риски для держателей обыкновенных акций. Анализ Fortune показывает, что текущая переоценка компании может оказаться недолговечной на фоне растущего долгового бремени.\n📰 crypto.news\n✍️ Rony Roy",
+    "title_en": "Strategy's 31% Valuation Premium at Risk as Debt Obligations Mount",
+    "text_en": "MicroStrategy's stock trades at a significant premium to its net asset value, but growing preferred stock obligations and reliance on Bitcoin-backed financing pose mounting risks to common shareholders. Fortune's analysis reveals that the company's valuation cushion may not be sustainable as debt pressures increase.\n📰 crypto.news\n✍️ Rony Roy",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780990929-oql7",
     "timestamp": 1780990929,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Платформа мем-монет на блокчейне Solana представила GO — новый маркетплейс, где пользователи могут выполнять задания и зарабатывать награды. За несколько часов после запуска 5 июня поступило более 1100 заданий и активировалось свыше 320 задач, что свидетельствует о высокой вовлеченности сообщества.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "title_en": "Pump.fun Launches GO Bounty Marketplace on Solana",
     "text_en": "Pump.fun, the popular Solana-based meme coin platform, has rolled out GO, a new bounty marketplace where users can complete tasks and earn rewards. The platform saw over 1,100 submissions and 320+ active bounties within hours of launch on June 5, indicating strong community engagement around the feature.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780700152-lge6",
-    "timestamp": 1780700152,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "crypto",
-    "kicker_ru": "Интеграция AI",
-    "kicker_en": "AI Integration",
-    "title_ru": "Travala запустила бронирование отелей через AI-агентов в USDC на Base",
-    "text_ru": "Платформа Travala представила протокол, который позволяет AI-агентам автономно искать и бронировать отели с использованием стейблкоина USDC в сети Base. Искусственный интеллект берёт на себя поиск и организацию бронирования, но окончательное подтверждение платежа остаётся за пользователем. Это отражает растущий тренд внедрения AI в децентрализованные финансы и туристические сервисы.\n📰 Cointelegraph\n✍️ Bryan O'Shea",
-    "title_en": "Travala Enables AI Agents to Book Hotels with USDC on Base Network",
-    "text_en": "Travala has launched a new protocol allowing AI agents to autonomously search and book hotels using USDC stablecoin on the Base blockchain. While the AI handles search and booking logistics, users retain control by approving final payments, combining automation with security. The integration represents a growing trend of AI adoption in decentralized finance and travel services.\n📰 Cointelegraph\n✍️ Bryan O'Shea",
     "source": "",
     "link": "#",
     "thumb": "📰"
