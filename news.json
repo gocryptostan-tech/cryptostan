@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781009753-zt7s",
+    "timestamp": 1781009753,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "crypto",
+    "kicker_ru": "Деривативы",
+    "kicker_en": "Derivatives",
+    "title_ru": "OKX расширяет предложение деривативов в Европе с токенизированными акциями и сырьём",
+    "text_ru": "OKX запустила X-Perps на европейском рынке, предложив розничным трейдерам вечные фьючерсы на акции Magnificent 7, золото и нефть в соответствии с регламентом MICA. Это обострит конкуренцию с крупными биржами Coinbase, Kraken и Binance на рынке регулируемых деривативов и позволит европейским пользователям торговать продуктами, совмещающими традиционные активы и крипто.\n📰 Cointelegraph\n✍️ Christina Comben",
+    "title_en": "OKX Expands Derivatives Offering in Europe with Tokenized Stocks and Commodities",
+    "text_en": "OKX has launched X-Perps in the European market, introducing perpetual futures on Magnificent 7 stocks, gold, and oil for retail traders under MICA regulations. The move intensifies competition with major exchanges like Coinbase, Kraken, and Binance in the regulated derivatives space, offering EU-compliant trading products that bridge traditional assets and crypto markets.\n📰 Cointelegraph\n✍️ Christina Comben",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781006460-4956",
     "timestamp": 1781006460,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "В пятницу американские спот Биткоин-ETF вернулись к чистому оттоку капитала после короткого периода восстановления, при этом IBIT от BlackRock возглавил снижения, так как Биткоин упал ниже критического уровня $60 000 на фоне ухудшения настроений инвесторов. Отток активов указывает на возвращение осторожности на рынке, поскольку крупные институциональные инвесторы переоценивают свои позиции после падения цены.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "title_en": "BlackRock's IBIT leads Bitcoin ETFs back into outflows as BTC price slides",
     "text_en": "U.S. spot Bitcoin ETFs returned to net outflows on Friday after briefly halting a record withdrawal streak, with BlackRock's IBIT leading the declines as Bitcoin fell below the critical $60,000 support level amid deteriorating investor sentiment. The outflows signal renewed caution in the market as major institutional investors reassess their positions following the price decline.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780736401-du3a",
-    "timestamp": 1780736401,
-    "date": "2026-06-06",
-    "date_ru": "6 июня 2026",
-    "date_en": "June 6, 2026",
-    "category": "finance",
-    "kicker_ru": "Рынки предсказаний",
-    "kicker_en": "Prediction Markets",
-    "title_ru": "Почему Susquehanna развивает бизнес на рынках предсказаний",
-    "text_ru": "Рынки предсказаний стремительно развиваются как платформы для ставок на различные события, но институциональные инвесторы остаются в стороне из-за низкой ликвидности и небольших объёмов торговли. Торговая компания Susquehanna International Group решает эту проблему благодаря своему маркет-мейкингу на платформе Kalshi. Джереми Малец, глава отдела макротрейдинга и рынков предсказаний в Susquehanna, рассказывает о том, как крупные инвесторы могут использовать эти рынки, делится данными о движении капитала и объясняет механику хеджирования рисков и заработка маркет-мейкеров в интервью Bloomberg.\n📰 Bloomberg\n✍️ N/A",
-    "title_en": "Why Susquehanna Is Building a Prediction Market Business",
-    "text_en": "Prediction markets are gaining traction as betting platforms on virtually any outcome, but institutional adoption remains limited due to low liquidity and shallow trading volumes. Trading giant Susquehanna International Group is addressing this gap through market-making operations with Kalshi. Jeremy Maletz, head of macro trading and prediction markets at Susquehanna, explains how institutional investors can leverage these markets, discusses current capital flows, risk hedging strategies, and revenue generation models for market makers in this Bloomberg interview.\n📰 Bloomberg\n✍️ N/A",
     "source": "",
     "link": "#",
     "thumb": "📰"
