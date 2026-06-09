@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780980949-swc2",
+    "timestamp": 1780980949,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "crypto",
+    "kicker_ru": "Взлом безопасности",
+    "kicker_en": "Security Breach",
+    "title_ru": "Токен Humanity Protocol рухнул на 85% после компрометации приватных ключей на $30M",
+    "text_ru": "Фонд Humanity Protocol пережил серьёзный инцидент безопасности: приватные ключи члена фундации были скомпрометированы, что привело к краже примерно $30 млн токенов Humanity Protocol. Взлом спровоцировал значительное падение цены нативного токена и вызвал вопросы о мерах безопасности в организации, а также нанёс ущерб держателям токенов.\n📰 Cointelegraph\n✍️ Martin Young",
+    "title_en": "Humanity Protocol token crashes 85% after $30M private key compromise",
+    "text_en": "The Humanity Foundation suffered a major security incident when private keys of a foundation member were compromised, leading to the theft of approximately $30 million worth of Humanity Protocol tokens. The exploit triggered a significant price collapse of the native token, raising concerns about security practices within the organization and affecting token holders.\n📰 Cointelegraph\n✍️ Martin Young",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780978779-nw2f",
     "timestamp": 1780978779,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Биткоин снизился ниже отметки $60 000 после выхода неожиданно сильного отчёта о занятости в США. Трейдеры пересмотрели ожидания по снижению ставок ФРС и увеличили ставки на ужесточение монетарной политики в конце года. Позитивные данные по рынку труда развернули настроения на рынке против голубиных сценариев денежно-кредитной политики.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "title_en": "Bitcoin price falls below $60K as hot U.S. jobs report crushes rate cut hopes",
     "text_en": "Bitcoin dropped below $60,000 following a stronger-than-expected U.S. jobs report, which led traders to reduce expectations for Federal Reserve rate cuts and increase bets on potential policy tightening later in the year. The positive employment data shifted market sentiment away from dovish monetary policy expectations.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780688524-x45k",
-    "timestamp": 1780688524,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "crypto",
-    "kicker_ru": "Биткоин, Волатильность рынка",
-    "kicker_en": "Bitcoin, Market Volatility",
-    "title_ru": "Почему сторонники Биткоина не паникуют из-за краха на $200 млрд",
-    "text_ru": "Известные защитники Биткоина — Мати Гринспан, Майкл Сейлор и Джемсон Лопп — объяснили резкое падение цены оттоком капитала в AI-активы. При этом их долгосрочная вера в Биткоин остаётся непоколебимой, а некоторые участники рынка, включая Джека Маллерса, рассматривают снижение как отличную возможность для покупки.\n📰 CoinDesk\n✍️ Olivier Acuna",
-    "title_en": "Why Bitcoin Purists Aren't Worried About the $200 Billion Market Crash",
-    "text_en": "Leading Bitcoin advocates including Mati Greenspan, Michael Saylor, and Jameson Lopp attributed the massive price decline to capital flowing into AI assets. However, their long-term conviction in Bitcoin remains unshaken, with some like Jack Mallers viewing the downturn as a buying opportunity rather than a cause for concern.\n📰 CoinDesk\n✍️ Olivier Acuna",
     "source": "",
     "link": "#",
     "thumb": "📰"
