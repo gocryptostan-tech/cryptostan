@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781017259-10il",
+    "timestamp": 1781017259,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "crypto",
+    "kicker_ru": "Деривативы",
+    "kicker_en": "Derivatives",
+    "title_ru": "Kalshi подала заявку на запуск перпетуальных фьючерсов HYPE",
+    "text_ru": "Платформа Kalshi обратилась к американской CFTC с заявкой на листинг перпетуальных фьючерсов по токену HYPE от Hyperliquid. Это свидетельствует о растущем интересе институциональных инвесторов к крипто-деривативам, так как регуляторы продолжают рассматривать поступающие заявки на новые продукты на базе цифровых активов. Kalshi присоединяется к другим платформам в попытке захватить спрос на маржинальную торговлю молодыми криптоактивами.\n📰 crypto.news\n✍️ Lawrence Mondal",
+    "title_en": "Kalshi Files for HYPE Perpetual Futures Trading",
+    "text_en": "Kalshi has submitted a filing with the U.S. CFTC to launch perpetual futures contracts based on Hyperliquid's HYPE token. The move reflects growing institutional interest in crypto derivatives, as regulators continue to review an expanding pipeline of digital asset products. Kalshi joins other platforms in betting on increased demand for leveraged trading in emerging crypto assets.\n📰 crypto.news\n✍️ Lawrence Mondal",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781016965-fvl2",
     "timestamp": 1781016965,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Операторы танкеров нажились на геополитической напряженности на Ближнем Востоке, которая нарушила маршруты доставки через Ормузский пролив и принесла рекордные доходы. Многие инвестировали полученную прибыль в расширение флота. Теперь участники рынка опасаются резкого падения фрахтовых ставок при нормализации обстановки и возобновлении стандартных маршрутов, что может оставить их с избыточными мощностями.\n📰 Financial Times\n✍️ Не указан",
     "title_en": "Oil tanker owners fear market crash after Iran war drove record profits",
     "text_en": "Owners of oil tankers capitalised on geopolitical tensions in the Middle East that disrupted shipping routes through the Strait of Hormuz, generating record profits. Many reinvested these windfall gains into expanding their fleets with new vessels. However, industry players now worry about a sharp correction in freight rates if regional tensions ease and normal shipping corridors reopen, potentially leaving them overexposed with excess capacity.\n📰 Financial Times\n✍️ Not specified",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780753327-wem8",
-    "timestamp": 1780753327,
-    "date": "2026-06-06",
-    "date_ru": "6 июня 2026",
-    "date_en": "June 6, 2026",
-    "category": "law",
-    "kicker_ru": "Судебное разбирательство",
-    "kicker_en": "Legal Action",
-    "title_ru": "Биткоин эпохи Сатоши в центре исков на $285 млрд переместился после 14 лет неподвижности",
-    "text_ru": "Древний адрес Bitcoin из ранних дней сети стал предметом крупного судебного спора. Компания Salomon Brothers направила официальное уведомление прямо в блокчейн в июле 2025 года, потребовав от владельца адреса 1LwWt доказать право собственности до 5 ноября 2025 года. Дело, оценённое в $285 миллиардов, знаменует важный этап в определении контроля над одними из самых ранних запасов в сети.\n📰 CoinDesk\n✍️ Shaurya Malwa",
-    "title_en": "Satoshi-era Bitcoin at Center of $285 Billion Lawsuit Moves After 14 Years",
-    "text_en": "An ancient Bitcoin address from the early days of the network has become the focus of a major legal dispute. Salomon Brothers issued a formal notice through Bitcoin's blockchain in July 2025, demanding that the owner of the 1LwWt address prove their ownership by November 5, 2025. The case, valued at $285 billion, marks a significant development in determining control over some of the network's earliest holdings.\n📰 CoinDesk\n✍️ Shaurya Malwa",
     "source": "",
     "link": "#",
     "thumb": "📰"
