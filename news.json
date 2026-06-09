@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781042458-cf8o",
+    "timestamp": 1781042458,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "law",
+    "kicker_ru": "Инсайдерская торговля",
+    "kicker_en": "Insider Trading",
+    "title_ru": "Первый процесс об инсайдерской торговле на рынке предсказаний: дело Ганнона Ван Дайка",
+    "text_ru": "Американское правительство впервые привлекает к суду по делу об инсайдерской торговле в отношении солдата армии Ганнона Ван Дайка, обвиняемого в незаконных операциях на платформе Polymarket. Федеральный суд Манхэттена назначил судебное разбирательство на 7 декабря — это станет знаковым прецедентом применения законов о ценных бумагах к децентрализованным платформам предсказаний.\n📰 crypto.news\n✍️ Lawrence Mondal",
+    "title_en": "Gannon Van Dyke faces landmark Polymarket insider trading trial",
+    "text_en": "The U.S. government is pursuing its first insider trading case involving a prediction market against Army soldier Gannon Van Dyke. A Manhattan federal court has scheduled trial for December 7, marking a significant legal test of how existing securities laws apply to decentralized prediction platforms like Polymarket.\n📰 crypto.news\n✍️ Lawrence Mondal",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781038852-8ryh",
     "timestamp": 1781038852,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Администрация Трампа изучает возможность конфискации замороженных иранских активов для возмещения убытков государствам Персидского залива, пострадавшим от региональных конфликтов. Предложение отражает попытки укрепить отношения с ключевыми партнёрами на Ближнем Востоке, которые испытали напряжение из-за текущих геополитических противостояний и военных операций.\n📰 Financial Times\n✍️ Не указан",
     "title_en": "US Weighs Using Iranian Assets to Compensate Gulf Allies for War Damage",
     "text_en": "The Trump administration is considering seizing frozen Iranian assets to compensate Gulf states for losses suffered during regional conflicts. The proposal reflects attempts to strengthen relationships with key Middle Eastern partners, which have been strained by ongoing tensions and military operations in the region.\n📰 Financial Times\n✍️ Not available",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780804990-d20s",
-    "timestamp": 1780804990,
-    "date": "2026-06-07",
-    "date_ru": "7 июня 2026",
-    "date_en": "June 7, 2026",
-    "category": "politics",
-    "kicker_ru": "Украино-российский конфликт",
-    "kicker_en": "Ukraine-Russia Conflict",
-    "title_ru": "Украина нанесла удар беспилотниками по Санкт-Петербургу",
-    "text_ru": "Украина провела вторую за несколько дней атаку беспилотников на Санкт-Петербург, поразив город спустя часы после посещения Путиным экономического форума. Удар демонстрирует обострение военных действий и растущие возможности Киева по поражению целей на российской территории.\n📰 nytimes.com\n✍️ Neil MacFarquhar",
-    "title_en": "Ukraine Strikes St. Petersburg in Long-Range Drone Attack",
-    "text_en": "Ukraine conducted a second long-range drone strike on Russia's St. Petersburg in recent days, targeting the city hours after President Putin attended an economic forum there. The attack underscores ongoing military tensions and Ukraine's expanding strike capabilities against Russian territory.\n📰 nytimes.com\n✍️ Neil MacFarquhar",
     "source": "",
     "link": "#",
     "thumb": "📰"
