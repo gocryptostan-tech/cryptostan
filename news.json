@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781031353-i6qk",
+    "timestamp": 1781031353,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "crypto",
+    "kicker_ru": "Биткоин, Анализ рынков",
+    "kicker_en": "Bitcoin, Market Analysis",
+    "title_ru": "Биткоин сигнализирует о волне отказа от риска на фоне давления на глобальную ликвидность",
+    "text_ru": "Исследование Bitwise показывает, что Биткоин ведёт рынок в сторону более консервативного позиционирования, несмотря на сохраняющиеся высокие объёмы глобальной ликвидности и резервов стейблкоинов. Аналитики предполагают, что крипторынки реагируют на усиливающийся риск-офф как на традиционных, так и на цифровых рынках, причём Биткоин может играть роль раннего индикатора экономических потрясений.\n📰 Cointelegraph\n✍️ Biraajmaan Tamuly",
+    "title_en": "Bitcoin May Signal Broader Market Risk-Off as Global Liquidity Pressures Mount",
+    "text_en": "Bitwise research indicates Bitcoin is leading a market-wide shift toward risk-averse positioning, even as global liquidity and stablecoin reserves remain substantial. The analysis suggests cryptocurrency markets are responding to heightened risk sentiment across traditional and digital assets, with Bitcoin potentially serving as an early warning indicator for broader economic stress.\n📰 Cointelegraph\n✍️ Biraajmaan Tamuly",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781024451-5os7",
     "timestamp": 1781024451,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Европейский центральный банк готовится повысить процентные ставки на предстоящей неделе, укрепляя свою позицию как наиболее ястребиного центробанка среди стран большой семёрки на фоне глобального роста инфляции, вызванного геополитической напряжённостью на Ближнем Востоке. Это решение усилит лидерство ЕЦБ в глобальном цикле ужесточения монетарной политики среди других крупных экономик.\n📰 Bloomberg\n✍️ Craig Stirling",
     "title_en": "ECB Becomes G7's Most Aggressive Central Bank as Rate Hike Looms",
     "text_en": "The European Central Bank is preparing to raise interest rates next week, positioning itself as the most hawkish central bank among G7 nations amid global inflationary pressures triggered by geopolitical tensions in the Middle East. This move will reinforce the ECB's leadership role in the global tightening cycle as other major economies face similar monetary challenges.\n📰 Bloomberg\n✍️ Craig Stirling",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780776045-fk5a",
-    "timestamp": 1780776045,
-    "date": "2026-06-06",
-    "date_ru": "6 июня 2026",
-    "date_en": "June 6, 2026",
-    "category": "crypto",
-    "kicker_ru": "Cardano",
-    "kicker_en": "Cardano",
-    "title_ru": "Активность в сообществе Cardano растёт несмотря на обвал ADA к четырёхлетним минимумам",
-    "text_ru": "Токен ADA упал ниже отметки $0,20, потеряв более 90% от пика 2021 года, что стало одним из худших периодов в истории экосистемы. Вместе с тем социальная активность и вовлечённость сообщества вокруг Cardano парадоксальным образом растут, указывая на сохранившийся интерес разработчиков и пользователей несмотря на крах цены.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "title_en": "Cardano's Social Activity Surges Despite ADA's Collapse to Four-Year Lows",
-    "text_en": "Cardano's ADA token has plummeted below $0.20, down over 90% from its 2021 peak, marking one of the ecosystem's worst periods. However, paradoxically, social activity and community engagement around Cardano have been increasing significantly during this downturn, suggesting sustained developer and user interest despite the price crash.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "source": "",
     "link": "#",
     "thumb": "📰"
