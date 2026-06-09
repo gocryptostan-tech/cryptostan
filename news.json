@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780988149-ucdc",
+    "timestamp": 1780988149,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "law",
+    "kicker_ru": "Регуляция",
+    "kicker_en": "Regulation",
+    "title_ru": "Британский регулятор рассматривает возможность открыть крипторынок для розничных инвесторов",
+    "text_ru": "Управление по финансовому поведению Великобритании изучает идею разрешить паевым инвестиционным фондам розничного сегмента размещать до 10% портфеля в криптоактивы при условии согласованности с заявленными инвестиционными целями. Такой шаг станет значительным прогрессом на пути легализации цифровых активов в британской финансовой системе.\n📰 Cointelegraph\n✍️ Jesse Coghlan",
+    "title_en": "UK Financial Regulator Considers Opening Crypto Markets to Retail Investors",
+    "text_en": "The UK's Financial Conduct Authority is considering allowing retail investment funds to allocate up to 10% of their portfolios to cryptocurrencies, provided such exposure aligns with funds' stated investment objectives. This potential shift marks a significant step toward mainstream institutional adoption of digital assets in the British financial sector.\n📰 Cointelegraph\n✍️ Jesse Coghlan",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780984846-3pgz",
     "timestamp": 1780984846,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Цена приватного монеты Zcash упала почти на половину с недавних максимумов на фоне паники после обнаружения серьёзной уязвимости в сети. Массовые ликвидации и выход одного из главных сторонников проекта усугубили ситуацию. Аналитики обсуждают, смогут ли киты развернуть тренд и стабилизировать актив.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "title_en": "Zcash price plunges 50% amid bug fallout and Hayes selloff, can whales reverse the trend?",
     "text_en": "Zcash has crashed nearly 50% from recent highs following disclosure of a critical network vulnerability that sparked panic selling and forced liquidations. The privacy coin's troubles intensified after prominent supporter Hayes exited his position, raising questions about whether major investors can stabilize the token.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780693252-scfj",
-    "timestamp": 1780693252,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "finance",
-    "kicker_ru": "SpaceX, IPO",
-    "kicker_en": "SpaceX, IPO",
-    "title_ru": "SpaceX подписал крупный контракт с Google перед рекордным IPO",
-    "text_ru": "SpaceX заключила значительный контракт на предоставление вычислительных мощностей с Google перед планируемым листингом на Nasdaq, расширяя свой бизнес в сфере инфраструктуры искусственного интеллекта. По данным нормативных документов, Google будет выплачивать SpaceX 920 миллионов долларов в месяц за доступ к GPU-ускорителям. Это укрепляет доходные потоки компании перед потенциальным рекордным размещением акций.\n📰 crypto.news\n✍️ Irene Mukiri",
-    "title_en": "SpaceX Secures Major Google Deal Ahead of Record IPO Launch",
-    "text_en": "SpaceX has signed a significant computing agreement with Google before its planned Nasdaq listing, expanding its AI infrastructure business with a major new customer. According to regulatory filings, Google will pay SpaceX $920 million monthly for GPU access, strengthening the company's revenue streams ahead of what could be a record-breaking initial public offering.\n📰 crypto.news\n✍️ Irene Mukiri",
     "source": "",
     "link": "#",
     "thumb": "📰"
