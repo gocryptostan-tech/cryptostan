@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780988452-lyz9",
+    "timestamp": 1780988452,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "crypto",
+    "kicker_ru": "Движение цены Ethereum",
+    "kicker_en": "Ethereum Price Action",
+    "title_ru": "Ethereum приближается к $1,700 — сможет ли покупка BitMine предотвратить падение к $1,500?",
+    "text_ru": "Ethereum торгуется около $1,691, технические индикаторы сигнализируют о давлении на поддержку $1,500. В то же время BitMine накопил 126,971 ETH на спаде, что может стать опорой для цены и переломить медвежий тренд, отражённый в показаниях MACD и Aroon.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "title_en": "Ethereum price nears $1,700, can BitMine buying stop a $1,500 retest?",
+    "text_en": "Ethereum is trading around $1,691 as technical indicators suggest continued downside pressure toward the $1,500 support level. However, BitMine's recent accumulation of 126,971 ETH during the dip could provide a floor for the price and potentially reverse the bearish momentum shown by MACD and Aroon indicators.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780988149-ucdc",
     "timestamp": 1780988149,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Американские фондовые рынки понесли значительные потери: индекс Nasdaq упал на 4% из-за резкого снижения котировок акций полупроводниковых компаний и производителей памяти. Растущие ожидания повышения ставок Федеральной резервной системой подняли доходность облигаций, оказывая давление на технологические акции, чувствительные к росту, и спровоцировав более широкий обвал на рынке.\n📰 Financial Times\n✍️ Не указан",
     "title_en": "Nasdaq tumbles 4% as shares in chip and memory groups sink",
     "text_en": "US stock markets experienced significant losses as the Nasdaq fell 4%, driven by sharp declines in semiconductor and memory chip stocks. Rising expectations of a Federal Reserve rate increase pushed bond yields higher, pressuring growth-dependent technology stocks and triggering a broader market selloff.\n📰 Financial Times\n✍️ Not available",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780696856-8kkk",
-    "timestamp": 1780696856,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "crypto",
-    "kicker_ru": "Крах цены Zcash",
-    "kicker_en": "Zcash Price Crash",
-    "title_ru": "Zcash рухнул на 50% после раскрытия критической уязвимости и ухода Хейса",
-    "text_ru": "Цена приватного монеты Zcash упала почти на половину с недавних максимумов на фоне паники после обнаружения серьёзной уязвимости в сети. Массовые ликвидации и выход одного из главных сторонников проекта усугубили ситуацию. Аналитики обсуждают, смогут ли киты развернуть тренд и стабилизировать актив.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "title_en": "Zcash price plunges 50% amid bug fallout and Hayes selloff, can whales reverse the trend?",
-    "text_en": "Zcash has crashed nearly 50% from recent highs following disclosure of a critical network vulnerability that sparked panic selling and forced liquidations. The privacy coin's troubles intensified after prominent supporter Hayes exited his position, raising questions about whether major investors can stabilize the token.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "source": "",
     "link": "#",
     "thumb": "📰"
