@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781038852-8ryh",
+    "timestamp": 1781038852,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "crypto",
+    "kicker_ru": "Биткоин, Политика ФРС",
+    "kicker_en": "Bitcoin, Fed Policy",
+    "title_ru": "Трейдеры биткоина готовятся к решению ФРС при вероятности паузы 98%",
+    "text_ru": "Трейдеры биткоина позиционируют свои портфели перед заседанием Федеральной резервной системы 16-17 июня, прогнозируя неизменность процентных ставок с вероятностью 98,2% согласно данным CME FedWatch. Рынок практически исключает возможность изменения ставок, что отражает уверенность трейдеров в консервативной позиции ФРС на фоне экономической неопределённости.\n📰 crypto.news\n✍️ Lawrence Mondal",
+    "title_en": "Bitcoin Traders Brace for Federal Reserve Decision as Hold Odds Hit 98%",
+    "text_en": "Bitcoin traders are positioning for a Federal Reserve pause at next week's June 16-17 meeting, with CME FedWatch data showing a 98.2% probability that interest rates will remain unchanged. Market expectations suggest minimal chance of rate changes, reflecting trader confidence in a dovish pause from policymakers amid economic uncertainty.\n📰 crypto.news\n✍️ Lawrence Mondal",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781038828-hzq5",
     "timestamp": 1781038828,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Украина провела вторую за несколько дней атаку беспилотников на Санкт-Петербург, поразив город спустя часы после посещения Путиным экономического форума. Удар демонстрирует обострение военных действий и растущие возможности Киева по поражению целей на российской территории.\n📰 nytimes.com\n✍️ Neil MacFarquhar",
     "title_en": "Ukraine Strikes St. Petersburg in Long-Range Drone Attack",
     "text_en": "Ukraine conducted a second long-range drone strike on Russia's St. Petersburg in recent days, targeting the city hours after President Putin attended an economic forum there. The attack underscores ongoing military tensions and Ukraine's expanding strike capabilities against Russian territory.\n📰 nytimes.com\n✍️ Neil MacFarquhar",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780793988-fouc",
-    "timestamp": 1780793988,
-    "date": "2026-06-07",
-    "date_ru": "7 июня 2026",
-    "date_en": "June 7, 2026",
-    "category": "markets",
-    "kicker_ru": "Южнокорейские рынки",
-    "kicker_en": "South Korean Markets",
-    "title_ru": "Волна осторожности на перегретом рынке Кореи: инвесторы страхуют позиции",
-    "text_ru": "Южнокорейские акции, ставшие центром внимания глобальных инвесторов, теперь сталкиваются с волной фиксации прибыли. Участники рынка всё чаще подстраховывают позиции и сворачивают переполненные сделки, опасаясь, что рост был слишком стремительным. Смена настроений с оптимизма на настороженность отражает растущие опасения по поводу справедливой стоимости активов и устойчивости недавних успехов на одном из самых активных финансовых рынков в мире.\n📰 Bloomberg\n✍️ Abhishek Vishnoi, Winnie Hsu",
-    "title_en": "World's Hottest Market Korea Has Bulls Reaching for Protection",
-    "text_en": "South Korean stocks, which have attracted significant investor interest, are now facing a wave of profit-taking as market participants grow concerned about overheating. Investors are increasingly hedging their positions and reducing exposure to crowded trades, signaling that the rally may have accelerated too quickly. The shift from optimism to caution reflects growing wariness about valuation levels and sustainability of the recent gains in one of the world's most actively traded markets.\n📰 Bloomberg\n✍️ Abhishek Vishnoi, Winnie Hsu",
     "source": "",
     "link": "#",
     "thumb": "📰"
