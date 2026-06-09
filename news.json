@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781002856-lkdf",
+    "timestamp": 1781002856,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "crypto",
+    "kicker_ru": "Взлом безопасности",
+    "kicker_en": "Security Breach",
+    "title_ru": "Humanity Protocol потеряла $36 млн после компрометации ключей администраторов",
+    "text_ru": "В Humanity Protocol произошла серьёзная утечка безопасности: злоумышленники скомпрометировали административные ключи и захватили контроль над мостами в сетях Ethereum и BNB Smart Chain, украв более $36 млн токенов H. Мосты протокола были взломаны после компрометации нескольких учётных данных администраторов, что дало злоумышленникам доступ к критической инфраструктуре.\n📰 crypto.news\n✍️ Rony Roy",
+    "title_en": "Humanity Protocol Suffers $36M Exploit Through Compromised Admin Keys",
+    "text_en": "Humanity Protocol disclosed a major security breach where attackers compromised administrative keys and gained control of bridge infrastructure across Ethereum and BNB Smart Chain, resulting in the theft of over $36 million in H tokens. The protocol's bridge systems were exploited after multiple admin credentials were compromised, allowing unauthorized access to critical infrastructure.\n📰 crypto.news\n✍️ Rony Roy",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781001729-meeo",
     "timestamp": 1781001729,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Токен Avalanche (AVAX) рухнул на 14% до $6,26 после волны ликвидаций, прорвавшей поддержку на отметке $8 и спровоцировавшей массовую распродажу. AVAX вернулся к ценовым уровням начала 2021 года, что заставляет трейдеров задаваться вопросом: формируется ли дно рынка или впереди еще больший спад на волне медвежьих настроений.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "title_en": "AVAX Price Crashes to Early 2021 Support Levels",
     "text_en": "Avalanche (AVAX) plummeted 14% to $6.26 following a market-wide liquidation wave that broke through the $8 support level, triggering heavy selling pressure from traders. The token has now fallen to price levels last seen in early 2021, raising questions about whether a market bottom is forming or further downside awaits in the current bearish sentiment.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780731717-3j09",
-    "timestamp": 1780731717,
-    "date": "2026-06-06",
-    "date_ru": "6 июня 2026",
-    "date_en": "June 6, 2026",
-    "category": "crypto",
-    "kicker_ru": "Биткоин",
-    "kicker_en": "Bitcoin",
-    "title_ru": "Биткоин восстановился выше $61 000 после краха с ликвидациями на $1,6 млрд",
-    "text_ru": "Биткоин отскочил выше отметки $61 000 после падения до $59 227, спровоцированного сильными данными по безработице в США. Сильная трудовая статистика вызвала распродажу на всех рынках — акций, облигаций и криптоактивов. Волатильность привела к ликвидации позиций на сумму $1,6 млрд по всем классам активов.\n📰 CoinDesk\n✍️ Shaurya Malwa",
-    "title_en": "Bitcoin back above $61,000 after rout leads to $1.6 billion liquidations",
-    "text_en": "Bitcoin rebounded above $61,000 after plunging to $59,227 overnight as strong U.S. jobs data triggered a market-wide selloff affecting stocks, bonds and crypto. The volatility resulted in $1.6 billion in liquidations as investors faced margin calls across multiple asset classes.\n📰 CoinDesk\n✍️ Shaurya Malwa",
     "source": "",
     "link": "#",
     "thumb": "📰"
