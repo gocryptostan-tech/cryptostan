@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781020858-4cfm",
+    "timestamp": 1781020858,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "finance",
+    "kicker_ru": "Торговля с помощью ИИ",
+    "kicker_en": "AI Trading",
+    "title_ru": "Боты для торговли на ИИ: статус легальности и реальная прибыльность",
+    "text_ru": "В статье рассматривается растущее использование автоматизированных торговых систем на базе искусственного интеллекта. Авторы разбирают два ключевых вопроса трейдеров: соответствуют ли такие боты нормам законодательства и способны ли они генерировать стабильный доход. Материал раскрывает распространённые заблуждения об алгоритмической торговле, анализирует регуляторный ландшафт в разных юрисдикциях и сравнивает реальную доходность систем с их рекламными обещаниями.\n📰 crypto.news\n✍️ Guest Post",
+    "title_en": "AI Trading Bots: Legal Status and Real Profitability",
+    "text_en": "The article examines the growing use of AI-powered automated trading systems, exploring two critical questions traders face: whether such bots operate within legal frameworks and if they can actually generate consistent profits. The guide addresses common misconceptions about algorithmic trading and provides insights into the regulatory landscape across different jurisdictions, while analyzing the realistic returns these systems deliver compared to their marketing claims.\n📰 crypto.news\n✍️ Guest Post",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781017259-10il",
     "timestamp": 1781017259,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Решение Meta выплачивать авторов в USDC подтверждает, что стейблкоины становятся мейнстримным инструментом платежей, однако выявляет критический пробел в индустрии: отсутствие беспроблемного обмена цифровых долларов на реальные локальные валюты. Хотя такая адаптация валидирует роль стейблкойнов в экономике создателей контента, она обходит фундаментальную проблему практического использования и механизмов вывода средств, которые остаются слаборазвитыми на большинстве рынков.\n📰 CoinDesk\n✍️ Tim Joslyn",
     "title_en": "Meta is Paying Creators in Stablecoins. Spending Them is Someone Else's Problem",
     "text_en": "Meta's move to compensate creators with USDC demonstrates that stablecoins are becoming a mainstream payment tool, but reveals a critical industry gap: the lack of seamless conversion from digital dollars into usable local currencies. While the adoption validates stablecoins' role in creator economies, it sidesteps the fundamental challenge of practical spending and cash-out mechanisms that remain underdeveloped across most markets.\n📰 CoinDesk\n✍️ Tim Joslyn",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780762761-iwiv",
-    "timestamp": 1780762761,
-    "date": "2026-06-06",
-    "date_ru": "6 июня 2026",
-    "date_en": "June 6, 2026",
-    "category": "markets",
-    "kicker_ru": "Рынки судоходства",
-    "kicker_en": "Shipping Markets",
-    "title_ru": "Владельцы нефтяных танкеров опасаются краха рынка после рекордных прибылей от конфликта в Иране",
-    "text_ru": "Операторы танкеров нажились на геополитической напряженности на Ближнем Востоке, которая нарушила маршруты доставки через Ормузский пролив и принесла рекордные доходы. Многие инвестировали полученную прибыль в расширение флота. Теперь участники рынка опасаются резкого падения фрахтовых ставок при нормализации обстановки и возобновлении стандартных маршрутов, что может оставить их с избыточными мощностями.\n📰 Financial Times\n✍️ Не указан",
-    "title_en": "Oil tanker owners fear market crash after Iran war drove record profits",
-    "text_en": "Owners of oil tankers capitalised on geopolitical tensions in the Middle East that disrupted shipping routes through the Strait of Hormuz, generating record profits. Many reinvested these windfall gains into expanding their fleets with new vessels. However, industry players now worry about a sharp correction in freight rates if regional tensions ease and normal shipping corridors reopen, potentially leaving them overexposed with excess capacity.\n📰 Financial Times\n✍️ Not specified",
     "source": "",
     "link": "#",
     "thumb": "📰"
