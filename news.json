@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781045752-qtv4",
+    "timestamp": 1781045752,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "crypto",
+    "kicker_ru": "Ethereum, Рынки",
+    "kicker_en": "Ethereum, Markets",
+    "title_ru": "Ethereum может упасть до $1K, если не выдержит ключевой поддержки: спасут ли рынок фьючерсные трейдеры?",
+    "text_ru": "Открытый интерес по фьючерсам на Ethereum снизился на 25%, создавая давление на критический уровень поддержки в $1,500. Аналитики предупреждают, что прорыв этой границы может привести к обвалу ETH до $1,000. Главный вопрос — смогут ли фьючерсные трейдеры обеспечить ликвидность и стабилизировать рынок или сброс плеча вызовет волну продаж.\n📰 Cointelegraph\n✍️ Biraajmaan Tamuly",
+    "title_en": "ETH crash to $1K looms if key support breaks: Will futures traders step in?",
+    "text_en": "Ethereum's futures open interest has declined by 25%, creating downward pressure on the critical $1,500 support level. Analysts warn that if this barrier breaks, ETH could plunge toward $1,000. The question now is whether futures traders will provide liquidity to stabilize the market or if the leverage reset will trigger further selling.\n📰 Cointelegraph\n✍️ Biraajmaan Tamuly",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781044921-5li4",
     "timestamp": 1781044921,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Сеть XRP Ledger расширяет свой функционал за счет новых применений, выходя далеко за рамки обычных платежей. Главный архитектор проекта Дэвид Шварц представил планы по внедрению токенизированных акций, инвестиционных фондов и кредитных инструментов. Это свидетельствует об усиливающемся интересе к экосистеме XRPL, которая активно позиционирует себя на рынке децентрализованной финансовой инфраструктуры.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "title_en": "XRP Ledger Expands Beyond Payments Into Tokenized Finance",
     "text_en": "The XRP Ledger is broadening its use cases beyond traditional payments, with chief architect David Schwartz outlining plans for tokenized stocks, investment funds, and loan instruments. The move signals growing adoption of the XRPL ecosystem as it positions itself to capture emerging opportunities in decentralized finance infrastructure.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780808385-or3v",
-    "timestamp": 1780808385,
-    "date": "2026-06-07",
-    "date_ru": "7 июня 2026",
-    "date_en": "June 7, 2026",
-    "category": "markets",
-    "kicker_ru": "Золото, Центральные банки",
-    "kicker_en": "Gold, Central Banks",
-    "title_ru": "Китайский центральный банк продолжает накопление золота несмотря на давление рынка",
-    "text_ru": "Народный банк Китая сохранил темпы скупки золота в мае, пополняя свои резервы на фоне снижения мировых цен на драгметалл. Последовательные покупки PBOC свидетельствуют об уверенности в золоте как стратегическом активе и контрастируют с общемировой тенденцией к снижению котировок. Это решение демонстрирует долгосрочную стратегию Пекина по диверсификации резервов в сторону отхода от доллара.\n📰 Bloomberg\n✍️ Jessica Zhou",
-    "title_en": "China's PBOC Continues Gold Accumulation Despite Market Pressure",
-    "text_en": "China's central bank maintained its gold-buying momentum in May, adding to its reserves even as global bullion prices faced downward pressure. The People's Bank of China's consistent purchases signal confidence in gold as a strategic asset, contrasting with broader market headwinds affecting precious metals. This move underscores Beijing's long-term diversification strategy away from dollar-denominated reserves.\n📰 Bloomberg\n✍️ Jessica Zhou",
     "source": "",
     "link": "#",
     "thumb": "📰"
