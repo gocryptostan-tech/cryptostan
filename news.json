@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781024451-5os7",
+    "timestamp": 1781024451,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "law",
+    "kicker_ru": "Регуляции",
+    "kicker_en": "Regulation",
+    "title_ru": "Paradigm оспаривает введение запрета на доходы от стейблкойнов FDIC",
+    "text_ru": "Инвестиционная компания Paradigm направила официальный комментарий в Федеральную корпорацию по страхованию депозитов США, оспаривая предложенные регуляции по стейблкойнам, которые ограничили бы право третьих лиц предлагать вознаграждения за держание этих активов. Компания утверждает, что такие положения могут замедлить инновации и конкуренцию на рынке цифровых активов. Этот шаг отражает растущие опасения индустрии по поводу избыточного регулятивного давления при разработке правил для управления стейблкойнами.\n📰 crypto.news\n✍️ Lawrence Mondal",
+    "title_en": "Paradigm Challenges FDIC Over Stablecoin Yield Restrictions",
+    "text_en": "Crypto investment firm Paradigm has submitted a formal comment to the U.S. Federal Deposit Insurance Corporation, challenging proposed stablecoin regulations that would restrict third-party companies from offering yield rewards on stablecoins. The firm argues these provisions could limit innovation and competitiveness in the digital asset ecosystem. This move reflects broader industry concerns about regulatory overreach as authorities develop frameworks for stablecoin governance.\n📰 crypto.news\n✍️ Lawrence Mondal",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781024436-rhbz",
     "timestamp": 1781024436,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Токен ADA упал ниже отметки $0,20, потеряв более 90% от пика 2021 года, что стало одним из худших периодов в истории экосистемы. Вместе с тем социальная активность и вовлечённость сообщества вокруг Cardano парадоксальным образом растут, указывая на сохранившийся интерес разработчиков и пользователей несмотря на крах цены.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "title_en": "Cardano's Social Activity Surges Despite ADA's Collapse to Four-Year Lows",
     "text_en": "Cardano's ADA token has plummeted below $0.20, down over 90% from its 2021 peak, marking one of the ecosystem's worst periods. However, paradoxically, social activity and community engagement around Cardano have been increasing significantly during this downturn, suggesting sustained developer and user interest despite the price crash.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780772446-8y0v",
-    "timestamp": 1780772446,
-    "date": "2026-06-06",
-    "date_ru": "6 июня 2026",
-    "date_en": "June 6, 2026",
-    "category": "crypto",
-    "kicker_ru": "Майнинг биткоина",
-    "kicker_en": "Bitcoin Mining",
-    "title_ru": "Почему майнеры биткоина тихо трансформируются в центры данных для ИИ",
-    "text_ru": "Компании, занимающиеся майнингом биткоина, переориентируют свой бизнес на инфраструктуру искусственного интеллекта. Пока биткоин упал на 17% в начале 2026 года, акции майнеров выросли более чем на 50%, а лидеры рынка прибавили свыше 70%. Это расхождение отражает принципиальный поворот: майнеры используют вычислительные мощности и энергетическую инфраструктуру для монетизации задач ИИ, создавая гибридную бизнес-модель, которая оказывается намного прибыльнее традиционного крипто-майнинга.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "title_en": "Why Bitcoin Miners Are Quietly Becoming AI Data Centers",
-    "text_en": "Bitcoin mining companies are pivoting toward artificial intelligence infrastructure as their core business. Despite Bitcoin's 17% decline in early 2026, mining stocks surged over 50%, with top performers gaining 70%. This divergence signals a fundamental shift: miners are leveraging their existing computational power and energy infrastructure to monetize AI workloads, creating a hybrid business model that proves more profitable than pure cryptocurrency mining.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "source": "",
     "link": "#",
     "thumb": "📰"
