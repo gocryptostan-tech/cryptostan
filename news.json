@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780984846-3pgz",
+    "timestamp": 1780984846,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "crypto",
+    "kicker_ru": "Биткоин, Институциональное внедрение",
+    "kicker_en": "Bitcoin, Institutional Adoption",
+    "title_ru": "Падение Биткоина не испугало институциональных инвесторов, считает стратег Coinbase",
+    "text_ru": "По мнению стратега Coinbase Джона Д'Агостино, крупные инвесторы активно накапливают Биткоин около отметки $65 тыс., несмотря на недавнюю волатильность рынка. Объёмы владения через ETF продолжают расти, а спрос корпораций на Bitcoin остаётся устойчивым — это свидетельствует, что крупные игроки рассматривают текущие падения цены как возможность для покупок, а не причину для паники.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "title_en": "Bitcoin crash fails to scare institutions, Coinbase strategist says",
+    "text_en": "According to Coinbase strategist John D'Agostino, institutional investors are actively accumulating Bitcoin near the $65,000 level despite recent market volatility. ETF ownership continues to grow steadily, and corporate demand for Bitcoin remains strong, suggesting that large players view current price dips as buying opportunities rather than reasons for concern.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780981249-dnmk",
     "timestamp": 1780981249,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "SpaceX заключила значительный контракт на предоставление вычислительных мощностей с Google перед планируемым листингом на Nasdaq, расширяя свой бизнес в сфере инфраструктуры искусственного интеллекта. По данным нормативных документов, Google будет выплачивать SpaceX 920 миллионов долларов в месяц за доступ к GPU-ускорителям. Это укрепляет доходные потоки компании перед потенциальным рекордным размещением акций.\n📰 crypto.news\n✍️ Irene Mukiri",
     "title_en": "SpaceX Secures Major Google Deal Ahead of Record IPO Launch",
     "text_en": "SpaceX has signed a significant computing agreement with Google before its planned Nasdaq listing, expanding its AI infrastructure business with a major new customer. According to regulatory filings, Google will pay SpaceX $920 million monthly for GPU access, strengthening the company's revenue streams ahead of what could be a record-breaking initial public offering.\n📰 crypto.news\n✍️ Irene Mukiri",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780693229-tcqy",
-    "timestamp": 1780693229,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "markets",
-    "kicker_ru": "S&P 500, IPO",
-    "kicker_en": "S&P 500, IPO",
-    "title_ru": "SpaceX и другие мега-IPO могут ждать включения в S&P 500 годами",
-    "text_ru": "Комитет индекса S&P 500 отклонил предложение об ослаблении требований к прибыльности для крупных кандидатов на IPO, в том числе SpaceX. Это означает, что такие компании могут надолго остаться вне индекса. Комитет сохранил традиционные стандарты листинга, несмотря на давление со стороны крупных убыточных технологических компаний.\n📰 Bloomberg\n✍️ Bailey Lipschultz, Vildana Hajric",
-    "title_en": "SpaceX and Other Mega IPOs May Wait Years to Join the S&P 500",
-    "text_en": "The S&P 500 Index committee rejected a proposal to relax profitability requirements for major IPO candidates like SpaceX, meaning these mega-cap companies could face a lengthy wait before inclusion in the index. The decision maintains traditional listing standards despite pressure to accommodate large, unprofitable tech companies seeking index admission.\n📰 Bloomberg\n✍️ Bailey Lipschultz, Vildana Hajric",
     "source": "",
     "link": "#",
     "thumb": "📰"
