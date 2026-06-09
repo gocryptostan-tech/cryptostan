@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781038828-hzq5",
+    "timestamp": 1781038828,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "finance",
+    "kicker_ru": "Политика ФРС",
+    "kicker_en": "Federal Reserve Policy",
+    "title_ru": "Позиции трейдеров облигаций указывают на скорые повышения ставок ФРС",
+    "text_ru": "Трейдеры облигаций всё активнее ставят на несколько повышений базовой ставки ФРС в ближайшие месяцы, рассчитывая на ужесточение политики уже в сентябре. Такие позиции отражают убеждение рынка, что инфляционное давление вынудит центральный банк действовать раньше ожидаемого, что может переформатировать портфели участников глобальных финансовых рынков.\n📰 Bloomberg\n✍️ Edward Bolingbroke",
+    "title_en": "Bond Trader Positioning Signals Fed Rate Hikes Are Coming Fast",
+    "text_en": "Bond traders are increasingly betting on multiple Federal Reserve interest-rate hikes in the coming months, with expectations for a policy tightening as soon as September. This positioning reflects market confidence that inflation pressures will force the central bank to act sooner than previously anticipated, potentially reshaping portfolios across global financial markets.\n📰 Bloomberg\n✍️ Edward Bolingbroke",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781035256-adsn",
     "timestamp": 1781035256,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Южнокорейские акции, ставшие центром внимания глобальных инвесторов, теперь сталкиваются с волной фиксации прибыли. Участники рынка всё чаще подстраховывают позиции и сворачивают переполненные сделки, опасаясь, что рост был слишком стремительным. Смена настроений с оптимизма на настороженность отражает растущие опасения по поводу справедливой стоимости активов и устойчивости недавних успехов на одном из самых активных финансовых рынков в мире.\n📰 Bloomberg\n✍️ Abhishek Vishnoi, Winnie Hsu",
     "title_en": "World's Hottest Market Korea Has Bulls Reaching for Protection",
     "text_en": "South Korean stocks, which have attracted significant investor interest, are now facing a wave of profit-taking as market participants grow concerned about overheating. Investors are increasingly hedging their positions and reducing exposure to crowded trades, signaling that the rally may have accelerated too quickly. The shift from optimism to caution reflects growing wariness about valuation levels and sustainability of the recent gains in one of the world's most actively traded markets.\n📰 Bloomberg\n✍️ Abhishek Vishnoi, Winnie Hsu",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780785717-zood",
-    "timestamp": 1780785717,
-    "date": "2026-06-06",
-    "date_ru": "6 июня 2026",
-    "date_en": "June 6, 2026",
-    "category": "markets",
-    "kicker_ru": "Биткоин, Крах рынка",
-    "kicker_en": "Bitcoin, Market Crash",
-    "title_ru": "Биткоин и Эфир рухнули на максимум со времен краха FTX",
-    "text_ru": "Биткоин и Эфир рухнули на самый значительный за неделю уровень со времен коллапса FTX, а крипторынок потерял $390 миллиардов. Распродажа началась вслед за крупной продажей биткоина компанией Grayscale и усилила на протяжении недели, став одним из самых серьёзных обвалов за последние годы.\n📰 CoinDesk\n✍️ Krisztian Sandor",
-    "title_en": "Bitcoin and Ether Face Worst Weekly Decline Since FTX Collapse",
-    "text_en": "Bitcoin and Ether experienced their sharpest weekly decline since the FTX collapse, with the cryptocurrency market shedding $390 billion in value. The sell-off began following a major bitcoin sale by Grayscale and intensified throughout the week, marking one of the most significant market drawdowns in recent years.\n📰 CoinDesk\n✍️ Krisztian Sandor",
     "source": "",
     "link": "#",
     "thumb": "📰"
