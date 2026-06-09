@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781001729-meeo",
+    "timestamp": 1781001729,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "crypto",
+    "kicker_ru": "Рынки Биткоина",
+    "kicker_en": "Bitcoin Markets",
+    "title_ru": "Покупка Биткоина MicroStrategy не повлияла на цену BTC",
+    "text_ru": "Последнее приобретение Биткоина компанией MicroStrategy не оказало существенного влияния на котировки BTC, так как трейдеры предпочитают занимать осторожную позицию перед выходом данных по инфляции в США и заседанием Федеральной резервной системы. Несмотря на продолжающийся интерес институциональных инвесторов, Биткоин остаётся практически без изменений в ожидании ключевых экономических показателей.\n📰 CoinDesk\n✍️ Omkar Godbole",
+    "title_en": "Strategy's Bitcoin Purchase Fails to Move Market",
+    "text_en": "MicroStrategy's latest Bitcoin acquisition had little impact on BTC price as traders remain cautious ahead of U.S. inflation data and the Federal Reserve's upcoming meeting. Despite continued institutional interest, Bitcoin remains largely flat as market participants await key economic indicators.\n📰 CoinDesk\n✍️ Omkar Godbole",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781000363-87kh",
     "timestamp": 1781000363,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Биткоин отскочил выше отметки $61 000 после падения до $59 227, спровоцированного сильными данными по безработице в США. Сильная трудовая статистика вызвала распродажу на всех рынках — акций, облигаций и криптоактивов. Волатильность привела к ликвидации позиций на сумму $1,6 млрд по всем классам активов.\n📰 CoinDesk\n✍️ Shaurya Malwa",
     "title_en": "Bitcoin back above $61,000 after rout leads to $1.6 billion liquidations",
     "text_en": "Bitcoin rebounded above $61,000 after plunging to $59,227 overnight as strong U.S. jobs data triggered a market-wide selloff affecting stocks, bonds and crypto. The volatility resulted in $1.6 billion in liquidations as investors faced margin calls across multiple asset classes.\n📰 CoinDesk\n✍️ Shaurya Malwa",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780729250-wac7",
-    "timestamp": 1780729250,
-    "date": "2026-06-06",
-    "date_ru": "6 июня 2026",
-    "date_en": "June 6, 2026",
-    "category": "crypto",
-    "kicker_ru": "Анализ рынка",
-    "kicker_en": "Market Analysis",
-    "title_ru": "Падение Bitcoin скрывает более масштабный рост крипторынка, считает глава Coinbase",
-    "text_ru": "Несмотря на резкое падение Bitcoin на 25% за последний месяц, генеральный директор Coinbase Брайан Армстронг утверждает, что ключевые сегменты криптовалютной индустрии продолжают расширяться. В посте от 6 июня в X Армстронг отметил, что фундаментальные показатели роста крипто остаются позитивными, что свидетельствует о созревании экосистемы за пределами колебаний цены Bitcoin и привлечении институциональных инвесторов в различные блокчейн-сегменты.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "title_en": "Bitcoin's 25% Monthly Decline Masks Broader Crypto Growth, Says Coinbase CEO",
-    "text_en": "Despite Bitcoin's sharp 25% drop over the past month, Coinbase CEO Brian Armstrong argues that key segments of the cryptocurrency industry continue expanding. In a June 6 X post, Armstrong highlighted that underlying growth metrics in crypto remain positive, suggesting the broader ecosystem is maturing beyond Bitcoin's price fluctuations and attracting institutional adoption across multiple blockchain sectors.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "source": "",
     "link": "#",
     "thumb": "📰"
