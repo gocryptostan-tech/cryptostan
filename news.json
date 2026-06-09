@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780999402-h914",
+    "timestamp": 1780999402,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "politics",
+    "kicker_ru": "Конфликт на Ближнем Востоке",
+    "kicker_en": "Middle East Conflict",
+    "title_ru": "Израиль наносит новые удары на юге Ливана несмотря на попытки деэскалации",
+    "text_ru": "Израиль провел свежую волну ударов на юге Ливана после временного отступления от прямого противостояния с Ираном. Продолжающаяся израильская операция против Хезболлы остается серьезным препятствием для американо-иранских переговоров о снижении напряженности в регионе.\n📰 The New York Times\n✍️ The New York Times",
+    "title_en": "Israel Escalates Military Operations in Southern Lebanon Despite De-escalation Talks",
+    "text_en": "Israel has launched fresh strikes in southern Lebanon following a temporary pullback in direct hostilities with Iran. The ongoing Israeli offensive against Hezbollah continues to complicate ongoing U.S.-Iran diplomatic negotiations aimed at reducing regional tensions.\n📰 The New York Times\n✍️ The New York Times",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780999249-22ga",
     "timestamp": 1780999249,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Министерство финансов и Центральный банк Индонезии объявили о намерении активизировать меры по поддержке национальной валюты после бурной недели, когда фондовый рынок страны упал быстрее, чем где-либо в мире, а рупия достигла исторических минимумов. Власти планируют стабилизировать курс и привлечь иностранный капитал для разворота негативного тренда.\n📰 Bloomberg\n✍️ Grace Sihombing, Prima Wirayani",
     "title_en": "Indonesian Officials Vow Again to Stabilize Rupiah, Draw Inflows",
     "text_en": "Indonesian finance and central bank officials pledged to intensify efforts to support the rupiah after a turbulent week saw the nation's stock market plummet at the fastest global pace and the currency hit historic lows. The authorities aim to stabilize the currency and attract foreign capital inflows to reverse the downward trend.\n📰 Bloomberg\n✍️ Grace Sihombing, Prima Wirayani",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780720917-xk25",
-    "timestamp": 1780720917,
-    "date": "2026-06-06",
-    "date_ru": "6 июня 2026",
-    "date_en": "June 6, 2026",
-    "category": "crypto",
-    "kicker_ru": "Cardano",
-    "kicker_en": "Cardano",
-    "title_ru": "Активность в сообществе Cardano растёт, несмотря на обрушение цены ADA до четырёхлетних минимумов",
-    "text_ru": "Нативный токен Cardano ADA упал ниже 20 центов, достигнув самого низкого уровня за четыре года, однако данные на цепи говорят о другом. По информации Santiment, количество активных адресов в сети Cardano достигло четырёхмесячного максимума, а социальное доминирование близко к пиковым значениям 2026 года. Всплеск активности произошёл после того, как Чарльз Хоскинсон, основатель Cardano, предупредил о надвигающейся «волне банкротств» в экосистеме, вызвав бурные дебаты среди инвесторов о будущем направлении платформы.\n📰 CoinDesk\n✍️ Shaurya Malwa",
-    "title_en": "Cardano Social Activity Surges Despite ADA Price Collapse to Four-Year Lows",
-    "text_en": "Cardano's native token ADA has fallen below 20 cents, reaching its lowest level in four years, yet on-chain metrics tell a different story. According to Santiment data, active addresses on the network have hit a four-month high, while social dominance is near its peak for 2026. The surge in activity comes after Charles Hoskinson, Cardano's founder, issued a stark warning about an impending \"wave of failures\" within the ecosystem, sparking debate among investors about the platform's future direction.\n📰 CoinDesk\n✍️ Shaurya Malwa",
     "source": "",
     "link": "#",
     "thumb": "📰"
