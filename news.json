@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780969320-ym1b",
+    "timestamp": 1780969320,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "crypto",
+    "kicker_ru": "Культура мемкойнов",
+    "kicker_en": "Memecoin Culture",
+    "title_ru": "Татуировки на лбу и алкогольные челленджи: теневая сторона бума мемкойнов",
+    "text_ru": "Новая функция Pump.fun платит пользователям за опасные трюки перед камерой — от бритья головы и чрезмерного потребления алкоголя до унизительных интервью с бездомными людьми. Тренд поднимает серьёзные этические вопросы: способствует ли платформа творчеству или становится инструментом эксплуатации в экосистеме мемкойнов.\n📰 CoinDesk\n✍️ Shaurya Malwa",
+    "title_en": "Forehead Tattoos and Alcohol Dares: The Dark Side of Crypto's Memecoin Boom",
+    "text_en": "Pump.fun's latest feature is paying users to perform dangerous stunts on camera — from head shaving and heavy drinking to exploitative interviews with homeless people. The trend raises serious ethical questions about whether the platform is promoting creativity or enabling exploitation in the memecoin ecosystem.\n📰 CoinDesk\n✍️ Shaurya Malwa",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780966853-6a1d",
     "timestamp": 1780966853,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Securitize, платформа блокчейн-инфраструктуры с поддержкой BlackRock, получила одобрение регуляторов на слияние через SPAC с Cantor и приближается к дебюту на Нью-йоркской фондовой бирже. SEC объявила о действительности регистрационного заявления S-4, что является ключевым этапом для компании перед выходом на публичный рынок и расширением присутствия в секторе токенизированных активов.\n📰 crypto.news\n✍️ Irene Mukiri",
     "title_en": "BlackRock-backed Securitize moves closer to NYSE listing after SEC approval",
     "text_en": "Securitize, a blockchain infrastructure company backed by BlackRock, has received SEC regulatory clearance for its SPAC merger with Cantor, moving it closer to a New York Stock Exchange debut. The S-4 registration statement has been declared effective, marking a significant milestone for the digital securities platform as it prepares to go public and expand its role in tokenized asset markets.\n📰 crypto.news\n✍️ Irene Mukiri",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780678855-i89k",
-    "timestamp": 1780678855,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "crypto",
-    "kicker_ru": "Биткоин",
-    "kicker_en": "Bitcoin",
-    "title_ru": "Биткоин на новом испытании: Сейлор призывает к идеологическому балансу",
-    "text_ru": "Майкл Сейлор из MicroStrategy призвал сторонников Биткоина найти равновесие между идеологической чистотой, массовым внедрением, инновациями и стабильностью рынка. В своём посте в X он предупредил, что будущее Биткоина не должно зависеть от одного принципа, особенно учитывая, что актив торгуется вблизи самых слабых уровней за почти два года. Его слова отражают растущие разногласия в крипто-сообществе по поводу приоритетов развития.\n📰 crypto.news\n✍️ Irene Mukiri",
-    "title_en": "Bitcoin faces a new test as Saylor calls for ideological balance",
-    "text_en": "MicroStrategy's Michael Saylor has called for Bitcoin supporters to find equilibrium between ideological purity, mass adoption, innovation, and market stability. In a post on X, Saylor warned that Bitcoin's future shouldn't hinge solely on one principle, as the asset trades near its weakest levels in almost two years. His message reflects growing tensions within the crypto community over competing priorities.\n📰 crypto.news\n✍️ Irene Mukiri",
     "source": "",
     "link": "#",
     "thumb": "📰"
