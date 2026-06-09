@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780999249-22ga",
+    "timestamp": 1780999249,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "crypto",
+    "kicker_ru": "Безопасность",
+    "kicker_en": "Security",
+    "title_ru": "ZachXBT исключил причастность инсайдеров к краже $31M в Humanity Protocol",
+    "text_ru": "По заключению известного блокчейн-аналитика ZachXBT, хищение $31 млн из Humanity Protocol произошло вследствие компрометации приватного ключа, а не в результате внутреннего заговора. Исследование украденных средств указывает на уязвимости в системе безопасности, а не на диверсию сотрудников, что значительно меняет понимание природы атаки.\n📰 crypto.news\n✍️ Rony Roy",
+    "title_en": "ZachXBT Rules Out Insider Theft in Humanity Protocol's $31M Exploit",
+    "text_en": "On-chain investigator ZachXBT has determined that Humanity Protocol's $31 million exploit resulted from a genuine private key compromise rather than an insider theft scheme. The analysis of stolen funds suggests the breach was caused by security vulnerabilities rather than internal sabotage, marking an important distinction for understanding the nature of the attack.\n📰 crypto.news\n✍️ Rony Roy",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780995648-9jjp",
     "timestamp": 1780995648,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Нативный токен Cardano ADA упал ниже 20 центов, достигнув самого низкого уровня за четыре года, однако данные на цепи говорят о другом. По информации Santiment, количество активных адресов в сети Cardano достигло четырёхмесячного максимума, а социальное доминирование близко к пиковым значениям 2026 года. Всплеск активности произошёл после того, как Чарльз Хоскинсон, основатель Cardano, предупредил о надвигающейся «волне банкротств» в экосистеме, вызвав бурные дебаты среди инвесторов о будущем направлении платформы.\n📰 CoinDesk\n✍️ Shaurya Malwa",
     "title_en": "Cardano Social Activity Surges Despite ADA Price Collapse to Four-Year Lows",
     "text_en": "Cardano's native token ADA has fallen below 20 cents, reaching its lowest level in four years, yet on-chain metrics tell a different story. According to Santiment data, active addresses on the network have hit a four-month high, while social dominance is near its peak for 2026. The surge in activity comes after Charles Hoskinson, Cardano's founder, issued a stark warning about an impending \"wave of failures\" within the ecosystem, sparking debate among investors about the platform's future direction.\n📰 CoinDesk\n✍️ Shaurya Malwa",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780707649-3rzm",
-    "timestamp": 1780707649,
-    "date": "2026-06-06",
-    "date_ru": "6 июня 2026",
-    "date_en": "June 6, 2026",
-    "category": "law",
-    "kicker_ru": "Регулирование",
-    "kicker_en": "Regulation",
-    "title_ru": "Штат Иллинойс одобрил налог на криптовалюты с уголовным наказанием",
-    "text_ru": "Законодатели Иллинойса приняли бюджетный законопроект на 2027 финансовый год, вводящий налогообложение операций с криптовалютами для брокеров цифровых активов, работающих в штате. В законодательстве предусмотрены строгие штрафные санкции, включая уголовную ответственность за неповиновение. Это отражает растущие усилия американских штатов по регулированию и налогообложению крипто-сектора по мере его развития.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "title_en": "Illinois Lawmakers Approve Crypto Tax with Felony Penalties",
-    "text_en": "Illinois has passed a fiscal year 2027 budget bill introducing a new tax on cryptocurrency transactions targeting digital asset brokers operating in the state. The legislation includes strict enforcement measures with felony penalties for non-compliance. This move reflects growing state efforts to regulate and tax crypto activities as digital assets become increasingly mainstream.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "source": "",
     "link": "#",
     "thumb": "📰"
