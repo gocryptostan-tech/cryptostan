@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781046049-bt8p",
+    "timestamp": 1781046049,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "crypto",
+    "kicker_ru": "Биткоин, Рынки",
+    "kicker_en": "Bitcoin, Markets",
+    "title_ru": "Wintermute предупреждает: Биткоину не хватает притока капитала для подтверждения дна рынка",
+    "text_ru": "Криптографическая торговая фирма Wintermute указывает на то, что недавнее снижение Биткоина пока не образовало устойчивое дно. По мнению компании, институциональные инвесторы пока остаются в стороне, а капитал продолжает уходить из спот-ETF на Биткоин, что указывает на возможное дальнейшее падение без разворота притока средств.\n📰 crypto.news\n✍️ Lawrence Mondal",
+    "title_en": "Wintermute warns Bitcoin lacks inflows needed to confirm market bottom",
+    "text_en": "Crypto trading firm Wintermute signals that Bitcoin's recent decline has not yet formed a sustainable market bottom. The firm notes that institutional investors remain sidelined while capital continues flowing out of spot Bitcoin ETFs, suggesting further weakness may be ahead without a reversal in fund inflows.\n📰 crypto.news\n✍️ Lawrence Mondal",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781045752-qtv4",
     "timestamp": 1781045752,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Объемы спотовой торговли криптовалют в апреле сократились до $679 млрд — это самый низкий показатель с октября 2023 года. Падение отражает ослабление интереса розничных трейдеров и снижение активности на крупных биржах, что указывает на охлаждение конъюнктуры крипторынка.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "title_en": "Crypto spot volume falls to $679B as retail demand weakens",
     "text_en": "Cryptocurrency spot trading volume dropped to $679 billion in April, marking its lowest level since October 2023. The decline reflects weakening retail investor participation and reduced activity across major exchanges, signaling a cooling phase in the broader crypto market.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780819245-v40q",
-    "timestamp": 1780819245,
-    "date": "2026-06-07",
-    "date_ru": "7 июня 2026",
-    "date_en": "June 7, 2026",
-    "category": "crypto",
-    "kicker_ru": "XRP Ledger",
-    "kicker_en": "XRP Ledger",
-    "title_ru": "XRP Ledger выходит за пределы платежей в сегмент токенизированных финансов",
-    "text_ru": "Сеть XRP Ledger расширяет свой функционал за счет новых применений, выходя далеко за рамки обычных платежей. Главный архитектор проекта Дэвид Шварц представил планы по внедрению токенизированных акций, инвестиционных фондов и кредитных инструментов. Это свидетельствует об усиливающемся интересе к экосистеме XRPL, которая активно позиционирует себя на рынке децентрализованной финансовой инфраструктуры.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "title_en": "XRP Ledger Expands Beyond Payments Into Tokenized Finance",
-    "text_en": "The XRP Ledger is broadening its use cases beyond traditional payments, with chief architect David Schwartz outlining plans for tokenized stocks, investment funds, and loan instruments. The move signals growing adoption of the XRPL ecosystem as it positions itself to capture emerging opportunities in decentralized finance infrastructure.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "source": "",
     "link": "#",
     "thumb": "📰"
