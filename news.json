@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780995356-hph7",
+    "timestamp": 1780995356,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "law",
+    "kicker_ru": "Регуляция",
+    "kicker_en": "Regulation",
+    "title_ru": "Более 200 криптокомпаний требуют от Сената одобрить закон CLARITY Act",
+    "text_ru": "Свыше двухсот криптовалютных компаний обратились к руководству американского Сената с просьбой проголосовать по закону CLARITY Act до промежуточных выборов. Промышленная коалиция стремится получить правовую ясность в регулировании цифровых активов на федеральном уровне.\n📰 cointelegraph.com\n✍️ Jesse Coghlan",
+    "title_en": "Over 200 crypto firms push Senate to pass CLARITY Act",
+    "text_en": "More than 200 cryptocurrency companies have collectively urged U.S. Senate leadership to schedule a vote on the CLARITY Act, a significant legislative proposal for the crypto industry, before the midterm elections. The industry coalition hopes to advance regulatory clarity for digital assets.\n📰 cointelegraph.com\n✍️ Jesse Coghlan",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780992069-mke7",
     "timestamp": 1780992069,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Криптобиржа Kraken сделала токенизированные акции SpaceX доступными для розничных инвесторов более чем в 110 странах, обойдя традиционные механизмы Уолл-стрита. Это первое крупное IPO, предложенное через блокчейн-токены, позволяющее обычным инвесторам со всего мира участвовать в процессе, который ранее был закрыт для институциональных игроков. Такой подход значительно меняет модель выхода компаний на биржу и бросает вызов традиционному банковскому андеррайтингу.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "title_en": "Kraken Launches Tokenized SpaceX IPO Shares, Democratizing Wall Street Access",
     "text_en": "Cryptocurrency exchange Kraken has made tokenized SpaceX shares available to retail investors across 110+ markets, bypassing traditional Wall Street gatekeeping. This marks the first major IPO offering through blockchain-based tokens, allowing ordinary investors worldwide to participate in what was previously an exclusive institutional process. The move represents a significant shift in how companies can go public, challenging conventional underwriting models and expanding access to early-stage investment opportunities.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780700445-iz5r",
-    "timestamp": 1780700445,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "crypto",
-    "kicker_ru": "Solana, Мем-коины",
-    "kicker_en": "Solana, Meme Coins",
-    "title_ru": "Pump.fun запустила GO — маркетплейс заданий на Solana",
-    "text_ru": "Платформа мем-монет на блокчейне Solana представила GO — новый маркетплейс, где пользователи могут выполнять задания и зарабатывать награды. За несколько часов после запуска 5 июня поступило более 1100 заданий и активировалось свыше 320 задач, что свидетельствует о высокой вовлеченности сообщества.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "title_en": "Pump.fun Launches GO Bounty Marketplace on Solana",
-    "text_en": "Pump.fun, the popular Solana-based meme coin platform, has rolled out GO, a new bounty marketplace where users can complete tasks and earn rewards. The platform saw over 1,100 submissions and 320+ active bounties within hours of launch on June 5, indicating strong community engagement around the feature.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "source": "",
     "link": "#",
     "thumb": "📰"
