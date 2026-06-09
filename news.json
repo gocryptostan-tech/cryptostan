@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781024157-owlh",
+    "timestamp": 1781024157,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "crypto",
+    "kicker_ru": "Биткоин",
+    "kicker_en": "Bitcoin",
+    "title_ru": "Биткоин падает к локальным минимумам $62K на фоне повторения истории медвежьего рынка",
+    "text_ru": "Биткоин продолжает снижаться, приближаясь к отметке $62,000, поскольку исторические паттерны медвежьего рынка снова берут верх. Несмотря на потенциальный оптимизм вокруг мирных переговоров между США и Ираном, BTC остаётся в цикле повторяющихся движений, напоминающих предыдущие падения, что сигнализирует инвесторам о возможной волатильности в ближайшем будущем.\n📰 Cointelegraph\n✍️ William Suberg",
+    "title_en": "Bitcoin price slips toward $62K local lows as bear-market history keeps repeating",
+    "text_en": "Bitcoin continues its downward pressure, approaching $62,000 as historical bear-market patterns reassert themselves. Despite potential optimism from US-Iran peace negotiations, BTC remains locked in repetitive price cycles that mirror previous market downturns, suggesting investors should brace for further volatility in the near term.\n📰 Cointelegraph\n✍️ William Suberg",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781023336-fpwf",
     "timestamp": 1781023336,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "RSI (индекс относительной силы) Биткоина достиг самого низкого уровня со времён рыночного краха 2020 года, повторяя исторические паттерны из 2020 и февраля 2026 годов, которые предшествовали значительным восстановлениям на 50% и 30% соответственно. Технические аналитики полагают, что эти закономерности могут сигнализировать о потенциальном восстановлении цены Биткоина к отметке $70 000.\n📰 Cointelegraph\n✍️ Yashu Gola",
     "title_en": "Bitcoin most oversold since 2020 crash: Can BTC rebound to $70K next?",
     "text_en": "Bitcoin's RSI (Relative Strength Index) has reached its most oversold levels since the 2020 market crash, mirroring historical setups from 2020 and February 2026 that preceded substantial rebounds of 50% and 30% respectively. Technical analysts suggest these patterns could signal a potential recovery toward the $70,000 level.\n📰 Cointelegraph\n✍️ Yashu Gola",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780768846-44sb",
-    "timestamp": 1780768846,
-    "date": "2026-06-06",
-    "date_ru": "6 июня 2026",
-    "date_en": "June 6, 2026",
-    "category": "crypto",
-    "kicker_ru": "Bitcoin ETF",
-    "kicker_en": "Bitcoin ETF",
-    "title_ru": "Что означает рекордная 13-дневная волна оттока из Bitcoin ETF",
-    "text_ru": "Спотовые Bitcoin ETF, торгуемые в США, столкнулись с самой длительной серией продаж за всю историю своего существования. За 13 торговых дней с 15 мая по 3 июня 2026 года из этих фондов оттекло около 4,37 миллиарда долларов. Такой беспрецедентный отток капитала указывает на смену настроений инвесторов и вызывает вопросы о жизнеспособности институционального спроса на биткоин через эти инструменты.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "title_en": "What 13 straight days of Bitcoin ETF outflows really means",
-    "text_en": "US spot Bitcoin ETFs experienced their longest losing streak on record, with $4.37 billion in outflows over 13 consecutive trading days between May 15 and June 3, 2026. This unprecedented drain from the complex signals a shift in investor sentiment and raises questions about the sustainability of institutional Bitcoin adoption through these vehicles.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "source": "",
     "link": "#",
     "thumb": "📰"
