@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781016965-fvl2",
+    "timestamp": 1781016965,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "crypto",
+    "kicker_ru": "Приватность и регулирование",
+    "kicker_en": "Privacy & Compliance",
+    "title_ru": "StarkWare и Sui внедряют приватные переводы, соответствующие регуляциям",
+    "text_ru": "StarkWare и Sui запускают системы конфиденциальных транзакций, ориентированные на соответствие требованиям надзорных органов, в то время как Zama совершенствует инфраструктуру для работы с регуляторами. Обновления выходят на фоне обнаружения уязвимости в протоколе Orchard сети Zcash, которая подчёркивает сложность разработки надёжных механизмов приватности и демонстрирует постоянный конфликт между защитой анонимности пользователей и требованиями государственного регулирования.\n📰 Cointelegraph\n✍️ Christina Comben",
+    "title_en": "Privacy push as StarkWare and Sui move toward compliance-ready confidential transfers",
+    "text_en": "StarkWare and Sui are implementing confidential transfer systems designed to meet regulatory requirements, while Zama strengthens compliance infrastructure. The developments come as Zcash's recent Orchard bug underscores the technical challenges of building secure privacy protocols, highlighting the industry's broader struggle to balance user anonymity with regulatory oversight.\n📰 Cointelegraph\n✍️ Christina Comben",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781013656-fk1f",
     "timestamp": 1781013656,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Древний адрес Bitcoin из ранних дней сети стал предметом крупного судебного спора. Компания Salomon Brothers направила официальное уведомление прямо в блокчейн в июле 2025 года, потребовав от владельца адреса 1LwWt доказать право собственности до 5 ноября 2025 года. Дело, оценённое в $285 миллиардов, знаменует важный этап в определении контроля над одними из самых ранних запасов в сети.\n📰 CoinDesk\n✍️ Shaurya Malwa",
     "title_en": "Satoshi-era Bitcoin at Center of $285 Billion Lawsuit Moves After 14 Years",
     "text_en": "An ancient Bitcoin address from the early days of the network has become the focus of a major legal dispute. Salomon Brothers issued a formal notice through Bitcoin's blockchain in July 2025, demanding that the owner of the 1LwWt address prove their ownership by November 5, 2025. The case, valued at $285 billion, marks a significant development in determining control over some of the network's earliest holdings.\n📰 CoinDesk\n✍️ Shaurya Malwa",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780750849-mn7g",
-    "timestamp": 1780750849,
-    "date": "2026-06-06",
-    "date_ru": "6 июня 2026",
-    "date_en": "June 6, 2026",
-    "category": "crypto",
-    "kicker_ru": "Dogecoin",
-    "kicker_en": "Dogecoin",
-    "title_ru": "Цена Dogecoin под давлением: фигура «голова и плечи» указывает на дальнейшее падение",
-    "text_ru": "Dogecoin упал до минимумов многолетней давности после пробоя крупной фигуры технического анализа «голова и плечи», усилив давление продавцов на криптовалютный рынок. При торговле около $0,081 монета сталкивается с серьезным сопротивлением, а аналитики предупреждают о риске более глубокого падения при прорыве критических уровней поддержки.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "title_en": "Dogecoin Price Under Pressure as Head-and-Shoulders Pattern Signals Further Decline",
-    "text_en": "Dogecoin has collapsed to multi-year lows following a breakdown from a major head-and-shoulders technical pattern, intensifying selling pressure across the crypto market. Trading near $0.081, DOGE is facing significant resistance as chart analysts warn of deeper losses ahead if support levels continue to fail.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "source": "",
     "link": "#",
     "thumb": "📰"
