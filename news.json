@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780966811-jju2",
+    "timestamp": 1780966811,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "markets",
+    "kicker_ru": "Рынки",
+    "kicker_en": "Markets",
+    "title_ru": "Азиатские акции отскочили на фоне оптимизма по Ирану, нефть падает",
+    "text_ru": "Азиатские фондовые рынки восстановились после самого крупного падения с марта благодаря смягчению напряженности на Ближнем Востоке и стабилизации технологического сектора. Распродажа акций, связанных с искусственным интеллектом, дала разворот, так как геополитические опасения снизились, а цены на нефть упали, что свидетельствует об уменьшении беспокойства инвесторов по поводу эскалации в регионе.\n📰 Bloomberg\n✍️ Anand Krishnamoorthy",
+    "title_en": "Asian Stocks Rebound on Iran Optimism, Oil Slips: Markets Wrap",
+    "text_en": "Asian stock markets recovered from their sharpest decline since March following easing Middle East tensions and a stabilization in the technology sector. The pullback in AI-related stocks reversed course as geopolitical concerns diminished and oil prices declined, signaling reduced market anxiety over regional escalation.\n📰 Bloomberg\n✍️ Anand Krishnamoorthy",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780963257-sizt",
     "timestamp": 1780963257,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Лиз Энн Сондерс, главный инвестиционный стратег Charles Schwab, выразила беспокойство по поводу растущей тенденции спекулятивного инвестирования и отметила, что финансовые рынки всё больше напоминают казино. В интервью дебютному эпизоду Bloomberg Money Сондерс обсудила эту тенденцию с ведущими Томом Кином и Скарлет Фу, подчеркнув риски поведения розничных инвесторов, руководствующихся краткосрочными прибылями, а не фундаментальным анализом.\n📰 Bloomberg\n✍️ Не указан",
     "title_en": "Schwab's Chief Strategist Warns of 'Casino Culture' in Financial Markets",
     "text_en": "Liz Ann Sonders, chief investment strategist at Charles Schwab, has expressed concern about the growing trend of speculative investing, noting that financial markets are increasingly resembling casinos. In an interview on Bloomberg Money's debut episode, Sonders discussed this shift with hosts Tom Keene and Scarlet Fu, highlighting the risks of retail investor behavior driven by short-term gains rather than fundamental analysis.\n📰 Bloomberg\n✍️ Not specified",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780678552-kj86",
-    "timestamp": 1780678552,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "crypto",
-    "kicker_ru": "Биткоин",
-    "kicker_en": "Bitcoin",
-    "title_ru": "Биткоин приближается к $60K на фоне истощения продавцов",
-    "text_ru": "Продавцы биткоина теряют темп по мере того, как криптовалюта продолжает снижаться к поддержке в $60 000. Аналитики рынка предполагают, что давление продавцов может скоро иссякнуть, что потенциально сигнализирует о смене настроений на рынке и возможном восстановлении цены.\n📰 Cointelegraph\n✍️ William Suberg",
-    "title_en": "Bitcoin teases 'seller exhaustion' as BTC price downside reaches $60.3K",
-    "text_en": "Bitcoin sellers are running out of momentum as the cryptocurrency continues its downward correction, approaching the $60,000 support level. Market analysts suggest that ongoing selling pressure may be nearing exhaustion, potentially signaling a shift in market sentiment and possible recovery ahead.\n📰 Cointelegraph\n✍️ William Suberg",
     "source": "",
     "link": "#",
     "thumb": "📰"
