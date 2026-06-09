@@ -1,5 +1,22 @@
 [
   {
+    "id": "1780978779-nw2f",
+    "timestamp": 1780978779,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "markets",
+    "kicker_ru": "IPO SpaceX",
+    "kicker_en": "SpaceX IPO",
+    "title_ru": "IPO SpaceX на $1,78 триллиона: инвесторы ставят на амбициозные проекты Маска",
+    "text_ru": "SpaceX готовится к крупнейшему размещению акций с оценкой компании в $1,78 триллиона, предлагая инвесторам оценить потенциал будущих прорывов в искусственном интеллекте, спутниковой сети Starlink и космических вычислительных технологий. Это IPO представляет существенную ставку на технологические инновации, которые еще годы будут оставаться на этапе разработки, отражая как амбиции, так и риски космического предприятия Илона Маска.\n📰 Financial Times\n✍️ Не указан",
+    "title_en": "SpaceX's $1.78 Trillion IPO: Investors Asked to Bet on Musk's Ambitious Projects",
+    "text_en": "SpaceX is preparing for a landmark public offering valuing the company at $1.78 trillion, asking investors to price in future breakthroughs in artificial intelligence, Starlink satellite internet, and space-based computing infrastructure. The IPO represents a significant bet on technological innovations that remain years away from full commercialization, reflecting both the ambitious vision and inherent risks of Elon Musk's space enterprise.\n📰 Financial Times\n✍️ Not specified",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1780977793-i6kj",
     "timestamp": 1780977793,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Известные защитники Биткоина — Мати Гринспан, Майкл Сейлор и Джемсон Лопп — объяснили резкое падение цены оттоком капитала в AI-активы. При этом их долгосрочная вера в Биткоин остаётся непоколебимой, а некоторые участники рынка, включая Джека Маллерса, рассматривают снижение как отличную возможность для покупки.\n📰 CoinDesk\n✍️ Olivier Acuna",
     "title_en": "Why Bitcoin Purists Aren't Worried About the $200 Billion Market Crash",
     "text_en": "Leading Bitcoin advocates including Mati Greenspan, Michael Saylor, and Jameson Lopp attributed the massive price decline to capital flowing into AI assets. However, their long-term conviction in Bitcoin remains unshaken, with some like Jack Mallers viewing the downturn as a buying opportunity rather than a cause for concern.\n📰 CoinDesk\n✍️ Olivier Acuna",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780686049-xugo",
-    "timestamp": 1780686049,
-    "date": "2026-06-05",
-    "date_ru": "5 июня 2026",
-    "date_en": "June 5, 2026",
-    "category": "law",
-    "kicker_ru": "Регуляции",
-    "kicker_en": "Regulation",
-    "title_ru": "Hyperliquid получила предупреждение от FCA, а ICE изучает её модель",
-    "text_ru": "Британский регулятор Financial Conduct Authority выпустил официальное предупреждение в отношении Hyperliquid — одной из крупнейших платформ для торговли крипто-фьючерсами с кредитным плечом. Уведомление от 21 мая указывает на нарушения требований финансового надзора Великобритании. Одновременно выяснилось, что Intercontinental Exchange интересуется моделью Hyperliquid, что свидетельствует о растущем интересе институционального капитала к децентрализованной инфраструктуре деривативов несмотря на усиление регуляторного давления.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "title_en": "Hyperliquid draws FCA warning while ICE explores its model",
-    "text_en": "The UK Financial Conduct Authority has issued a warning against Hyperliquid, one of the largest crypto perpetual futures platforms, flagging regulatory concerns. The notice, published on May 21, highlights compliance issues with British financial regulations. Meanwhile, the news reveals that Intercontinental Exchange (ICE) is exploring Hyperliquid's operational model, signaling potential mainstream institutional interest in decentralized derivatives infrastructure despite mounting regulatory pressure.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "source": "",
     "link": "#",
     "thumb": "📰"
