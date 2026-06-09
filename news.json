@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781010059-riqe",
+    "timestamp": 1781010059,
+    "date": "2026-06-09",
+    "date_ru": "9 июня 2026",
+    "date_en": "June 9, 2026",
+    "category": "crypto",
+    "kicker_ru": "Ripple",
+    "kicker_en": "Ripple",
+    "title_ru": "Дэвид Шварц из Ripple объяснил свою роль в XRPL в стихах",
+    "text_ru": "Главный технолог Ripple в отставке Дэвид Шварц ответил на критику в адрес своей должности творческим стихотворением в X, где описал свой 15-летний вклад в экосистему XRP Ledger. В стихах он осветил ключевые функции платформы — платежи, хранение активов, токенизацию и децентрализованные финансы, продемонстрировав свою текущую роль в проекте.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "title_en": "Ripple's David Schwartz Explains His XRPL Role in Verse",
+    "text_en": "Ripple's Chief Technology Officer Emeritus David Schwartz responded to criticism about his position with a creative poem on X (formerly Twitter), outlining his 15-year contribution to the XRP Ledger ecosystem. The verse covers the platform's core functions including payments, custody solutions, tokenization, and decentralized finance capabilities, showcasing Schwartz's continued involvement in the project.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781010054-uykt",
     "timestamp": 1781010054,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "Монета приватности Zcash столкнулась с новым скепсисом после того, как исправленная уязвимость в Orchard Pool вызвала дискуссию о скрытых рисках для пользователей и инвесторов. Партнер Dragonfly Хасиб Кураиши полагает, что рынок недооценивает последствия этого бага, что указывает на более широкие проблемы с безопасностью приватных блокчейн-протоколов.\n📰 crypto.news\n✍️ Irene Mukiri",
     "title_en": "Dragonfly Holds ZEC as Orchard Bug Debate Raises New Questions",
     "text_en": "Zcash faces renewed scrutiny following a patched vulnerability in its Orchard Pool that has triggered discussions about potential hidden risks for users and investors. Dragonfly partner Haseeb Qureshi argues the market may be underestimating the implications of the bug, raising broader concerns about the security and reliability of privacy-focused blockchain protocols.\n📰 crypto.news\n✍️ Irene Mukiri",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780742525-dtr4",
-    "timestamp": 1780742525,
-    "date": "2026-06-06",
-    "date_ru": "6 июня 2026",
-    "date_en": "June 6, 2026",
-    "category": "crypto",
-    "kicker_ru": "Безопасность",
-    "kicker_en": "Security",
-    "title_ru": "Исследователь, нашедший баг Zcash с помощью ИИ, добавил Monero в список аудитов",
-    "text_ru": "Специалист по безопасности Тейлор Хорнби, обнаруживший критическую уязвимость в протоколе Orchard платформы Zcash при помощи инструментов искусственного интеллекта и вызвавший падение цены на 38%, объявил о планах аудита других приватных криптовалют. Monero, по сообщениям, следующий в очереди на техническую проверку. Находка подчёркивает растущие риски в инфраструктуре privacy-монет и возрастающую роль ИИ в выявлении уязвимостей блокчейна до их возможной эксплуатации.\n📰 CoinDesk\n✍️ Shaurya Malwa",
-    "title_en": "Researcher who found Zcash's bug with AI adds Monero to his audit queue",
-    "text_en": "Security researcher Taylor Hornby, who discovered a critical vulnerability in Zcash's Orchard protocol using AI tools—triggering a 38% price drop—has announced plans to audit other privacy-focused cryptocurrencies. Monero is reportedly next on his list for technical examination. The discovery highlights growing risks in privacy coin infrastructure and the emerging role of artificial intelligence in identifying blockchain vulnerabilities before they can be exploited.\n📰 CoinDesk\n✍️ Shaurya Malwa",
     "source": "",
     "link": "#",
     "thumb": "📰"
