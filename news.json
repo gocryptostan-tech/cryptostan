@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781124952-zlvg",
+    "timestamp": 1781124952,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "law",
+    "kicker_ru": "Регуляция",
+    "kicker_en": "Regulation",
+    "title_ru": "Британские крипто-активисты запустили кампанию против банков, блокирующих переводы на биржи",
+    "text_ru": "Организация Stand With Crypto UK начала кампанию против британских банков, которые ограничивают доступ клиентов к регулируемым криптовалютным биржам. Это противоречит заявленной правительством цели сделать Великобританию лидером в сфере цифровых активов. Активисты утверждают, что банковские ограничения препятствуют развитию регуляции и инновациям в отрасли.\n📰 Cointelegraph\n✍️ Nate Kostar",
+    "title_en": "UK Crypto Advocates Launch Campaign Against Banks Blocking Exchange Transfers",
+    "text_en": "Stand With Crypto UK has initiated a campaign against British banks that restrict customer access to regulated cryptocurrency exchanges, creating a contradiction with the government's stated goal of making the UK a leading digital asset hub. The advocacy group argues that banking restrictions undermine regulatory efforts and limit innovation in the sector.\n📰 Cointelegraph\n✍️ Nate Kostar",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781121651-z88i",
     "timestamp": 1781121651,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Разработчики Zcash предложили пул Ironwood в качестве решения для устранения уязвимостей, обнаруженных в приватном пуле Orchard. Новый механизм закроет существующий пул для новых транзакций и проведёт средства через систему верификации перед входом в новый приватный пул, обеспечив улучшенный контроль над балансом и безопасностью криптовалюты, ориентированной на конфиденциальность.\n📰 Cointelegraph\n✍️ Ezra Reguerra",
     "title_en": "Zcash teams propose Ironwood pool to restore supply verification after Orchard flaw",
     "text_en": "Zcash developers have proposed the Ironwood pool as a solution to address vulnerabilities discovered in the Orchard shielded pool. The new mechanism would close the existing Orchard pool to new transactions and route funds through a verification turnstile before they enter a fresh shielded pool, ensuring better supply tracking and security for the privacy-focused cryptocurrency.\n📰 Cointelegraph\n✍️ Ezra Reguerra",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780915327-gppi",
-    "timestamp": 1780915327,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "markets",
-    "kicker_ru": "Золото, Биткоин",
-    "kicker_en": "Gold, Bitcoin",
-    "title_ru": "Золото упало ниже 200-дневного скользящего среднего, открывая возможности для Биткоина",
-    "text_ru": "Золото вошло в медвежий рынок на фоне укрепления доллара и роста ожиданий по повышению процентных ставок. Однако техническое падение драгоценного металла ниже 200-дневного скользящего среднего может сигнализировать об изменении динамики рынка, которое потенциально позволит Биткоину и другим криптоактивам получить передышку от макроэкономических давлений.\n📰 CoinDesk\n✍️ James Van Straten",
-    "title_en": "Gold Falls Below 200-Day Average, Creating Bitcoin Opportunity",
-    "text_en": "Gold has entered bear market territory as a stronger U.S. dollar and rising interest rate expectations weigh on risk assets. However, the precious metal's technical breakdown below its 200-day moving average could signal a shift in market dynamics that may benefit Bitcoin and other cryptocurrencies seeking relief from macroeconomic headwinds.\n📰 CoinDesk\n✍️ James Van Straten",
     "source": "",
     "link": "#",
     "thumb": "📰"
