@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781103362-t1xm",
+    "timestamp": 1781103362,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "crypto",
+    "kicker_ru": "Инфраструктура DeFi",
+    "kicker_en": "DeFi Infrastructure",
+    "title_ru": "Pyth запустила круглосуточные индексы цен на американские акции и сырьё",
+    "text_ru": "Сеть Pyth представила новые индексы цен, которые обеспечивают котировки акций США, золота и нефти в режиме реального времени даже за пределами стандартных торговых часов. Крупные крипто-биржи Coinbase, Kraken и децентрализованный протокол dYdX уже внедрили это решение, позволяя торговать токенизированными активами на блокчейне 24/7.\n📰 Cointelegraph\n✍️ Sam Bourgi",
+    "title_en": "Pyth launches continuous pricing indexes for US stocks and commodities",
+    "text_en": "Pyth Network has introduced new pricing indexes that provide real-time quotes for US stocks, gold, and oil beyond traditional market hours. Major cryptocurrency exchanges Coinbase, Kraken, and the decentralized protocol dYdX have already adopted the solution, enabling 24/7 trading of tokenized assets on blockchain platforms.\n📰 Cointelegraph\n✍️ Sam Bourgi",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781100046-7bl4",
     "timestamp": 1781100046,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Компания Securitize преодолела ключевое препятствие в виде одобрения SEC на регистрационное заявление S-4, что приближает её к завершению слияния со специальной компанией Cantor Equity Partners II и листингу на Нью-йоркской бирже. Это решение регулятора является важной вехой для платформы токенизации, которая переводит традиционные ценные бумаги и активы в блокчейн.\n📰 Cointelegraph\n✍️ Martin Young",
     "title_en": "Tokenization firm Securitize clears key SEC hurdle for NYSE listing",
     "text_en": "Securitize has received SEC approval for its S-4 registration statement, a critical step toward completing its SPAC merger with Cantor Equity Partners II and listing on the New York Stock Exchange. The regulatory clearance marks significant progress for the tokenization platform, which digitizes traditional securities and assets on blockchain networks.\n📰 Cointelegraph\n✍️ Martin Young",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780898451-w6qb",
-    "timestamp": 1780898451,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "crypto",
-    "kicker_ru": "Инцидент безопасности",
-    "kicker_en": "Security Incident",
-    "title_ru": "Мост Syscoin остановлен из-за уязвимости валидации, создавшей 5 млрд несанкционированных токенов",
-    "text_ru": "Syscoin приостановил работу своего моста после обнаружения критической ошибки валидации, которая привела к созданию примерно 5 миллиардов несанкционированных токенов SYS. Проект в настоящее время отслеживает эти токены по адресам UTXO для локализации последствий инцидента безопасности.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "title_en": "Syscoin Bridge Halted Due to Validation Vulnerability Creating 5 Billion Unauthorized Tokens",
-    "text_en": "Syscoin has suspended its bridge following the discovery of a critical validation flaw that generated approximately 5 billion unauthorized SYS tokens. The project is currently tracking these tokens across UTXO addresses to contain the impact of the security breach.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "source": "",
     "link": "#",
     "thumb": "📰"
