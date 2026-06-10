@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/inflyatsiya-v-ssha-podskochila-do-4-2-v-mae-na-fone-energeti.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10</news:publication_date>
+      <news:title>Инфляция в США подскочила до 4,2% в мае на фоне энергетического кризиса на Ближнем Востоке</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/ripple-vypustila-nabor-instrumentov-dlya-platezhej-na-baze-i.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-10</news:publication_date>
       <news:title>XRP восстанавливается выше $1.10 после падения на четырёхмесячный минимум</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/artur-khejs-izbavilsya-ot-pozitsii-worldcoin-vskore-posle-pu.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
-      <news:title>Артур Хейс избавился от позиции Worldcoin вскоре после публичного одобрения проекта</news:title>
     </news:news>
   </url>
 </urlset>
