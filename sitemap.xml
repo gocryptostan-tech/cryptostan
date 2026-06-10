@@ -13,6 +13,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cryptostan.org/articles/indeks-coindesk-20-upal-na-1-4-na-fone-padeniya-vsekh-aktivo.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/taurus-integriruet-uslugi-stejkinga-p2p-org-dlya-bankov-i-fi.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -504,11 +509,6 @@
   </url>
   <url>
     <loc>https://cryptostan.org/articles/pochemu-krakh-kripto-ne-svyazan-so-snizheniem-fondovykh-rynk.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/fond-blagosostoyaniya-indonezii-nachnyot-prezentatsiyu-dolla.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
