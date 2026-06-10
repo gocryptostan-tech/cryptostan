@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/taurus-integriruet-uslugi-stejkinga-p2p-org-dlya-bankov-i-fi.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10</news:publication_date>
+      <news:title>Taurus интегрирует услуги стейкинга P2P.org для банков и финансовых учреждений</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/trejdery-obligatsij-ostayutsya-v-ozhidanii-povysheniya-stavk.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-10</news:publication_date>
       <news:title>Фонд благосостояния Индонезии начнёт презентацию долларовых облигаций в США на фоне кризиса на рынках</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/birzha-htx-dzhastina-sana-delistit-usd-sem-i-trampa-na-fone-.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
-      <news:title>Биржа HTX Джастина Сана делистит USD₁ семьи Трампа на фоне блокировки активов</news:title>
     </news:news>
   </url>
 </urlset>

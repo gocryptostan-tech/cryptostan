@@ -13,6 +13,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cryptostan.org/articles/taurus-integriruet-uslugi-stejkinga-p2p-org-dlya-bankov-i-fi.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/trejdery-obligatsij-ostayutsya-v-ozhidanii-povysheniya-stavk.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -504,11 +509,6 @@
   </url>
   <url>
     <loc>https://cryptostan.org/articles/fond-blagosostoyaniya-indonezii-nachnyot-prezentatsiyu-dolla.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/birzha-htx-dzhastina-sana-delistit-usd-sem-i-trampa-na-fone-.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
