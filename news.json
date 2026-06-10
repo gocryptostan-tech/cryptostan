@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781117751-yze1",
+    "timestamp": 1781117751,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "law",
+    "kicker_ru": "Регуляции",
+    "kicker_en": "Regulation",
+    "title_ru": "Anchorage поддержала стандарты ОПОд казначейства США и требует уточнений по санкциям на вторичных рынках",
+    "text_ru": "Компания Anchorage, специализирующаяся на хранении криптоактивов, опубликовала письмо с поддержкой антиотмывочной системы GENIUS Казначейства США, но одновременно потребовала ясности в регулировании санкций на вторичных рынках. В официальном комментарии фирма указывает, что лицензированные эмитенты стейблкойнов сталкиваются с неопределённостью при соблюдении требований при торговле активами на вторичных биржах и нуждаются в чётких стандартах для управления санкционными рисками. Письмо отражает растущие попытки индустрии адаптироваться к ужесточению финансового регулирования при одновременном поиске оперативной ясности у властей.\n📰 Cointelegraph\n✍️ Sam Bourgi",
+    "title_en": "Anchorage Supports U.S. Treasury AML Rules, Demands Clarity on Secondary Market Sanctions",
+    "text_en": "Digital asset custody firm Anchorage has publicly backed the U.S. Treasury's GENIUS anti-money laundering framework while calling for clearer regulatory guidance on sanctions compliance in secondary markets. In a formal comment letter, the company argues that regulated stablecoin issuers face compliance uncertainties when handling assets on secondary exchanges and needs explicit standards to mitigate sanctions risks. The statement reflects growing industry efforts to align with stricter financial regulations while seeking operational clarity from authorities.\n📰 Cointelegraph\n✍️ Sam Bourgi",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781114455-tkoy",
     "timestamp": 1781114455,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "После резкого падения на неделе XRP стабилизировался около отметки $1,14, но технические сигналы и прогнозы экспертов указывают на возможное дальнейшее снижение. Аналитики предполагают, что токен может протестировать уровень $0,90 перед образованием устойчивого дна, ссылаясь на слабую структуру графика и продолжающееся давление продавцов.\n📰 crypto.news\n✍️ Rony Roy",
     "title_en": "XRP Price Could Plunge to $0.90 Before Finding Support, Analysts Warn",
     "text_en": "XRP has stabilized around $1.14 following a significant weekly decline, but technical indicators and analyst forecasts suggest further downside pressure. Experts believe the token may test the $0.90 level before establishing a sustainable floor, citing weak chart structure and ongoing selling pressure in the market.\n📰 crypto.news\n✍️ Rony Roy",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780909249-7ama",
-    "timestamp": 1780909249,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "crypto",
-    "kicker_ru": "Безопасность",
-    "kicker_en": "Security",
-    "title_ru": "Основатель Zcash озвучил план экстренного реагирования на критическую уязвимость Orchard",
-    "text_ru": "Разработчики Zcash выявили серьёзную уязвимость в протоколе Orchard, которая теоретически могла позволить создавать неограниченное количество поддельных токенов ZEC. Джош Свихарт из Zcash Open Development Lab представил двухэтапный план устранения проблемы. Несмотря на критичность уязвимости, цена ZEC восстановилась более чем на 41% от минимальных значений после раскрытия информации, что указывает на стабильность рынка.\n📰 crypto.news\n✍️ Rony Roy",
-    "title_en": "Zcash Founder Outlines Emergency Response to Critical Orchard Vulnerability",
-    "text_en": "Zcash has disclosed a critical vulnerability in its Orchard protocol that could have allowed unlimited counterfeiting of ZEC tokens. Josh Swihart, founder of the Zcash Open Development Lab, revealed a two-step emergency response plan to address the flaw. Despite the serious nature of the exploit, ZEC has recovered over 41% from its lowest point following the vulnerability's public disclosure, demonstrating market resilience.\n📰 crypto.news\n✍️ Rony Roy",
     "source": "",
     "link": "#",
     "thumb": "📰"
