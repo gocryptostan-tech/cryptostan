@@ -13,6 +13,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cryptostan.org/articles/bitkoin-teryaet-pribyl-posle-obostreniya-konflikta-s-iranom.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/elizabet-uorren-prizyvaet-sec-zablokirovat-rekordnyj-ipo-spa.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -504,11 +509,6 @@
   </url>
   <url>
     <loc>https://cryptostan.org/articles/osnovatel-zcash-ozvuchil-plan-ekstrennogo-reagirovaniya-na-k.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/rekordnyj-shtraf-obrushil-aktsii-rumynskikh-bankov-posle-pro.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
