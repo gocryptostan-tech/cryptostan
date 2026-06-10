@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781053213-0e1j",
+    "timestamp": 1781053213,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "markets",
+    "kicker_ru": "Геополитика",
+    "kicker_en": "Geopolitics",
+    "title_ru": "Азиатские акции падают, нефть растёт после удара США по Ирану: обзор рынков",
+    "text_ru": "Азиатские фондовые рынки снизились на фоне давления на технологический сектор и обострения напряженности на Ближнем Востоке после военных ударов США по Ирану. Цены на нефть выросли в ответ на геополитические риски. Волатильность рынков отражает беспокойство инвесторов о влиянии конфликта на мировые энергетические запасы и экономическую стабильность.\n📰 Bloomberg\n✍️ Anand Krishnamoorthy",
+    "title_en": "Asian Stocks Decline, Oil Gains as US Hits Iran: Markets Wrap",
+    "text_en": "Asian stock markets fell amid persistent pressure on technology stocks and escalating Middle East tensions following US military strikes on Iran. Oil prices climbed in response to the geopolitical risks. The market turmoil reflects investor concerns about the broader implications of the conflict for global energy supplies and economic stability.\n📰 Bloomberg\n✍️ Anand Krishnamoorthy",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781049647-50if",
     "timestamp": 1781049647,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Компания OpenAI, оцениваемая в $850 млрд, разрабатывает значительный редизайн ChatGPT с целью развивать товары с более высокой маржой и улучшить прибыльность перед возможным выходом на публичный рынок. Это обновление станет самым масштабным за всю историю существования чатбота и сигнализирует о стратегическом повороте компании в сторону монетизации и устойчивого роста.\n📰 Financial Times\n✍️ Не указан",
     "title_en": "OpenAI Plans Major ChatGPT Overhaul Ahead of Potential IPO",
     "text_en": "OpenAI, valued at $850 billion, is preparing a significant redesign of ChatGPT to shift toward higher-margin products and improve profitability before a potential initial public offering. The overhaul represents the most substantial update to the chatbot since its launch and signals the company's strategic pivot toward monetization and sustainable growth as it prepares for public markets.\n📰 Financial Times\n✍️ Not specified",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780826449-4ncf",
-    "timestamp": 1780826449,
-    "date": "2026-06-07",
-    "date_ru": "7 июня 2026",
-    "date_en": "June 7, 2026",
-    "category": "crypto",
-    "kicker_ru": "Анализ цены XRP",
-    "kicker_en": "XRP Price Analysis",
-    "title_ru": "Анализ XRP: удержится ли отскок выше $1?",
-    "text_ru": "XRP торгуется близ уровня $1.16 после значительного недельного падения. Притоки в спот-ETF, восстановление индекса RSI и прочная поддержка на $1.03 указывают на потенциал роста, однако токен стоит перед критическими уровнями сопротивления, которые определят, будет ли отскок устойчивым или привет к новому падению.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "title_en": "XRP Price Analysis: Will the Rebound Hold Above $1?",
-    "text_en": "XRP trades near $1.16 following a significant weekly decline. ETF inflows, RSI recovery, and strong support at $1.03 suggest potential upside, but the token faces critical resistance levels that will determine whether the bounce is sustainable or another bearish move lower.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "source": "",
     "link": "#",
     "thumb": "📰"
