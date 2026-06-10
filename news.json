@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781092853-mrqv",
+    "timestamp": 1781092853,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "crypto",
+    "kicker_ru": "Взлом безопасности",
+    "kicker_en": "Security Breach",
+    "title_ru": "Humanity Protocol подтвердила, что скомпрометированная машина разработчика привела к краже 447 млн токенов",
+    "text_ru": "Проект Humanity Protocol раскрыл детали серьезного взлома: злоумышленник получил доступ к заражённому компьютеру разработчика и извлёк семь приватных ключей с одного устройства. Это позволило ему несанкционированно смайнить примерно 447 миллионов токенов H на блокчейнах Ethereum и BNB Smart Chain.\n📰 crypto.news\n✍️ Rony Roy",
+    "title_en": "Humanity Protocol Confirms Developer Machine Compromise Led to 447M Token Theft",
+    "text_en": "Humanity Protocol has disclosed that a malware-infected developer computer was the source of a major security breach resulting in the unauthorized minting of approximately 447 million H tokens across Ethereum and BNB Smart Chain. The attacker managed to extract seven private keys from a single compromised device, enabling the theft.\n📰 crypto.news\n✍️ Rony Roy",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781088949-3vvw",
     "timestamp": 1781088949,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Биткоин удерживает ключевые долгосрочные уровни поддержки, а аналитики прогнозируют возможный рост до $92,630. Цена криптовалюты всё больше привязана к движениям фондовых рынков, особенно Nasdaq, который показывает признаки глубокой коррекции. Эта корреляция демонстрирует чувствительность Биткоина к макроэкономическим условиям и волатильности технологического сектора.\n📰 Cointelegraph\n✍️ Yashu Gola",
     "title_en": "What Happens to Bitcoin if the Nasdaq Falls Further?",
     "text_en": "Bitcoin is consolidating near key long-term support levels while analysts predict a potential rally toward $92,630. The cryptocurrency's price action is increasingly tied to broader equity market movements, particularly the Nasdaq, which is showing signs of deeper correction risks. This correlation highlights Bitcoin's sensitivity to macro market conditions and tech sector volatility.\n📰 Cointelegraph\n✍️ Yashu Gola",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780872117-cnnp",
-    "timestamp": 1780872117,
-    "date": "2026-06-07",
-    "date_ru": "7 июня 2026",
-    "date_en": "June 7, 2026",
-    "category": "law",
-    "kicker_ru": "Регуляция",
-    "kicker_en": "Regulation",
-    "title_ru": "Налоговые законопроекты комитета Ways and Means: влияние на крипто",
-    "text_ru": "Палата представителей США готовит серьёзные налоговые реформы, которые существенно повлияют на криптосектор. Предложения комитета касаются налогообложения цифровых активов, требований к соответствию и обязательного отчёта о крипто-операциях и обменах. Эти законопроекты станут переломным моментом для регулирования криптовалют в США и могут кардинально изменить подходы к налогообложению и отчётности цифровых активов перед федеральными органами.\n📰 CoinDesk\n✍️ Nikhilesh De",
-    "title_en": "A Quick Review of House Ways and Means Tax Bills: Crypto Impact",
-    "text_en": "The House Ways and Means Committee is preparing major tax legislation that will significantly impact the cryptocurrency sector. The committee's proposals address taxation of digital assets, regulatory compliance requirements, and reporting obligations for crypto transactions and exchanges. These bills represent a critical juncture for crypto regulation in the U.S., potentially reshaping how digital assets are taxed and reported to federal authorities.\n📰 CoinDesk\n✍️ Nikhilesh De",
     "source": "",
     "link": "#",
     "thumb": "📰"
