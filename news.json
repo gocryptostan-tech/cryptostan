@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781132149-9jc3",
+    "timestamp": 1781132149,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "crypto",
+    "kicker_ru": "Биткоин",
+    "kicker_en": "Bitcoin",
+    "title_ru": "Прибыль майнеров биткоина упала до исторического минимума: удержится ли BTC выше $60 тысяч?",
+    "text_ru": "Майнеры биткоина сталкиваются с исторически низкими маржами прибыли, пока сеть пытается удержать поддержку выше $60 тысяч. Растущие операционные издержки сжимают доходность, и аналитики сомневаются, выдержит ли ключевой уровень цены давление продаж и как это скажется на экономике майнинга.\n📰 Cointelegraph\n✍️ Marcel Pechman",
+    "title_en": "Bitcoin miner margins fall to record low: Will BTC's $60K floor hold?",
+    "text_en": "Bitcoin miners face historically tight profit margins as the network struggles to maintain support above $60,000. With operational costs squeezing returns, analysts question whether the key price level can withstand selling pressure and what this means for mining economics going forward.\n📰 Cointelegraph\n✍️ Marcel Pechman",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781125259-3z50",
     "timestamp": 1781125259,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Цена Solana упала до $66 на фоне того, как крупные инвесторы сокращают свои позиции, аналитики прогнозируют возможное падение до $50. Одновременно сеть внедряет самые значительные обновления в своей истории, создавая парадокс между медвежьим настроением рынка и бычьими техническими разработками, которые могут кардинально преобразить экосистему.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "title_en": "Will Solana Price Slide to $50? Inside the Whale Exodus",
     "text_en": "Solana's price has dropped to $66 as major investors reduce their positions, with analysts predicting a potential fall to $50. However, the network is simultaneously rolling out its most significant upgrades to date, creating a paradox between bearish market sentiment and bullish technical developments that could reshape the ecosystem's future.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780916461-35iw",
-    "timestamp": 1780916461,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "crypto",
-    "kicker_ru": "XRP Ledger",
-    "kicker_en": "XRP Ledger",
-    "title_ru": "XRP Ledger 3.2.0 запланирована на 15 июня — что изменится в сети",
-    "text_ru": "Сеть XRP Ledger готовится к крупному обновлению, которое состоится 15 июня и предусматривает переименование основного узлового ПО с rippled на xrpld. Апгрейд принесёт значительные изменения в инфраструктуру для операторов сети, в то время как токен XRP торгуется вблизи отметки $1,15. Ребрендинг должен лучше интегрировать технологию с экосистемой проекта.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "title_en": "XRP Ledger 3.2.0 targets June 15, what changes for XRPL?",
-    "text_en": "XRP Ledger is preparing a major update scheduled for June 15, which will rename the core node software from rippled to xrpld. The upgrade represents significant infrastructure changes for network operators as XRP token continues trading near the $1.15 level. The rebranding aims to better align the technology with its ecosystem identity.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "source": "",
     "link": "#",
     "thumb": "📰"
