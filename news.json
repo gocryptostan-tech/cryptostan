@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781121651-z88i",
+    "timestamp": 1781121651,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "finance",
+    "kicker_ru": "IPO OpenAI",
+    "kicker_en": "OpenAI IPO",
+    "title_ru": "Сэм Альтман намекнул на возможность выхода OpenAI на биржу в течение года",
+    "text_ru": "Генеральный директор OpenAI Сэм Альтман заявил, что давно ожидаемое первичное размещение акций компании может произойти в течение следующих 12 месяцев, согласно сообщениям о его беседах с сотрудниками. Потенциальное IPO станет значительным событием для лидера в сфере искусственного интеллекта, оцениваемого более чем в 80 миллиардов долларов на частном рынке.\n📰 crypto.news\n✍️ Lawrence Mondal",
+    "title_en": "Sam Altman Signals OpenAI Could Go Public Within a Year",
+    "text_en": "OpenAI's CEO Sam Altman has indicated that the company's highly anticipated initial public offering could happen within the next 12 months, according to reports citing discussions with employees. The potential IPO represents a major milestone for the AI leader, which has been valued at over $80 billion in private markets and would mark one of the largest tech listings in recent years.\n📰 crypto.news\n✍️ Lawrence Mondal",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781120524-cica",
     "timestamp": 1781120524,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Золото вошло в медвежий рынок на фоне укрепления доллара и роста ожиданий по повышению процентных ставок. Однако техническое падение драгоценного металла ниже 200-дневного скользящего среднего может сигнализировать об изменении динамики рынка, которое потенциально позволит Биткоину и другим криптоактивам получить передышку от макроэкономических давлений.\n📰 CoinDesk\n✍️ James Van Straten",
     "title_en": "Gold Falls Below 200-Day Average, Creating Bitcoin Opportunity",
     "text_en": "Gold has entered bear market territory as a stronger U.S. dollar and rising interest rate expectations weigh on risk assets. However, the precious metal's technical breakdown below its 200-day moving average could signal a shift in market dynamics that may benefit Bitcoin and other cryptocurrencies seeking relief from macroeconomic headwinds.\n📰 CoinDesk\n✍️ James Van Straten",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780913969-1opp",
-    "timestamp": 1780913969,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "politics",
-    "kicker_ru": "Конфликт на Ближнем Востоке",
-    "kicker_en": "Middle East Conflict",
-    "title_ru": "Взрывы в Тегеране: Израиль и Иран обмениваются авиаударами",
-    "text_ru": "Израиль и Иран нанесли друг другу боевые удары, поставив под угрозу двухмесячное перемирие и усложнив попытки администрации Трампа договориться о более широком мирном соглашении на Ближнем Востоке. Эскалация значительно осложнила дипломатические инициативы по снижению региональной напряженности.\n📰 Financial Times\n✍️ Не указан",
-    "title_en": "Explosions in Tehran as Israel and Iran escalate military strikes",
-    "text_en": "Israel and Iran have exchanged military strikes, testing a fragile two-month ceasefire and complicating Trump administration efforts to broker a broader Middle East peace agreement. The escalation marks a significant setback to diplomatic initiatives aimed at reducing regional tensions.\n📰 Financial Times\n✍️ Not available",
     "source": "",
     "link": "#",
     "thumb": "📰"
