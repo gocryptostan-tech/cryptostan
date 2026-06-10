@@ -13,6 +13,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cryptostan.org/articles/tri-krupnejshikh-banka-yaponii-gotovyatsya-k-sovmestnomu-vyp.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/token-beat-podorozhal-na-28-na-fone-prodolzheniya-rosta-audi.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -504,11 +509,6 @@
   </url>
   <url>
     <loc>https://cryptostan.org/articles/rukovodstvo-microstrategy-prodvigaet-bitkoin-strategiyu-pere.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/majkl-sejlor-namekaet-na-novye-pokupki-bitcoin-sredi-rastusc.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

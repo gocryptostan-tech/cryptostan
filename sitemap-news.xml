@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/tri-krupnejshikh-banka-yaponii-gotovyatsya-k-sovmestnomu-vyp.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10</news:publication_date>
+      <news:title>Три крупнейших банка Японии готовятся к совместному выпуску стейблкоина к марту</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/token-beat-podorozhal-na-28-na-fone-prodolzheniya-rosta-audi.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-10</news:publication_date>
       <news:title>Руководство MicroStrategy продвигает Биткоин-стратегию перед голосованием по дивидендам</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/majkl-sejlor-namekaet-na-novye-pokupki-bitcoin-sredi-rastusc.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
-      <news:title>Майкл Сейлор намекает на новые покупки Bitcoin среди растущей критики стратегии MicroStrategy</news:title>
     </news:news>
   </url>
 </urlset>
