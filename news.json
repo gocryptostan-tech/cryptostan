@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781109736-7aqd",
+    "timestamp": 1781109736,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "crypto",
+    "kicker_ru": "Ответственность в DeFi",
+    "kicker_en": "DeFi Accountability",
+    "title_ru": "Крипто в фокусе: Кто ответит на звонок в 3 часа ночи, когда DeFi падает?",
+    "text_ru": "Разработчикам DeFi необходимо придерживаться стандартов ответственности, принятых в традиционном управлении активами, чтобы привлечь институциональный капитал, утверждает Бен Надарески. Вместе с тем Стивен Стонберг рассказывает о стратегиях страховой защиты, которые позволяют держателям биткоина генерировать дополнительный доход и защищать портфель от рыночных обвалов.\n📰 CoinDesk\n✍️ Ben Nadareski",
+    "title_en": "Crypto Long & Short: Who answers the 3am call when DeFi breaks?",
+    "text_en": "DeFi developers must adopt the accountability standards of traditional money managers to attract institutional capital, writes Ben Nadareski. Meanwhile, Stephen Stonberg explores how Bitcoin holders can hedge against market crashes by generating income through reinsurance strategies, creating additional protection for their portfolios.\n📰 CoinDesk\n✍️ Ben Nadareski",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781108369-97wi",
     "timestamp": 1781108369,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "JPMorgan выразил озабоченность способностью MicroStrategy сохранять свои огромные запасы Биткойна, отметив, что компания сталкивается с годовыми обязательствами по дивидендам в размере примерно $1,7 млрд. Банк предупреждает, что MicroStrategy может быть вынуждена продать активы или пополнить резервы для выполнения этих обязательств, что создает потенциальный риск для инвесторов, следующих стратегии компании.\n📰 crypto.news\n✍️ Rony Roy",
     "title_en": "JPMorgan Warns of Reserve Shortfall Risk for MicroStrategy Bitcoin Holdings",
     "text_en": "JPMorgan has expressed concern about MicroStrategy's ability to maintain its massive Bitcoin reserves, noting that the company faces annual dividend obligations of approximately $1.7 billion. The bank warns that MicroStrategy may need to liquidate assets or rebuild reserves to meet these commitments, presenting a potential risk to Bitcoin investors who follow the company's strategy.\n📰 crypto.news\n✍️ Rony Roy",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780904524-2xb3",
-    "timestamp": 1780904524,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "crypto",
-    "kicker_ru": "XRP",
-    "kicker_en": "XRP",
-    "title_ru": "XRP восстанавливается выше $1.10 после падения на четырёхмесячный минимум",
-    "text_ru": "XRP отскочил от четырёхмесячных минимумов на фоне высоких объёмов торговли, однако токен остаётся ниже ключевых уровней сопротивления. Несмотря на продолжающиеся притоки средств в ETF и отток с бирж — сигналы институционального накопления — актив сталкивается с устойчивым медвежьим давлением, которое может ограничить рост в ближайшей перспективе.\n📰 CoinDesk\n✍️ Shaurya Malwa",
-    "title_en": "XRP Steadies Above $1.10 After Four-Month Low Bounce",
-    "text_en": "XRP has recovered from its four-month lows on strong trading volume, though the token remains below critical resistance levels. Despite ongoing ETF inflows and exchange outflows, which typically signal institutional accumulation, the token faces lingering bearish pressure that could limit further upside in the near term.\n📰 CoinDesk\n✍️ Shaurya Malwa",
     "source": "",
     "link": "#",
     "thumb": "📰"
