@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781096148-qbvo",
+    "timestamp": 1781096148,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "crypto",
+    "kicker_ru": "Bitcoin DeFi",
+    "kicker_en": "Bitcoin DeFi",
+    "title_ru": "Botanix закрывается после 4 лет работы — спрос на Bitcoin DeFi оказался недостаточным",
+    "text_ru": "Платформа масштабирования Bitcoin на базе Spiderchain прекращает работу, не сумев привлечь достаточный интерес пользователей к децентрализованному финансу на Bitcoin. Проект установил крайний срок 9 июля для вывода средств, придя к выводу, что рынок DeFi-приложений на Bitcoin недостаточно развит, чтобы обеспечить устойчивость операций.\n📰 Cointelegraph\n✍️ Christina Comben",
+    "title_en": "Botanix to shut down after 4 years, cites weak demand for Bitcoin DeFi",
+    "text_en": "Botanix, a Bitcoin scaling platform built on Spiderchain technology, is shutting down after failing to attract sufficient user demand for Bitcoin-native decentralized finance. The project has set a July 9 deadline for users to withdraw their assets, concluding that the market for DeFi applications on Bitcoin was not viable enough to sustain operations.\n📰 Cointelegraph\n✍️ Christina Comben",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781092853-mrqv",
     "timestamp": 1781092853,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Биткоин отступил от ночных максимумов, упав ниже отметки $63 тыс., под давлением обострения конфликта между Ираном и Израилем и резкого падения южнокорейских акций. Геополитический кризис привёл к росту цен на нефть, что негативно отразилось на криптовалютных рынках, чувствительных к общеэкономической нестабильности.\n📰 CoinDesk\n✍️ Omkar Godbole",
     "title_en": "Bitcoin Falls Below $63,000 Amid Geopolitical Tensions",
     "text_en": "Bitcoin retreated from overnight highs to below $63,000 as escalating Iran-Israel tensions and a sharp decline in Korean stocks pressured risk sentiment. The geopolitical conflict has also driven oil prices higher, creating headwinds for cryptocurrency markets sensitive to broader economic uncertainty.\n📰 CoinDesk\n✍️ Omkar Godbole",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780872949-jgn2",
-    "timestamp": 1780872949,
-    "date": "2026-06-07",
-    "date_ru": "7 июня 2026",
-    "date_en": "June 7, 2026",
-    "category": "crypto",
-    "kicker_ru": "Биткоин, Рынки",
-    "kicker_en": "Bitcoin, Markets",
-    "title_ru": "Как падение Nasdaq повлияет на Биткоин?",
-    "text_ru": "Биткоин удерживает ключевые долгосрочные уровни поддержки, а аналитики прогнозируют возможный рост до $92,630. Цена криптовалюты всё больше привязана к движениям фондовых рынков, особенно Nasdaq, который показывает признаки глубокой коррекции. Эта корреляция демонстрирует чувствительность Биткоина к макроэкономическим условиям и волатильности технологического сектора.\n📰 Cointelegraph\n✍️ Yashu Gola",
-    "title_en": "What Happens to Bitcoin if the Nasdaq Falls Further?",
-    "text_en": "Bitcoin is consolidating near key long-term support levels while analysts predict a potential rally toward $92,630. The cryptocurrency's price action is increasingly tied to broader equity market movements, particularly the Nasdaq, which is showing signs of deeper correction risks. This correlation highlights Bitcoin's sensitivity to macro market conditions and tech sector volatility.\n📰 Cointelegraph\n✍️ Yashu Gola",
     "source": "",
     "link": "#",
     "thumb": "📰"
