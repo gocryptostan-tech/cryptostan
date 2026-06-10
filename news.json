@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781096470-26m2",
+    "timestamp": 1781096470,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "crypto",
+    "kicker_ru": "Институциональный стейкинг",
+    "kicker_en": "Institutional Staking",
+    "title_ru": "Taurus интегрирует услуги стейкинга P2P.org для банков и финансовых учреждений",
+    "text_ru": "P2P.org, один из крупнейших провайдеров инфраструктуры стейкинга, управляющий более чем $10 млрд делегированных активов на 50+ блокчейнах, объединился с Taurus для предоставления стейкинга институционального уровня. Интеграция позволяет банкам и финансовым организациям получить доступ к услугам стейкинга через платформу цифровых активов Taurus, расширяя возможности компании для традиционного финансового сектора, входящего в крипто-пространство.\n📰 Crypto.news\n✍️ Rony Roy",
+    "title_en": "Taurus Integrates P2P.org Staking Services for Banks and Financial Institutions",
+    "text_en": "P2P.org, a major staking infrastructure provider managing over $10 billion in delegated assets across 50+ blockchains, has partnered with Taurus to offer institutional-grade staking solutions. The integration allows banks and financial institutions to access staking services through Taurus' digital asset platform, expanding the company's offerings for traditional finance players entering the crypto space.\n📰 Crypto.news\n✍️ Rony Roy",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781096441-m1fq",
     "timestamp": 1781096441,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Государственный фонд благосостояния Danantara запускает дорожное шоу по размещению долларовых облигаций в США на этой неделе на фоне резкой распродажи на внутренних рынках страны. Это движение отражает попытки индонезийских политиков стабилизировать финансовые рынки и восстановить доверие инвесторов перед лицом растущего экономического давления и оттока капитала.\n📰 Bloomberg\n✍️ Megawati Wijaya, Harry Suhartono",
     "title_en": "Danantara to Start US Bond Roadshow as Indonesia Rout Deepens",
     "text_en": "Indonesia's sovereign wealth fund Danantara is launching a US dollar bond roadshow this week amid a sharp market selloff in the country. The move reflects efforts by Indonesian policymakers to stabilize financial markets and restore investor confidence as the nation faces mounting economic pressures and capital outflows.\n📰 Bloomberg\n✍️ Megawati Wijaya, Harry Suhartono",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780894549-r1d6",
-    "timestamp": 1780894549,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "crypto",
-    "kicker_ru": "Конфликт на бирже",
-    "kicker_en": "Exchange Drama",
-    "title_ru": "Биржа HTX Джастина Сана делистит USD₁ семьи Трампа на фоне блокировки активов",
-    "text_ru": "Криптовалютная биржа HTX Джастина Сана делистила и приостановила торговлю стейблкойном USD₁, выпущенным финансовым проектом World Liberty из окружения семьи Трампа. Биржа ответила делистингом после того, как World Liberty заморозила адреса HTX — конфликт между сторонами обостряется и демонстрирует растущие напряженности в крипто-экосистеме.\n📰 Cointelegraph\n✍️ Jesse Coghlan",
-    "title_en": "Justin Sun's HTX Exchange Delists Trump Family's USD₁ Token Amid Asset Freeze",
-    "text_en": "Justin Sun's HTX cryptocurrency exchange has delisted and suspended the USD₁ stablecoin issued by the Trump family's World Liberty financial project, escalating tensions between the parties. The move came after World Liberty froze HTX's addresses, prompting the exchange to take retaliatory action by removing the token from its platform and halting trading.\n📰 Cointelegraph\n✍️ Jesse Coghlan",
     "source": "",
     "link": "#",
     "thumb": "📰"
