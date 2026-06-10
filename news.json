@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781088949-3vvw",
+    "timestamp": 1781088949,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "law",
+    "kicker_ru": "Санкции",
+    "kicker_en": "Sanctions",
+    "title_ru": "ЕС предлагает запретить 11 криптоплатформ в рамках усиления санкций против России",
+    "text_ru": "Европейский союз планирует заблокировать транзакции на 11 криптовалютных платформах в рамках расширенных санкций против России. Новые меры направлены на сети, которые предположительно помогают России обходить ограничения — это значительный шаг в попытках Европы перекрыть доступ России к инфраструктуре цифровых финансов и предотвратить обход существующих запретов.\n📰 Cointelegraph\n✍️ Ezra Reguerra",
+    "title_en": "EU Proposes Ban on 11 Crypto Platforms in Russia Sanctions Push",
+    "text_en": "The European Union is moving to ban transactions on 11 cryptocurrency platforms as part of expanded sanctions against Russia. The measures target networks that allegedly facilitate sanctions evasion, representing a significant escalation in Europe's efforts to restrict Russia's access to digital financial infrastructure and prevent circumvention of existing restrictions.\n📰 Cointelegraph\n✍️ Ezra Reguerra",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781088120-vsvi",
     "timestamp": 1781088120,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Палата представителей США готовит серьёзные налоговые реформы, которые существенно повлияют на криптосектор. Предложения комитета касаются налогообложения цифровых активов, требований к соответствию и обязательного отчёта о крипто-операциях и обменах. Эти законопроекты станут переломным моментом для регулирования криптовалют в США и могут кардинально изменить подходы к налогообложению и отчётности цифровых активов перед федеральными органами.\n📰 CoinDesk\n✍️ Nikhilesh De",
     "title_en": "A Quick Review of House Ways and Means Tax Bills: Crypto Impact",
     "text_en": "The House Ways and Means Committee is preparing major tax legislation that will significantly impact the cryptocurrency sector. The committee's proposals address taxation of digital assets, regulatory compliance requirements, and reporting obligations for crypto transactions and exchanges. These bills represent a critical juncture for crypto regulation in the U.S., potentially reshaping how digital assets are taxed and reported to federal authorities.\n📰 CoinDesk\n✍️ Nikhilesh De",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780865749-9ad7",
-    "timestamp": 1780865749,
-    "date": "2026-06-07",
-    "date_ru": "7 июня 2026",
-    "date_en": "June 7, 2026",
-    "category": "crypto",
-    "kicker_ru": "Биткоин, Корпоративная стратегия",
-    "kicker_en": "Bitcoin, Corporate Strategy",
-    "title_ru": "Руководство MicroStrategy продвигает Биткоин-стратегию перед голосованием по дивидендам",
-    "text_ru": "Топ-менеджеры MicroStrategy активно пропагандируют на социальных сетях стратегию накопления Биткоина компанией, пока акционеры голосуют за предложение увеличить выплаты дивидендов по привилегированным акциям до двух раз в месяц. Инициатива подтверждает приверженность компании Биткоину как ключевому активу и одновременно демонстрирует готовность выплачивать дивиденды акционерам.\n📰 Cointelegraph\n✍️ Cointelegraph",
-    "title_en": "Strategy's Saylor signals BTC buy as preferred dividend pay date vote looms",
-    "text_en": "MicroStrategy's leadership is actively promoting the company's Bitcoin accumulation strategy on social media as shareholders prepare to vote on a proposal to increase preferred stock dividend payments to twice monthly. The initiative reflects the company's continued commitment to Bitcoin as a core asset while managing shareholder returns.\n📰 Cointelegraph\n✍️ Cointelegraph",
     "source": "",
     "link": "#",
     "thumb": "📰"
