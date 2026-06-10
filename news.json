@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781081760-v5a8",
+    "timestamp": 1781081760,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "markets",
+    "kicker_ru": "IPO, Ликвидность рынка",
+    "kicker_en": "IPO, Market Liquidity",
+    "title_ru": "IPO SpaceX четырёхкратно переподписано, оказывая давление на крипто и технологический сектор",
+    "text_ru": "IPO SpaceX, которое многие ждали, приближается к четырёхкратной переподписке и спровоцировало классический \"сжим ликвидности перед мегаIPO\", который давит на технологические акции и рынок криптовалют. Аналитики объясняют недавние падения цен переальокацией капитала инвесторов — участники рынка выводят средства, чтобы принять участие в одном из крупнейших IPO года.\n📰 Cointelegraph\n✍️ Martin Young",
+    "title_en": "SpaceX IPO nears 4 times oversubscribed, squeezing crypto and tech",
+    "text_en": "SpaceX's highly anticipated IPO is approaching four times oversubscription, triggering a \"classic pre-mega-IPO liquidity squeeze\" that is putting pressure on both tech stocks and cryptocurrency markets. Analysts attribute the recent selloffs to investors reallocating capital ahead of the major public offering, as market participants withdraw funds to participate in what could be one of the year's largest IPO events.\n📰 Cointelegraph\n✍️ Martin Young",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781078459-es7l",
     "timestamp": 1781078459,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Восстановление Биткоина до отметки $60 000 сопровождается значительными оттоками из Bitcoin ETF, что резко контрастирует с февралем, когда крупные инвесторы активно скупали активы на спадах. Смена настроений говорит о развороте в поведении институциональных игроков — теперь они предпочитают избавляться от позиций вместо того, чтобы накапливать их по текущим ценам, что может свидетельствовать об опасениях по поводу краткосрочного направления рынка.\n📰 CoinDesk\n✍️ Omkar Godbole",
     "title_en": "Bitcoin Returns to $60,000 Amid Institutional Selling Reversal",
     "text_en": "Bitcoin's recovery to the $60,000 level is accompanied by significant ETF outflows, contrasting sharply with February's institutional buying during market dips. The shift signals a dramatic change in institutional sentiment, with large investors now choosing to exit positions rather than accumulate at current prices, potentially indicating concern about near-term market direction.\n📰 CoinDesk\n✍️ Omkar Godbole",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780849171-55un",
-    "timestamp": 1780849171,
-    "date": "2026-06-07",
-    "date_ru": "7 июня 2026",
-    "date_en": "June 7, 2026",
-    "category": "politics",
-    "kicker_ru": "Федеральная резервная система",
-    "kicker_en": "Federal Reserve",
-    "title_ru": "Трамп давит на Варша по вопросу снижения ставок",
-    "text_ru": "Президент США усиливает давление на своего кандидата в главу Федеральной резервной системы, требуя немедленного снижения процентных ставок, несмотря на рыночные прогнозы роста стоимости заимствований. Это указывает на потенциальный конфликт между экономической повесткой администрации и монетарной политикой ФРС и ставит под вопрос независимость центробанка.\n📰 Financial Times\n✍️ Не указан",
-    "title_en": "Trump Pressures Warsh on Interest Rates Ahead of Fed Chair Confirmation",
-    "text_en": "President Trump is intensifying pressure on his Federal Reserve nominee, calling for immediate rate cuts despite market expectations of rising borrowing costs. The move raises questions about the independence of the central bank and signals potential conflict between the administration's economic agenda and the Fed's monetary policy decisions.\n📰 Financial Times\n✍️ Not provided",
     "source": "",
     "link": "#",
     "thumb": "📰"
