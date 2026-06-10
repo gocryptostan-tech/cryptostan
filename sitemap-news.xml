@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/es-predlagaet-zapretit-11-kriptoplatform-v-ramkakh-usileniya.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10</news:publication_date>
+      <news:title>ЕС предлагает запретить 11 криптоплатформ в рамках усиления санкций против России</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/tri-krupnejshikh-banka-yaponii-gotovyatsya-k-sovmestnomu-vyp.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-10</news:publication_date>
       <news:title>Налоговые законопроекты комитета Ways and Means: влияние на крипто</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/rukovodstvo-microstrategy-prodvigaet-bitkoin-strategiyu-pere.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
-      <news:title>Руководство MicroStrategy продвигает Биткоин-стратегию перед голосованием по дивидендам</news:title>
     </news:news>
   </url>
 </urlset>
