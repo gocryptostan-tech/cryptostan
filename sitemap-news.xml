@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/elizabet-uorren-prizyvaet-sec-zablokirovat-rekordnyj-ipo-spa.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10</news:publication_date>
+      <news:title>Элизабет Уоррен призывает SEC заблокировать рекордный IPO SpaceX</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/bitkoin-rastet-nesmotrya-na-inflyatsiyu-v-ssha-na-tryokhletn.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-10</news:publication_date>
       <news:title>Рекордный штраф обрушил акции румынских банков после проверки ставок межбанковского кредита</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/artur-khejs-izbavlyaetsya-ot-wld-vskore-posle-prezentatsii-m.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
-      <news:title>Артур Хейс избавляется от WLD вскоре после презентации Maelstrom о криптовалюте как AI-IPO</news:title>
     </news:news>
   </url>
 </urlset>
