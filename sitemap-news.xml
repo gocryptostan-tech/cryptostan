@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/britanskie-kripto-aktivisty-zapustili-kampaniyu-protiv-banko.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10</news:publication_date>
+      <news:title>Британские крипто-активисты запустили кампанию против банков, блокирующих переводы на биржи</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/sem-al-tman-nameknul-na-vozmozhnost-vykhoda-openai-na-birzhu.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-10</news:publication_date>
       <news:title>Команда Zcash предлагает пул Ironwood для восстановления верификации баланса после обнаружения уязвимости</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/zoloto-upalo-nizhe-200-dnevnogo-skol-zyaschego-srednego-otkr.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
-      <news:title>Золото упало ниже 200-дневного скользящего среднего, открывая возможности для Биткоина</news:title>
     </news:news>
   </url>
 </urlset>
