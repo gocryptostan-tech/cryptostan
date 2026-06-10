@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781120524-cica",
+    "timestamp": 1781120524,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "crypto",
+    "kicker_ru": "Приватность Ethereum",
+    "kicker_en": "Ethereum Privacy",
+    "title_ru": "Приватность снова в центре внимания: разработчики Ethereum изучают новые стандарты токенов",
+    "text_ru": "Разработчики Ethereum возвращают приватность в число приоритетов, исследуя инновационные стандарты токенов, которые могут повысить конфиденциальность пользователей в экосистеме. The Protocol Newsletter рассказывает о последних разработках в области решений, ориентированных на приватность, и их возможном влиянии на будущее направление развития Ethereum.\n📰 CoinDesk\n✍️ Margaux Nijkerk",
+    "title_en": "Privacy returns to focus as Ethereum developers explore new token standards",
+    "text_en": "Ethereum developers are reviving privacy as a key priority, exploring innovative token standards that could enhance user confidentiality within the ecosystem. The Protocol Newsletter examines the latest developments in privacy-focused solutions and their potential impact on Ethereum's future direction.\n📰 CoinDesk\n✍️ Margaux Nijkerk",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781118057-fexg",
     "timestamp": 1781118057,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Израиль и Иран нанесли друг другу боевые удары, поставив под угрозу двухмесячное перемирие и усложнив попытки администрации Трампа договориться о более широком мирном соглашении на Ближнем Востоке. Эскалация значительно осложнила дипломатические инициативы по снижению региональной напряженности.\n📰 Financial Times\n✍️ Не указан",
     "title_en": "Explosions in Tehran as Israel and Iran escalate military strikes",
     "text_en": "Israel and Iran have exchanged military strikes, testing a fragile two-month ceasefire and complicating Trump administration efforts to broker a broader Middle East peace agreement. The escalation marks a significant setback to diplomatic initiatives aimed at reducing regional tensions.\n📰 Financial Times\n✍️ Not available",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780912997-nn96",
-    "timestamp": 1780912997,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "politics",
-    "kicker_ru": "Конфликт на Ближнем Востоке",
-    "kicker_en": "Middle East Conflict",
-    "title_ru": "Трамп призывает Иран и Израиль прекратить обстрелы",
-    "text_ru": "Иран нанес массированный ракетный удар по Израилю, а израильские войска ответили ударами по военным объектам и нефтехимическому комплексу в Иране. Двухмесячное хрупкое перемирие фактически развалилось, что вызвало международные призывы к снижению напряженности и опасения дальнейшей эскалации конфликта в регионе.\n📰 nytimes.com\n✍️ The New York Times",
-    "title_en": "Live Updates: Trump Calls on Iran and Israel to Stop Strikes",
-    "text_en": "Iran launched waves of missiles at Israel in an escalation of regional tensions, while Israel responded with strikes on Iranian military targets and infrastructure. The exchange marks a breakdown of a fragile two-month ceasefire, prompting international calls for de-escalation as the conflict threatens wider regional instability.\n📰 nytimes.com\n✍️ The New York Times",
     "source": "",
     "link": "#",
     "thumb": "📰"
