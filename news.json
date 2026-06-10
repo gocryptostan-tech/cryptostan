@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781096441-m1fq",
+    "timestamp": 1781096441,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "finance",
+    "kicker_ru": "Политика ФРС",
+    "kicker_en": "Fed Policy",
+    "title_ru": "Трейдеры облигаций остаются в ожидании повышения ставки ФРС в этом году после отчета по инфляции",
+    "text_ru": "Цены на казначейские облигации немного подросли после данных по базовой инфляции в мае, которые оказались ниже прогнозов. Участники рынка облигаций по-прежнему закладывают в цены вероятность повышения ставки Федеральной резервной системой до конца года, что свидетельствует об уверенности в том, что инфляционные давления находятся под контролем.\n📰 Bloomberg\n✍️ Greg Ritchie, Ye Xie",
+    "title_en": "Bond Traders Keep Bets on a Fed Hike This Year After CPI Report",
+    "text_en": "US Treasury prices rose slightly following May's core inflation data, which came in below expectations. Bond market participants continue to price in the probability of a Federal Reserve rate increase before year-end, signaling confidence that inflation pressures are manageable despite recent economic data.\n📰 Bloomberg\n✍️ Greg Ritchie, Ye Xie",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781096148-qbvo",
     "timestamp": 1781096148,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Криптовалютная биржа HTX Джастина Сана делистила и приостановила торговлю стейблкойном USD₁, выпущенным финансовым проектом World Liberty из окружения семьи Трампа. Биржа ответила делистингом после того, как World Liberty заморозила адреса HTX — конфликт между сторонами обостряется и демонстрирует растущие напряженности в крипто-экосистеме.\n📰 Cointelegraph\n✍️ Jesse Coghlan",
     "title_en": "Justin Sun's HTX Exchange Delists Trump Family's USD₁ Token Amid Asset Freeze",
     "text_en": "Justin Sun's HTX cryptocurrency exchange has delisted and suspended the USD₁ stablecoin issued by the Trump family's World Liberty financial project, escalating tensions between the parties. The move came after World Liberty froze HTX's addresses, prompting the exchange to take retaliatory action by removing the token from its platform and halting trading.\n📰 Cointelegraph\n✍️ Jesse Coghlan",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780893718-0tt2",
-    "timestamp": 1780893718,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "crypto",
-    "kicker_ru": "Биткоин, Рынки",
-    "kicker_en": "Bitcoin, Markets",
-    "title_ru": "Биткоин упал ниже $63 тыс. на фоне геополитических потрясений",
-    "text_ru": "Биткоин отступил от ночных максимумов, упав ниже отметки $63 тыс., под давлением обострения конфликта между Ираном и Израилем и резкого падения южнокорейских акций. Геополитический кризис привёл к росту цен на нефть, что негативно отразилось на криптовалютных рынках, чувствительных к общеэкономической нестабильности.\n📰 CoinDesk\n✍️ Omkar Godbole",
-    "title_en": "Bitcoin Falls Below $63,000 Amid Geopolitical Tensions",
-    "text_en": "Bitcoin retreated from overnight highs to below $63,000 as escalating Iran-Israel tensions and a sharp decline in Korean stocks pressured risk sentiment. The geopolitical conflict has also driven oil prices higher, creating headwinds for cryptocurrency markets sensitive to broader economic uncertainty.\n📰 CoinDesk\n✍️ Omkar Godbole",
     "source": "",
     "link": "#",
     "thumb": "📰"
