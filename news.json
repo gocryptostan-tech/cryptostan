@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781098942-qw2t",
+    "timestamp": 1781098942,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "markets",
+    "kicker_ru": "Динамика рынка",
+    "kicker_en": "Market Performance",
+    "title_ru": "Индекс CoinDesk 20 упал на 1,4% на фоне падения всех активов",
+    "text_ru": "Индекс CoinDesk 20 снизился на 1,4%, при этом все компоненты портфеля оказались в минусе. Bitcoin Cash лидирует по убыткам с падением на 4,1%, а NEAR Protocol снизился на 4,3%, что указывает на общее ослабление позиций крупных криптоактивов в отслеживаемой корзине.\n📰 CoinDesk\n✍️ CoinDesk Indices",
+    "title_en": "CoinDesk 20 Index Falls 1.4% as Crypto Assets Decline Across the Board",
+    "text_en": "The CoinDesk 20 index dropped 1.4% with all its constituent assets in the red. Bitcoin Cash led losses with a 4.1% decline, while NEAR Protocol fell 4.3%, signaling broad weakness across major cryptocurrencies in the tracked basket.\n📰 CoinDesk\n✍️ CoinDesk Indices",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781096470-26m2",
     "timestamp": 1781096470,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Криптовалютный рынок потерял $250 миллиардов, в то время как американские акции достигли рекордных высот. Это свидетельствует об усилении независимости цифровых активов от традиционных финансовых рынков. Падение курсов было вызвано внутренними факторами крипто-экосистемы, а не общемировой рыночной динамикой.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "title_en": "Why the Crypto Crash Has Nothing to Do with the Stock Market",
     "text_en": "The cryptocurrency market lost $250 billion in value while U.S. stock indices reached record highs, demonstrating a significant decoupling between the two asset classes. The crash was driven by internal crypto factors rather than traditional market dynamics, signaling that digital assets are increasingly operating independently from conventional financial markets.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780894833-qvb2",
-    "timestamp": 1780894833,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "finance",
-    "kicker_ru": "Развивающиеся рынки",
-    "kicker_en": "Emerging Markets",
-    "title_ru": "Фонд благосостояния Индонезии начнёт презентацию долларовых облигаций в США на фоне кризиса на рынках",
-    "text_ru": "Государственный фонд благосостояния Danantara запускает дорожное шоу по размещению долларовых облигаций в США на этой неделе на фоне резкой распродажи на внутренних рынках страны. Это движение отражает попытки индонезийских политиков стабилизировать финансовые рынки и восстановить доверие инвесторов перед лицом растущего экономического давления и оттока капитала.\n📰 Bloomberg\n✍️ Megawati Wijaya, Harry Suhartono",
-    "title_en": "Danantara to Start US Bond Roadshow as Indonesia Rout Deepens",
-    "text_en": "Indonesia's sovereign wealth fund Danantara is launching a US dollar bond roadshow this week amid a sharp market selloff in the country. The move reflects efforts by Indonesian policymakers to stabilize financial markets and restore investor confidence as the nation faces mounting economic pressures and capital outflows.\n📰 Bloomberg\n✍️ Megawati Wijaya, Harry Suhartono",
     "source": "",
     "link": "#",
     "thumb": "📰"
