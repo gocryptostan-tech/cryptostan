@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781125259-3z50",
+    "timestamp": 1781125259,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "politics",
+    "kicker_ru": "Регулирование ИИ",
+    "kicker_en": "AI Regulation",
+    "title_ru": "Anthropic предлагает законодательные механизмы для контроля опасных систем ИИ",
+    "text_ru": "Компания Anthropic призывает правительства установить обязательные правовые полномочия для остановки потенциально опасных запусков ИИ. Предложение включает обязательное независимое тестирование, стандарты кибербезопасности и программы переквалификации рабочей силы. По мнению компании, по мере развития возможностей передовых моделей ИИ необходим государственный контроль, чтобы предотвратить вредоносные развёртывания и обеспечить экономическую стабильность при переходе на ИИ-ориентированный рынок труда.\n📰 crypto.news\n✍️ Irene Mukiri",
+    "title_en": "Anthropic Proposes Legal Framework to Regulate High-Risk AI Systems",
+    "text_en": "Anthropic has called for governments to establish binding legal powers to halt potentially dangerous AI launches. The proposal includes mandatory independent testing, cybersecurity standards, and worker retraining programs. The company argues that as frontier AI models become more capable, regulatory oversight is essential to prevent harmful deployments and ensure economic stability during AI-driven workforce transitions.\n📰 crypto.news\n✍️ Irene Mukiri",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781124952-zlvg",
     "timestamp": 1781124952,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Сеть XRP Ledger готовится к крупному обновлению, которое состоится 15 июня и предусматривает переименование основного узлового ПО с rippled на xrpld. Апгрейд принесёт значительные изменения в инфраструктуру для операторов сети, в то время как токен XRP торгуется вблизи отметки $1,15. Ребрендинг должен лучше интегрировать технологию с экосистемой проекта.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "title_en": "XRP Ledger 3.2.0 targets June 15, what changes for XRPL?",
     "text_en": "XRP Ledger is preparing a major update scheduled for June 15, which will rename the core node software from rippled to xrpld. The upgrade represents significant infrastructure changes for network operators as XRP token continues trading near the $1.15 level. The rebranding aims to better align the technology with its ecosystem identity.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780916148-gtns",
-    "timestamp": 1780916148,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "crypto",
-    "kicker_ru": "Zcash, Безопасность",
-    "kicker_en": "Zcash, Security",
-    "title_ru": "Команда Zcash предлагает пул Ironwood для восстановления верификации баланса после обнаружения уязвимости",
-    "text_ru": "Разработчики Zcash предложили пул Ironwood в качестве решения для устранения уязвимостей, обнаруженных в приватном пуле Orchard. Новый механизм закроет существующий пул для новых транзакций и проведёт средства через систему верификации перед входом в новый приватный пул, обеспечив улучшенный контроль над балансом и безопасностью криптовалюты, ориентированной на конфиденциальность.\n📰 Cointelegraph\n✍️ Ezra Reguerra",
-    "title_en": "Zcash teams propose Ironwood pool to restore supply verification after Orchard flaw",
-    "text_en": "Zcash developers have proposed the Ironwood pool as a solution to address vulnerabilities discovered in the Orchard shielded pool. The new mechanism would close the existing Orchard pool to new transactions and route funds through a verification turnstile before they enter a fresh shielded pool, ensuring better supply tracking and security for the privacy-focused cryptocurrency.\n📰 Cointelegraph\n✍️ Ezra Reguerra",
     "source": "",
     "link": "#",
     "thumb": "📰"
