@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781074854-it9s",
+    "timestamp": 1781074854,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "law",
+    "kicker_ru": "Инсайдерская торговля",
+    "kicker_en": "Insider Trading",
+    "title_ru": "Kalshi запускает обязательное раскрытие информации работодателями для борьбы с инсайдерской торговлей",
+    "text_ru": "Платформа для торговли прогнозами Kalshi внедрила требование об обязательном раскрытии информации работодателями для определённых трейдеров в рамках расширения программы надзора за рынком. В первом квартале 2026 года компания зафиксировала свыше 150 активных расследований, заблокировала более 100 попыток инсайдерской торговли и передала 20 случаев в правоохранительные органы. Новые меры направлены на усиление соответствия нормам и предотвращение злоупотреблений информацией на платформе.\n📰 crypto.news\n✍️ Rony Roy",
+    "title_en": "Kalshi Introduces Mandatory Employer Disclosures to Combat Insider Trading",
+    "text_en": "Prediction market platform Kalshi has launched mandatory employer disclosure requirements for certain traders as part of an expanded market surveillance initiative. In Q1 2026, the company reported over 150 active investigations, blocked more than 100 insider-trading attempts, and referred 20 cases to law enforcement. The new measures aim to strengthen compliance and prevent information abuse on its platform.\n📰 crypto.news\n✍️ Rony Roy",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781074553-kpcb",
     "timestamp": 1781074553,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Биткоин вырос до $61,739 после снижения к $60,420, при этом глава MicroStrategy Майкл Сейлор сигнализирует о продолжении накопления активов. Трейдеры одновременно отслеживают потенциальный отток капитала из традиционных акций в направлении активов искусственного интеллекта, что создает конкурирующее давление на оценки криптовалют.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "title_en": "Bitcoin Price Tests $60K as Saylor Signals Additional Purchases",
     "text_en": "Bitcoin has climbed to $61,739, briefly dipping to $60,420 as MicroStrategy's Michael Saylor hints at continued accumulation. Market participants are simultaneously monitoring potential capital shifts from traditional stocks toward artificial intelligence assets, creating competing pressures on cryptocurrency valuations.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780839717-lkud",
-    "timestamp": 1780839717,
-    "date": "2026-06-07",
-    "date_ru": "7 июня 2026",
-    "date_en": "June 7, 2026",
-    "category": "crypto",
-    "kicker_ru": "Ethereum Foundation",
-    "kicker_en": "Ethereum Foundation",
-    "title_ru": "Реструктуризация Ethereum Foundation — это не кризис, заявил глава ConsenSys Джо Лубин",
-    "text_ru": "Основатель ConsenSys Джо Лубин защитил недавние сокращения штата и уходы сотрудников Ethereum Foundation, назвав их стратегической переориентацией, а не институциональным провалом. По его словам, Foundation должна сосредоточиться на своей основной миссии — управлении технологией и ценностями сети Ethereum, сужая круг своих операций. Комментарии Лубина появились на фоне значительных организационных перемен в организации.\n📰 CoinDesk\n✍️ Margaux Nijkerk",
-    "title_en": "Ethereum Foundation Restructuring Is Not a Crisis, Says ConsenSys Leader Joe Lubin",
-    "text_en": "ConsenSys founder Joe Lubin defended the Ethereum Foundation's recent staff reductions and departures, arguing they represent a strategic refocus rather than institutional failure. Lubin stated that the Foundation should concentrate on its core mission of stewarding Ethereum's network technology and values, with a narrower operational scope. His comments come as the organization navigates significant organizational changes.\n📰 CoinDesk\n✍️ Margaux Nijkerk",
     "source": "",
     "link": "#",
     "thumb": "📰"
