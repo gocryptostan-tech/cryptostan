@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781100046-7bl4",
+    "timestamp": 1781100046,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "crypto",
+    "kicker_ru": "Игры в Telegram",
+    "kicker_en": "Telegram Gaming",
+    "title_ru": "Возрождение экосистемы игр в Telegram: как Boinkers и Acid Labs создают новую эру социального гейминга",
+    "text_ru": "Telegram и блокчейн TON кардинально меняют индустрию интерактивных развлечений, открывая доступ к мгновенным социальным играм для почти 950 миллионов пользователей. Проекты вроде Boinkers и Acid Labs возглавляют эту трансформацию, используя огромную аудиторию Telegram для создания доступных блокчейн-игр, которые объединяют casual-гейминг с децентрализованными финансами.\n📰 crypto.news\n✍️ Samuel Msiska",
+    "title_en": "The resurgence of the Telegram gaming ecosystem: How Boinkers and Acid Labs are pioneering the next era of social play",
+    "text_en": "Telegram and the TON blockchain are transforming interactive entertainment by enabling instant-play social games for nearly 950 million users. Projects like Boinkers and Acid Labs are leading this shift, leveraging Telegram's massive user base to create accessible, blockchain-based gaming experiences that blur the lines between casual play and decentralized finance.\n📰 crypto.news\n✍️ Samuel Msiska",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781098942-qw2t",
     "timestamp": 1781098942,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Syscoin приостановил работу своего моста после обнаружения критической ошибки валидации, которая привела к созданию примерно 5 миллиардов несанкционированных токенов SYS. Проект в настоящее время отслеживает эти токены по адресам UTXO для локализации последствий инцидента безопасности.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "title_en": "Syscoin Bridge Halted Due to Validation Vulnerability Creating 5 Billion Unauthorized Tokens",
     "text_en": "Syscoin has suspended its bridge following the discovery of a critical validation flaw that generated approximately 5 billion unauthorized SYS tokens. The project is currently tracking these tokens across UTXO addresses to contain the impact of the security breach.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780894852-w8kp",
-    "timestamp": 1780894852,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "crypto",
-    "kicker_ru": "Развязка рынков",
-    "kicker_en": "Market Decoupling",
-    "title_ru": "Почему крах крипто не связан со снижением фондовых рынков",
-    "text_ru": "Криптовалютный рынок потерял $250 миллиардов, в то время как американские акции достигли рекордных высот. Это свидетельствует об усилении независимости цифровых активов от традиционных финансовых рынков. Падение курсов было вызвано внутренними факторами крипто-экосистемы, а не общемировой рыночной динамикой.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "title_en": "Why the Crypto Crash Has Nothing to Do with the Stock Market",
-    "text_en": "The cryptocurrency market lost $250 billion in value while U.S. stock indices reached record highs, demonstrating a significant decoupling between the two asset classes. The crash was driven by internal crypto factors rather than traditional market dynamics, signaling that digital assets are increasingly operating independently from conventional financial markets.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "source": "",
     "link": "#",
     "thumb": "📰"
