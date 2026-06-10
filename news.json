@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781088120-vsvi",
+    "timestamp": 1781088120,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "crypto",
+    "kicker_ru": "Стейблкоин",
+    "kicker_en": "Stablecoin",
+    "title_ru": "Три крупнейших банка Японии готовятся к совместному выпуску стейблкоина к марту",
+    "text_ru": "Японские мегабанки MUFG, SMBC и Mizuho объединяют усилия для запуска общего стейблкоина к марту 2027 года. Три финансовых гиганта создали специальный совет для разработки операционной инфраструктуры и стратегий регуляторного соответствия. Этот проект демонстрирует серьёзное намерение традиционных финансовых институтов выйти на рынок цифровых активов и составить конкуренцию существующим стейблкоин-проектам.\n📰 CoinDesk\n✍️ Jamie Crawley",
+    "title_en": "Japan's three largest banks aim for joint stablecoin issue by March",
+    "text_en": "Japan's megabanks MUFG, SMBC, and Mizuho are joining forces to launch a shared stablecoin by March 2027. The three financial giants have established a dedicated council to develop operational frameworks and regulatory compliance strategies. This initiative marks a significant move by traditional banking institutions to enter the digital asset space and compete with existing stablecoin projects.\n📰 CoinDesk\n✍️ Jamie Crawley",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781085649-ibsf",
     "timestamp": 1781085649,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Топ-менеджеры MicroStrategy активно пропагандируют на социальных сетях стратегию накопления Биткоина компанией, пока акционеры голосуют за предложение увеличить выплаты дивидендов по привилегированным акциям до двух раз в месяц. Инициатива подтверждает приверженность компании Биткоину как ключевому активу и одновременно демонстрирует готовность выплачивать дивиденды акционерам.\n📰 Cointelegraph\n✍️ Cointelegraph",
     "title_en": "Strategy's Saylor signals BTC buy as preferred dividend pay date vote looms",
     "text_en": "MicroStrategy's leadership is actively promoting the company's Bitcoin accumulation strategy on social media as shareholders prepare to vote on a proposal to increase preferred stock dividend payments to twice monthly. The initiative reflects the company's continued commitment to Bitcoin as a core asset while managing shareholder returns.\n📰 Cointelegraph\n✍️ Cointelegraph",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780861328-zeet",
-    "timestamp": 1780861328,
-    "date": "2026-06-07",
-    "date_ru": "7 июня 2026",
-    "date_en": "June 7, 2026",
-    "category": "crypto",
-    "kicker_ru": "Биткоин, Корпоративная стратегия",
-    "kicker_en": "Bitcoin, Corporate Strategy",
-    "title_ru": "Майкл Сейлор намекает на новые покупки Bitcoin среди растущей критики стратегии MicroStrategy",
-    "text_ru": "Исполнительный председатель MicroStrategy опубликовал график, отражающий предыдущие покупки компанией Bitcoin, предполагая, что пришло время расширить портфель. Этот ход происходит на фоне усиливающегося внимания регуляторов и инвесторов к агрессивной стратегии накопления Bitcoin, ставшей основой деятельности компании.\n📰 CoinDesk\n✍️ Krisztian Sandor",
-    "title_en": "Michael Saylor Hints at More Bitcoin Purchases as MicroStrategy Faces Increased Scrutiny",
-    "text_en": "MicroStrategy's executive chairman Michael Saylor posted a chart showing the company's previous Bitcoin acquisitions, suggesting it may be time to expand holdings. The move comes amid growing regulatory and investor scrutiny over the firm's aggressive Bitcoin accumulation strategy, which has become central to its business model.\n📰 CoinDesk\n✍️ Krisztian Sandor",
     "source": "",
     "link": "#",
     "thumb": "📰"
