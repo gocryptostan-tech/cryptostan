@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781108369-97wi",
+    "timestamp": 1781108369,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "markets",
+    "kicker_ru": "Инфляция",
+    "kicker_en": "Inflation",
+    "title_ru": "Инфляция в США подскочила до 4,2% в мае на фоне энергетического кризиса на Ближнем Востоке",
+    "text_ru": "Потребительская инфляция в США ускорилась до 4,2% в мае — самого высокого уровня за три года. Рост вызван скачком цен на энергоносители из-за геополитической напряженности на Ближнем Востоке, которая привела к нарушениям в поставках нефти и росту топливных издержек. Этот неожиданный скачок осложняет работу Федеральной резервной системы по борьбе с инфляцией и может повлиять на решения по монетарной политике.\n📰 Financial Times\n✍️ Не указан",
+    "title_en": "US Inflation Surges to 4.2% in May, Hitting Three-Year High",
+    "text_en": "U.S. consumer price inflation accelerated to 4.2% in May, marking the highest level in three years. The spike is attributed to energy price pressures stemming from Middle East geopolitical tensions, which have disrupted global oil supplies and pushed up fuel costs domestically. This unexpected jump complicates the Federal Reserve's inflation-fighting efforts and could influence upcoming monetary policy decisions.\n📰 Financial Times\n✍️ Not specified",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781103666-ajoe",
     "timestamp": 1781103666,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "XRP отскочил от четырёхмесячных минимумов на фоне высоких объёмов торговли, однако токен остаётся ниже ключевых уровней сопротивления. Несмотря на продолжающиеся притоки средств в ETF и отток с бирж — сигналы институционального накопления — актив сталкивается с устойчивым медвежьим давлением, которое может ограничить рост в ближайшей перспективе.\n📰 CoinDesk\n✍️ Shaurya Malwa",
     "title_en": "XRP Steadies Above $1.10 After Four-Month Low Bounce",
     "text_en": "XRP has recovered from its four-month lows on strong trading volume, though the token remains below critical resistance levels. Despite ongoing ETF inflows and exchange outflows, which typically signal institutional accumulation, the token faces lingering bearish pressure that could limit further upside in the near term.\n📰 CoinDesk\n✍️ Shaurya Malwa",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780902058-ay3p",
-    "timestamp": 1780902058,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "crypto",
-    "kicker_ru": "Манипуляции на рынке",
-    "kicker_en": "Market Manipulation",
-    "title_ru": "Артур Хейс избавился от позиции Worldcoin вскоре после публичного одобрения проекта",
-    "text_ru": "Основатель BitMEX Артур Хейс столкнулся с критикой за продажу своих токенов Worldcoin (WLD) вскоре после того, как публично рекомендовал актив как перспективное AI-инвестирование. Выход из позиции совпал с резким падением цены WLD, что вызвало вопросы о синхронизации операции и согласованности его действий с публичными заявлениями. Инцидент спровоцировал обсуждение в крипто-сообществе относительно возможной манипуляции рынком и ответственности влиятельных фигур при выраженных инвестиционных рекомендациях.\n📰 crypto.news\n✍️ Rony Roy",
-    "title_en": "Arthur Hayes exits Worldcoin position after public endorsement, sparking backlash",
-    "text_en": "BitMEX founder Arthur Hayes has faced criticism for selling his Worldcoin (WLD) holdings shortly after publicly promoting the token as an AI investment opportunity. The exit coincided with a significant drop in WLD's price, raising questions about the timing and consistency of his position. The move has prompted discussions in the crypto community about potential market manipulation and the responsibilities of influential figures when making investment recommendations.\n📰 crypto.news\n✍️ Rony Roy",
     "source": "",
     "link": "#",
     "thumb": "📰"
