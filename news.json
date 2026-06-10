@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781132464-676z",
+    "timestamp": 1781132464,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "crypto",
+    "kicker_ru": "DeFi, Кредитование",
+    "kicker_en": "DeFi, Lending",
+    "title_ru": "Curve Finance запускает Llamalend v2, трансформируя DeFi-кредитование",
+    "text_ru": "Curve Finance развернула Llamalend v2 на сети Optimism с поддержкой изолированных рынков кредитования и заимствования пар, не связанных с crvUSD. Этот апгрейд — первый этап масштабной реформы инфраструктуры кредитования Curve с последующим расширением на Ethereum mainnet позже в этом году. Новая модель повышает гибкость и управление рисками в децентрализованном кредитовании.\n📰 crypto.news\n✍️ Lawrence Mondal",
+    "title_en": "Curve Finance Launches Llamalend v2, Reshaping DeFi Lending",
+    "text_en": "Curve Finance has rolled out Llamalend v2 on Optimism, introducing isolated lending markets and support for non-crvUSD borrowing pairs. This upgrade marks the first phase of a major overhaul to Curve's lending infrastructure, with plans to expand to Ethereum mainnet later this year. The new model aims to enhance flexibility and risk management in decentralized lending.\n📰 crypto.news\n✍️ Lawrence Mondal",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781132149-9jc3",
     "timestamp": 1781132149,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Трейдеры предупреждают, что биткоин может не достичь дна медвежьего рынка раньше третьего квартала, а некоторые прогнозы указывают на четвёртый квартал. Материал охватывает пять ключевых событий на рынке Bitcoin на текущей неделе с анализом ценовых тенденций и настроений трейдеров.\n📰 Cointelegraph\n✍️ William Suberg",
     "title_en": "BTC Price Bottom Not Expected Until Q4? Five Key Bitcoin Stories This Week",
     "text_en": "Bitcoin traders are warning that the cryptocurrency may not reach its bear market bottom until at least Q3, with some predictions extending into Q4. The article covers five important developments in the Bitcoin market this week, analyzing price trends and trader sentiment.\n📰 Cointelegraph\n✍️ William Suberg",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780920068-6utb",
-    "timestamp": 1780920068,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "crypto",
-    "kicker_ru": "Solana",
-    "kicker_en": "Solana",
-    "title_ru": "Может ли Solana упасть до $50? Исход китов с биржи",
-    "text_ru": "Цена Solana упала до $66 на фоне того, как крупные инвесторы сокращают свои позиции, аналитики прогнозируют возможное падение до $50. Одновременно сеть внедряет самые значительные обновления в своей истории, создавая парадокс между медвежьим настроением рынка и бычьими техническими разработками, которые могут кардинально преобразить экосистему.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "title_en": "Will Solana Price Slide to $50? Inside the Whale Exodus",
-    "text_en": "Solana's price has dropped to $66 as major investors reduce their positions, with analysts predicting a potential fall to $50. However, the network is simultaneously rolling out its most significant upgrades to date, creating a paradox between bearish market sentiment and bullish technical developments that could reshape the ecosystem's future.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "source": "",
     "link": "#",
     "thumb": "📰"
