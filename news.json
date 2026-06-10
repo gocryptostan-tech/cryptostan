@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781078459-es7l",
+    "timestamp": 1781078459,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "crypto",
+    "kicker_ru": "XRP, Фьючерсы",
+    "kicker_en": "XRP, Futures",
+    "title_ru": "Бесрочные фьючерсы XRP запущены на платформе Kalshi для американских трейдеров",
+    "text_ru": "Регулируемая платформа производных инструментов Kalshi представила бесрочные фьючерсы XRP для американских трейдеров. Новые контракты с расчетом в наличной форме позволяют держать позиции неограниченное время и предоставляют легальный доступ к токену Ripple без фиксированных сроков истечения, расширяя возможности регулируемой торговли на криптовалютном рынке США.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "title_en": "XRP Perpetual Futures Launch on Kalshi for U.S. Traders",
+    "text_en": "Kalshi, a regulated derivatives platform, has introduced XRP perpetual futures contracts for American traders. The new cash-settled instruments offer unlimited holding periods and provide compliant exposure to Ripple's token without fixed expiration dates, expanding regulated trading options in the U.S. crypto market.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781077333-69u4",
     "timestamp": 1781077333,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Президент США усиливает давление на своего кандидата в главу Федеральной резервной системы, требуя немедленного снижения процентных ставок, несмотря на рыночные прогнозы роста стоимости заимствований. Это указывает на потенциальный конфликт между экономической повесткой администрации и монетарной политикой ФРС и ставит под вопрос независимость центробанка.\n📰 Financial Times\n✍️ Не указан",
     "title_en": "Trump Pressures Warsh on Interest Rates Ahead of Fed Chair Confirmation",
     "text_en": "President Trump is intensifying pressure on his Federal Reserve nominee, calling for immediate rate cuts despite market expectations of rising borrowing costs. The move raises questions about the independence of the central bank and signals potential conflict between the administration's economic agenda and the Fed's monetary policy decisions.\n📰 Financial Times\n✍️ Not provided",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780848194-yjqu",
-    "timestamp": 1780848194,
-    "date": "2026-06-07",
-    "date_ru": "7 июня 2026",
-    "date_en": "June 7, 2026",
-    "category": "politics",
-    "kicker_ru": "Переговоры о мире на Украине",
-    "kicker_en": "Ukraine Peace Talks",
-    "title_ru": "Украина обращается к Европе, когда США отходят от роли посредника в мирных переговорах",
-    "text_ru": "Президент Зеленский переориентировался на европейскую дипломатию, встретившись в Лондоне с лидерами Британии, Германии и Франции, которые могут выступить посредниками в потенциальных переговорах с Россией на фоне снижения роли США в мирных инициативах.\n📰 nytimes.com\n✍️ Constant Méheut",
-    "title_en": "Ukraine Turns to Europe as U.S. Steps Back as Mediator in Peace Talks",
-    "text_en": "President Zelensky has shifted diplomatic focus toward Europe, traveling to London to engage with British, German, and French leaders who could serve as mediators in potential negotiations with Russia, as the U.S. reduces its role in peace efforts.\n📰 nytimes.com\n✍️ Constant Méheut",
     "source": "",
     "link": "#",
     "thumb": "📰"
