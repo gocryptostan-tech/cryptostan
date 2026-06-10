@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/trejdery-obligatsij-ostayutsya-v-ozhidanii-povysheniya-stavk.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10</news:publication_date>
+      <news:title>Трейдеры облигаций остаются в ожидании повышения ставки ФРС в этом году после отчета по инфляции</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/botanix-zakryvaetsya-posle-4-let-raboty-spros-na-bitcoin-def.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-10</news:publication_date>
       <news:title>Биржа HTX Джастина Сана делистит USD₁ семьи Трампа на фоне блокировки активов</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/bitkoin-upal-nizhe-63-tys-na-fone-geopoliticheskikh-potryase.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
-      <news:title>Биткоин упал ниже $63 тыс. на фоне геополитических потрясений</news:title>
     </news:news>
   </url>
 </urlset>
