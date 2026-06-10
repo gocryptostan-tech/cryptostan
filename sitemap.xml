@@ -13,6 +13,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cryptostan.org/articles/ripple-vypustila-nabor-instrumentov-dlya-platezhej-na-baze-i.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/pyth-zapustila-kruglosutochnye-indeksy-tsen-na-amerikanskie-.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -504,11 +509,6 @@
   </url>
   <url>
     <loc>https://cryptostan.org/articles/artur-khejs-izbavilsya-ot-pozitsii-worldcoin-vskore-posle-pu.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/platforma-securitize-poluchila-odobrenie-sec-dlya-vykhoda-na.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
