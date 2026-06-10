@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781049647-50if",
+    "timestamp": 1781049647,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "markets",
+    "kicker_ru": "Биткоин, Геополитика",
+    "kicker_en": "Bitcoin, Geopolitics",
+    "title_ru": "Цена Биткоина падает на фоне военного ответа Трампа Ирану",
+    "text_ru": "Биткоин продолжил снижение после объявления президентом Трампом военного ответа Ирану, спровоцировав волну избегания рисков на глобальных рынках. Геополитическая эскалация оказала давление на криптовалюты вместе с традиционными активами, поскольку инвесторы ищут более безопасные убежища среди растущей неопределённости и волатильности на крипторынке.\n📰 crypto.news\n✍️ Lawrence Mondal",
+    "title_en": "Bitcoin Price Tumbles Amid Trump's Military Response to Iran",
+    "text_en": "Bitcoin extended its decline following President Trump's announcement of military action against Iran, triggering a widespread risk-off sentiment across global markets. The geopolitical escalation pressured cryptocurrencies alongside traditional assets, as investors sought safer havens during the period of heightened uncertainty and market volatility in the crypto sector.\n📰 crypto.news\n✍️ Lawrence Mondal",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781046049-bt8p",
     "timestamp": 1781046049,
     "date": "2026-06-09",
@@ -1678,23 +1695,6 @@
     "text_ru": "XRP торгуется близ уровня $1.16 после значительного недельного падения. Притоки в спот-ETF, восстановление индекса RSI и прочная поддержка на $1.03 указывают на потенциал роста, однако токен стоит перед критическими уровнями сопротивления, которые определят, будет ли отскок устойчивым или привет к новому падению.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "title_en": "XRP Price Analysis: Will the Rebound Hold Above $1?",
     "text_en": "XRP trades near $1.16 following a significant weekly decline. ETF inflows, RSI recovery, and strong support at $1.03 suggest potential upside, but the token faces critical resistance levels that will determine whether the bounce is sustainable or another bearish move lower.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780822845-trl0",
-    "timestamp": 1780822845,
-    "date": "2026-06-07",
-    "date_ru": "7 июня 2026",
-    "date_en": "June 7, 2026",
-    "category": "markets",
-    "kicker_ru": "Торговые Объемы",
-    "kicker_en": "Trading Volume",
-    "title_ru": "Объемы спотовой торговли крипто упали до $679 млрд на фоне снижения спроса розничных инвесторов",
-    "text_ru": "Объемы спотовой торговли криптовалют в апреле сократились до $679 млрд — это самый низкий показатель с октября 2023 года. Падение отражает ослабление интереса розничных трейдеров и снижение активности на крупных биржах, что указывает на охлаждение конъюнктуры крипторынка.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "title_en": "Crypto spot volume falls to $679B as retail demand weakens",
-    "text_en": "Cryptocurrency spot trading volume dropped to $679 billion in April, marking its lowest level since October 2023. The decline reflects weakening retail investor participation and reduced activity across major exchanges, signaling a cooling phase in the broader crypto market.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "source": "",
     "link": "#",
     "thumb": "📰"
