@@ -13,6 +13,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cryptostan.org/articles/sem-al-tman-nameknul-na-vozmozhnost-vykhoda-openai-na-birzhu.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/privatnost-snova-v-tsentre-vnimaniya-razrabotchiki-ethereum-.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -504,11 +509,6 @@
   </url>
   <url>
     <loc>https://cryptostan.org/articles/zoloto-upalo-nizhe-200-dnevnogo-skol-zyaschego-srednego-otkr.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/vzryvy-v-tegerane-izrail-i-iran-obmenivayutsya-aviaudarami.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
