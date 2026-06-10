@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781067649-rubv",
+    "timestamp": 1781067649,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "crypto",
+    "kicker_ru": "Доступ к DeFi",
+    "kicker_en": "DeFi Access",
+    "title_ru": "BitGo расширяет доступ институциональных инвесторов к DeFi через интеграцию Narval",
+    "text_ru": "BitGo интегрировала протоколы Aave, Spark и Tesseract в платформу Narval, позволяя квалифицированным институциональным клиентам напрямую взаимодействовать с ведущими DeFi-протоколами из защищённых кастодиальных кошельков. Это расширение делает децентрализованные финансы более доступными для крупных игроков без ущерба для безопасности.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "title_en": "BitGo Expands Institutional DeFi Access Through Narval Integration",
+    "text_en": "BitGo has integrated Aave, Spark, and Tesseract protocols into its Narval platform, enabling qualified institutions to access decentralized finance directly from secure custody wallets. This move democratizes institutional participation in leading DeFi protocols while maintaining enterprise-grade security standards.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781053213-0e1j",
     "timestamp": 1781053213,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Закон GENIUS приближается к крайнему сроку подачи комментариев 9 июня, пока американские регуляторы FinCEN и OFAC требуют от эмитентов стейблкоинов усиления мер по борьбе с отмыванием денег и соответствию санкционному законодательству. Нормативная база нацелена на установление чётких требований для операторов стейблкоинов в США.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "title_en": "GENIUS Act deadline puts stablecoin issuers on notice",
     "text_en": "The GENIUS Act is approaching a June 9 comment deadline as U.S. financial regulators FinCEN and OFAC push stablecoin issuers to strengthen their anti-money laundering (AML) and sanctions compliance measures. The regulatory framework aims to establish clearer requirements for stablecoin operators in the United States.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780827567-686g",
-    "timestamp": 1780827567,
-    "date": "2026-06-07",
-    "date_ru": "7 июня 2026",
-    "date_en": "June 7, 2026",
-    "category": "technology",
-    "kicker_ru": "Стратегия ИИ",
-    "kicker_en": "AI Strategy",
-    "title_ru": "OpenAI готовит крупное обновление ChatGPT перед потенциальным IPO",
-    "text_ru": "Компания OpenAI, оцениваемая в $850 млрд, разрабатывает значительный редизайн ChatGPT с целью развивать товары с более высокой маржой и улучшить прибыльность перед возможным выходом на публичный рынок. Это обновление станет самым масштабным за всю историю существования чатбота и сигнализирует о стратегическом повороте компании в сторону монетизации и устойчивого роста.\n📰 Financial Times\n✍️ Не указан",
-    "title_en": "OpenAI Plans Major ChatGPT Overhaul Ahead of Potential IPO",
-    "text_en": "OpenAI, valued at $850 billion, is preparing a significant redesign of ChatGPT to shift toward higher-margin products and improve profitability before a potential initial public offering. The overhaul represents the most substantial update to the chatbot since its launch and signals the company's strategic pivot toward monetization and sustainable growth as it prepares for public markets.\n📰 Financial Times\n✍️ Not specified",
     "source": "",
     "link": "#",
     "thumb": "📰"
