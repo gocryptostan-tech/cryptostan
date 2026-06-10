@@ -13,6 +13,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cryptostan.org/articles/curve-finance-zapuskaet-llamalend-v2-transformiruya-defi-kre.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/pribyl-majnerov-bitkoina-upala-do-istoricheskogo-minimuma-ud.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -504,11 +509,6 @@
   </url>
   <url>
     <loc>https://cryptostan.org/articles/dno-tseny-bitkoina-mozhet-ne-nastupit-ran-she-q4-pyat-glavny.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/mozhet-li-solana-upast-do-50-iskhod-kitov-s-birzhi.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

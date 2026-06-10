@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/curve-finance-zapuskaet-llamalend-v2-transformiruya-defi-kre.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10</news:publication_date>
+      <news:title>Curve Finance запускает Llamalend v2, трансформируя DeFi-кредитование</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/pribyl-majnerov-bitkoina-upala-do-istoricheskogo-minimuma-ud.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-10</news:publication_date>
       <news:title>Дно цены биткоина может не наступить раньше Q4? Пять главных новостей о Bitcoin на этой неделе</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/mozhet-li-solana-upast-do-50-iskhod-kitov-s-birzhi.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
-      <news:title>Может ли Solana упасть до $50? Исход китов с биржи</news:title>
     </news:news>
   </url>
 </urlset>
