@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/anchorage-podderzhala-standarty-opod-kaznachejstva-ssha-i-tr.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10</news:publication_date>
+      <news:title>Anchorage поддержала стандарты ОПОд казначейства США и требует уточнений по санкциям на вторичных рынках</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/bitkoin-teryaet-pribyl-posle-obostreniya-konflikta-s-iranom.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-10</news:publication_date>
       <news:title>Цена XRP может упасть до $0,90 перед восстановлением — предупреждают аналитики</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/osnovatel-zcash-ozvuchil-plan-ekstrennogo-reagirovaniya-na-k.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
-      <news:title>Основатель Zcash озвучил план экстренного реагирования на критическую уязвимость Orchard</news:title>
     </news:news>
   </url>
 </urlset>
