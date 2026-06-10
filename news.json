@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781074553-kpcb",
+    "timestamp": 1781074553,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "finance",
+    "kicker_ru": "Рынки предсказаний",
+    "kicker_en": "Prediction Markets",
+    "title_ru": "Полный запрет на инсайдерскую торговлю может повредить рынкам предсказаний, считает исследователь",
+    "text_ru": "Исследователь Балбиндер Сингх Гилл утверждает, что строгие ограничения на инсайдерскую торговлю могут подорвать эффективность рынков предсказаний. Хотя инсайдерские сделки повышают точность цен в краткосрочной перспективе, они отпугивают более широкое участие, необходимое для сохранения информативности рынков в долгосрочном периоде. Исследование показывает, что регуляторам нужен сбалансированный подход вместо абсолютного запрета на инсайдерскую активность на этих развивающихся рынках.\n📰 Cointelegraph\n✍️ Martin Young",
+    "title_en": "'Maximal' ban on insider trading would hurt prediction markets, says researcher",
+    "text_en": "Researcher Balbinder Singh Gill argues that strict insider trading prohibitions could damage prediction markets' effectiveness. While insider trades improve price accuracy in the short term, they discourage broader participation necessary for maintaining informative market prices long-term. The findings suggest regulators need a balanced approach rather than absolute bans on insider activity in these emerging markets.\n📰 Cointelegraph\n✍️ Martin Young",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781071249-pjxh",
     "timestamp": 1781071249,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Основатель ConsenSys Джо Лубин защитил недавние сокращения штата и уходы сотрудников Ethereum Foundation, назвав их стратегической переориентацией, а не институциональным провалом. По его словам, Foundation должна сосредоточиться на своей основной миссии — управлении технологией и ценностями сети Ethereum, сужая круг своих операций. Комментарии Лубина появились на фоне значительных организационных перемен в организации.\n📰 CoinDesk\n✍️ Margaux Nijkerk",
     "title_en": "Ethereum Foundation Restructuring Is Not a Crisis, Says ConsenSys Leader Joe Lubin",
     "text_en": "ConsenSys founder Joe Lubin defended the Ethereum Foundation's recent staff reductions and departures, arguing they represent a strategic refocus rather than institutional failure. Lubin stated that the Foundation should concentrate on its core mission of stewarding Ethereum's network technology and values, with a narrower operational scope. His comments come as the organization navigates significant organizational changes.\n📰 CoinDesk\n✍️ Margaux Nijkerk",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780837246-fde6",
-    "timestamp": 1780837246,
-    "date": "2026-06-07",
-    "date_ru": "7 июня 2026",
-    "date_en": "June 7, 2026",
-    "category": "crypto",
-    "kicker_ru": "Токенизация",
-    "kicker_en": "Tokenization",
-    "title_ru": "Bybit запускает IPO Express с токенизированным доступом к SpaceX",
-    "text_ru": "Криптобиржа Bybit представила IPO Express — новый сервис, предоставляющий токенизированное воздействие на SpaceX через токены xStocks. Каждый токен обеспечен в соотношении 1:1 реальными акциями, позволяя розничным инвесторам получить фракционный доступ к акциям приватных компаний без традиционных препятствий. Это объединяет децентрализованные финансы с рынком приватного капитала.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "title_en": "Bybit launches IPO Express with tokenized SpaceX access",
-    "text_en": "Cryptocurrency exchange Bybit has introduced IPO Express, a new service offering tokenized exposure to SpaceX through xStocks tokens. Each token is backed 1:1 by actual equity, allowing retail investors to gain fractional access to private company shares without traditional barriers. This move bridges decentralized finance with private equity markets.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "source": "",
     "link": "#",
     "thumb": "📰"
