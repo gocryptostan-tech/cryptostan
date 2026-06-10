@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/pribyl-majnerov-bitkoina-upala-do-istoricheskogo-minimuma-ud.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10</news:publication_date>
+      <news:title>Прибыль майнеров биткоина упала до исторического минимума: удержится ли BTC выше $60 тысяч?</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/anthropic-predlagaet-zakonodatel-nye-mekhanizmy-dlya-kontrol.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-10</news:publication_date>
       <news:title>Может ли Solana упасть до $50? Исход китов с биржи</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/xrp-ledger-3-2-0-zaplanirovana-na-15-iyunya-chto-izmenitsya-.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
-      <news:title>XRP Ledger 3.2.0 запланирована на 15 июня — что изменится в сети</news:title>
     </news:news>
   </url>
 </urlset>
