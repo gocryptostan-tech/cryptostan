@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781110849-f01q",
+    "timestamp": 1781110849,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "politics",
+    "kicker_ru": "Регуляция",
+    "kicker_en": "Regulation",
+    "title_ru": "Элизабет Уоррен призывает SEC заблокировать рекордный IPO SpaceX",
+    "text_ru": "Сенатор Элизабет Уоррен направила письмо в SEC с требованием отложить планируемый IPO SpaceX стоимостью $75 млрд, подняв вопросы о защите инвесторов, корпоративном управлении и сомнениях относительно оценки компании в $1,8 трлн. Письмо сенатора председателю SEC Полу Аткинсу указывает на потенциальные риски, требующие пристального регуляторного надзора перед выходом компании на рынок.\n📰 crypto.news\n✍️ Lawrence Mondal",
+    "title_en": "Elizabeth Warren Calls for SEC to Block SpaceX's Record IPO",
+    "text_en": "Senator Elizabeth Warren has urged the SEC to postpone SpaceX's planned $75 billion initial public offering, raising red flags about investor safeguards, corporate governance issues, and concerns over the company's $1.8 trillion valuation. The senator's letter to SEC Chair Paul Atkins highlights potential risks that warrant regulatory scrutiny before the IPO proceeds.\n📰 crypto.news\n✍️ Lawrence Mondal",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781110565-9fgc",
     "timestamp": 1781110565,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Антимонопольное ведомство Румынии наложило историческое наказание на крупнейшие банки страны за предполагаемый сговор при установлении ставок межбанковского кредитования. Штраф привел к резкому падению котировок ведущих финансовых учреждений, отражая ужесточение надзора над манипуляциями на рынке в банковском секторе Восточной Европы.\n📰 Bloomberg\n✍️ Andra Timu, Irina Vilcu",
     "title_en": "Record Fine Hits Romanian Bank Stocks After Interbank Rate Probe",
     "text_en": "Romania's competition authority has imposed a historic fine on the country's largest banks for allegedly colluding to manipulate interbank lending rates. The penalty sent shares of major financial institutions sharply lower as regulators intensify scrutiny of market-fixing practices in Eastern Europe's banking sector.\n📰 Bloomberg\n✍️ Andra Timu, Irina Vilcu",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780908953-ihzs",
-    "timestamp": 1780908953,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "crypto",
-    "kicker_ru": "Движения на рынке",
-    "kicker_en": "Market Movements",
-    "title_ru": "Артур Хейс избавляется от WLD вскоре после презентации Maelstrom о криптовалюте как AI-IPO",
-    "text_ru": "Основатель BitMEX Артур Хейс активно распродаёт криптовалютные активы, включая WLD, всего через несколько дней после того, как его инвестфонд Maelstrom позиционировал токен как инструмент для AI-ориентированного выхода на биржу. В ходе распродажи Хейс также избавляется от позиций в HYPE, ZEC и NEAR, что указывает на переориентацию его портфеля в условиях волатильного рынка.\n📰 Cointelegraph\n✍️ Martin Young",
-    "title_en": "Arthur Hayes Dumps WLD Token Days After Maelstrom's AI IPO Pitch",
-    "text_en": "BitMEX founder Arthur Hayes has been actively selling off cryptocurrency positions, including WLD, just days after his investment firm Maelstrom promoted the token as an AI-focused IPO play. The recent offloading also includes stakes in HYPE, ZEC, and NEAR tokens, signaling a shift in his portfolio strategy amid volatile market conditions.\n📰 Cointelegraph\n✍️ Martin Young",
     "source": "",
     "link": "#",
     "thumb": "📰"
