@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781077333-69u4",
+    "timestamp": 1781077333,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "crypto",
+    "kicker_ru": "Допубличные размещения",
+    "kicker_en": "Pre-IPO Markets",
+    "title_ru": "Токен SpaceX упал на 27% на бирже Hyperliquid",
+    "text_ru": "Perpetual контракт SPCX на децентрализованной бирже Hyperliquid снизился на 27% за три недели, хотя котируется выше официальной оценки компании в $135. Падение отражает переоценку трейдерами премии при листинге по мере приближения IPO.\n📰 CoinDesk\n✍️ Shaurya Malwa",
+    "title_en": "SpaceX Pre-IPO Token Plunges 27% on Hyperliquid Exchange",
+    "text_en": "SpaceX's SPCX perpetual contract on the Hyperliquid decentralized exchange has dropped 27% in three weeks, though it still trades above the company's $135 valuation. The decline reflects traders reducing expectations for first-day trading premiums as the anticipated IPO approaches.\n📰 CoinDesk\n✍️ Shaurya Malwa",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781074854-it9s",
     "timestamp": 1781074854,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Президент Зеленский переориентировался на европейскую дипломатию, встретившись в Лондоне с лидерами Британии, Германии и Франции, которые могут выступить посредниками в потенциальных переговорах с Россией на фоне снижения роли США в мирных инициативах.\n📰 nytimes.com\n✍️ Constant Méheut",
     "title_en": "Ukraine Turns to Europe as U.S. Steps Back as Mediator in Peace Talks",
     "text_en": "President Zelensky has shifted diplomatic focus toward Europe, traveling to London to engage with British, German, and French leaders who could serve as mediators in potential negotiations with Russia, as the U.S. reduces its role in peace efforts.\n📰 nytimes.com\n✍️ Constant Méheut",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780844446-8ryq",
-    "timestamp": 1780844446,
-    "date": "2026-06-07",
-    "date_ru": "7 июня 2026",
-    "date_en": "June 7, 2026",
-    "category": "crypto",
-    "kicker_ru": "Биткоин",
-    "kicker_en": "Bitcoin",
-    "title_ru": "Биткоин тестирует уровень $60k на фоне намеков Сейлора о новых покупках",
-    "text_ru": "Биткоин вырос до $61,739 после снижения к $60,420, при этом глава MicroStrategy Майкл Сейлор сигнализирует о продолжении накопления активов. Трейдеры одновременно отслеживают потенциальный отток капитала из традиционных акций в направлении активов искусственного интеллекта, что создает конкурирующее давление на оценки криптовалют.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "title_en": "Bitcoin Price Tests $60K as Saylor Signals Additional Purchases",
-    "text_en": "Bitcoin has climbed to $61,739, briefly dipping to $60,420 as MicroStrategy's Michael Saylor hints at continued accumulation. Market participants are simultaneously monitoring potential capital shifts from traditional stocks toward artificial intelligence assets, creating competing pressures on cryptocurrency valuations.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "source": "",
     "link": "#",
     "thumb": "📰"
