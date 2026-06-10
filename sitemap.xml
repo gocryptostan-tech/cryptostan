@@ -13,6 +13,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cryptostan.org/articles/anthropic-predlagaet-zakonodatel-nye-mekhanizmy-dlya-kontrol.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/britanskie-kripto-aktivisty-zapustili-kampaniyu-protiv-banko.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -504,11 +509,6 @@
   </url>
   <url>
     <loc>https://cryptostan.org/articles/xrp-ledger-3-2-0-zaplanirovana-na-15-iyunya-chto-izmenitsya-.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/komanda-zcash-predlagaet-pul-ironwood-dlya-vosstanovleniya-v.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
