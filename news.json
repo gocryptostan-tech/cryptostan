@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781082058-7tsr",
+    "timestamp": 1781082058,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "finance",
+    "kicker_ru": "Финтех-инвестиции",
+    "kicker_en": "Fintech Funding",
+    "title_ru": "Ant International ищет оценку в $10 млрд в раунде финансирования",
+    "text_ru": "Сингапурская финтех-компания Ant International, входящая в группу Ant Group, планирует привлечь $1 млрд при оценке минимум в $10 млрд. Компания демонстрирует стабильную прибыльность восемь кварталов подряд и активно расширяет свой бизнес международных платежей по всему миру.\n📰 crypto.news\n✍️ Rony Roy",
+    "title_en": "Ant International Seeks $10 Billion Valuation in Major Funding Round",
+    "text_en": "Ant International, the Singapore-based fintech subsidiary of Ant Group, is planning to raise $1 billion at a valuation of at least $10 billion. The move comes as the company demonstrates strong financial performance with eight consecutive quarters of profitability and continues expanding its cross-border payments operations globally.\n📰 crypto.news\n✍️ Rony Roy",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781081760-v5a8",
     "timestamp": 1781081760,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Реализованные потери биткоина остаются на $35 млрд ниже рекорда в $211 млрд, зафиксированного во время медвежьего рынка 2022 года. Аналитики предупреждают, что дальнейшее падение неизбежно, поскольку крипторынок продолжает проверять уровни поддержки. Это означает, что перед устойчивым восстановлением могут быть более глубокие убытки.\n📰 Cointelegraph\n✍️ William Suberg",
     "title_en": "Bitcoin risks new 'purge' with bear-market losses still $35B below 2022 total",
     "text_en": "Bitcoin's realized losses remain $35 billion below the $211 billion recorded during the 2022 bear market, suggesting the current downturn has not yet reached its bottom. Analysts warn that further capitulation could be coming as the cryptocurrency market continues to test support levels, with the possibility of deeper losses before a sustained recovery begins.\n📰 Cointelegraph\n✍️ William Suberg",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780850523-mlag",
-    "timestamp": 1780850523,
-    "date": "2026-06-07",
-    "date_ru": "7 июня 2026",
-    "date_en": "June 7, 2026",
-    "category": "markets",
-    "kicker_ru": "Биткоин, Институциональные потоки",
-    "kicker_en": "Bitcoin, Institutional Flows",
-    "title_ru": "Биткоин вернулся к $60 000 на фоне разворота институциональных продаж",
-    "text_ru": "Восстановление Биткоина до отметки $60 000 сопровождается значительными оттоками из Bitcoin ETF, что резко контрастирует с февралем, когда крупные инвесторы активно скупали активы на спадах. Смена настроений говорит о развороте в поведении институциональных игроков — теперь они предпочитают избавляться от позиций вместо того, чтобы накапливать их по текущим ценам, что может свидетельствовать об опасениях по поводу краткосрочного направления рынка.\n📰 CoinDesk\n✍️ Omkar Godbole",
-    "title_en": "Bitcoin Returns to $60,000 Amid Institutional Selling Reversal",
-    "text_en": "Bitcoin's recovery to the $60,000 level is accompanied by significant ETF outflows, contrasting sharply with February's institutional buying during market dips. The shift signals a dramatic change in institutional sentiment, with large investors now choosing to exit positions rather than accumulate at current prices, potentially indicating concern about near-term market direction.\n📰 CoinDesk\n✍️ Omkar Godbole",
     "source": "",
     "link": "#",
     "thumb": "📰"
