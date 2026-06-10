@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/vozrozhdenie-ekosistemy-igr-v-telegram-kak-boinkers-i-acid-l.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10</news:publication_date>
+      <news:title>Возрождение экосистемы игр в Telegram: как Boinkers и Acid Labs создают новую эру социального гейминга</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/indeks-coindesk-20-upal-na-1-4-na-fone-padeniya-vsekh-aktivo.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-10</news:publication_date>
       <news:title>Мост Syscoin остановлен из-за уязвимости валидации, создавшей 5 млрд несанкционированных токенов</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/pochemu-krakh-kripto-ne-svyazan-so-snizheniem-fondovykh-rynk.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
-      <news:title>Почему крах крипто не связан со снижением фондовых рынков</news:title>
     </news:news>
   </url>
 </urlset>
