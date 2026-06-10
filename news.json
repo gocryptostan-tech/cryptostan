@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781110565-9fgc",
+    "timestamp": 1781110565,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "crypto",
+    "kicker_ru": "Биткоин, Рынки",
+    "kicker_en": "Bitcoin, Markets",
+    "title_ru": "Биткоин растет несмотря на инфляцию в США на трёхлетнем максимуме: куда движется BTC?",
+    "text_ru": "Биткоин восстановился на фоне повышенной инфляции в США, однако технический анализ указывает на ослабление импульса роста. Криптовалюта сталкивается с несколькими уровнями сопротивления, и аналитики предупреждают о возможном снижении ниже $60 000 в июне при сохранении текущего давления.\n📰 Cointelegraph\n✍️ Yashu Gola",
+    "title_en": "Bitcoin Rises Despite US Inflation Hitting 3-Year High: Where Will BTC Price Go?",
+    "text_en": "Bitcoin has rebounded amid elevated US inflation levels, but technical analysis suggests the rally may be losing momentum. The cryptocurrency faces multiple resistance levels, and analysts warn of a potential pullback below $60,000 in June if current pressure persists.\n📰 Cointelegraph\n✍️ Yashu Gola",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781109736-7aqd",
     "timestamp": 1781109736,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Основатель BitMEX Артур Хейс активно распродаёт криптовалютные активы, включая WLD, всего через несколько дней после того, как его инвестфонд Maelstrom позиционировал токен как инструмент для AI-ориентированного выхода на биржу. В ходе распродажи Хейс также избавляется от позиций в HYPE, ZEC и NEAR, что указывает на переориентацию его портфеля в условиях волатильного рынка.\n📰 Cointelegraph\n✍️ Martin Young",
     "title_en": "Arthur Hayes Dumps WLD Token Days After Maelstrom's AI IPO Pitch",
     "text_en": "BitMEX founder Arthur Hayes has been actively selling off cryptocurrency positions, including WLD, just days after his investment firm Maelstrom promoted the token as an AI-focused IPO play. The recent offloading also includes stakes in HYPE, ZEC, and NEAR tokens, signaling a shift in his portfolio strategy amid volatile market conditions.\n📰 Cointelegraph\n✍️ Martin Young",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780905653-fwo4",
-    "timestamp": 1780905653,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "finance",
-    "kicker_ru": "Биткоин, Корпоративный риск",
-    "kicker_en": "Bitcoin, Corporate Risk",
-    "title_ru": "JPMorgan предупреждает о риске нехватки резервов для биткойн-портфеля MicroStrategy",
-    "text_ru": "JPMorgan выразил озабоченность способностью MicroStrategy сохранять свои огромные запасы Биткойна, отметив, что компания сталкивается с годовыми обязательствами по дивидендам в размере примерно $1,7 млрд. Банк предупреждает, что MicroStrategy может быть вынуждена продать активы или пополнить резервы для выполнения этих обязательств, что создает потенциальный риск для инвесторов, следующих стратегии компании.\n📰 crypto.news\n✍️ Rony Roy",
-    "title_en": "JPMorgan Warns of Reserve Shortfall Risk for MicroStrategy Bitcoin Holdings",
-    "text_en": "JPMorgan has expressed concern about MicroStrategy's ability to maintain its massive Bitcoin reserves, noting that the company faces annual dividend obligations of approximately $1.7 billion. The bank warns that MicroStrategy may need to liquidate assets or rebuild reserves to meet these commitments, presenting a potential risk to Bitcoin investors who follow the company's strategy.\n📰 crypto.news\n✍️ Rony Roy",
     "source": "",
     "link": "#",
     "thumb": "📰"
