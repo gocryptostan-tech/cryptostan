@@ -13,6 +13,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cryptostan.org/articles/humanity-protocol-podtverdila-chto-skomprometirovannaya-mash.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/es-predlagaet-zapretit-11-kriptoplatform-v-ramkakh-usileniya.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -504,11 +509,6 @@
   </url>
   <url>
     <loc>https://cryptostan.org/articles/kak-padenie-nasdaq-povliyaet-na-bitkoin.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/nalogovye-zakonoproekty-komiteta-ways-and-means-vliyanie-na-.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

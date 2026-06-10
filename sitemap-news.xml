@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/humanity-protocol-podtverdila-chto-skomprometirovannaya-mash.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10</news:publication_date>
+      <news:title>Humanity Protocol подтвердила, что скомпрометированная машина разработчика привела к краже 447 млн токенов</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/es-predlagaet-zapretit-11-kriptoplatform-v-ramkakh-usileniya.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-10</news:publication_date>
       <news:title>Как падение Nasdaq повлияет на Биткоин?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/nalogovye-zakonoproekty-komiteta-ways-and-means-vliyanie-na-.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
-      <news:title>Налоговые законопроекты комитета Ways and Means: влияние на крипто</news:title>
     </news:news>
   </url>
 </urlset>
