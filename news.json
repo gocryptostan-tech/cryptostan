@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781103666-ajoe",
+    "timestamp": 1781103666,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "crypto",
+    "kicker_ru": "Ripple, интеграция с ИИ",
+    "kicker_en": "Ripple, AI Integration",
+    "title_ru": "Ripple выпустила набор инструментов для платежей на базе ИИ",
+    "text_ru": "Ripple представила новый набор разработчика, который позволяет AI-агентам проводить транзакции в сети XRP Ledger. Платформа теперь поддерживает платежи по стандарту x402 с использованием XRP и RLUSD, что отражает растущий спрос на автоматизированные финансовые приложения, управляемые искусственным интеллектом.\n📰 crypto.news\n✍️ Rony Roy",
+    "title_en": "Ripple Launches XRPL Toolkit for AI-Powered Payments",
+    "text_en": "Ripple has released a new developer toolkit designed to enable AI agents to conduct transactions on the XRP Ledger. The platform now supports x402 payments using XRP and RLUSD tokens, reflecting growing demand for automated, agent-driven financial applications in the blockchain ecosystem.\n📰 crypto.news\n✍️ Rony Roy",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781103362-t1xm",
     "timestamp": 1781103362,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Основатель BitMEX Артур Хейс столкнулся с критикой за продажу своих токенов Worldcoin (WLD) вскоре после того, как публично рекомендовал актив как перспективное AI-инвестирование. Выход из позиции совпал с резким падением цены WLD, что вызвало вопросы о синхронизации операции и согласованности его действий с публичными заявлениями. Инцидент спровоцировал обсуждение в крипто-сообществе относительно возможной манипуляции рынком и ответственности влиятельных фигур при выраженных инвестиционных рекомендациях.\n📰 crypto.news\n✍️ Rony Roy",
     "title_en": "Arthur Hayes exits Worldcoin position after public endorsement, sparking backlash",
     "text_en": "BitMEX founder Arthur Hayes has faced criticism for selling his Worldcoin (WLD) holdings shortly after publicly promoting the token as an AI investment opportunity. The exit coincided with a significant drop in WLD's price, raising questions about the timing and consistency of his position. The move has prompted discussions in the crypto community about potential market manipulation and the responsibilities of influential figures when making investment recommendations.\n📰 crypto.news\n✍️ Rony Roy",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780901749-ynfe",
-    "timestamp": 1780901749,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "finance",
-    "kicker_ru": "Токенизация, Одобрение SEC",
-    "kicker_en": "Tokenization, SEC Approval",
-    "title_ru": "Платформа Securitize получила одобрение SEC для выхода на NYSE",
-    "text_ru": "Компания Securitize преодолела ключевое препятствие в виде одобрения SEC на регистрационное заявление S-4, что приближает её к завершению слияния со специальной компанией Cantor Equity Partners II и листингу на Нью-йоркской бирже. Это решение регулятора является важной вехой для платформы токенизации, которая переводит традиционные ценные бумаги и активы в блокчейн.\n📰 Cointelegraph\n✍️ Martin Young",
-    "title_en": "Tokenization firm Securitize clears key SEC hurdle for NYSE listing",
-    "text_en": "Securitize has received SEC approval for its S-4 registration statement, a critical step toward completing its SPAC merger with Cantor Equity Partners II and listing on the New York Stock Exchange. The regulatory clearance marks significant progress for the tokenization platform, which digitizes traditional securities and assets on blockchain networks.\n📰 Cointelegraph\n✍️ Martin Young",
     "source": "",
     "link": "#",
     "thumb": "📰"
