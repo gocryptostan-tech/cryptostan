@@ -13,6 +13,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cryptostan.org/articles/botanix-zakryvaetsya-posle-4-let-raboty-spros-na-bitcoin-def.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/humanity-protocol-podtverdila-chto-skomprometirovannaya-mash.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -504,11 +509,6 @@
   </url>
   <url>
     <loc>https://cryptostan.org/articles/bitkoin-upal-nizhe-63-tys-na-fone-geopoliticheskikh-potryase.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/kak-padenie-nasdaq-povliyaet-na-bitkoin.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
