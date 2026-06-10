@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781118057-fexg",
+    "timestamp": 1781118057,
+    "date": "2026-06-10",
+    "date_ru": "10 июня 2026",
+    "date_en": "June 10, 2026",
+    "category": "crypto",
+    "kicker_ru": "Деривативы",
+    "kicker_en": "Derivatives",
+    "title_ru": "Перпетуальные контракты Solana запущены на Kalshi, пока DOGE и SHIB ждут одобрения",
+    "text_ru": "Регулируемая платформа деривативов Kalshi запустила перпетуальные фьючерсы на Solana, расширив своё криптопредложение. Тем временем контракты на Dogecoin и Shiba Inu находятся на этапе регуляторного одобрения, что указывает на растущий интерес институциональных инвесторов к торговле альткоин-деривативами.\n📰 crypto.news\n✍️ Lawrence Mondal",
+    "title_en": "Solana perpetuals enter Kalshi as DOGE and SHIB await approval",
+    "text_en": "Regulated derivatives platform Kalshi has launched Solana perpetual futures contracts, expanding its crypto offerings. Meanwhile, contracts for Dogecoin and Shiba Inu remain pending regulatory approval, signaling growing institutional interest in altcoin derivatives trading.\n📰 crypto.news\n✍️ Lawrence Mondal",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781117751-yze1",
     "timestamp": 1781117751,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Иран нанес массированный ракетный удар по Израилю, а израильские войска ответили ударами по военным объектам и нефтехимическому комплексу в Иране. Двухмесячное хрупкое перемирие фактически развалилось, что вызвало международные призывы к снижению напряженности и опасения дальнейшей эскалации конфликта в регионе.\n📰 nytimes.com\n✍️ The New York Times",
     "title_en": "Live Updates: Trump Calls on Iran and Israel to Stop Strikes",
     "text_en": "Iran launched waves of missiles at Israel in an escalation of regional tensions, while Israel responded with strikes on Iranian military targets and infrastructure. The exchange marks a breakdown of a fragile two-month ceasefire, prompting international calls for de-escalation as the conflict threatens wider regional instability.\n📰 nytimes.com\n✍️ The New York Times",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780912855-y5fd",
-    "timestamp": 1780912855,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "crypto",
-    "kicker_ru": "Анализ цены XRP",
-    "kicker_en": "XRP Price Analysis",
-    "title_ru": "Цена XRP может упасть до $0,90 перед восстановлением — предупреждают аналитики",
-    "text_ru": "После резкого падения на неделе XRP стабилизировался около отметки $1,14, но технические сигналы и прогнозы экспертов указывают на возможное дальнейшее снижение. Аналитики предполагают, что токен может протестировать уровень $0,90 перед образованием устойчивого дна, ссылаясь на слабую структуру графика и продолжающееся давление продавцов.\n📰 crypto.news\n✍️ Rony Roy",
-    "title_en": "XRP Price Could Plunge to $0.90 Before Finding Support, Analysts Warn",
-    "text_en": "XRP has stabilized around $1.14 following a significant weekly decline, but technical indicators and analyst forecasts suggest further downside pressure. Experts believe the token may test the $0.90 level before establishing a sustainable floor, citing weak chart structure and ongoing selling pressure in the market.\n📰 crypto.news\n✍️ Rony Roy",
     "source": "",
     "link": "#",
     "thumb": "📰"
