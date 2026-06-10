@@ -1,0 +1,35 @@
+name: Generate Article Pages
+
+on:
+  push:
+    paths:
+      - 'news.json'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Create articles folder
+        run: mkdir -p articles
+
+      - name: Generate article pages
+        run: node generate_articles.js
+
+      - name: Commit and push
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "Cryptostan Bot"
+          git add articles/ sitemap-news.xml sitemap.xml
+          git diff --staged --quiet || git commit -m "auto: generated article pages"
+          git push
