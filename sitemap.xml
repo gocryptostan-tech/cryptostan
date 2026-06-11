@@ -13,6 +13,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cryptostan.org/articles/obe-storony-vrut-ferejdun-fesharaki-o-potokakh-nefti.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/delaver-i-n-yu-dzhersi-dvizhutsya-k-zapretu-kriptovalyutnykh.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -504,11 +509,6 @@
   </url>
   <url>
     <loc>https://cryptostan.org/articles/onlajn-translyatsiya-iran-i-izrail-otstupayut-posle-obmena-u.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/amazon-zaklyuchila-mnogoletnee-soglashenie-s-corning-o-posta.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
