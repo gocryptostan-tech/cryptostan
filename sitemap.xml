@@ -13,6 +13,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cryptostan.org/articles/neft-dorozhaet-aziatskie-aktsii-padayut-posle-udarov-ssha-po.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/cftc-predlozhil-pravila-dlya-rynkov-prognozov-na-sportivnye-.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -504,11 +509,6 @@
   </url>
   <url>
     <loc>https://cryptostan.org/articles/indeks-coindesk-20-pokazyvaet-rost-near-i-tao-vozglavlyayut-.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/bitmine-priblizhaetsya-k-tseli-vladet-5-predlozheniya-ethere.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
