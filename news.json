@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781154025-88qj",
+    "timestamp": 1781154025,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "markets",
+    "kicker_ru": "Нефтяные рынки",
+    "kicker_en": "Oil Markets",
+    "title_ru": "«Обе стороны врут»: Ферейдун Фешараки о потоках нефти",
+    "text_ru": "По словам председателя-эмерита FGE NexantECA Ферейдуна Фешараки, и США, и Иран вводят в заблуждение относительно объёмов поставок нефти на фоне продолжающейся напряженности. Эксперт по энергетике утверждает, что текущие цены на нефть определяются прежде всего настроением рынка и геополитическими спекуляциями, а не реальным физическим предложением, указывая на разрыв между восприятием и реальностью на мировых энергетических рынках.\n📰 Bloomberg\n✍️ —",
+    "title_en": "'Both Sides Are Lying': Fereidun Fesharaki on Oil Flows",
+    "text_en": "According to FGE NexantECA Chairman Emeritus Fereidun Fesharaki, both the US and Iran are misleading the public regarding oil flows amid ongoing tensions. The energy expert argues that current oil prices are driven primarily by market sentiment and geopolitical speculation rather than actual physical supply movements, highlighting the disconnect between perception and reality in global energy markets.\n📰 Bloomberg\n✍️ —",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781153748-2sp8",
     "timestamp": 1781153748,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "Иран объявил об окончании своего военного удара по Израилю, в то время как премьер-министр Израиля Биньямин Нетаньяху отказался от дальнейших ответных действий под давлением президента США Дональда Трампа, сообщили американские и израильские официальные лица. Эскалация конфликта достигла временного перемирия на фоне сигналов обеих сторон о деэскалации напряженности.\n📰 The New York Times\n✍️ The New York Times",
     "title_en": "Live Updates: Iran and Israel Pull Back After Exchange of Attacks",
     "text_en": "Iran announced the completion of its military strikes against Israel, while Israeli Prime Minister Benjamin Netanyahu halted further retaliation under pressure from U.S. President Trump, according to American and Israeli officials. The escalation appears to have reached a temporary ceasefire as both sides signal de-escalation.\n📰 The New York Times\n✍️ The New York Times",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780934456-2z1f",
-    "timestamp": 1780934456,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "markets",
-    "kicker_ru": "Инфраструктура",
-    "kicker_en": "Infrastructure",
-    "title_ru": "Amazon заключила многолетнее соглашение с Corning о поставке оптоволокна для расширения центров обработки данных",
-    "text_ru": "Amazon подписала контракт с американским производителем Corning на поставку оптоволоконного кабеля для своей сети дата-центров в США. Партнёрство создаст примерно 1000 рабочих мест на производстве Corning в Северной Каролине, что поддержит развитие инфраструктуры технологического гиганта по всей стране.\n📰 crypto.news\n✍️ Irene Mukiri",
-    "title_en": "Amazon Signs Multi-Year Fiber Deal with Corning for Data Center Expansion",
-    "text_en": "Amazon has secured a multi-year agreement with Corning to supply optical fiber for its expanding U.S. data center network. The partnership will create approximately 1,000 jobs at Corning's North Carolina manufacturing facilities, supporting the tech giant's infrastructure growth across the country.\n📰 crypto.news\n✍️ Irene Mukiri",
     "source": "",
     "link": "#",
     "thumb": "📰"
