@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/lajv-obnovleniya-myagkaya-inflyatsiya-podderzhala-kripto-no-.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11</news:publication_date>
+      <news:title>Лайв-обновления: мягкая инфляция поддержала крипто, но только биткоин удержался на неделе</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/dzhim-kramer-nazval-bitkoin-plokhimi-den-gami-na-fone-ottoka.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Метрика прибыльности Ethereum упала на уровень 2017 года — грозит ли ETH новое падение?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/kitaj-predupredil-razrabotchikov-ob-opasnosti-zarubezhnykh-a.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11</news:publication_date>
-      <news:title>Китай предупредил разработчиков об опасности зарубежных AI-сервисов трансляции</news:title>
     </news:news>
   </url>
 </urlset>

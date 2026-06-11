@@ -13,6 +13,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cryptostan.org/articles/lajv-obnovleniya-myagkaya-inflyatsiya-podderzhala-kripto-no-.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/dzhim-kramer-nazval-bitkoin-plokhimi-den-gami-na-fone-ottoka.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -504,11 +509,6 @@
   </url>
   <url>
     <loc>https://cryptostan.org/articles/metrika-pribyl-nosti-ethereum-upala-na-uroven-2017-goda-groz.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/kitaj-predupredil-razrabotchikov-ob-opasnosti-zarubezhnykh-a.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
