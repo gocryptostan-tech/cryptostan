@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781172061-wgdc",
+    "timestamp": 1781172061,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "crypto",
+    "kicker_ru": "Регуляции",
+    "kicker_en": "Regulation",
+    "title_ru": "Возвращение Binance на Филиппины натолкнулось на препятствие лицензирования",
+    "text_ru": "Планы Binance вернуться на филиппинский рынок столкнулись с серьёзным препятствием: центральный банк страны указал на критический пробел в лицензировании. BSP заявил, что ни Binance, ни BlockShoals не имеют необходимых лицензий VASP (провайдеров услуг виртуальных активов), что делает одобрение SEC в режиме песочницы недостаточным для возвращения на рынок. Нехватка согласованности между различными филиппинскими регуляторами криптовалютного сектора создаёт дополнительные барьеры для входа биржи.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "title_en": "Binance Philippines return hits wall as BSP flags license gap",
+    "text_en": "Binance's plans to return to the Philippine market face a significant obstacle after the country's central bank flagged a critical licensing issue. The BSP stated that both Binance and BlockShoals lack the required VASP (Virtual Asset Service Provider) licenses, rendering the SEC's sandbox approval insufficient for market reentry. The regulatory gap highlights the complex interplay between different Philippine authorities overseeing crypto operations.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781168468-u7ms",
     "timestamp": 1781168468,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "Токенизированные акции, золото и недвижимость переживают взрывной рост: активные позиции в RWA выросли почти на 600% несмотря на ослабление общего крипторынка. Крупные банки и институциональные инвесторы стремительно внедряют блокчейн-представления традиционных активов, что указывает на смещение фокуса к практическому применению технологии вместо спекулятивной торговли.\n📰 Cointelegraph\n✍️ Sam Bourgi",
     "title_en": "Tokenized Real-World Assets Surge 600% Amid Crypto Market Downturn",
     "text_en": "Tokenized stocks, gold, and real estate are experiencing explosive growth, with active RWA positions increasing nearly 600% despite broader cryptocurrency market weakness. Major banks and institutional investors are rapidly adopting blockchain-based representations of traditional assets, signaling a shift toward practical blockchain applications beyond speculative trading.\n📰 Cointelegraph\n✍️ Sam Bourgi",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780957178-01yp",
-    "timestamp": 1780957178,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "finance",
-    "kicker_ru": "IPO",
-    "kicker_en": "IPO",
-    "title_ru": "OpenAI подала документы на листинг стоимостью более $1 триллиона",
-    "text_ru": "Создатель ChatGPT конфиденциально подал проспект эмиссии для выхода на IPO. Компания может быть оценена свыше $1 триллиона. Это означает серьёзный шаг в развитии AI-гиганта — переход от частной компании к публичной корпорации, что потенциально трансформирует технологический сектор.\n📰 Financial Times\n✍️ Не указан",
-    "title_en": "OpenAI Files for Blockbuster IPO Listing",
-    "text_en": "ChatGPT's creator has submitted a confidential IPO prospectus, with the company expected to be valued at over $1 trillion. The move marks a significant milestone for the AI giant as it prepares to transition from a private entity to a publicly traded company, potentially reshaping the technology sector.\n📰 Financial Times\n✍️ Not specified",
     "source": "",
     "link": "#",
     "thumb": "📰"
