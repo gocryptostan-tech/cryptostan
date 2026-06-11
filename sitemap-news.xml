@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/bitkoin-teryaet-vnimanie-investorov-pered-litsom-stejblkoino.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11</news:publication_date>
+      <news:title>Биткоин теряет внимание инвесторов перед лицом стейблкоинов и токенизации, считает CIO Bitwise</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/obe-storony-vrut-ferejdun-fesharaki-o-potokakh-nefti.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Сэм Бэнкман-Фрид просит Трампа о помиловании</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/onlajn-translyatsiya-iran-i-izrail-otstupayut-posle-obmena-u.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11</news:publication_date>
-      <news:title>Онлайн-трансляция: Иран и Израиль отступают после обмена ударами</news:title>
     </news:news>
   </url>
 </urlset>
