@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/ssha-nanosyat-novye-udary-po-iranu-na-fone-napryazhennosti-v.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11</news:publication_date>
+      <news:title>США наносят новые удары по Ирану на фоне напряженности в Ормузском проливе</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/spros-na-tranzaktsii-xrp-upal-na-91-5-trejdery-zaschischayut.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Полиция Южной Кореи провела обыск в офисах Bithumb из-за обвинений в протекционизме чиновника</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/5-veduschikh-besplatnykh-platform-ai-botov-dlya-torgovli-akt.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11</news:publication_date>
-      <news:title>5 ведущих бесплатных платформ AI-ботов для торговли акциями в 2026 году</news:title>
     </news:news>
   </url>
 </urlset>
