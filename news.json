@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781161258-vxv3",
+    "timestamp": 1781161258,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "crypto",
+    "kicker_ru": "Биткоин, Рынки",
+    "kicker_en": "Bitcoin, Markets",
+    "title_ru": "Джим Крамер назвал Биткоин плохими деньгами на фоне оттока ликвидности в технологические акции",
+    "text_ru": "Телеведущий CNBC Джим Крамер раскритиковал Биткоин и золото, назвав их \"плохими деньгами\", указав на переток капитала инвесторов в крупные технологические акции вроде SpaceX, Nvidia и Apple. Критика прозвучала на фоне волатильности Биткоина в июне, когда ликвидность перетекала из традиционных защитных активов в акции высокорослых технологических компаний.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "title_en": "Jim Cramer calls Bitcoin bad money as tech stocks drain liquidity",
+    "text_en": "CNBC host Jim Cramer criticized Bitcoin and gold as \"bad money,\" citing a shift in investor capital toward major tech stocks like SpaceX, Nvidia, and Apple. The comments came as Bitcoin experienced significant volatility during a June selloff, with liquidity flowing away from traditional safe-haven assets toward high-growth technology equities.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781160953-rkpw",
     "timestamp": 1781160953,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "Министерство государственной безопасности Китая выступило с предупреждением к разработчикам о рисках использования сервисов трансляции ИИ, предоставляющих доступ к иностранным моделям искусственного интеллекта. Власти выразили обеспокоенность тем, что такие платформы могут привести к утечке данных пользователей и несанкционированной передаче информации за границу, призвав разработчиков проявить осторожность при работе с этими сервисами.\n📰 crypto.news\n✍️ Irene Mukiri",
     "title_en": "China warns developers over overseas AI relay services",
     "text_en": "China's Ministry of State Security has issued a warning to developers about the risks of using AI relay services that provide access to foreign AI models. The authorities expressed concern that such platforms could leak user data and facilitate unauthorized cross-border data transfers, urging developers to exercise caution when using these services.\n📰 crypto.news\n✍️ Irene Mukiri",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780938042-w2u0",
-    "timestamp": 1780938042,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "finance",
-    "kicker_ru": "Корпоративные облигации",
-    "kicker_en": "Corporate Bonds",
-    "title_ru": "Amazon выпустит рекордные облигации на C$14 миллиардов в канадских долларах",
-    "text_ru": "Amazon привлекает C$14 миллиардов ($10 миллиардов) через инвестиционные облигации в канадских долларах, установив рекорд по величине такого выпуска. Это свидетельствует о том, что крупные американские технологические компании всё активнее обращаются к международным рынкам капитала для финансирования масштабных инвестиций в инфраструктуру искусственного интеллекта.\n📰 Bloomberg\n✍️ Brian W Smith, Chunzi Xu",
-    "title_en": "Amazon Launches Record C$14 Billion Canadian Dollar Bond Offering",
-    "text_en": "Amazon is raising C$14 billion ($10 billion) through investment-grade bonds denominated in Canadian dollars, setting a record for the largest such offering. The move reflects how major US tech companies are increasingly tapping international markets to fund their massive artificial intelligence infrastructure investments.\n📰 Bloomberg\n✍️ Brian W Smith, Chunzi Xu",
     "source": "",
     "link": "#",
     "thumb": "📰"
