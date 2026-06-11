@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781139632-uo8l",
+    "timestamp": 1781139632,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "markets",
+    "kicker_ru": "Геополитика и рынки",
+    "kicker_en": "Geopolitics & Markets",
+    "title_ru": "Нефть дорожает, азиатские акции падают после ударов США по Ирану",
+    "text_ru": "Цены на нефть выросли, а азиатские индексы снизились вслед за новыми военными ударами США по Ирану, что обострило геополитическую напряженность. Рыночные колебания усугубляют существующее давление на технологические акции, которые переживают значительный спад из-за высоких оценок в условиях общей экономической неопределенности.\n📰 Bloomberg\n✍️ Anand Krishnamoorthy, Toby Alder",
+    "title_en": "Oil Gains, Asian Stocks Fall as US Strikes Iran: Markets Wrap",
+    "text_en": "Oil prices surged while Asian stock indices declined following fresh US military strikes on Iran, intensifying geopolitical tensions. The market turbulence compounds existing pressure on technology stocks, which have been experiencing a significant selloff due to high valuations amid broader economic uncertainty.\n📰 Bloomberg\n✍️ Anand Krishnamoorthy, Toby Alder",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781139349-xvxp",
     "timestamp": 1781139349,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "Индекс CoinDesk 20 продемонстрировал широкий прирост, при этом NEAR Protocol выросла на 12,3%, а Bittensor (TAO) прибавила 12% с закрытия пятницы. Почти все активы в индексе торговались с положительным результатом, что свидетельствует о восстановлении уверенности инвесторов на рынке ведущих криптовалют.\n📰 CoinDesk\n✍️ CoinDesk Indices",
     "title_en": "CoinDesk 20 Index Shows Strong Gains as NEAR and TAO Lead Rally",
     "text_en": "The CoinDesk 20 index demonstrated broad-based strength with NEAR Protocol surging 12.3% and Bittensor (TAO) climbing 12% from Friday's close. Nearly all assets in the index traded in positive territory, signaling renewed investor confidence across major cryptocurrency holdings.\n📰 CoinDesk\n✍️ CoinDesk Indices",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780923656-ss6v",
-    "timestamp": 1780923656,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "crypto",
-    "kicker_ru": "Ethereum, Холдинги",
-    "kicker_en": "Ethereum, Holdings",
-    "title_ru": "Bitmine приближается к цели владеть 5% предложения Ethereum",
-    "text_ru": "Bitmine увеличила свои запасы Ethereum до 5,54 млн ETH стоимостью около $9,04 млрд. Компания застейкила 4,72 млн токенов через платформу MAVAN, приближаясь к амбициозной цели захватить 5% от всего предложения Ethereum на рынке.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "title_en": "Bitmine's massive Ethereum accumulation brings 5% supply goal closer",
-    "text_en": "Bitmine has increased its Ethereum holdings to 5.54 million ETH, valued at approximately $9.04 billion. The company currently has 4.72 million tokens staked through the MAVAN platform, positioning itself closer to its ambitious goal of controlling 5% of Ethereum's total supply.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "source": "",
     "link": "#",
     "thumb": "📰"
