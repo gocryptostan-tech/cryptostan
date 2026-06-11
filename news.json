@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781196959-juyb",
+    "timestamp": 1781196959,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "crypto",
+    "kicker_ru": "Платежи на стейблкойнах",
+    "kicker_en": "Stablecoin Payments",
+    "title_ru": "MassPay интегрирует USDC от Coinbase для трансграничных платежей",
+    "text_ru": "Платёжная платформа MassPay подключила стейблкоин USDC от Coinbase для ускорения и удешевления международных переводов бизнеса. Партнёрство использует блокчейн-инфраструктуру для упрощения трансграничных расчётов, сокращая количество посредников и комиссии по сравнению с традиционным банковским сектором.\n📰 Cointelegraph\n✍️ Christina Comben",
+    "title_en": "MassPay Partners With Coinbase to Launch USDC Cross-Border Payouts",
+    "text_en": "Payment platform MassPay has integrated Coinbase's USDC stablecoin to enable faster and cheaper international transfers for businesses. The partnership leverages blockchain infrastructure to streamline cross-border settlements, reducing intermediaries and transaction costs compared to traditional banking channels.\n📰 Cointelegraph\n✍️ Christina Comben",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781196134-m4tf",
     "timestamp": 1781196134,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "Управление по финансовому поведению Великобритании изучает идею разрешить паевым инвестиционным фондам розничного сегмента размещать до 10% портфеля в криптоактивы при условии согласованности с заявленными инвестиционными целями. Такой шаг станет значительным прогрессом на пути легализации цифровых активов в британской финансовой системе.\n📰 Cointelegraph\n✍️ Jesse Coghlan",
     "title_en": "UK Financial Regulator Considers Opening Crypto Markets to Retail Investors",
     "text_en": "The UK's Financial Conduct Authority is considering allowing retail investment funds to allocate up to 10% of their portfolios to cryptocurrencies, provided such exposure aligns with funds' stated investment objectives. This potential shift marks a significant step toward mainstream institutional adoption of digital assets in the British financial sector.\n📰 Cointelegraph\n✍️ Jesse Coghlan",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780984846-3pgz",
-    "timestamp": 1780984846,
-    "date": "2026-06-09",
-    "date_ru": "9 июня 2026",
-    "date_en": "June 9, 2026",
-    "category": "crypto",
-    "kicker_ru": "Биткоин, Институциональное внедрение",
-    "kicker_en": "Bitcoin, Institutional Adoption",
-    "title_ru": "Падение Биткоина не испугало институциональных инвесторов, считает стратег Coinbase",
-    "text_ru": "По мнению стратега Coinbase Джона Д'Агостино, крупные инвесторы активно накапливают Биткоин около отметки $65 тыс., несмотря на недавнюю волатильность рынка. Объёмы владения через ETF продолжают расти, а спрос корпораций на Bitcoin остаётся устойчивым — это свидетельствует, что крупные игроки рассматривают текущие падения цены как возможность для покупок, а не причину для паники.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "title_en": "Bitcoin crash fails to scare institutions, Coinbase strategist says",
-    "text_en": "According to Coinbase strategist John D'Agostino, institutional investors are actively accumulating Bitcoin near the $65,000 level despite recent market volatility. ETF ownership continues to grow steadily, and corporate demand for Bitcoin remains strong, suggesting that large players view current price dips as buying opportunities rather than reasons for concern.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "source": "",
     "link": "#",
     "thumb": "📰"
