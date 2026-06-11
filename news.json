@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781189763-42sf",
+    "timestamp": 1781189763,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "crypto",
+    "kicker_ru": "Биткоин",
+    "kicker_en": "Bitcoin",
+    "title_ru": "Биткоин держит уровень $63,2K несмотря на инфляцию и закрытие Ормузского пролива",
+    "text_ru": "Биткоин сохранил свои недавние достижения на уровне $63,2 тысячи несмотря на самый высокий с октября 2022 года рост инфляции производителей в США и растущую геополитическую напряженность после закрытия Ираном Ормузского пролива. Устойчивость криптовалюты указывает на то, что инвесторы сосредоточены на долгосрочных макротрендах, а не на краткосрочных экономических данных и региональных конфликтах.\n📰 Cointelegraph\n✍️ William Suberg",
+    "title_en": "Bitcoin tags $63.2K as BTC price action ignores inflation and geopolitical tensions",
+    "text_en": "Bitcoin maintained its recent gains near $63,200 despite the highest US producer price inflation since October 2022 and escalating geopolitical tensions following Iran's closure of the Strait of Hormuz. The cryptocurrency's resilience suggests investors are focusing on broader macro trends rather than short-term economic data and regional conflicts.\n📰 Cointelegraph\n✍️ William Suberg",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781186452-d8jc",
     "timestamp": 1781186452,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "SpaceX готовится к крупнейшему размещению акций с оценкой компании в $1,78 триллиона, предлагая инвесторам оценить потенциал будущих прорывов в искусственном интеллекте, спутниковой сети Starlink и космических вычислительных технологий. Это IPO представляет существенную ставку на технологические инновации, которые еще годы будут оставаться на этапе разработки, отражая как амбиции, так и риски космического предприятия Илона Маска.\n📰 Financial Times\n✍️ Не указан",
     "title_en": "SpaceX's $1.78 Trillion IPO: Investors Asked to Bet on Musk's Ambitious Projects",
     "text_en": "SpaceX is preparing for a landmark public offering valuing the company at $1.78 trillion, asking investors to price in future breakthroughs in artificial intelligence, Starlink satellite internet, and space-based computing infrastructure. The IPO represents a significant bet on technological innovations that remain years away from full commercialization, reflecting both the ambitious vision and inherent risks of Elon Musk's space enterprise.\n📰 Financial Times\n✍️ Not specified",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780977793-i6kj",
-    "timestamp": 1780977793,
-    "date": "2026-06-09",
-    "date_ru": "9 июня 2026",
-    "date_en": "June 9, 2026",
-    "category": "politics",
-    "kicker_ru": "Напряженность на Ближнем Востоке",
-    "kicker_en": "Middle East Tensions",
-    "title_ru": "Израиль приостановил удары по Ирану после заявлений Трампа о прогрессе в переговорах по ядерной программе",
-    "text_ru": "Премьер-министр Израиля Биньямин Нетаньяху объявил, что военные операции страны находятся в режиме ожидания после разговора с президентом Трампом, который утверждает о прогрессе в ядерных переговорах. Иран также согласился приостановить свои атаки, но обе страны остаются в боевой готовности и готовы возобновить боевые действия в случае срыва переговоров.\n📰 The New York Times\n✍️ The New York Times",
-    "title_en": "Israel Halts Iran Strikes After Trump Claims Progress Toward Nuclear Talks",
-    "text_en": "Prime Minister Benjamin Netanyahu announced that Israel is putting military operations \"on hold\" following a conversation with President Trump, who claims to be making headway in nuclear negotiations. Iran has also agreed to pause its attacks but both nations remain on high alert, ready to resume hostilities if talks deteriorate.\n📰 The New York Times\n✍️ The New York Times",
     "source": "",
     "link": "#",
     "thumb": "📰"
