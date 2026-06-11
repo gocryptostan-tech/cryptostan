@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781168152-hmel",
+    "timestamp": 1781168152,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "crypto",
+    "kicker_ru": "Принятие на рынке",
+    "kicker_en": "Market Adoption",
+    "title_ru": "Консультанты TradFi выбирают стейблкоины и токенизацию вместо биткоина",
+    "text_ru": "По словам Мэтта Хугана из Bitwise, традиционные финансовые консультанты проявляют ограниченный интерес к биткоину, отдавая предпочтение стейблкоинам и токенизации активов как более практичным решениям для институционального внедрения крипто-технологий.\n📰 Cointelegraph\n✍️ Jesse Coghlan",
+    "title_en": "TradFi advisers prefer stablecoins and tokenization over Bitcoin",
+    "text_en": "According to Bitwise's Matt Hougan, traditional finance advisers show limited interest in Bitcoin during recent market discussions, instead focusing on stablecoins and asset tokenization as more practical solutions for institutional adoption.\n📰 Cointelegraph\n✍️ Jesse Coghlan",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781164847-mln4",
     "timestamp": 1781164847,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "Сеть Sui запустила уникальную систему конфиденциальности, которая скрывает балансы токенов и суммы транзакций от общественности, но предоставляет регуляторам и специалистам по соответствию доступ для аудита. Такой подход выделяет Sui среди традиционных приватных монет, поскольку пытается найти компромисс между анонимностью пользователей и государственным контролем.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "title_en": "Sui Launches Privacy Feature That Balances User Protection With Regulatory Compliance",
     "text_en": "Sui has introduced a novel privacy system now in public testing that conceals token balances and transaction amounts from the public while granting regulators and compliance officers backdoor access for audits. This approach sets Sui apart from traditional privacy coins by attempting to reconcile anonymity with regulatory oversight, potentially offering a middle ground between financial secrecy and government control.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780952149-cn40",
-    "timestamp": 1780952149,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "crypto",
-    "kicker_ru": "Биткоин, Рынки",
-    "kicker_en": "Bitcoin, Markets",
-    "title_ru": "Киты скупают Биткоин на исторических минимумах RSI — аналитики видят поколенческую возможность",
-    "text_ru": "Биткоин демонстрирует исторически низкие показатели индекса относительной силы (RSI), а крупные китовые инвесторы активно накапливают позиции. Аналитики называют это поколенческой возможностью для входа в позицию. Однако эксперты по-прежнему прогнозируют дальнейшее падение цены ниже $60 000 перед началом устойчивого восстановления.\n📰 Cointelegraph\n✍️ Biraajmaan Tamuly",
-    "title_en": "'Best thesis' for Bitcoin accumulation surfaces despite current downside risk: Analyst",
-    "text_en": "Bitcoin is showing historically low RSI (Relative Strength Index) readings while major whale investors are actively accumulating, creating what analysts describe as a generational buying opportunity. Despite these positive signals, market experts still anticipate further downside with potential BTC prices falling below $60,000 before any sustained recovery begins.\n📰 Cointelegraph\n✍️ Biraajmaan Tamuly",
     "source": "",
     "link": "#",
     "thumb": "📰"
