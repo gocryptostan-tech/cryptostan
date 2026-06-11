@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781146549-xfab",
+    "timestamp": 1781146549,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "crypto",
+    "kicker_ru": "XRP, Рынки",
+    "kicker_en": "XRP, Markets",
+    "title_ru": "Спрос на транзакции XRP упал на 91,5% — трейдеры защищают уровень $0,65",
+    "text_ru": "Активность сети XRP достигла рекордного минимума: спрос на транзакции упал на 91,5%, а прибыльность инвесторов находится на историческом дне. Торговцы сосредоточены на защите критической зоны поддержки между $1 и $0,65, где нижний уровень представляет ключевой технический барьер. Резкое снижение активности в сети отражает ослабление импульса на рынке альткойнов и растущую неопределённость среди держателей активов.\n📰 Cointelegraph\n✍️ Biraajmaan Tamuly",
+    "title_en": "XRP Transaction Demand Plummets 91.5% as Traders Watch Critical Support Level",
+    "text_en": "Activity on the XRP network has collapsed to record lows, with transaction demand falling 91.5% as investor profitability reaches historic minimums. Traders are now focused on defending the critical support zone between $1 and $0.65, with the lower level representing a key technical barrier. The sharp decline in network activity reflects weakening momentum in the altcoin market and growing uncertainty among hodlers.\n📰 Cointelegraph\n✍️ Biraajmaan Tamuly",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781139632-uo8l",
     "timestamp": 1781139632,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "В 2026 году AI-боты для торговли акциями становятся доступнее для розничных трейдеров. Большинство платформ предлагают бесплатные пробные периоды и демо-счета для тестирования стратегий без риска. Однако \"бесплатный доступ\" не означает неограниченные возможности—обычно платформы ограничивают функционал или требуют внесения депозита после истечения пробного периода. Это позволяет трейдерам экспериментировать с автоматизированной торговлей без крупных начальных инвестиций.\n📰 crypto.news\n✍️ Guest Post",
     "title_en": "5 Leading Free AI Stock Trading Bot Platforms in 2026",
     "text_en": "AI-powered stock trading bots are becoming increasingly accessible to retail traders in 2026, with most platforms offering free trials and paper trading capabilities. However, \"free\" doesn't always mean unlimited access—most platforms restrict features or require deposits after trial periods. Traders can test automation strategies risk-free before committing real capital, making these tools attractive for those exploring algorithmic trading without significant upfront investment.\n📰 crypto.news\n✍️ Guest Post",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780926144-l72n",
-    "timestamp": 1780926144,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "crypto",
-    "kicker_ru": "Рынки",
-    "kicker_en": "Markets",
-    "title_ru": "Индекс CoinDesk 20 показывает рост — NEAR и TAO возглавляют восстание",
-    "text_ru": "Индекс CoinDesk 20 продемонстрировал широкий прирост, при этом NEAR Protocol выросла на 12,3%, а Bittensor (TAO) прибавила 12% с закрытия пятницы. Почти все активы в индексе торговались с положительным результатом, что свидетельствует о восстановлении уверенности инвесторов на рынке ведущих криптовалют.\n📰 CoinDesk\n✍️ CoinDesk Indices",
-    "title_en": "CoinDesk 20 Index Shows Strong Gains as NEAR and TAO Lead Rally",
-    "text_en": "The CoinDesk 20 index demonstrated broad-based strength with NEAR Protocol surging 12.3% and Bittensor (TAO) climbing 12% from Friday's close. Nearly all assets in the index traded in positive territory, signaling renewed investor confidence across major cryptocurrency holdings.\n📰 CoinDesk\n✍️ CoinDesk Indices",
     "source": "",
     "link": "#",
     "thumb": "📰"
