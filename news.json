@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781164847-mln4",
+    "timestamp": 1781164847,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "crypto",
+    "kicker_ru": "Технология приватности",
+    "kicker_en": "Privacy Technology",
+    "title_ru": "Circle запустила Arc Privacy для конфиденциальных смарт-контрактов",
+    "text_ru": "Платформа Circle представила новые функции приватности для своего блокчейна Arc, позволяющие создавать конфиденциальные смарт-контракты, защищающие чувствительные финансовые данные при сохранении возможностей соответствия требованиям и аудита. Анонс от 10 июня открывает для институциональных инвесторов возможность проводить транзакции с повышенной приватностью без ущерба для надзора регуляторов — важный шаг в массовом внедрении блокчейна на финансовом рынке.\n📰 crypto.news\n✍️ Rony Roy",
+    "title_en": "Circle Launches Arc Privacy for Confidential Smart Contracts",
+    "text_en": "Circle has introduced new privacy features for its Arc blockchain, enabling confidential smart contracts that protect sensitive financial data while maintaining compliance and audit functionality. The announcement, made on June 10, allows institutions to execute transactions with enhanced privacy without compromising regulatory oversight, representing a significant step toward institutional adoption of blockchain technology.\n📰 crypto.news\n✍️ Rony Roy",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781163724-sxp1",
     "timestamp": 1781163724,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "Биткоин демонстрирует исторически низкие показатели индекса относительной силы (RSI), а крупные китовые инвесторы активно накапливают позиции. Аналитики называют это поколенческой возможностью для входа в позицию. Однако эксперты по-прежнему прогнозируют дальнейшее падение цены ниже $60 000 перед началом устойчивого восстановления.\n📰 Cointelegraph\n✍️ Biraajmaan Tamuly",
     "title_en": "'Best thesis' for Bitcoin accumulation surfaces despite current downside risk: Analyst",
     "text_en": "Bitcoin is showing historically low RSI (Relative Strength Index) readings while major whale investors are actively accumulating, creating what analysts describe as a generational buying opportunity. Despite these positive signals, market experts still anticipate further downside with potential BTC prices falling below $60,000 before any sustained recovery begins.\n📰 Cointelegraph\n✍️ Biraajmaan Tamuly",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780948846-igcb",
-    "timestamp": 1780948846,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "crypto",
-    "kicker_ru": "Ethereum, Анализ рынка",
-    "kicker_en": "Ethereum, Market Analysis",
-    "title_ru": "Метрика прибыльности Ethereum упала на уровень 2017 года — грозит ли ETH новое падение?",
-    "text_ru": "Ethereum снизился до многолетних минимумов, так как ключевой он-чейн показатель прибыльности упал до самого низкого уровня с 2017 года. Это вызывает опасения, что рынок уже полностью учел текущий медвежий цикл. Падение этого показателя указывает на то, что пессимизм инвесторов может достичь критической точки, оставляя неясным, произойдет ли дальнейшее снижение или начнется восстановление.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "title_en": "Ethereum profit metric hits 2017 low, can ETH avoid another leg down?",
-    "text_en": "Ethereum has dropped to multi-year lows as a key on-chain profitability metric falls to its lowest level since 2017, raising concerns about whether the market has fully priced in the current bear cycle. The decline in this metric suggests investor pessimism may have reached critical levels, leaving questions about whether further downside pressure is imminent or if a recovery is possible.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "source": "",
     "link": "#",
     "thumb": "📰"
