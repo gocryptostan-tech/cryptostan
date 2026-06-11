@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/citibank-zapuskaet-dostup-na-chastnye-rynki-cherez-tokenizir.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11</news:publication_date>
+      <news:title>Citibank запускает доступ на частные рынки через токенизированные акции</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/etsb-povysil-stavki-vpervye-s-2023-goda-na-fone-rosta-inflya.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-11</news:publication_date>
       <news:title>OpenAI подала конфиденциальную заявку на выход на IPO в США</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/tatuirovki-na-lbu-i-alkogol-nye-chellendzhi-tenevaya-storona.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11</news:publication_date>
-      <news:title>Татуировки на лбу и алкогольные челленджи: теневая сторона бума мемкойнов</news:title>
     </news:news>
   </url>
 </urlset>

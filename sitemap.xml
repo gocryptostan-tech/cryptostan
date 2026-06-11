@@ -13,6 +13,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cryptostan.org/articles/citibank-zapuskaet-dostup-na-chastnye-rynki-cherez-tokenizir.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/etsb-povysil-stavki-vpervye-s-2023-goda-na-fone-rosta-inflya.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -504,11 +509,6 @@
   </url>
   <url>
     <loc>https://cryptostan.org/articles/openai-podala-konfidentsial-nuyu-zayavku-na-vykhod-na-ipo-v-.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/tatuirovki-na-lbu-i-alkogol-nye-chellendzhi-tenevaya-storona.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
