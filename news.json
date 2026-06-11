@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781179255-v5it",
+    "timestamp": 1781179255,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "crypto",
+    "kicker_ru": "Финансирование",
+    "kicker_en": "Funding",
+    "title_ru": "Digital Asset Holdings привлекла $355 млн от Andreessen Horowitz",
+    "text_ru": "Digital Asset Holdings завершила раунд финансирования объёмом $355 млн с ведущей ролью венчурного фонда Andreessen Horowitz. Инвестиции направлены на развитие Canton Network — платформы для токенизации традиционных финансовых активов и интеграции с институциональными игроками Wall Street. Раунд демонстрирует растущее доверие финансовых институтов к корпоративным блокчейн-решениям с приватностью для торговли и управления активами.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "title_en": "Digital Asset Holdings Secures $355M from Andreessen Horowitz",
+    "text_en": "Digital Asset Holdings closed a $355 million funding round led by venture capital giant Andreessen Horowitz (a16z). The investment will accelerate the development of Canton Network, a platform designed to tokenize traditional financial assets and enable seamless integration between Wall Street institutions and blockchain infrastructure. The round signals growing institutional confidence in enterprise blockchain solutions for privacy-focused trading and asset management.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781175662-teqq",
     "timestamp": 1781175662,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "Азиатские фондовые рынки восстановились после самого крупного падения с марта благодаря смягчению напряженности на Ближнем Востоке и стабилизации технологического сектора. Распродажа акций, связанных с искусственным интеллектом, дала разворот, так как геополитические опасения снизились, а цены на нефть упали, что свидетельствует об уменьшении беспокойства инвесторов по поводу эскалации в регионе.\n📰 Bloomberg\n✍️ Anand Krishnamoorthy",
     "title_en": "Asian Stocks Rebound on Iran Optimism, Oil Slips: Markets Wrap",
     "text_en": "Asian stock markets recovered from their sharpest decline since March following easing Middle East tensions and a stabilization in the technology sector. The pullback in AI-related stocks reversed course as geopolitical concerns diminished and oil prices declined, signaling reduced market anxiety over regional escalation.\n📰 Bloomberg\n✍️ Anand Krishnamoorthy",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780963257-sizt",
-    "timestamp": 1780963257,
-    "date": "2026-06-09",
-    "date_ru": "9 июня 2026",
-    "date_en": "June 9, 2026",
-    "category": "technology",
-    "kicker_ru": "ИИ и партнёрства",
-    "kicker_en": "AI & Partnerships",
-    "title_ru": "Nvidia расширяет сотрудничество с корейскими технологическими лидерами в сфере ИИ",
-    "text_ru": "Nvidia объявила о стратегических партнёрствах с крупнейшими южнокорейскими компаниями — SK Hynix, Naver, SK Telecom, Doosan Group, LG Group и Hyundai Motor Group. Визит генерального директора Дженсена Хуанга в Сеул завершился подписанием соглашений в области полупроводников, облачной инфраструктуры и робототехники. Эти сотрудничества укрепляют позицию Nvidia на быстрорастущем южнокорейском рынке искусственного интеллекта.\n📰 crypto.news\n✍️ Irene Mukiri",
-    "title_en": "Nvidia Expands AI Partnerships Across South Korea's Tech Giants",
-    "text_en": "Nvidia has announced strategic partnerships with major South Korean companies including SK Hynix, Naver, SK Telecom, Doosan Group, LG Group, and Hyundai Motor Group. CEO Jensen Huang's visit to Seoul resulted in agreements spanning semiconductor chips, cloud infrastructure, and robotics development. These collaborations position Nvidia to deepen its influence in South Korea's rapidly growing AI ecosystem.\n📰 crypto.news\n✍️ Irene Mukiri",
     "source": "",
     "link": "#",
     "thumb": "📰"
