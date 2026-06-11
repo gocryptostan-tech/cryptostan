@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781197256-8jeo",
+    "timestamp": 1781197256,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "crypto",
+    "kicker_ru": "Рынки прогнозов",
+    "kicker_en": "Prediction Markets",
+    "title_ru": "SeerDEX привлекает внимание инвесторов благодаря автоматизации создания рынков прогнозов",
+    "text_ru": "SeerDEX решает критическую проблему рынков прогнозов, заменив ручное одобрение на автоматизированное создание рынков. Пользователи платформ вроде Polymarket давно жалуются на нехватку нужных им рынков — причина не в отсутствии спроса, а в операционных узких местах. Благодаря автоматизированному подходу SeerDEX рассчитывает разблокировать ликвидность и расширить предложение рынков в масштабах платформы.\n📰 crypto.news\n✍️ Samuel Msiska",
+    "title_en": "SeerDEX Gains Traction as Solution to Prediction Market Limitations",
+    "text_en": "SeerDEX is addressing a key pain point in prediction markets by automating market creation instead of relying on manual approval processes. Users of platforms like Polymarket have long complained about missing markets — not due to lack of interest, but because of operational bottlenecks. SeerDEX's automated approach aims to unlock liquidity and expand market offerings at scale.\n📰 crypto.news\n✍️ Samuel Msiska",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781196959-juyb",
     "timestamp": 1781196959,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "Ethereum торгуется около $1,691, технические индикаторы сигнализируют о давлении на поддержку $1,500. В то же время BitMine накопил 126,971 ETH на спаде, что может стать опорой для цены и переломить медвежий тренд, отражённый в показаниях MACD и Aroon.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "title_en": "Ethereum price nears $1,700, can BitMine buying stop a $1,500 retest?",
     "text_en": "Ethereum is trading around $1,691 as technical indicators suggest continued downside pressure toward the $1,500 support level. However, BitMine's recent accumulation of 126,971 ETH during the dip could provide a floor for the price and potentially reverse the bearish momentum shown by MACD and Aroon indicators.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780988149-ucdc",
-    "timestamp": 1780988149,
-    "date": "2026-06-09",
-    "date_ru": "9 июня 2026",
-    "date_en": "June 9, 2026",
-    "category": "law",
-    "kicker_ru": "Регуляция",
-    "kicker_en": "Regulation",
-    "title_ru": "Британский регулятор рассматривает возможность открыть крипторынок для розничных инвесторов",
-    "text_ru": "Управление по финансовому поведению Великобритании изучает идею разрешить паевым инвестиционным фондам розничного сегмента размещать до 10% портфеля в криптоактивы при условии согласованности с заявленными инвестиционными целями. Такой шаг станет значительным прогрессом на пути легализации цифровых активов в британской финансовой системе.\n📰 Cointelegraph\n✍️ Jesse Coghlan",
-    "title_en": "UK Financial Regulator Considers Opening Crypto Markets to Retail Investors",
-    "text_en": "The UK's Financial Conduct Authority is considering allowing retail investment funds to allocate up to 10% of their portfolios to cryptocurrencies, provided such exposure aligns with funds' stated investment objectives. This potential shift marks a significant step toward mainstream institutional adoption of digital assets in the British financial sector.\n📰 Cointelegraph\n✍️ Jesse Coghlan",
     "source": "",
     "link": "#",
     "thumb": "📰"
