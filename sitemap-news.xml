@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/kriptovalyuty-stanovyatsya-klyuchevym-voprosom-vyborov-2026-.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11</news:publication_date>
+      <news:title>Криптовалюты становятся ключевым вопросом выборов 2026 года</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/bitkoin-teryaet-vnimanie-investorov-pered-litsom-stejblkoino.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Поддержка Биткоина на уровне $60К под угрозой на фоне макроэкономических рисков</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/sem-benkman-frid-prosit-trampa-o-pomilovanii.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11</news:publication_date>
-      <news:title>Сэм Бэнкман-Фрид просит Трампа о помиловании</news:title>
     </news:news>
   </url>
 </urlset>
