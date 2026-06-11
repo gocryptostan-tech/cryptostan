@@ -13,6 +13,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cryptostan.org/articles/frontirnye-ai-modeli-vyzvali-apokalipsis-uyazvimostej-v-bezo.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/digital-asset-holdings-privlekla-355-mln-ot-andreessen-horow.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -504,11 +509,6 @@
   </url>
   <url>
     <loc>https://cryptostan.org/articles/tsena-zcash-vyrosla-na-50-na-fone-predlozheniya-setevogo-obn.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/aziatskie-aktsii-otskochili-na-fone-optimizma-po-iranu-neft-.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

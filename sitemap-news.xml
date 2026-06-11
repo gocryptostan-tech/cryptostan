@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/frontirnye-ai-modeli-vyzvali-apokalipsis-uyazvimostej-v-bezo.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11</news:publication_date>
+      <news:title>Фронтирные AI-модели вызвали «апокалипсис уязвимостей» в безопасности крипто: глава Immunefi</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/digital-asset-holdings-privlekla-355-mln-ot-andreessen-horow.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Цена Zcash выросла на 50% на фоне предложения сетевого обновления Ironwood</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/aziatskie-aktsii-otskochili-na-fone-optimizma-po-iranu-neft-.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11</news:publication_date>
-      <news:title>Азиатские акции отскочили на фоне оптимизма по Ирану, нефть падает</news:title>
     </news:news>
   </url>
 </urlset>
