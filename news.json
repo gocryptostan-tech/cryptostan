@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781163724-sxp1",
+    "timestamp": 1781163724,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "markets",
+    "kicker_ru": "Биткоин, Инфляционные данные",
+    "kicker_en": "Bitcoin, Inflation Data",
+    "title_ru": "Лайв-обновления: мягкая инфляция поддержала крипто, но только биткоин удержался на неделе",
+    "text_ru": "Данные майовского индекса потребительских цен оказались выше прогнозов благодаря росту энергоносителей, тогда как базовая инфляция осталась умеренной. Это спровоцировало кратковременный рост криптовалют в четверг. Однако только Биткоин завершил неделю в плюсе, в то время как Ethereum и другие крупные альткойны упали на 6-8%.\n📰 CoinDesk\n✍️ Shaurya Malwa",
+    "title_en": "Live updates: Soft core inflation gave crypto a bounce, but only bitcoin held up on the week",
+    "text_en": "May's CPI data came in hotter than expected on energy prices while core inflation remained subdued, triggering a brief rally in major cryptocurrencies on Thursday. However, Bitcoin was the only major digital asset to finish the week in positive territory, while Ethereum and other large-cap altcoins declined 6-8% over the seven-day period.\n📰 CoinDesk\n✍️ Shaurya Malwa",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781161258-vxv3",
     "timestamp": 1781161258,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "Ethereum снизился до многолетних минимумов, так как ключевой он-чейн показатель прибыльности упал до самого низкого уровня с 2017 года. Это вызывает опасения, что рынок уже полностью учел текущий медвежий цикл. Падение этого показателя указывает на то, что пессимизм инвесторов может достичь критической точки, оставляя неясным, произойдет ли дальнейшее снижение или начнется восстановление.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "title_en": "Ethereum profit metric hits 2017 low, can ETH avoid another leg down?",
     "text_en": "Ethereum has dropped to multi-year lows as a key on-chain profitability metric falls to its lowest level since 2017, raising concerns about whether the market has fully priced in the current bear cycle. The decline in this metric suggests investor pessimism may have reached critical levels, leaving questions about whether further downside pressure is imminent or if a recovery is possible.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780938049-6vb6",
-    "timestamp": 1780938049,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "politics",
-    "kicker_ru": "Регулирование ИИ",
-    "kicker_en": "AI Regulation",
-    "title_ru": "Китай предупредил разработчиков об опасности зарубежных AI-сервисов трансляции",
-    "text_ru": "Министерство государственной безопасности Китая выступило с предупреждением к разработчикам о рисках использования сервисов трансляции ИИ, предоставляющих доступ к иностранным моделям искусственного интеллекта. Власти выразили обеспокоенность тем, что такие платформы могут привести к утечке данных пользователей и несанкционированной передаче информации за границу, призвав разработчиков проявить осторожность при работе с этими сервисами.\n📰 crypto.news\n✍️ Irene Mukiri",
-    "title_en": "China warns developers over overseas AI relay services",
-    "text_en": "China's Ministry of State Security has issued a warning to developers about the risks of using AI relay services that provide access to foreign AI models. The authorities expressed concern that such platforms could leak user data and facilitate unauthorized cross-border data transfers, urging developers to exercise caution when using these services.\n📰 crypto.news\n✍️ Irene Mukiri",
     "source": "",
     "link": "#",
     "thumb": "📰"
