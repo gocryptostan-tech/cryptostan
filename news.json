@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781190046-z5nh",
+    "timestamp": 1781190046,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "law",
+    "kicker_ru": "Отмывание криптовалют",
+    "kicker_en": "Crypto Laundering",
+    "title_ru": "Операторов сервиса AudiA6 обвинили в США в отмывании $389 млн криптовалют",
+    "text_ru": "Федеральные прокуроры предъявили обвинения двум операторам криптовалютного сервиса отмывания денег, который с момента запуска в 2021 году обработал более $389 млн транзакций и получил свыше 10 тысяч Bitcoin. Прокуратура восточного округа США начала судебное преследование подозреваемых, которых обвиняют в организации незаконной схемы отмывания средств через цифровые активы.\n📰 crypto.news\n✍️ Rony Roy",
+    "title_en": "AudiA6 Operators Charged in U.S. Over Alleged $389M Crypto Laundering Network",
+    "text_en": "Federal prosecutors have charged two operators of a cryptocurrency laundering service that allegedly processed over $389 million in transactions and received more than 10,000 Bitcoin since its launch in 2021. The U.S. Attorney's Office for the Eastern District has initiated legal proceedings against the suspects accused of running the illegal money-laundering operation through digital assets.\n📰 crypto.news\n✍️ Rony Roy",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781189763-42sf",
     "timestamp": 1781189763,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "Фонд Humanity Protocol пережил серьёзный инцидент безопасности: приватные ключи члена фундации были скомпрометированы, что привело к краже примерно $30 млн токенов Humanity Protocol. Взлом спровоцировал значительное падение цены нативного токена и вызвал вопросы о мерах безопасности в организации, а также нанёс ущерб держателям токенов.\n📰 Cointelegraph\n✍️ Martin Young",
     "title_en": "Humanity Protocol token crashes 85% after $30M private key compromise",
     "text_en": "The Humanity Foundation suffered a major security incident when private keys of a foundation member were compromised, leading to the theft of approximately $30 million worth of Humanity Protocol tokens. The exploit triggered a significant price collapse of the native token, raising concerns about security practices within the organization and affecting token holders.\n📰 Cointelegraph\n✍️ Martin Young",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780978779-nw2f",
-    "timestamp": 1780978779,
-    "date": "2026-06-09",
-    "date_ru": "9 июня 2026",
-    "date_en": "June 9, 2026",
-    "category": "markets",
-    "kicker_ru": "IPO SpaceX",
-    "kicker_en": "SpaceX IPO",
-    "title_ru": "IPO SpaceX на $1,78 триллиона: инвесторы ставят на амбициозные проекты Маска",
-    "text_ru": "SpaceX готовится к крупнейшему размещению акций с оценкой компании в $1,78 триллиона, предлагая инвесторам оценить потенциал будущих прорывов в искусственном интеллекте, спутниковой сети Starlink и космических вычислительных технологий. Это IPO представляет существенную ставку на технологические инновации, которые еще годы будут оставаться на этапе разработки, отражая как амбиции, так и риски космического предприятия Илона Маска.\n📰 Financial Times\n✍️ Не указан",
-    "title_en": "SpaceX's $1.78 Trillion IPO: Investors Asked to Bet on Musk's Ambitious Projects",
-    "text_en": "SpaceX is preparing for a landmark public offering valuing the company at $1.78 trillion, asking investors to price in future breakthroughs in artificial intelligence, Starlink satellite internet, and space-based computing infrastructure. The IPO represents a significant bet on technological innovations that remain years away from full commercialization, reflecting both the ambitious vision and inherent risks of Elon Musk's space enterprise.\n📰 Financial Times\n✍️ Not specified",
     "source": "",
     "link": "#",
     "thumb": "📰"
