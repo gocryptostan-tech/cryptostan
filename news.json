@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781193649-uhej",
+    "timestamp": 1781193649,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "finance",
+    "kicker_ru": "Торговые платформы",
+    "kicker_en": "Trading Platforms",
+    "title_ru": "Гайд 2026: Платформы для дневной торговли канадских трейдеров",
+    "text_ru": "Обзор ведущих платформ для дневной торговли, доступных канадским инвесторам, с акцентом на комиссионные сборы, скорость исполнения ордеров и надзор регуляторов. Статья подробно разбирает, как издержки торговли влияют на прибыльность внутридневной торговли и почему быстрое исполнение критично для активных трейдеров, стремящихся получить преимущество на волатильных рынках.\n📰 crypto.news\n✍️ Guest Post",
+    "title_en": "2026 Guide to Day Trading Platforms for Canadian Traders",
+    "text_en": "A comprehensive review of leading day trading platforms available to Canadian investors, emphasizing critical factors like commission rates, execution speed, and regulatory protections. The article highlights how trading costs directly impact intraday profitability and explains why fast order execution matters for active traders seeking competitive advantages in volatile markets.\n📰 crypto.news\n✍️ Guest Post",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781190046-z5nh",
     "timestamp": 1781190046,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "Федеральный судья аннулировал указ президента Трампа о введении сбора в $100 тысяч за подачу заявления на визу H-1B, что дает передышку технологическим компаниям США, зависящим от найма иностранных специалистов. Решение суда блокирует значительное препятствие для найма в IT-сфере и демонстрирует границы исполнительной власти в области иммиграционной политики.\n📰 Bloomberg\n✍️ Sankalp Phartiyal",
     "title_en": "Trump's $100,000 H-1B Visa Fee Struck Down by Federal Judge",
     "text_en": "A federal judge has invalidated President Trump's executive order imposing a $100,000 fee on H-1B visa applications, offering relief to US technology companies dependent on foreign skilled labor. The ruling prevents a significant barrier to tech industry hiring and underscores judicial limits on executive immigration policy.\n📰 Bloomberg\n✍️ Sankalp Phartiyal",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780980949-swc2",
-    "timestamp": 1780980949,
-    "date": "2026-06-09",
-    "date_ru": "9 июня 2026",
-    "date_en": "June 9, 2026",
-    "category": "crypto",
-    "kicker_ru": "Взлом безопасности",
-    "kicker_en": "Security Breach",
-    "title_ru": "Токен Humanity Protocol рухнул на 85% после компрометации приватных ключей на $30M",
-    "text_ru": "Фонд Humanity Protocol пережил серьёзный инцидент безопасности: приватные ключи члена фундации были скомпрометированы, что привело к краже примерно $30 млн токенов Humanity Protocol. Взлом спровоцировал значительное падение цены нативного токена и вызвал вопросы о мерах безопасности в организации, а также нанёс ущерб держателям токенов.\n📰 Cointelegraph\n✍️ Martin Young",
-    "title_en": "Humanity Protocol token crashes 85% after $30M private key compromise",
-    "text_en": "The Humanity Foundation suffered a major security incident when private keys of a foundation member were compromised, leading to the theft of approximately $30 million worth of Humanity Protocol tokens. The exploit triggered a significant price collapse of the native token, raising concerns about security practices within the organization and affecting token holders.\n📰 Cointelegraph\n✍️ Martin Young",
     "source": "",
     "link": "#",
     "thumb": "📰"
