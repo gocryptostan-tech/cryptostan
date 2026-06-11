@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781194785-z6sz",
+    "timestamp": 1781194785,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "politics",
+    "kicker_ru": "Санкции против Ирана",
+    "kicker_en": "Iran Sanctions",
+    "title_ru": "Трамп обещает установить «полный контроль» над иранским рынком нефти и газа",
+    "text_ru": "Президент США Дональд Трамп заявил о намерении захватить контроль над энергетическим сектором Ирана, включая стратегически важный нефтяной терминал на острове Харк. Такое заявление означает серьезную эскалацию давления США на иранскую экономику и может существенно повлиять на мировые цены на нефть и геополитическую напряженность на Ближнем Востоке.\n📰 Financial Times\n✍️ —",
+    "title_en": "Trump vows to take 'total control' of Iran's oil and gas markets",
+    "text_en": "US President Donald Trump has declared intentions to seize control of Iran's energy sector, including the strategically important Kharg Island export terminal. The statement signals a major escalation in US pressure on Iran's economy and could significantly impact global oil markets and geopolitical tensions in the Middle East.\n📰 Financial Times\n✍️ —",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781193649-uhej",
     "timestamp": 1781193649,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "Исследователи консорциума IC3 уточнили, что хотя криптокошельки могут автоматизировать платежи для систем ИИ и создавать неизменяемые записи о транзакциях, они не могут решить фундаментальные проблемы — подтверждение подлинности контента, устранение смещения алгоритмов или предоставление истинной автономности искусственному интеллекту. Исследование развеивает заблуждения о роли блокчейна в развитии ИИ, подчеркивая, что одна техническая инфраструктура не может решить эти глубокие проблемы.\n📰 Crypto.news\n✍️ Olivia Stephanie",
     "title_en": "Crypto wallets do not make AI autonomous, IC3 study warns",
     "text_en": "Researchers from the IC3 blockchain research consortium have clarified that while cryptocurrency wallets can automate payments for AI systems and create immutable transaction records, they cannot solve fundamental problems like verifying content authenticity, eliminating algorithmic bias, or granting true autonomy to AI. The study challenges misconceptions about blockchain's role in AI development, emphasizing that technical infrastructure alone cannot address these deeper challenges.\n📰 Crypto.news\n✍️ Olivia Stephanie",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780981245-2bza",
-    "timestamp": 1780981245,
-    "date": "2026-06-09",
-    "date_ru": "9 июня 2026",
-    "date_en": "June 9, 2026",
-    "category": "politics",
-    "kicker_ru": "Иммиграционная политика",
-    "kicker_en": "Immigration Policy",
-    "title_ru": "Суд отменил плату в $100 тысяч на визы H-1B от Трампа",
-    "text_ru": "Федеральный судья аннулировал указ президента Трампа о введении сбора в $100 тысяч за подачу заявления на визу H-1B, что дает передышку технологическим компаниям США, зависящим от найма иностранных специалистов. Решение суда блокирует значительное препятствие для найма в IT-сфере и демонстрирует границы исполнительной власти в области иммиграционной политики.\n📰 Bloomberg\n✍️ Sankalp Phartiyal",
-    "title_en": "Trump's $100,000 H-1B Visa Fee Struck Down by Federal Judge",
-    "text_en": "A federal judge has invalidated President Trump's executive order imposing a $100,000 fee on H-1B visa applications, offering relief to US technology companies dependent on foreign skilled labor. The ruling prevents a significant barrier to tech industry hiring and underscores judicial limits on executive immigration policy.\n📰 Bloomberg\n✍️ Sankalp Phartiyal",
     "source": "",
     "link": "#",
     "thumb": "📰"
