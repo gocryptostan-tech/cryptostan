@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/operatorov-servisa-audia6-obvinili-v-ssha-v-otmyvanii-389-ml.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11</news:publication_date>
+      <news:title>Операторов сервиса AudiA6 обвинили в США в отмывании $389 млн криптовалют</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/bitkoin-derzhit-uroven-63-2k-nesmotrya-na-inflyatsiyu-i-zakr.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Токен Humanity Protocol рухнул на 85% после компрометации приватных ключей на $30M</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/ipo-spacex-na-1-78-trilliona-investory-stavyat-na-ambitsiozn.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11</news:publication_date>
-      <news:title>IPO SpaceX на $1,78 триллиона: инвесторы ставят на амбициозные проекты Маска</news:title>
     </news:news>
   </url>
 </urlset>
