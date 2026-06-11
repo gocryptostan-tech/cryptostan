@@ -13,6 +13,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cryptostan.org/articles/bitkoin-derzhit-uroven-63-2k-nesmotrya-na-inflyatsiyu-i-zakr.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/pi-coin-protiv-sobstvennogo-khalvinga-matematika-majninga-ob.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -504,11 +509,6 @@
   </url>
   <url>
     <loc>https://cryptostan.org/articles/ipo-spacex-na-1-78-trilliona-investory-stavyat-na-ambitsiozn.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/izrail-priostanovil-udary-po-iranu-posle-zayavlenij-trampa-o.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
