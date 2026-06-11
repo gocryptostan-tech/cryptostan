@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781196134-m4tf",
+    "timestamp": 1781196134,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "finance",
+    "kicker_ru": "Крипто-ETF",
+    "kicker_en": "Crypto ETFs",
+    "title_ru": "Крипто-ETF теряют активы в мае, но диверсифицированные фонды держат оборону",
+    "text_ru": "Глобальные ETF на криптовалюты столкнулись со значительным оттоком капитала в май, однако фонды с диверсифицированным портфелем активов показали большую устойчивость, чем однопрофильные продукты. Данные указывают на важные последствия для долгосрочных инвестиционных стратегий на рынке цифровых активов.\n📰 CoinDesk\n✍️ Joshua de Vos",
+    "title_en": "Crypto ETFs Face May Outflows, But Diversified Funds Show Strength",
+    "text_en": "Global cryptocurrency ETFs experienced significant capital outflows in May, though funds with diversified asset exposure demonstrated greater resilience than single-asset products. The data suggests important implications for long-term investment strategies in the evolving digital assets space.\n📰 CoinDesk\n✍️ Joshua de Vos",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781194785-z6sz",
     "timestamp": 1781194785,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "По мнению стратега Coinbase Джона Д'Агостино, крупные инвесторы активно накапливают Биткоин около отметки $65 тыс., несмотря на недавнюю волатильность рынка. Объёмы владения через ETF продолжают расти, а спрос корпораций на Bitcoin остаётся устойчивым — это свидетельствует, что крупные игроки рассматривают текущие падения цены как возможность для покупок, а не причину для паники.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "title_en": "Bitcoin crash fails to scare institutions, Coinbase strategist says",
     "text_en": "According to Coinbase strategist John D'Agostino, institutional investors are actively accumulating Bitcoin near the $65,000 level despite recent market volatility. ETF ownership continues to grow steadily, and corporate demand for Bitcoin remains strong, suggesting that large players view current price dips as buying opportunities rather than reasons for concern.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780981249-dnmk",
-    "timestamp": 1780981249,
-    "date": "2026-06-09",
-    "date_ru": "9 июня 2026",
-    "date_en": "June 9, 2026",
-    "category": "crypto",
-    "kicker_ru": "ИИ и блокчейн",
-    "kicker_en": "AI and Blockchain",
-    "title_ru": "Криптовалютные кошельки не обеспечивают автономность ИИ, предупреждает исследование IC3",
-    "text_ru": "Исследователи консорциума IC3 уточнили, что хотя криптокошельки могут автоматизировать платежи для систем ИИ и создавать неизменяемые записи о транзакциях, они не могут решить фундаментальные проблемы — подтверждение подлинности контента, устранение смещения алгоритмов или предоставление истинной автономности искусственному интеллекту. Исследование развеивает заблуждения о роли блокчейна в развитии ИИ, подчеркивая, что одна техническая инфраструктура не может решить эти глубокие проблемы.\n📰 Crypto.news\n✍️ Olivia Stephanie",
-    "title_en": "Crypto wallets do not make AI autonomous, IC3 study warns",
-    "text_en": "Researchers from the IC3 blockchain research consortium have clarified that while cryptocurrency wallets can automate payments for AI systems and create immutable transaction records, they cannot solve fundamental problems like verifying content authenticity, eliminating algorithmic bias, or granting true autonomy to AI. The study challenges misconceptions about blockchain's role in AI development, emphasizing that technical infrastructure alone cannot address these deeper challenges.\n📰 Crypto.news\n✍️ Olivia Stephanie",
     "source": "",
     "link": "#",
     "thumb": "📰"
