@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/konsul-tanty-tradfi-vybirayut-stejblkoiny-i-tokenizatsiyu-vm.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11</news:publication_date>
+      <news:title>Консультанты TradFi выбирают стейблкоины и токенизацию вместо биткоина</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/circle-zapustila-arc-privacy-dlya-konfidentsial-nykh-smart-k.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Sui представила функцию приватности, уравновешивающую защиту пользователей и соответствие регуляциям</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/kity-skupayut-bitkoin-na-istoricheskikh-minimumakh-rsi-anali.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11</news:publication_date>
-      <news:title>Киты скупают Биткоин на исторических минимумах RSI — аналитики видят поколенческую возможность</news:title>
     </news:news>
   </url>
 </urlset>
