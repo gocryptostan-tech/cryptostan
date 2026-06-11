@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/pi-coin-protiv-sobstvennogo-khalvinga-matematika-majninga-ob.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11</news:publication_date>
+      <news:title>Pi Coin против собственного халвинга: математика майнинга объяснена</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/citibank-zapuskaet-dostup-na-chastnye-rynki-cherez-tokenizir.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Израиль приостановил удары по Ирану после заявлений Трампа о прогрессе в переговорах по ядерной программе</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/openai-podala-konfidentsial-nuyu-zayavku-na-vykhod-na-ipo-v-.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11</news:publication_date>
-      <news:title>OpenAI подала конфиденциальную заявку на выход на IPO в США</news:title>
     </news:news>
   </url>
 </urlset>
