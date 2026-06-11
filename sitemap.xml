@@ -13,6 +13,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cryptostan.org/articles/vozvraschenie-binance-na-filippiny-natolknulos-na-prepyatstv.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/bitkoin-mozhet-zaviset-ot-reshenij-kongressa-schitaet-o-liri.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -504,11 +509,6 @@
   </url>
   <url>
     <loc>https://cryptostan.org/articles/tokenizirovannye-aktivy-podskochili-na-600-sredi-spada-kript.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/openai-podala-dokumenty-na-listing-stoimost-yu-bolee-1-trill.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/vozvraschenie-binance-na-filippiny-natolknulos-na-prepyatstv.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11</news:publication_date>
+      <news:title>Возвращение Binance на Филиппины натолкнулось на препятствие лицензирования</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/bitkoin-mozhet-zaviset-ot-reshenij-kongressa-schitaet-o-liri.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Токенизированные активы подскочили на 600% среди спада крипторынка</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/openai-podala-dokumenty-na-listing-stoimost-yu-bolee-1-trill.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11</news:publication_date>
-      <news:title>OpenAI подала документы на листинг стоимостью более $1 триллиона</news:title>
     </news:news>
   </url>
 </urlset>
