@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781160953-rkpw",
+    "timestamp": 1781160953,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "crypto",
+    "kicker_ru": "Мошенничество",
+    "kicker_en": "Fraud",
+    "title_ru": "Несовершеннолетний мошенник арестован за кражу $13 млн из крипто-активов",
+    "text_ru": "Подросток Тренстон Ричард Джонстон был задержан во время остановки на дороге в марте, но следователи выяснили, что он причастен к масштабной схеме мошенничества. В ходе расследования обнаружилось, что он украл $13 млн через криптовалютные аферы и потратил деньги на роскошные покупки — частные самолёты и Lamborghini. Случай свидетельствует о растущем участии молодёжи в криптопреступлениях и лёгкости, с которой украденные цифровые активы конвертируются в дорогие товары.\n📰 Cointelegraph\n✍️ Felix Ng",
+    "title_en": "Teen Crypto Scammer Arrested After Stealing $13M for Luxury Purchases",
+    "text_en": "A teenager named Trenton Richard Johnston was arrested during a routine traffic stop in March, but authorities discovered he was part of a larger cryptocurrency fraud scheme. The investigation revealed he had stolen $13 million through scams, which he spent on extravagant purchases including private jets and a Lamborghini. The case highlights growing concerns about youth involvement in crypto-related crimes and the ease with which stolen digital assets can be converted into luxury goods.\n📰 Cointelegraph\n✍️ Felix Ng",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781157650-y5ha",
     "timestamp": 1781157650,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "Amazon привлекает C$14 миллиардов ($10 миллиардов) через инвестиционные облигации в канадских долларах, установив рекорд по величине такого выпуска. Это свидетельствует о том, что крупные американские технологические компании всё активнее обращаются к международным рынкам капитала для финансирования масштабных инвестиций в инфраструктуру искусственного интеллекта.\n📰 Bloomberg\n✍️ Brian W Smith, Chunzi Xu",
     "title_en": "Amazon Launches Record C$14 Billion Canadian Dollar Bond Offering",
     "text_en": "Amazon is raising C$14 billion ($10 billion) through investment-grade bonds denominated in Canadian dollars, setting a record for the largest such offering. The move reflects how major US tech companies are increasingly tapping international markets to fund their massive artificial intelligence infrastructure investments.\n📰 Bloomberg\n✍️ Brian W Smith, Chunzi Xu",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780937757-z3ee",
-    "timestamp": 1780937757,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "crypto",
-    "kicker_ru": "Биткоин",
-    "kicker_en": "Bitcoin",
-    "title_ru": "Поддержка Биткоина на уровне $60К под угрозой на фоне макроэкономических рисков",
-    "text_ru": "Биткоин испытывает давление в попытке удержать ключевой уровень поддержки в $60 тысяч на фоне растущих макроэкономических вызовов. Аналитики предупреждают, что прорыв этого уровня может усилить медвежье давление и спровоцировать дальнейшее падение ведущей криптовалюты, так как экономические риски продолжают давить на рисковые активы.\n📰 Cointelegraph\n✍️ William Suberg",
-    "title_en": "Bitcoin price $60K support not yet safe as more macro headwinds stack up",
-    "text_en": "Bitcoin is struggling to hold its $60,000 support level amid mounting macroeconomic headwinds. Analysts warn that bearish pressure could intensify if the key price level breaks, potentially triggering further downside for the leading cryptocurrency as broader economic concerns continue to weigh on risk assets.\n📰 Cointelegraph\n✍️ William Suberg",
     "source": "",
     "link": "#",
     "thumb": "📰"
