@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781174535-job7",
+    "timestamp": 1781174535,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "law",
+    "kicker_ru": "Регуляции",
+    "kicker_en": "Regulation",
+    "title_ru": "Парламент Японии принял закон о регулировании криптовалют",
+    "text_ru": "Парламент Японии одобрил комплексное законодательство, которое будет регулировать криптоактивы по аналогии с акциями, а его введение ожидается в 2027 году. Новая нормативно-правовая база направлена на стимулирование инноваций и роста на рынке цифровых активов, а также на укрепление позиции Японии в глобальной крипто-экономике. Пакет включает сниженные налоговые ставки для привлечения участников рынка и развития отрасли.\n📰 CoinDesk\n✍️ Olivier Acuna",
+    "title_en": "Japan's Parliament Passes Sweeping Crypto Regulation Bill",
+    "text_en": "Japan's parliament has approved comprehensive legislation that will regulate cryptocurrencies similarly to stocks, with implementation expected in 2027. The new framework aims to stimulate innovation and growth in the digital asset market while positioning Japan competitively in the global crypto economy. Lower tax rates are included to encourage market participation and development.\n📰 CoinDesk\n✍️ Olivier Acuna",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781172061-wgdc",
     "timestamp": 1781172061,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "Applied Digital подписала долгосрочное соглашение об аренде сроком на 15 лет с американским гиперскейлером для своего комплекса Delta Forge 2. По прогнозам компании, контракт принесёт примерно $5,2 млрд дохода за базовый период. Новость поддержала акции Applied Digital, которые выросли на 8,7% в постторговых сессиях, свидетельствуя об оптимизме инвесторов относительно расширения компании на рынке AI-инфраструктуры.\n📰 crypto.news\n✍️ Irene Mukiri",
     "title_en": "Applied Digital Secures $5.2 Billion AI Data Center Lease",
     "text_en": "Applied Digital has signed a major 15-year lease agreement with a U.S. hyperscaler for its Delta Forge 2 campus, with the deal expected to generate approximately $5.2 billion in revenue over the base term. The announcement drove Applied Digital's stock up 8.7% in after-hours trading, reflecting investor confidence in the company's expansion into AI infrastructure services.\n📰 crypto.news\n✍️ Irene Mukiri",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780959349-80bv",
-    "timestamp": 1780959349,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "crypto",
-    "kicker_ru": "Принятие RWA",
-    "kicker_en": "RWA Adoption",
-    "title_ru": "Токенизированные активы подскочили на 600% среди спада крипторынка",
-    "text_ru": "Токенизированные акции, золото и недвижимость переживают взрывной рост: активные позиции в RWA выросли почти на 600% несмотря на ослабление общего крипторынка. Крупные банки и институциональные инвесторы стремительно внедряют блокчейн-представления традиционных активов, что указывает на смещение фокуса к практическому применению технологии вместо спекулятивной торговли.\n📰 Cointelegraph\n✍️ Sam Bourgi",
-    "title_en": "Tokenized Real-World Assets Surge 600% Amid Crypto Market Downturn",
-    "text_en": "Tokenized stocks, gold, and real estate are experiencing explosive growth, with active RWA positions increasing nearly 600% despite broader cryptocurrency market weakness. Major banks and institutional investors are rapidly adopting blockchain-based representations of traditional assets, signaling a shift toward practical blockchain applications beyond speculative trading.\n📰 Cointelegraph\n✍️ Sam Bourgi",
     "source": "",
     "link": "#",
     "thumb": "📰"
