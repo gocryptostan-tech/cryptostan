@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781182549-p7qz",
+    "timestamp": 1781182549,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "crypto",
+    "kicker_ru": "Безопасность",
+    "kicker_en": "Security",
+    "title_ru": "Фронтирные AI-модели вызвали «апокалипсис уязвимостей» в безопасности крипто: глава Immunefi",
+    "text_ru": "Новые передовые AI-модели становятся основной причиной волны взломов в DeFi-экосистеме, предупреждает гендиректор Immunefi Митчелл Амадор. Распространение современного искусственного интеллекта выступает главным катализатором всплеска взломов децентрализованных финансовых платформ, обнажая критические дыры в безопасности, с которыми традиционные системы защиты справляются плохо.\n📰 Cointelegraph\n✍️ Zoltan Vardai",
+    "title_en": "AI models led to a 'vulnerability apocalypse' in crypto security: Immunefi CEO",
+    "text_en": "New frontier AI models are driving a surge in DeFi hacks, warns Immunefi CEO Mitchell Amador. The proliferation of advanced artificial intelligence is becoming the primary catalyst for security breaches across decentralized finance platforms, exposing critical vulnerabilities that traditional defenses struggle to counter.\n📰 Cointelegraph\n✍️ Zoltan Vardai",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781179255-v5it",
     "timestamp": 1781179255,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "Zcash восстановился после недавних спадов благодаря предложению сообщества об обновлении Ironwood, которое должно устранить критическую уязвимость, позволявшую создавать поддельные токены. Исправление безопасности восстановило доверие инвесторов к приватному крипто-активу и привело к значительному росту цены на фоне нового интереса к развитию проекта.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "title_en": "Zcash Price Surges 50% Following Ironwood Network Upgrade Proposal",
     "text_en": "Zcash has recovered significantly from recent lows after the community proposed the Ironwood upgrade to address a critical vulnerability that could have enabled counterfeit token creation. The security fix has restored investor confidence in the privacy-focused cryptocurrency, driving substantial price recovery and renewed interest in the project's development roadmap.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780966811-jju2",
-    "timestamp": 1780966811,
-    "date": "2026-06-09",
-    "date_ru": "9 июня 2026",
-    "date_en": "June 9, 2026",
-    "category": "markets",
-    "kicker_ru": "Рынки",
-    "kicker_en": "Markets",
-    "title_ru": "Азиатские акции отскочили на фоне оптимизма по Ирану, нефть падает",
-    "text_ru": "Азиатские фондовые рынки восстановились после самого крупного падения с марта благодаря смягчению напряженности на Ближнем Востоке и стабилизации технологического сектора. Распродажа акций, связанных с искусственным интеллектом, дала разворот, так как геополитические опасения снизились, а цены на нефть упали, что свидетельствует об уменьшении беспокойства инвесторов по поводу эскалации в регионе.\n📰 Bloomberg\n✍️ Anand Krishnamoorthy",
-    "title_en": "Asian Stocks Rebound on Iran Optimism, Oil Slips: Markets Wrap",
-    "text_en": "Asian stock markets recovered from their sharpest decline since March following easing Middle East tensions and a stabilization in the technology sector. The pullback in AI-related stocks reversed course as geopolitical concerns diminished and oil prices declined, signaling reduced market anxiety over regional escalation.\n📰 Bloomberg\n✍️ Anand Krishnamoorthy",
     "source": "",
     "link": "#",
     "thumb": "📰"
