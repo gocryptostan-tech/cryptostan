@@ -2,13 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/amazon-poluchila-kredit-na-17-5-mlrd-ot-citibank-dlya-razvit.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11</news:publication_date>
+      <news:title>Amazon получила кредит на $17,5 млрд от Citibank для развития AI</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/curve-finance-zapuskaet-llamalend-v2-transformiruya-defi-kre.html</loc>
     <news:news>
       <news:publication>
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Curve Finance запускает Llamalend v2, трансформируя DeFi-кредитование</news:title>
     </news:news>
   </url>
@@ -19,7 +30,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Прибыль майнеров биткоина упала до исторического минимума: удержится ли BTC выше $60 тысяч?</news:title>
     </news:news>
   </url>
@@ -30,7 +41,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Anthropic предлагает законодательные механизмы для контроля опасных систем ИИ</news:title>
     </news:news>
   </url>
@@ -41,7 +52,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Британские крипто-активисты запустили кампанию против банков, блокирующих переводы на биржи</news:title>
     </news:news>
   </url>
@@ -52,7 +63,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Сэм Альтман намекнул на возможность выхода OpenAI на биржу в течение года</news:title>
     </news:news>
   </url>
@@ -63,7 +74,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Приватность снова в центре внимания: разработчики Ethereum изучают новые стандарты токенов</news:title>
     </news:news>
   </url>
@@ -74,7 +85,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Перпетуальные контракты Solana запущены на Kalshi, пока DOGE и SHIB ждут одобрения</news:title>
     </news:news>
   </url>
@@ -85,7 +96,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Anchorage поддержала стандарты ОПОд казначейства США и требует уточнений по санкциям на вторичных рынках</news:title>
     </news:news>
   </url>
@@ -96,7 +107,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Биткоин теряет прибыль после обострения конфликта с Ираном</news:title>
     </news:news>
   </url>
@@ -107,7 +118,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Элизабет Уоррен призывает SEC заблокировать рекордный IPO SpaceX</news:title>
     </news:news>
   </url>
@@ -118,7 +129,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Биткоин растет несмотря на инфляцию в США на трёхлетнем максимуме: куда движется BTC?</news:title>
     </news:news>
   </url>
@@ -129,7 +140,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Крипто в фокусе: Кто ответит на звонок в 3 часа ночи, когда DeFi падает?</news:title>
     </news:news>
   </url>
@@ -140,7 +151,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Инфляция в США подскочила до 4,2% в мае на фоне энергетического кризиса на Ближнем Востоке</news:title>
     </news:news>
   </url>
@@ -151,7 +162,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Ripple выпустила набор инструментов для платежей на базе ИИ</news:title>
     </news:news>
   </url>
@@ -162,7 +173,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Pyth запустила круглосуточные индексы цен на американские акции и сырьё</news:title>
     </news:news>
   </url>
@@ -173,7 +184,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Возрождение экосистемы игр в Telegram: как Boinkers и Acid Labs создают новую эру социального гейминга</news:title>
     </news:news>
   </url>
@@ -184,7 +195,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Индекс CoinDesk 20 упал на 1,4% на фоне падения всех активов</news:title>
     </news:news>
   </url>
@@ -195,7 +206,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Taurus интегрирует услуги стейкинга P2P.org для банков и финансовых учреждений</news:title>
     </news:news>
   </url>
@@ -206,7 +217,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Трейдеры облигаций остаются в ожидании повышения ставки ФРС в этом году после отчета по инфляции</news:title>
     </news:news>
   </url>
@@ -217,7 +228,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Botanix закрывается после 4 лет работы — спрос на Bitcoin DeFi оказался недостаточным</news:title>
     </news:news>
   </url>
@@ -228,7 +239,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Humanity Protocol подтвердила, что скомпрометированная машина разработчика привела к краже 447 млн токенов</news:title>
     </news:news>
   </url>
@@ -239,7 +250,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>ЕС предлагает запретить 11 криптоплатформ в рамках усиления санкций против России</news:title>
     </news:news>
   </url>
@@ -250,7 +261,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Три крупнейших банка Японии готовятся к совместному выпуску стейблкоина к марту</news:title>
     </news:news>
   </url>
@@ -261,7 +272,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Токен BEAT подорожал на 28% на фоне продолжения роста Audiera на 343% за неделю</news:title>
     </news:news>
   </url>
@@ -272,7 +283,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Ant International ищет оценку в $10 млрд в раунде финансирования</news:title>
     </news:news>
   </url>
@@ -283,7 +294,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>IPO SpaceX четырёхкратно переподписано, оказывая давление на крипто и технологический сектор</news:title>
     </news:news>
   </url>
@@ -294,7 +305,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Бесрочные фьючерсы XRP запущены на платформе Kalshi для американских трейдеров</news:title>
     </news:news>
   </url>
@@ -305,7 +316,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Токен SpaceX упал на 27% на бирже Hyperliquid</news:title>
     </news:news>
   </url>
@@ -316,7 +327,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Kalshi запускает обязательное раскрытие информации работодателями для борьбы с инсайдерской торговлей</news:title>
     </news:news>
   </url>
@@ -327,7 +338,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Полный запрет на инсайдерскую торговлю может повредить рынкам предсказаний, считает исследователь</news:title>
     </news:news>
   </url>
@@ -338,7 +349,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Ripple присоединилась к инициативе Water.org по финансированию питьевой воды</news:title>
     </news:news>
   </url>
@@ -349,7 +360,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Директор E Fund: рынок настроен «осторожно оптимистично»</news:title>
     </news:news>
   </url>
@@ -360,7 +371,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>BitGo расширяет доступ институциональных инвесторов к DeFi через интеграцию Narval</news:title>
     </news:news>
   </url>
@@ -371,7 +382,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Азиатские акции падают, нефть растёт после удара США по Ирану: обзор рынков</news:title>
     </news:news>
   </url>
@@ -382,7 +393,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Цена Биткоина падает на фоне военного ответа Трампа Ирану</news:title>
     </news:news>
   </url>
@@ -393,7 +404,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Wintermute предупреждает: Биткоину не хватает притока капитала для подтверждения дна рынка</news:title>
     </news:news>
   </url>
@@ -404,7 +415,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Ethereum может упасть до $1K, если не выдержит ключевой поддержки: спасут ли рынок фьючерсные трейдеры?</news:title>
     </news:news>
   </url>
@@ -415,7 +426,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Налоговые законопроекты по криптовалютам остаются в стадии разработки на фоне возражений конгрессменов</news:title>
     </news:news>
   </url>
@@ -426,7 +437,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Первый процесс об инсайдерской торговле на рынке предсказаний: дело Ганнона Ван Дайка</news:title>
     </news:news>
   </url>
@@ -437,7 +448,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Трейдеры биткоина готовятся к решению ФРС при вероятности паузы 98%</news:title>
     </news:news>
   </url>
@@ -448,7 +459,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Позиции трейдеров облигаций указывают на скорые повышения ставок ФРС</news:title>
     </news:news>
   </url>
@@ -459,7 +470,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>FIFA назвала Kraken официальным партнёром по крипто-обменам на чемпионате мира 2026</news:title>
     </news:news>
   </url>
@@ -470,7 +481,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Уолл-Стрит отказалась от надежд на снижение ставок перед первым заседанием FOMC Кевина Уоша</news:title>
     </news:news>
   </url>
@@ -481,7 +492,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Биткоин сигнализирует о волне отказа от риска на фоне давления на глобальную ликвидность</news:title>
     </news:news>
   </url>
@@ -492,7 +503,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Paradigm оспаривает введение запрета на доходы от стейблкойнов FDIC</news:title>
     </news:news>
   </url>
@@ -503,7 +514,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Канадский доллар упал до минимума 2026 года на фоне ожидания «паузы» Центробанка</news:title>
     </news:news>
   </url>
@@ -514,7 +525,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Биткоин падает к локальным минимумам $62K на фоне повторения истории медвежьего рынка</news:title>
     </news:news>
   </url>
@@ -525,7 +536,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Британский регулятор разрешит паевым фондам инвестировать до 10% в крипто-ноты</news:title>
     </news:news>
   </url>
@@ -536,7 +547,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Боты для торговли на ИИ: статус легальности и реальная прибыльность</news:title>
     </news:news>
   </url>
@@ -547,7 +558,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Kalshi подала заявку на запуск перпетуальных фьючерсов HYPE</news:title>
     </news:news>
   </url>
@@ -558,7 +569,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>StarkWare и Sui внедряют приватные переводы, соответствующие регуляциям</news:title>
     </news:news>
   </url>
@@ -569,7 +580,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>4 мемкоина на радаре: Dogecoin нацелен на $0,50 к 2026 году</news:title>
     </news:news>
   </url>
@@ -580,7 +591,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Индекс CoinDesk 20 показывает массовое падение на фоне снижения крупных DeFi-токенов</news:title>
     </news:news>
   </url>
@@ -591,7 +602,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Дэвид Шварц из Ripple объяснил свою роль в XRPL в стихах</news:title>
     </news:news>
   </url>
@@ -602,7 +613,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>JPMorgan прогнозирует восстановление американских акций после коррекций</news:title>
     </news:news>
   </url>
@@ -613,7 +624,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>OKX расширяет предложение деривативов в Европе с токенизированными акциями и сырьём</news:title>
     </news:news>
   </url>
@@ -624,7 +635,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Стоит ли покупать крипто на падении? Рациональный подход к решению</news:title>
     </news:news>
   </url>
@@ -635,7 +646,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Humanity Protocol потеряла $36 млн после компрометации ключей администраторов</news:title>
     </news:news>
   </url>
@@ -646,7 +657,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Покупка Биткоина MicroStrategy не повлияла на цену BTC</news:title>
     </news:news>
   </url>
@@ -657,7 +668,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Мы попали в рай волатильности</news:title>
     </news:news>
   </url>
@@ -668,7 +679,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Израиль наносит новые удары на юге Ливана несмотря на попытки деэскалации</news:title>
     </news:news>
   </url>
@@ -679,7 +690,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>ZachXBT исключил причастность инсайдеров к краже $31M в Humanity Protocol</news:title>
     </news:news>
   </url>
@@ -690,7 +701,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Dogecoin держится на уровне $0,081 — смогут ли киты предотвратить падение к $0,058?</news:title>
     </news:news>
   </url>
@@ -701,7 +712,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Рынок казначейских облигаций требует повышения ставок — послание для Кевина Уорша</news:title>
     </news:news>
   </url>
@@ -712,7 +723,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Более 200 криптокомпаний требуют от Сената одобрить закон CLARITY Act</news:title>
     </news:news>
   </url>
@@ -723,7 +734,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Премия оценки Strategy на 31% находится под угрозой из-за растущих долговых обязательств</news:title>
     </news:news>
   </url>
@@ -734,7 +745,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Сейлор винит ИИ в падении биткоина. Arca отвечает: чушь</news:title>
     </news:news>
   </url>
@@ -745,7 +756,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Ethereum приближается к $1,700 — сможет ли покупка BitMine предотвратить падение к $1,500?</news:title>
     </news:news>
   </url>
@@ -756,7 +767,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Британский регулятор рассматривает возможность открыть крипторынок для розничных инвесторов</news:title>
     </news:news>
   </url>
@@ -767,7 +778,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Падение Биткоина не испугало институциональных инвесторов, считает стратег Coinbase</news:title>
     </news:news>
   </url>
@@ -778,7 +789,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Криптовалютные кошельки не обеспечивают автономность ИИ, предупреждает исследование IC3</news:title>
     </news:news>
   </url>
@@ -789,7 +800,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Суд отменил плату в $100 тысяч на визы H-1B от Трампа</news:title>
     </news:news>
   </url>
@@ -800,7 +811,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Токен Humanity Protocol рухнул на 85% после компрометации приватных ключей на $30M</news:title>
     </news:news>
   </url>
@@ -811,7 +822,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>IPO SpaceX на $1,78 триллиона: инвесторы ставят на амбициозные проекты Маска</news:title>
     </news:news>
   </url>
@@ -822,7 +833,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Израиль приостановил удары по Ирану после заявлений Трампа о прогрессе в переговорах по ядерной программе</news:title>
     </news:news>
   </url>
@@ -833,7 +844,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>OpenAI подала конфиденциальную заявку на выход на IPO в США</news:title>
     </news:news>
   </url>
@@ -844,7 +855,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Татуировки на лбу и алкогольные челленджи: теневая сторона бума мемкойнов</news:title>
     </news:news>
   </url>
@@ -855,7 +866,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Цена Zcash выросла на 50% на фоне предложения сетевого обновления Ironwood</news:title>
     </news:news>
   </url>
@@ -866,7 +877,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Азиатские акции отскочили на фоне оптимизма по Ирану, нефть падает</news:title>
     </news:news>
   </url>
@@ -877,7 +888,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Nvidia расширяет сотрудничество с корейскими технологическими лидерами в сфере ИИ</news:title>
     </news:news>
   </url>
@@ -888,7 +899,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Applied Digital заключила контракт на $5,2 млрд за аренду AI-дата-центра</news:title>
     </news:news>
   </url>
@@ -899,7 +910,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Токенизированные активы подскочили на 600% среди спада крипторынка</news:title>
     </news:news>
   </url>
@@ -910,7 +921,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>OpenAI подала документы на листинг стоимостью более $1 триллиона</news:title>
     </news:news>
   </url>
@@ -921,7 +932,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>OpenAI подала конфиденциальное заявление на IPO на фоне ускорения выхода AI-компаний на биржу</news:title>
     </news:news>
   </url>
@@ -932,7 +943,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Sui представила функцию приватности, уравновешивающую защиту пользователей и соответствие регуляциям</news:title>
     </news:news>
   </url>
@@ -943,7 +954,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Киты скупают Биткоин на исторических минимумах RSI — аналитики видят поколенческую возможность</news:title>
     </news:news>
   </url>
@@ -954,7 +965,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Метрика прибыльности Ethereum упала на уровень 2017 года — грозит ли ETH новое падение?</news:title>
     </news:news>
   </url>
@@ -965,7 +976,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Китай предупредил разработчиков об опасности зарубежных AI-сервисов трансляции</news:title>
     </news:news>
   </url>
@@ -976,7 +987,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Amazon выпустит рекордные облигации на C$14 миллиардов в канадских долларах</news:title>
     </news:news>
   </url>
@@ -987,7 +998,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Поддержка Биткоина на уровне $60К под угрозой на фоне макроэкономических рисков</news:title>
     </news:news>
   </url>
@@ -998,7 +1009,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Сэм Бэнкман-Фрид просит Трампа о помиловании</news:title>
     </news:news>
   </url>
@@ -1009,7 +1020,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Онлайн-трансляция: Иран и Израиль отступают после обмена ударами</news:title>
     </news:news>
   </url>
@@ -1020,7 +1031,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Amazon заключила многолетнее соглашение с Corning о поставке оптоволокна для расширения центров обработки данных</news:title>
     </news:news>
   </url>
@@ -1031,7 +1042,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>MetaMask запустила AI-кошелёк Agent Wallet для автоматизированной торговли</news:title>
     </news:news>
   </url>
@@ -1042,7 +1053,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Полиция Южной Кореи провела обыск в офисах Bithumb из-за обвинений в протекционизме чиновника</news:title>
     </news:news>
   </url>
@@ -1053,7 +1064,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>5 ведущих бесплатных платформ AI-ботов для торговли акциями в 2026 году</news:title>
     </news:news>
   </url>
@@ -1064,7 +1075,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Индекс CoinDesk 20 показывает рост — NEAR и TAO возглавляют восстание</news:title>
     </news:news>
   </url>
@@ -1075,7 +1086,7 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Bitmine приближается к цели владеть 5% предложения Ethereum</news:title>
     </news:news>
   </url>
@@ -1086,19 +1097,8 @@
         <news:name>Cryptostan</news:name>
         <news:language>ru</news:language>
       </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
+      <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Банковская тайна в Чили под вопросом после расследования дела организации Tren de Aragua</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/dno-tseny-bitkoina-mozhet-ne-nastupit-ran-she-q4-pyat-glavny.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-10</news:publication_date>
-      <news:title>Дно цены биткоина может не наступить раньше Q4? Пять главных новостей о Bitcoin на этой неделе</news:title>
     </news:news>
   </url>
 </urlset>
