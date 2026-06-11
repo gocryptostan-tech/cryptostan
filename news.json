@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781168468-u7ms",
+    "timestamp": 1781168468,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "crypto",
+    "kicker_ru": "Регуляция",
+    "kicker_en": "Regulation",
+    "title_ru": "Биткоин может зависеть от решений Конгресса, считает О'Лири",
+    "text_ru": "Венчурный инвестор Кевин О'Лири убеждён, что рост Биткоина зависит от ясной позиции Конгресса в отношении криптовалют. По его мнению, институциональные инвесторы ждут чётких правовых норм перед тем, как вкладывать крупные суммы в цифровые активы. Без нормативной базы масштабное вхождение крупного капитала невозможно, поэтому законодательные инициативы могут стать ключевым фактором для следующего подъёма рынка.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "title_en": "Bitcoin's Next Rally May Depend on Congress, O'Leary Says",
+    "text_en": "Kevin O'Leary believes Bitcoin's growth potential hinges on regulatory clarity from Congress. The investor argues that institutional capital is waiting on the sidelines for clear legal frameworks before making significant investments in digital assets. Without proper regulation, large-scale institutional adoption remains stalled, making legislative action a key catalyst for the next market rally.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781168432-vlxt",
     "timestamp": 1781168432,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "Создатель ChatGPT конфиденциально подал проспект эмиссии для выхода на IPO. Компания может быть оценена свыше $1 триллиона. Это означает серьёзный шаг в развитии AI-гиганта — переход от частной компании к публичной корпорации, что потенциально трансформирует технологический сектор.\n📰 Financial Times\n✍️ Не указан",
     "title_en": "OpenAI Files for Blockbuster IPO Listing",
     "text_en": "ChatGPT's creator has submitted a confidential IPO prospectus, with the company expected to be valued at over $1 trillion. The move marks a significant milestone for the AI giant as it prepares to transition from a private entity to a publicly traded company, potentially reshaping the technology sector.\n📰 Financial Times\n✍️ Not specified",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780956055-7uzv",
-    "timestamp": 1780956055,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "finance",
-    "kicker_ru": "IPO, AI-компании",
-    "kicker_en": "IPO, AI Companies",
-    "title_ru": "OpenAI подала конфиденциальное заявление на IPO на фоне ускорения выхода AI-компаний на биржу",
-    "text_ru": "OpenAI подала конфиденциальную заявку на первичное размещение акций на американском рынке, присоединяясь к другим крупным компаниям в сфере искусственного интеллекта, которые переходят на публичные рынки. Разработчик ChatGPT не раскрыл детали предложения и целевую оценку стоимости. Это свидетельствует о растущем интересе инвесторов к AI-сектору и демонстрирует готовность OpenAI привлечь капитал при потенциально значительной оценке компании.\n📰 crypto.news\n✍️ Irene Mukiri",
-    "title_en": "OpenAI Confidentially Files for IPO as AI Sector Accelerates Toward Public Markets",
-    "text_en": "OpenAI has made a confidential filing for a U.S. initial public offering, joining other major artificial intelligence companies in their shift toward public markets. The ChatGPT developer did not reveal details about the offering's size or valuation targets. The move reflects growing investor appetite for AI-sector companies and signals OpenAI's readiness to raise capital at potentially significant valuations.\n📰 crypto.news\n✍️ Irene Mukiri",
     "source": "",
     "link": "#",
     "thumb": "📰"
