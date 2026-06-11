@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781153748-2sp8",
+    "timestamp": 1781153748,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "law",
+    "kicker_ru": "Регуляция",
+    "kicker_en": "Regulation",
+    "title_ru": "Делавэр и Нью-Джерси движутся к запрету криптовалютных ATM",
+    "text_ru": "Законодатели Делавэра и Нью-Джерси продвигают законопроекты о полном запрете криптовалютных банкоматов на территории своих штатов, присоединяясь к трём другим американским штатам с аналогичными ограничениями. Инициатива отражает усиливающееся внимание регуляторов к криптографической инфраструктуре на уровне штатов.\n📰 Cointelegraph\n✍️ Jesse Coghlan",
+    "title_en": "Delaware and New Jersey Move to Ban Cryptocurrency ATMs",
+    "text_en": "Delaware and New Jersey lawmakers are advancing legislation to completely prohibit crypto ATMs within their states, joining only three other US states that have implemented such bans. The move reflects growing regulatory scrutiny of cryptocurrency infrastructure at the state level.\n📰 Cointelegraph\n✍️ Jesse Coghlan",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781152917-of1h",
     "timestamp": 1781152917,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "Amazon подписала контракт с американским производителем Corning на поставку оптоволоконного кабеля для своей сети дата-центров в США. Партнёрство создаст примерно 1000 рабочих мест на производстве Corning в Северной Каролине, что поддержит развитие инфраструктуры технологического гиганта по всей стране.\n📰 crypto.news\n✍️ Irene Mukiri",
     "title_en": "Amazon Signs Multi-Year Fiber Deal with Corning for Data Center Expansion",
     "text_en": "Amazon has secured a multi-year agreement with Corning to supply optical fiber for its expanding U.S. data center network. The partnership will create approximately 1,000 jobs at Corning's North Carolina manufacturing facilities, supporting the tech giant's infrastructure growth across the country.\n📰 crypto.news\n✍️ Irene Mukiri",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780930851-s4mn",
-    "timestamp": 1780930851,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "crypto",
-    "kicker_ru": "AI-кошельки",
-    "kicker_en": "AI Wallets",
-    "title_ru": "MetaMask запустила AI-кошелёк Agent Wallet для автоматизированной торговли",
-    "text_ru": "MetaMask представила раннюю версию Agent Wallet — некастодиального кошелька, который позволяет AI-агентам самостоятельно выполнять транзакции в криптовалютах в рамках заданных пользователем параметров на Ethereum-совместимых блокчейнах и Hyperliquid. Кошелек автоматизирует своп-операции, торговлю перпетуалами и децентрализованные финансовые операции, при этом пользователи сохраняют полный контроль над безопасностью и лимитами транзакций — важный шаг к интеграции искусственного интеллекта в инфраструктуру DeFi.\n📰 crypto.news\n✍️ Rony Roy",
-    "title_en": "MetaMask Launches AI-Powered Agent Wallet for Decentralized Trading",
-    "text_en": "MetaMask has released an early access version of Agent Wallet, a non-custodial solution enabling AI agents to autonomously execute cryptocurrency transactions within user-defined parameters across Ethereum-compatible blockchains and Hyperliquid. The wallet allows users to automate swaps, perpetual trades, and on-chain finance operations while maintaining full control over security settings and transaction limits, marking a significant step toward AI integration in decentralized finance infrastructure.\n📰 crypto.news\n✍️ Rony Roy",
     "source": "",
     "link": "#",
     "thumb": "📰"
