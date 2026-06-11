@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781186452-d8jc",
+    "timestamp": 1781186452,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "crypto",
+    "kicker_ru": "Pi Network",
+    "kicker_en": "Pi Network",
+    "title_ru": "Pi Coin против собственного халвинга: математика майнинга объяснена",
+    "text_ru": "Pi Network применяет халвинги и снижающиеся ставки майнинга вместо сжигания токенов для управления предложением. Анализ экономики проекта показывает, что плановые разблокировки значительно превосходят объёмы нового майнинга, что может существенно повлиять на ценообразование и распределение стоимости среди участников сети.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "title_en": "Pi Coin vs Its Own Halving: The Mining Rate Math Explained",
+    "text_en": "Pi Network uses a halving mechanism and declining mining rates instead of token burns to manage supply. The project's tokenomics reveal that scheduled unlocks significantly outpace new mining output, which could have substantial implications for price dynamics and long-term value distribution among holders.\n📰 crypto.news\n✍️ Olivia Stephanie",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781185348-0xgm",
     "timestamp": 1781185348,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "Премьер-министр Израиля Биньямин Нетаньяху объявил, что военные операции страны находятся в режиме ожидания после разговора с президентом Трампом, который утверждает о прогрессе в ядерных переговорах. Иран также согласился приостановить свои атаки, но обе страны остаются в боевой готовности и готовы возобновить боевые действия в случае срыва переговоров.\n📰 The New York Times\n✍️ The New York Times",
     "title_en": "Israel Halts Iran Strikes After Trump Claims Progress Toward Nuclear Talks",
     "text_en": "Prime Minister Benjamin Netanyahu announced that Israel is putting military operations \"on hold\" following a conversation with President Trump, who claims to be making headway in nuclear negotiations. Iran has also agreed to pause its attacks but both nations remain on high alert, ready to resume hostilities if talks deteriorate.\n📰 The New York Times\n✍️ The New York Times",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780973749-8sl2",
-    "timestamp": 1780973749,
-    "date": "2026-06-09",
-    "date_ru": "9 июня 2026",
-    "date_en": "June 9, 2026",
-    "category": "finance",
-    "kicker_ru": "IPO",
-    "kicker_en": "IPO",
-    "title_ru": "OpenAI подала конфиденциальную заявку на выход на IPO в США",
-    "text_ru": "OpenAI официально подала документы на проведение первичного размещения акций в американских регуляторов, однако не назвала сроки выхода на биржу. Этот шаг свидетельствует о намерении компании перейти на публичный рынок, хотя конкретная дата остаётся неопределённой. Решение принято на фоне продолжающегося расширения операций OpenAI и привлечения крупных инвестиций от ведущих инвесторов.\n📰 Cointelegraph\n✍️ Jesse Coghlan",
-    "title_en": "OpenAI Files Confidentially for US IPO",
-    "text_en": "OpenAI has submitted a confidential IPO filing with US regulators but hasn't announced a timeline for going public. The move signals the AI company's plans to transition to public markets, though the exact launch date remains uncertain. This development comes as OpenAI continues to expand its operations and secure significant funding from major investors.\n📰 Cointelegraph\n✍️ Jesse Coghlan",
     "source": "",
     "link": "#",
     "thumb": "📰"
