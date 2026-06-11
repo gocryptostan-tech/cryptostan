@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/nesovershennoletnij-moshennik-arestovan-za-krazhu-13-mln-iz-.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11</news:publication_date>
+      <news:title>Несовершеннолетний мошенник арестован за кражу $13 млн из крипто-активов</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/kriptovalyuty-stanovyatsya-klyuchevym-voprosom-vyborov-2026-.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Amazon выпустит рекордные облигации на C$14 миллиардов в канадских долларах</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/podderzhka-bitkoina-na-urovne-60k-pod-ugrozoj-na-fone-makroe.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11</news:publication_date>
-      <news:title>Поддержка Биткоина на уровне $60К под угрозой на фоне макроэкономических рисков</news:title>
     </news:news>
   </url>
 </urlset>
