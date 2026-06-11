@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781185348-0xgm",
+    "timestamp": 1781185348,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "finance",
+    "kicker_ru": "Токенизация",
+    "kicker_en": "Tokenization",
+    "title_ru": "Citibank запускает доступ на частные рынки через токенизированные акции",
+    "text_ru": "Крупнейший банк США использует блокчейн для создания цифровых депозитарных расписок, открывая инвесторам доступ к акциям частных компаний. Это позволяет как институциональным, так и розничным инвесторам покупать токенизированные доли, демократизируя вход на рынок приватного капитала и потенциально переопределяя способы привлечения финансирования.\n📰 CoinDesk\n✍️ Helene Braun",
+    "title_en": "Citi Opens New Route Into Private Markets With Tokenized Share Offering",
+    "text_en": "Citibank is leveraging blockchain technology to democratize access to private company equity by issuing digital depositary receipts. This innovation allows institutional and retail investors to buy tokenized shares of private companies, lowering barriers to entry in traditionally exclusive private markets and potentially reshaping how capital is raised.\n📰 CoinDesk\n✍️ Helene Braun",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781182855-oajj",
     "timestamp": 1781182855,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "OpenAI официально подала документы на проведение первичного размещения акций в американских регуляторов, однако не назвала сроки выхода на биржу. Этот шаг свидетельствует о намерении компании перейти на публичный рынок, хотя конкретная дата остаётся неопределённой. Решение принято на фоне продолжающегося расширения операций OpenAI и привлечения крупных инвестиций от ведущих инвесторов.\n📰 Cointelegraph\n✍️ Jesse Coghlan",
     "title_en": "OpenAI Files Confidentially for US IPO",
     "text_en": "OpenAI has submitted a confidential IPO filing with US regulators but hasn't announced a timeline for going public. The move signals the AI company's plans to transition to public markets, though the exact launch date remains uncertain. This development comes as OpenAI continues to expand its operations and secure significant funding from major investors.\n📰 Cointelegraph\n✍️ Jesse Coghlan",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780969320-ym1b",
-    "timestamp": 1780969320,
-    "date": "2026-06-09",
-    "date_ru": "9 июня 2026",
-    "date_en": "June 9, 2026",
-    "category": "crypto",
-    "kicker_ru": "Культура мемкойнов",
-    "kicker_en": "Memecoin Culture",
-    "title_ru": "Татуировки на лбу и алкогольные челленджи: теневая сторона бума мемкойнов",
-    "text_ru": "Новая функция Pump.fun платит пользователям за опасные трюки перед камерой — от бритья головы и чрезмерного потребления алкоголя до унизительных интервью с бездомными людьми. Тренд поднимает серьёзные этические вопросы: способствует ли платформа творчеству или становится инструментом эксплуатации в экосистеме мемкойнов.\n📰 CoinDesk\n✍️ Shaurya Malwa",
-    "title_en": "Forehead Tattoos and Alcohol Dares: The Dark Side of Crypto's Memecoin Boom",
-    "text_en": "Pump.fun's latest feature is paying users to perform dangerous stunts on camera — from head shaving and heavy drinking to exploitative interviews with homeless people. The trend raises serious ethical questions about whether the platform is promoting creativity or enabling exploitation in the memecoin ecosystem.\n📰 CoinDesk\n✍️ Shaurya Malwa",
     "source": "",
     "link": "#",
     "thumb": "📰"
