@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781152917-of1h",
+    "timestamp": 1781152917,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "crypto",
+    "kicker_ru": "Биткоин",
+    "kicker_en": "Bitcoin",
+    "title_ru": "Биткоин вошёл в зону глубокого медвежьего рынка. Сложное время только начинается.",
+    "text_ru": "Данные анализа блокчейна указывают на капитуляцию держателей биткоина, при этом ключевые показатели оценки достигли экстремально низких уровней. Однако аналитики предупреждают: хотя дно рынка может быть близко, восстановление может растянуться надолго и потребует от инвесторов терпения в период медленной боковой консолидации.\n📰 CoinDesk\n✍️ Shaurya Malwa",
+    "title_en": "Bitcoin has reached a deep bear-market valuation zone. The hard part may come next.",
+    "text_en": "On-chain metrics indicate Bitcoin capitulation, with key valuation indicators entering deeply oversold territory. However, analysts warn that while the bottom may be forming, the recovery phase could be prolonged and difficult, requiring patience from investors as the market enters a slow grinding consolidation phase.\n📰 CoinDesk\n✍️ Shaurya Malwa",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781151566-wf2x",
     "timestamp": 1781151566,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "MetaMask представила раннюю версию Agent Wallet — некастодиального кошелька, который позволяет AI-агентам самостоятельно выполнять транзакции в криптовалютах в рамках заданных пользователем параметров на Ethereum-совместимых блокчейнах и Hyperliquid. Кошелек автоматизирует своп-операции, торговлю перпетуалами и децентрализованные финансовые операции, при этом пользователи сохраняют полный контроль над безопасностью и лимитами транзакций — важный шаг к интеграции искусственного интеллекта в инфраструктуру DeFi.\n📰 crypto.news\n✍️ Rony Roy",
     "title_en": "MetaMask Launches AI-Powered Agent Wallet for Decentralized Trading",
     "text_en": "MetaMask has released an early access version of Agent Wallet, a non-custodial solution enabling AI agents to autonomously execute cryptocurrency transactions within user-defined parameters across Ethereum-compatible blockchains and Hyperliquid. The wallet allows users to automate swaps, perpetual trades, and on-chain finance operations while maintaining full control over security settings and transaction limits, marking a significant step toward AI integration in decentralized finance infrastructure.\n📰 crypto.news\n✍️ Rony Roy",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780930557-zhr4",
-    "timestamp": 1780930557,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "crypto",
-    "kicker_ru": "Регуляции",
-    "kicker_en": "Regulation",
-    "title_ru": "Полиция Южной Кореи провела обыск в офисах Bithumb из-за обвинений в протекционизме чиновника",
-    "text_ru": "Правоохранительные органы Южной Кореи провели обыск на бирже криптовалют Bithumb в ходе расследования предполагаемого использования влияния депутатом Ким Бён Ги для получения преференциального трудоустройства его сына. Следствие сосредоточено на потенциальном злоупотреблении должностными полномочиями и непотизме в крипто-индустрии, что отражает усиливающийся надзор за регуляторной средой Кореи.\n📰 Cointelegraph\n✍️ Christina Comben",
-    "title_en": "South Korean Police Raid Bithumb Over Alleged Nepotism Involving Lawmaker",
-    "text_en": "South Korean law enforcement raided the offices of major cryptocurrency exchange Bithumb as part of an investigation into allegations that lawmaker Kim Byung-gi secured favorable employment for his son through the platform. The probe centers on potential abuse of influence and nepotism within the crypto industry, highlighting ongoing scrutiny of Korea's regulatory environment.\n📰 Cointelegraph\n✍️ Christina Comben",
     "source": "",
     "link": "#",
     "thumb": "📰"
