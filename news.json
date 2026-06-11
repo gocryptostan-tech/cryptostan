@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781139349-xvxp",
+    "timestamp": 1781139349,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "law",
+    "kicker_ru": "Регуляции",
+    "kicker_en": "Regulation",
+    "title_ru": "CFTC предложил правила для рынков прогнозов на спортивные события",
+    "text_ru": "Американская Комиссия по торговле сырьевыми товарами представила новые регулятивные нормы, которые разрешат предсказательные рынки на основе спортивных событий и выборов, но с защитой от манипуляций. Нормативная база различает законные контракты ценообразования и азартные ставки, предоставляя трейдерам более широкий доступ к производным инструментам на основе событий при сохранении надзора.\n📰 Cointelegraph\n✍️ Sam Bourgi",
+    "title_en": "CFTC proposes framework favoring sports event contracts over gambling",
+    "text_en": "The U.S. Commodity Futures Trading Commission has unveiled new rules that would permit prediction markets focused on sports events and elections while implementing safeguards against market manipulation. The framework distinguishes between legitimate price-discovery contracts and gambling-like bets, allowing traders broader access to event-based derivatives while maintaining regulatory oversight.\n📰 Cointelegraph\n✍️ Sam Bourgi",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781136054-pguu",
     "timestamp": 1781136054,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "Bitmine увеличила свои запасы Ethereum до 5,54 млн ETH стоимостью около $9,04 млрд. Компания застейкила 4,72 млн токенов через платформу MAVAN, приближаясь к амбициозной цели захватить 5% от всего предложения Ethereum на рынке.\n📰 crypto.news\n✍️ Olivia Stephanie",
     "title_en": "Bitmine's massive Ethereum accumulation brings 5% supply goal closer",
     "text_en": "Bitmine has increased its Ethereum holdings to 5.54 million ETH, valued at approximately $9.04 billion. The company currently has 4.72 million tokens staked through the MAVAN platform, positioning itself closer to its ambitious goal of controlling 5% of Ethereum's total supply.\n📰 crypto.news\n✍️ Olivia Stephanie",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780923636-479w",
-    "timestamp": 1780923636,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "law",
-    "kicker_ru": "Финансовые преступления",
-    "kicker_en": "Financial Crime",
-    "title_ru": "Банковская тайна в Чили под вопросом после расследования дела организации Tren de Aragua",
-    "text_ru": "Задержание сотрудников чилийских банков, причастных к венесуэльской преступной организации Tren de Aragua, возродило дебаты о реформе строгих правил банковской тайны в стране. Расследование показывает, что одни из самых жёстких в мире правила финансовой конфиденциальности Чили могут служить прикрытием для отмывания денег и других незаконных операций.\n📰 Bloomberg\n✍️ Carolina Gonzalez",
-    "title_en": "Chile's Bank Secrecy Laws Under Scrutiny After Tren de Aragua Investigation",
-    "text_en": "Recent arrests of Chilean bank employees linked to Venezuela's Tren de Aragua criminal gang have sparked renewed calls to reform the country's strict banking secrecy rules. The investigation highlights how Chile's financial privacy protections, among the world's most stringent, may inadvertently shield illicit activities and money laundering operations.\n📰 Bloomberg\n✍️ Carolina Gonzalez",
     "source": "",
     "link": "#",
     "thumb": "📰"
