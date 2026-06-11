@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/bitkoin-voshyol-v-zonu-glubokogo-medvezh-ego-rynka-slozhnoe-.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11</news:publication_date>
+      <news:title>Биткоин вошёл в зону глубокого медвежьего рынка. Сложное время только начинается.</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/ssha-nanosyat-novye-udary-po-iranu-na-fone-napryazhennosti-v.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-11</news:publication_date>
       <news:title>MetaMask запустила AI-кошелёк Agent Wallet для автоматизированной торговли</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/politsiya-yuzhnoj-korei-provela-obysk-v-ofisakh-bithumb-iz-z.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11</news:publication_date>
-      <news:title>Полиция Южной Кореи провела обыск в офисах Bithumb из-за обвинений в протекционизме чиновника</news:title>
     </news:news>
   </url>
 </urlset>
