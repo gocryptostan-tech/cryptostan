@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781182855-oajj",
+    "timestamp": 1781182855,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "finance",
+    "kicker_ru": "Политика ЕЦБ",
+    "kicker_en": "ECB Policy",
+    "title_ru": "ЕЦБ повысил ставки впервые с 2023 года на фоне роста инфляции",
+    "text_ru": "Европейский центральный банк повысил процентные ставки впервые почти за три года, положив конец выжидательной позиции на фоне усиливающихся инфляционных давлений в еврозоне. Решение отражает растущие опасения по поводу роста цен и свидетельствует о том, что ЕЦБ считает ужесточение монетарной политики необходимым для борьбы с инфляцией.\n📰 Bloomberg\n✍️ Jana Randow, Alexander Weber",
+    "title_en": "ECB Raises Rates for First Time Since 2023 as Inflation Pressures Mount",
+    "text_en": "The European Central Bank has hiked interest rates for the first time in nearly three years, signaling an end to its wait-and-see approach as inflationary pressures intensify across the eurozone. The move reflects growing concerns about rising prices and suggests the ECB believes monetary tightening is now necessary to combat inflation.\n📰 Bloomberg\n✍️ Jana Randow, Alexander Weber",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781182549-p7qz",
     "timestamp": 1781182549,
     "date": "2026-06-11",
@@ -1678,23 +1695,6 @@
     "text_ru": "Новая функция Pump.fun платит пользователям за опасные трюки перед камерой — от бритья головы и чрезмерного потребления алкоголя до унизительных интервью с бездомными людьми. Тренд поднимает серьёзные этические вопросы: способствует ли платформа творчеству или становится инструментом эксплуатации в экосистеме мемкойнов.\n📰 CoinDesk\n✍️ Shaurya Malwa",
     "title_en": "Forehead Tattoos and Alcohol Dares: The Dark Side of Crypto's Memecoin Boom",
     "text_en": "Pump.fun's latest feature is paying users to perform dangerous stunts on camera — from head shaving and heavy drinking to exploitative interviews with homeless people. The trend raises serious ethical questions about whether the platform is promoting creativity or enabling exploitation in the memecoin ecosystem.\n📰 CoinDesk\n✍️ Shaurya Malwa",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780966853-6a1d",
-    "timestamp": 1780966853,
-    "date": "2026-06-09",
-    "date_ru": "9 июня 2026",
-    "date_en": "June 9, 2026",
-    "category": "crypto",
-    "kicker_ru": "Zcash",
-    "kicker_en": "Zcash",
-    "title_ru": "Цена Zcash выросла на 50% на фоне предложения сетевого обновления Ironwood",
-    "text_ru": "Zcash восстановился после недавних спадов благодаря предложению сообщества об обновлении Ironwood, которое должно устранить критическую уязвимость, позволявшую создавать поддельные токены. Исправление безопасности восстановило доверие инвесторов к приватному крипто-активу и привело к значительному росту цены на фоне нового интереса к развитию проекта.\n📰 crypto.news\n✍️ Lawrence Mondal",
-    "title_en": "Zcash Price Surges 50% Following Ironwood Network Upgrade Proposal",
-    "text_en": "Zcash has recovered significantly from recent lows after the community proposed the Ironwood upgrade to address a critical vulnerability that could have enabled counterfeit token creation. The security fix has restored investor confidence in the privacy-focused cryptocurrency, driving substantial price recovery and renewed interest in the project's development roadmap.\n📰 crypto.news\n✍️ Lawrence Mondal",
     "source": "",
     "link": "#",
     "thumb": "📰"
