@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/kripto-etf-teryayut-aktivy-v-mae-no-diversifitsirovannye-fon.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11</news:publication_date>
+      <news:title>Крипто-ETF теряют активы в мае, но диверсифицированные фонды держат оборону</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/tramp-obeschaet-ustanovit-polnyj-kontrol-nad-iranskim-rynkom.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Падение Биткоина не испугало институциональных инвесторов, считает стратег Coinbase</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/kriptovalyutnye-koshel-ki-ne-obespechivayut-avtonomnost-ii-p.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11</news:publication_date>
-      <news:title>Криптовалютные кошельки не обеспечивают автономность ИИ, предупреждает исследование IC3</news:title>
     </news:news>
   </url>
 </urlset>

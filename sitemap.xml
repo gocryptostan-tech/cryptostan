@@ -13,6 +13,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cryptostan.org/articles/kripto-etf-teryayut-aktivy-v-mae-no-diversifitsirovannye-fon.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/tramp-obeschaet-ustanovit-polnyj-kontrol-nad-iranskim-rynkom.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -504,11 +509,6 @@
   </url>
   <url>
     <loc>https://cryptostan.org/articles/padenie-bitkoina-ne-ispugalo-institutsional-nykh-investorov-.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/kriptovalyutnye-koshel-ki-ne-obespechivayut-avtonomnost-ii-p.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
