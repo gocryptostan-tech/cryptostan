@@ -13,6 +13,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cryptostan.org/articles/spros-na-tranzaktsii-xrp-upal-na-91-5-trejdery-zaschischayut.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/neft-dorozhaet-aziatskie-aktsii-padayut-posle-udarov-ssha-po.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -504,11 +509,6 @@
   </url>
   <url>
     <loc>https://cryptostan.org/articles/5-veduschikh-besplatnykh-platform-ai-botov-dlya-torgovli-akt.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/indeks-coindesk-20-pokazyvaet-rost-near-i-tao-vozglavlyayut-.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

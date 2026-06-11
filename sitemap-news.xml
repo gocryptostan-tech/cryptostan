@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/spros-na-tranzaktsii-xrp-upal-na-91-5-trejdery-zaschischayut.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11</news:publication_date>
+      <news:title>Спрос на транзакции XRP упал на 91,5% — трейдеры защищают уровень $0,65</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/neft-dorozhaet-aziatskie-aktsii-padayut-posle-udarov-ssha-po.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-11</news:publication_date>
       <news:title>5 ведущих бесплатных платформ AI-ботов для торговли акциями в 2026 году</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/indeks-coindesk-20-pokazyvaet-rost-near-i-tao-vozglavlyayut-.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11</news:publication_date>
-      <news:title>Индекс CoinDesk 20 показывает рост — NEAR и TAO возглавляют восстание</news:title>
     </news:news>
   </url>
 </urlset>
