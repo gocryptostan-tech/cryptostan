@@ -13,6 +13,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cryptostan.org/articles/digital-asset-holdings-privlekla-355-mln-ot-andreessen-horow.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/tsena-solana-mozhet-vernut-sya-k-iyun-skim-minimumam-na-fone.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -504,11 +509,6 @@
   </url>
   <url>
     <loc>https://cryptostan.org/articles/aziatskie-aktsii-otskochili-na-fone-optimizma-po-iranu-neft-.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/nvidia-rasshiryaet-sotrudnichestvo-s-korejskimi-tekhnologich.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
