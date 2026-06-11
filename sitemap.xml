@@ -13,6 +13,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cryptostan.org/articles/seerdex-privlekaet-vnimanie-investorov-blagodarya-avtomatiza.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/masspay-integriruet-usdc-ot-coinbase-dlya-transgranichnykh-p.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -504,11 +509,6 @@
   </url>
   <url>
     <loc>https://cryptostan.org/articles/ethereum-priblizhaetsya-k-1-700-smozhet-li-pokupka-bitmine-p.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/britanskij-regulyator-rassmatrivaet-vozmozhnost-otkryt-kript.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

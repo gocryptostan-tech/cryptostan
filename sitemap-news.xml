@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/seerdex-privlekaet-vnimanie-investorov-blagodarya-avtomatiza.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11</news:publication_date>
+      <news:title>SeerDEX привлекает внимание инвесторов благодаря автоматизации создания рынков прогнозов</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/masspay-integriruet-usdc-ot-coinbase-dlya-transgranichnykh-p.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Ethereum приближается к $1,700 — сможет ли покупка BitMine предотвратить падение к $1,500?</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/britanskij-regulyator-rassmatrivaet-vozmozhnost-otkryt-kript.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11</news:publication_date>
-      <news:title>Британский регулятор рассматривает возможность открыть крипторынок для розничных инвесторов</news:title>
     </news:news>
   </url>
 </urlset>
