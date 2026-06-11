@@ -13,6 +13,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cryptostan.org/articles/gajd-2026-platformy-dlya-dnevnoj-torgovli-kanadskikh-trejder.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/operatorov-servisa-audia6-obvinili-v-ssha-v-otmyvanii-389-ml.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -504,11 +509,6 @@
   </url>
   <url>
     <loc>https://cryptostan.org/articles/sud-otmenil-platu-v-100-tysyach-na-vizy-h-1b-ot-trampa.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/token-humanity-protocol-rukhnul-na-85-posle-komprometatsii-p.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
