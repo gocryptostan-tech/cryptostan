@@ -1,5 +1,22 @@
 [
   {
+    "id": "1781136054-pguu",
+    "timestamp": 1781136054,
+    "date": "2026-06-11",
+    "date_ru": "11 июня 2026",
+    "date_en": "June 11, 2026",
+    "category": "finance",
+    "kicker_ru": "Корпоративные финансы",
+    "kicker_en": "Corporate Finance",
+    "title_ru": "Amazon получила кредит на $17,5 млрд от Citibank для развития AI",
+    "text_ru": "Amazon привлекла $17,5 млрд через отложенный кредит от Citibank и других крупных банков, что подтверждает регистрация в SEC от 10 июня. Необеспеченное финансирование даёт интернет-гиганту дополнительные возможности для масштабного инвестирования в инфраструктуру искусственного интеллекта и расширение облачных сервисов.\n📰 crypto.news\n✍️ Irene Mukiri",
+    "title_en": "Amazon secures $17.5B Citibank loan as AI spending plans grow",
+    "text_en": "Amazon has obtained a $17.5 billion delayed draw term loan from Citibank and other major banks, according to an SEC filing from June 10. The senior unsecured financing facility provides the tech giant additional capital flexibility as it accelerates investments in artificial intelligence infrastructure and cloud computing expansion.\n📰 crypto.news\n✍️ Irene Mukiri",
+    "source": "",
+    "link": "#",
+    "thumb": "📰"
+  },
+  {
     "id": "1781132464-676z",
     "timestamp": 1781132464,
     "date": "2026-06-10",
@@ -1678,23 +1695,6 @@
     "text_ru": "Задержание сотрудников чилийских банков, причастных к венесуэльской преступной организации Tren de Aragua, возродило дебаты о реформе строгих правил банковской тайны в стране. Расследование показывает, что одни из самых жёстких в мире правила финансовой конфиденциальности Чили могут служить прикрытием для отмывания денег и других незаконных операций.\n📰 Bloomberg\n✍️ Carolina Gonzalez",
     "title_en": "Chile's Bank Secrecy Laws Under Scrutiny After Tren de Aragua Investigation",
     "text_en": "Recent arrests of Chilean bank employees linked to Venezuela's Tren de Aragua criminal gang have sparked renewed calls to reform the country's strict banking secrecy rules. The investigation highlights how Chile's financial privacy protections, among the world's most stringent, may inadvertently shield illicit activities and money laundering operations.\n📰 Bloomberg\n✍️ Carolina Gonzalez",
-    "source": "",
-    "link": "#",
-    "thumb": "📰"
-  },
-  {
-    "id": "1780923352-pfdb",
-    "timestamp": 1780923352,
-    "date": "2026-06-08",
-    "date_ru": "8 июня 2026",
-    "date_en": "June 8, 2026",
-    "category": "crypto",
-    "kicker_ru": "Биткоин",
-    "kicker_en": "Bitcoin",
-    "title_ru": "Дно цены биткоина может не наступить раньше Q4? Пять главных новостей о Bitcoin на этой неделе",
-    "text_ru": "Трейдеры предупреждают, что биткоин может не достичь дна медвежьего рынка раньше третьего квартала, а некоторые прогнозы указывают на четвёртый квартал. Материал охватывает пять ключевых событий на рынке Bitcoin на текущей неделе с анализом ценовых тенденций и настроений трейдеров.\n📰 Cointelegraph\n✍️ William Suberg",
-    "title_en": "BTC Price Bottom Not Expected Until Q4? Five Key Bitcoin Stories This Week",
-    "text_en": "Bitcoin traders are warning that the cryptocurrency may not reach its bear market bottom until at least Q3, with some predictions extending into Q4. The article covers five important developments in the Bitcoin market this week, analyzing price trends and trader sentiment.\n📰 Cointelegraph\n✍️ William Suberg",
     "source": "",
     "link": "#",
     "thumb": "📰"
