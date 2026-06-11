@@ -13,6 +13,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cryptostan.org/articles/pochemu-indonezijskij-rupij-dostigaet-istoricheskikh-minimum.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/konsul-tanty-tradfi-vybirayut-stejblkoiny-i-tokenizatsiyu-vm.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -504,11 +509,6 @@
   </url>
   <url>
     <loc>https://cryptostan.org/articles/openai-podala-konfidentsial-noe-zayavlenie-na-ipo-na-fone-us.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/sui-predstavila-funktsiyu-privatnosti-uravnoveshivayuschuyu-.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
