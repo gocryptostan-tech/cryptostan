@@ -13,6 +13,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://cryptostan.org/articles/tsena-solana-mozhet-vernut-sya-k-iyun-skim-minimumam-na-fone.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/parlament-yaponii-prinyal-zakon-o-regulirovanii-kriptovalyut.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -504,11 +509,6 @@
   </url>
   <url>
     <loc>https://cryptostan.org/articles/nvidia-rasshiryaet-sotrudnichestvo-s-korejskimi-tekhnologich.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/applied-digital-zaklyuchila-kontrakt-na-5-2-mlrd-za-arendu-a.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

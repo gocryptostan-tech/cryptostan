@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://cryptostan.org/articles/tsena-solana-mozhet-vernut-sya-k-iyun-skim-minimumam-na-fone.html</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Cryptostan</news:name>
+        <news:language>ru</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-11</news:publication_date>
+      <news:title>Цена Solana может вернуться к июньским минимумам на фоне истощения восстановления</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://cryptostan.org/articles/parlament-yaponii-prinyal-zakon-o-regulirovanii-kriptovalyut.html</loc>
     <news:news>
       <news:publication>
@@ -1088,17 +1099,6 @@
       </news:publication>
       <news:publication_date>2026-06-11</news:publication_date>
       <news:title>Nvidia расширяет сотрудничество с корейскими технологическими лидерами в сфере ИИ</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://cryptostan.org/articles/applied-digital-zaklyuchila-kontrakt-na-5-2-mlrd-za-arendu-a.html</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Cryptostan</news:name>
-        <news:language>ru</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-11</news:publication_date>
-      <news:title>Applied Digital заключила контракт на $5,2 млрд за аренду AI-дата-центра</news:title>
     </news:news>
   </url>
 </urlset>
